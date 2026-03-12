@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>AI/Disinformation Daily Report（新聞紙学的）</title>
+    <description>AI・偽情報・ディスインフォメーションに関する日次リサーチレポート。主要海外メディアから重要ニュースを抽出・評価。</description>
+    <link>https://kaztaira.wordpress.com</link>
+    <language>ja</language>
+    <lastBuildDate>Thu, 12 Mar 2026 04:22:02 GMT</lastBuildDate>
+    <pubDate>Thu, 12 Mar 2026 04:22:02 GMT</pubDate>
+    <generator>AI/Disinformation Research Agent</generator>
+    <ttl>720</ttl>
+    <docs>https://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>[★5] AIフェイク衛星画像が偽情報を拡散</title>
+      <link>https://example.com/1</link>
+      <guid isPermaLink="false">https://example.com/1#2026-03-12</guid>
+      <source url="https://example.com/1">Financial Times</source>
+      <dc:creator>Financial Times</dc:creator>
+      <description>&lt;p&gt;AI生成偽衛星画像が戦争情報として拡散。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 国際関係と情報信頼性への脅威&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Financial Times&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★★ (5/5)&lt;/p&gt;</description>
+      <pubDate>Tue, 03 Mar 2026 08:00:00 GMT</pubDate>
+      <category>重要度5</category>
+      <category>disinformation</category>
+    </item>
+    <item>
+      <title>[★4] YouTube、ディープフェイク検出ツール拡大</title>
+      <link>https://example.com/2</link>
+      <guid isPermaLink="false">https://example.com/2#2026-03-12</guid>
+      <source url="https://example.com/2">Axios</source>
+      <dc:creator>Axios</dc:creator>
+      <description>&lt;p&gt;YouTubeが政治家・記者にツール拡大。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; メディアと政治への影響&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Axios&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
+      <pubDate>Tue, 10 Mar 2026 14:00:00 GMT</pubDate>
+      <category>重要度4</category>
+      <category>deepfake</category>
+    </item>
+  </channel>
+</rss>
