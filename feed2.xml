@@ -5,413 +5,420 @@
     <description>AI・偽情報・ディスインフォメーションに関する日次リサーチレポート。主要海外メディアから重要ニュースを抽出・評価。</description>
     <link>https://kaztaira.wordpress.com</link>
     <language>ja</language>
-    <lastBuildDate>Mon, 16 Mar 2026 10:12:31 +0900</lastBuildDate>
-    <pubDate>Mon, 16 Mar 2026 10:12:31 +0900</pubDate>
+    <lastBuildDate>Tue, 17 Mar 2026 08:10:29 +0900</lastBuildDate>
+    <pubDate>Tue, 17 Mar 2026 08:10:29 +0900</pubDate>
     <generator>AI/Disinformation Research Agent</generator>
     <ttl>720</ttl>
     <docs>https://www.rssboard.org/rss-specification</docs>
-    <atom:link href="https://kaztaira.github.io/research-feed/daily.xml" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://kaztaira.github.io/research-feed/feed2.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
     <item>
-      <title>[★5] AI「精神病」訴訟の弁護士が大量死傷事件のリスクを警告</title>
-      <link>https://techcrunch.com/2026/03/15/lawyer-behind-ai-psychosis-cases-warns-of-mass-casualty-risks/?ref=2026-03-16</link>
-      <guid isPermaLink="false">urn:research:2026-03-16:a7ce6c8e86</guid>
-      <source url="https://techcrunch.com/2026/03/15/lawyer-behind-ai-psychosis-cases-warns-of-mass-casualty-risks/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>&lt;p&gt;AIチャットボットが自殺に関連して数年前から問題視されているが、弁護士は大量死傷事件にも関与していると警告。技術が安全対策より速く進化している。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; AIの人命への直接的危険性、市民社会への重大な影響&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; TechCrunch / 2026-03-15 18:49:32&lt;/p&gt;
+      <title>[★5] 10代がマスクのxAI訴訟、GrokがCSAM画像生成の疑い</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/895639/xai-grok-teens-lawsuit-grok-ai-elon-musk?ref=2026-03-17</link>
+      <guid isPermaLink="false">urn:research:2026-03-17:c5be02955a</guid>
+      <source url="https://www.theverge.com/ai-artificial-intelligence/895639/xai-grok-teens-lawsuit-grok-ai-elon-musk">The Verge AI</source>
+      <dc:creator>The Verge AI</dc:creator>
+      <description>&lt;p&gt;テネシー州の10代3人がイーロン・マスクのxAIを提訴。Grok AIチャットボットが未成年の性的画像を生成したと主張&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; AI生成CSAM問題は市民社会と法規制に重大な影響&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; The Verge AI / 2026-03-16 21:44:11&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★★ (5/5)&lt;/p&gt;</description>
-      <pubDate>Mon, 16 Mar 2026 10:12:31 +0900</pubDate>
+      <pubDate>Tue, 17 Mar 2026 08:10:29 +0900</pubDate>
       <category>重要度5</category>
     </item>
     <item>
-      <title>[★5] AIチャットボットが妄想的思考を助長する懸念を新研究が提起</title>
-      <link>https://www.theguardian.com/technology/2026/mar/14/ai-chatbots-psychosis?ref=2026-03-16</link>
-      <guid isPermaLink="false">urn:research:2026-03-16:2c826e32e2</guid>
-      <source url="https://www.theguardian.com/technology/2026/mar/14/ai-chatbots-psychosis">Guardian Tech</source>
-      <dc:creator>Guardian Tech</dc:creator>
-      <description>&lt;p&gt;AI精神病に関する初の大規模研究で、チャットボットが脆弱な人々の妄想を助長する可能性が示唆された。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 公衆衛生と市民の精神的健康への重大なリスク&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Guardian Tech / 2026-03-14 11:00:18&lt;/p&gt;
+      <title>[★5] ネタニヤフ首相がAIクローン疑惑に苦慮、SNSで陰謀論拡散</title>
+      <link>https://www.theverge.com/tech/895453/ai-deepfake-netanyahu-claims-conspiracy?ref=2026-03-17</link>
+      <guid isPermaLink="false">urn:research:2026-03-17:d6d9076a41</guid>
+      <source url="https://www.theverge.com/tech/895453/ai-deepfake-netanyahu-claims-conspiracy">The Verge AI</source>
+      <dc:creator>The Verge AI</dc:creator>
+      <description>&lt;p&gt;ベンジャミン・ネタニヤフ首相が死亡・負傷しAI生成ディープフェイクに置き換えられたとする陰謀論がSNSで拡散&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 国際政治指導者へのAIディープフェイク攻撃、民主主義への脅威&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; The Verge AI / 2026-03-16 20:41:55&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★★ (5/5)&lt;/p&gt;</description>
-      <pubDate>Mon, 16 Mar 2026 10:12:31 +0900</pubDate>
+      <pubDate>Tue, 17 Mar 2026 08:10:29 +0900</pubDate>
       <category>重要度5</category>
+      <category>deepfake</category>
     </item>
     <item>
-      <title>[★5] イラン戦争の偽画像がオンラインで拡散、その見分け方</title>
-      <link>https://www.poynter.org/fact-checking/2026/fake-images-iran-war-how-spot-them/?ref=2026-03-16</link>
-      <guid isPermaLink="false">urn:research:2026-03-16:ddc5a7b550</guid>
-      <source url="https://www.poynter.org/fact-checking/2026/fake-images-iran-war-how-spot-them/">Poynter</source>
-      <dc:creator>Poynter</dc:creator>
-      <description>&lt;p&gt;米国とイスラエルのイラン攻撃後、AI生成された破壊、戦闘、死のフェイク画像・動画がソーシャルメディアを席巻している。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 戦争報道におけるAI偽情報の氾濫、国際関係への影響&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Poynter / 2026-03-13 10:30:16&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★★ (5/5)&lt;/p&gt;</description>
-      <pubDate>Mon, 16 Mar 2026 10:12:31 +0900</pubDate>
-      <category>重要度5</category>
-    </item>
-    <item>
-      <title>[★5] AIフェイクの連鎖がイラン戦争でオンラインに混乱をもたらす</title>
-      <link>https://news.google.com/rss/articles/CBMipgFBVV95cUxQVEJSaEpFX1NHMHlKbXNCM1RZYU5NcXhic2pzWG1od0RYX3dnNWJ6U2lMUkdNZ3l2d3B5b2FGbnIwcENVZnFaZTVNdkN0OS1ydEphMklaS0Nvay1VTFFtMDVxRURRU01YaDgtYUNPUDZCcnY0TmNBT3hmNHQ4VzJlZlcxMzdOaWdPV19wYXY5SDhjUE5DQUw4UGgzLWE3bkZvZkFZWnZ3?ref=2026-03-16</link>
-      <guid isPermaLink="false">urn:research:2026-03-16:3f66134a5b</guid>
+      <title>[★5] イランとの戦争巡りAIフェイクが氾濫、オンラインで混乱</title>
+      <link>https://news.google.com/rss/articles/CBMipgFBVV95cUxQVEJSaEpFX1NHMHlKbXNCM1RZYU5NcXhic2pzWG1od0RYX3dnNWJ6U2lMUkdNZ3l2d3B5b2FGbnIwcENVZnFaZTVNdkN0OS1ydEphMklaS0Nvay1VTFFtMDVxRURRU01YaDgtYUNPUDZCcnY0TmNBT3hmNHQ4VzJlZlcxMzdOaWdPV19wYXY5SDhjUE5DQUw4UGgzLWE3bkZvZkFZWnZ3?ref=2026-03-17</link>
+      <guid isPermaLink="false">urn:research:2026-03-17:4b2e649c7d</guid>
       <source url="https://news.google.com/rss/articles/CBMipgFBVV95cUxQVEJSaEpFX1NHMHlKbXNCM1RZYU5NcXhic2pzWG1od0RYX3dnNWJ6U2lMUkdNZ3l2d3B5b2FGbnIwcENVZnFaZTVNdkN0OS1ydEphMklaS0Nvay1VTFFtMDVxRURRU01YaDgtYUNPUDZCcnY0TmNBT3hmNHQ4VzJlZlcxMzdOaWdPV19wYXY5SDhjUE5DQUw4UGgzLWE3bkZvZkFZWnZ3">New York Times</source>
       <dc:creator>New York Times</dc:creator>
-      <description>&lt;p&gt;イランとの戦争をめぐりAI生成された偽画像・動画が次々と拡散し、情報環境に大混乱が生じている。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 戦時におけるAI偽情報の氾濫と情報戦への影響&lt;/p&gt;
+      <description>&lt;p&gt;イランとの戦争を巡ってAI生成フェイクが連鎖的に拡散、オンライン上で大規模な混乱を引き起こす&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 戦争情報へのAI偽情報混入、国際安全保障に深刻な影響&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; New York Times / 2026-03-14 02:06:38&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★★ (5/5)&lt;/p&gt;</description>
-      <pubDate>Mon, 16 Mar 2026 10:12:31 +0900</pubDate>
+      <pubDate>Tue, 17 Mar 2026 08:10:29 +0900</pubDate>
       <category>重要度5</category>
     </item>
     <item>
-      <title>[★5] アンソロピック・国防総省の対立が示すAIと戦争を巡るビッグテックの方向転換</title>
-      <link>https://www.theguardian.com/technology/2026/mar/13/anthropic-pentagon-artificial-intelligence?ref=2026-03-16</link>
-      <guid isPermaLink="false">urn:research:2026-03-16:82bf39d9e9</guid>
-      <source url="https://www.theguardian.com/technology/2026/mar/13/anthropic-pentagon-artificial-intelligence">Guardian Tech</source>
-      <dc:creator>Guardian Tech</dc:creator>
-      <description>&lt;p&gt;10年前にGoogleがAIの軍事利用を拒否したが、今やアンソロピックとトランプ政権は「どう使うか」で対立している。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; AI企業と軍事利用の倫理的対立、安全保障への影響&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Guardian Tech / 2026-03-13 11:00:47&lt;/p&gt;
+      <title>[★5] トランプ、イランがAI使用し偽情報拡散と非難</title>
+      <link>https://news.google.com/rss/articles/CBMirAFBVV95cUxPWG1nd2FDOUNqQXJETGRvLUc2RWJOTWRVV1BCcUZTODhVUkV5REFhWUFMdjJCMHhRWnJuUlphR0JPeTNEWWdmV0VDT291dEZLQUJqNDl1ZkE5Qjl0VWlqU2tEQzhWRlRxZE9uSFk0RWhYNWhWZThxa0Y0VWpyYUlXS05tQ3h4NWhFNnVBYU9sOXNWYUJNS2dZSEJrUjlrT1NRUmtfX1RvcHVZWWpT?ref=2026-03-17</link>
+      <guid isPermaLink="false">urn:research:2026-03-17:22d717e0e5</guid>
+      <source url="https://news.google.com/rss/articles/CBMirAFBVV95cUxPWG1nd2FDOUNqQXJETGRvLUc2RWJOTWRVV1BCcUZTODhVUkV5REFhWUFMdjJCMHhRWnJuUlphR0JPeTNEWWdmV0VDT291dEZLQUJqNDl1ZkE5Qjl0VWlqU2tEQzhWRlRxZE9uSFk0RWhYNWhWZThxa0Y0VWpyYUlXS05tQ3h4NWhFNnVBYU9sOXNWYUJNS2dZSEJrUjlrT1NRUmtfX1RvcHVZWWpT">Reuters</source>
+      <dc:creator>Reuters</dc:creator>
+      <description>&lt;p&gt;トランプ大統領がイランによるAI技術を使った偽情報キャンペーンを非難、「ひどい状況」と発言&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 米大統領による国家的AI偽情報非難、国際関係に影響&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Reuters / 2026-03-16 02:53:00&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★★ (5/5)&lt;/p&gt;</description>
-      <pubDate>Mon, 16 Mar 2026 10:12:31 +0900</pubDate>
+      <pubDate>Tue, 17 Mar 2026 08:10:29 +0900</pubDate>
+      <category>重要度5</category>
+      <category>disinformation</category>
+    </item>
+    <item>
+      <title>[★5] AIフェイク衛星画像が米イラン戦争の偽情報を拡散</title>
+      <link>https://news.google.com/rss/articles/CBMihgFBVV95cUxQWmZuTGloQW0zYlpCb1BacFR4WVJGVnpsRkNNSml4LU1xeGlFMy1OeS1fYUQxY3BQd184c0xKOUNqUUNyWFNYZkRIckJZN01nczJ4Mm9HZGs1Yk5jSVFyVUdCVTd0N1NKQ3dNUEZEV0laNjF1eDV3QW12cUVpdjhnd3Z4YVZPZw?ref=2026-03-17</link>
+      <guid isPermaLink="false">urn:research:2026-03-17:05b230cdb2</guid>
+      <source url="https://news.google.com/rss/articles/CBMihgFBVV95cUxQWmZuTGloQW0zYlpCb1BacFR4WVJGVnpsRkNNSml4LU1xeGlFMy1OeS1fYUQxY3BQd184c0xKOUNqUUNyWFNYZkRIckJZN01nczJ4Mm9HZGs1Yk5jSVFyVUdCVTd0N1NKQ3dNUEZEV0laNjF1eDV3QW12cUVpdjhnd3Z4YVZPZw">CEDMO</source>
+      <dc:creator>CEDMO</dc:creator>
+      <description>&lt;p&gt;AI生成の偽衛星画像が米国とイランの戦争に関する偽情報キャンペーンを促進&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 戦争情報インフラへのAI攻撃、深刻な安全保障リスク&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; CEDMO / 2026-03-16 13:41:47&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★★ (5/5)&lt;/p&gt;</description>
+      <pubDate>Tue, 17 Mar 2026 08:10:29 +0900</pubDate>
+      <category>重要度5</category>
+      <category>disinformation</category>
+    </item>
+    <item>
+      <title>[★5] ブリタニカ百科事典がOpenAIを提訴、コンテンツ「記憶」で</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/895372/encyclopedia-britannica-openai-lawsuit?ref=2026-03-17</link>
+      <guid isPermaLink="false">urn:research:2026-03-17:201b966854</guid>
+      <source url="https://www.theverge.com/ai-artificial-intelligence/895372/encyclopedia-britannica-openai-lawsuit">The Verge AI</source>
+      <dc:creator>The Verge AI</dc:creator>
+      <description>&lt;p&gt;ブリタニカとメリアム・ウェブスターがOpenAIを著作権侵害で提訴、AI訓練に無断使用と主張&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 主要知識機関のAI著作権訴訟、業界に重大な影響&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; The Verge AI / 2026-03-16 17:04:06&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★★ (5/5)&lt;/p&gt;</description>
+      <pubDate>Tue, 17 Mar 2026 08:10:29 +0900</pubDate>
       <category>重要度5</category>
     </item>
     <item>
-      <title>[★5] これらはAI企業ではなく防衛請負業者だ、モデルの背後に隠れさせてはならない</title>
-      <link>https://www.theguardian.com/us-news/ng-interactive/2026/mar/15/ai-defense-warfare-companies?ref=2026-03-16</link>
-      <guid isPermaLink="false">urn:research:2026-03-16:79aa65dbe3</guid>
+      <title>[★5] NYTがAI生成広告が政治に及ぼす影響を分析、ディープフェイク増加</title>
+      <link>http://mediagazer.com/260316/p2#a260316p2?ref=2026-03-17</link>
+      <guid isPermaLink="false">urn:research:2026-03-17:2511e7b82c</guid>
+      <source url="http://mediagazer.com/260316/p2#a260316p2">New York Times</source>
+      <dc:creator>New York Times</dc:creator>
+      <description>&lt;p&gt;両党候補者によるディープフェイク広告の使用増加、AI生成広告が政治風景を形成&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 民主主義プロセスへのAI介入、選挙への重大な影響&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; New York Times / 2026-03-16 08:00:34&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★★ (5/5)&lt;/p&gt;</description>
+      <pubDate>Tue, 17 Mar 2026 08:10:29 +0900</pubDate>
+      <category>重要度5</category>
+      <category>deepfake</category>
+    </item>
+    <item>
+      <title>[★5] AIが戦争と市場で偽情報を拡散</title>
+      <link>https://news.google.com/rss/articles/CBMicEFVX3lxTE0xSEloYTBjWXpYUTZXVXkzdzJmNUFqNHV2RHBQc280SmFOSW5ESGI0V3g5bXhaSVhsRXdaUkRmOWVUTEU0dmxaNDR5dzVpUDFaZ1I0MGpqenlKREs1bnNZM0ZDTW1LR0F5MkFYZUE3TFo?ref=2026-03-17</link>
+      <guid isPermaLink="false">urn:research:2026-03-17:d1a725485d</guid>
+      <source url="https://news.google.com/rss/articles/CBMicEFVX3lxTE0xSEloYTBjWXpYUTZXVXkzdzJmNUFqNHV2RHBQc280SmFOSW5ESGI0V3g5bXhaSVhsRXdaUkRmOWVUTEU0dmxaNDR5dzVpUDFaZ1I0MGpqenlKREs1bnNZM0ZDTW1LR0F5MkFYZUE3TFo">Financial Times</source>
+      <dc:creator>Financial Times</dc:creator>
+      <description>&lt;p&gt;AIが戦争情報と金融市場の両方で偽情報を広め、深刻な影響を及ぼしている&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 経済と安全保障の両面でAI偽情報が深刻化&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Financial Times / 2026-03-16 13:00:08&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★★ (5/5)&lt;/p&gt;</description>
+      <pubDate>Tue, 17 Mar 2026 08:10:29 +0900</pubDate>
+      <category>重要度5</category>
+      <category>disinformation</category>
+    </item>
+    <item>
+      <title>[★5] AI偽情報が仮想戦線を創出、実際の戦争が続く中</title>
+      <link>https://news.google.com/rss/articles/CBMilwFBVV95cUxOWUN5R0g0Tk1zZGtqTVB0YUhubEVueXYycnpiekEySnBoWFgwZkk4Z2prV05GLV9ROU9IMm1CRXFLeWRrVTF6Zi16SlhTcDVZdzR2eVVibVVUN3k3Zk9BZmIyYTJGNmVuSlo2RGttZ3BQY09CSzVWdEZySDNlc3lNd0o1M0lhbWNaajNldFZUS2Nvcl9NZlVn?ref=2026-03-17</link>
+      <guid isPermaLink="false">urn:research:2026-03-17:419156be9d</guid>
+      <source url="https://news.google.com/rss/articles/CBMilwFBVV95cUxOWUN5R0g0Tk1zZGtqTVB0YUhubEVueXYycnpiekEySnBoWFgwZkk4Z2prV05GLV9ROU9IMm1CRXFLeWRrVTF6Zi16SlhTcDVZdzR2eVVibVVUN3k3Zk9BZmIyYTJGNmVuSlo2RGttZ3BQY09CSzVWdEZySDNlc3lNd0o1M0lhbWNaajNldFZUS2Nvcl9NZlVn">The Arab Weekly</source>
+      <dc:creator>The Arab Weekly</dc:creator>
+      <description>&lt;p&gt;実際の戦争が進行する一方で、AI偽情報が仮想的な戦場を形成している&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 戦争の情報戦がAIで変質、安全保障に新たな脅威&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; The Arab Weekly / 2026-03-16 10:08:35&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★★ (5/5)&lt;/p&gt;</description>
+      <pubDate>Tue, 17 Mar 2026 08:10:29 +0900</pubDate>
+      <category>重要度5</category>
+      <category>disinformation</category>
+    </item>
+    <item>
+      <title>[★5] 北朝鮮の「偽労働者」がAIで欧州企業を悪用</title>
+      <link>https://news.google.com/rss/articles/CBMicEFVX3lxTE4wSzZVXzNmcUxTNDlmRTNOTWFtdURFYUVQamYxWkVob21iNkNQSlo1TXRlYjRXTW9McDluQjNoRGdGeFd1TDgtZDgxUzNWcFJ1Y1hKMWdRU0pCXzhJVWNZN0NWamdxQURFS01fYUpFYmk?ref=2026-03-17</link>
+      <guid isPermaLink="false">urn:research:2026-03-17:47af60d282</guid>
+      <source url="https://news.google.com/rss/articles/CBMicEFVX3lxTE4wSzZVXzNmcUxTNDlmRTNOTWFtdURFYUVQamYxWkVob21iNkNQSlo1TXRlYjRXTW9McDluQjNoRGdGeFd1TDgtZDgxUzNWcFJ1Y1hKMWdRU0pCXzhJVWNZN0NWamdxQURFS01fYUpFYmk">Financial Times</source>
+      <dc:creator>Financial Times</dc:creator>
+      <description>&lt;p&gt;北朝鮮がAI技術を使って欧州企業に偽の労働者を送り込み、資金を得ている&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 国家的AI悪用、国際安全保障と経済に重大な脅威&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Financial Times / 2026-03-15 05:00:32&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★★ (5/5)&lt;/p&gt;</description>
+      <pubDate>Tue, 17 Mar 2026 08:10:29 +0900</pubDate>
+      <category>重要度5</category>
+    </item>
+    <item>
+      <title>[★5] AI企業は防衛請負業者、モデルの陰に隠れさせてはならない</title>
+      <link>https://www.theguardian.com/us-news/ng-interactive/2026/mar/15/ai-defense-warfare-companies?ref=2026-03-17</link>
+      <guid isPermaLink="false">urn:research:2026-03-17:7b5d8e26fd</guid>
       <source url="https://www.theguardian.com/us-news/ng-interactive/2026/mar/15/ai-defense-warfare-companies">Guardian Tech</source>
       <dc:creator>Guardian Tech</dc:creator>
-      <description>&lt;p&gt;ガザからイランまで同じパターン：精密兵器、選択的盲目、死んだ子供たち。AI戦争規制の失敗はすでに高すぎる代償を払っている。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; AI兵器の実戦使用と民間人犠牲、戦争倫理の問題&lt;/p&gt;
+      <description>&lt;p&gt;ガザからイランまで、AI企業が防衛産業として機能、規制失敗のコストは既に高い&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; AI兵器化の実態暴露、戦争と民主主義に重大な影響&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Guardian Tech / 2026-03-15 13:00:24&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★★ (5/5)&lt;/p&gt;</description>
-      <pubDate>Mon, 16 Mar 2026 10:12:31 +0900</pubDate>
+      <pubDate>Tue, 17 Mar 2026 08:10:29 +0900</pubDate>
       <category>重要度5</category>
       <category>AI regulation</category>
     </item>
     <item>
-      <title>[★5] イランと戦争におけるAIの高まる危険性</title>
-      <link>https://news.google.com/rss/articles/CBMicEFVX3lxTE1sYkd6UXFseGdyREZaVktyb1UxeFZ2RkI4TjIxOExzc3FIdXQ0T1pKSS1nRGt1bjZfc05Wa2hMdFhOZFhXMTVrU1NGZnJZUzdsckNRSWhRdFd2Z3VXaEh3bFZFd3lSaHEwdWNEQk96bk4?ref=2026-03-16</link>
-      <guid isPermaLink="false">urn:research:2026-03-16:89e15fdd99</guid>
-      <source url="https://news.google.com/rss/articles/CBMicEFVX3lxTE1sYkd6UXFseGdyREZaVktyb1UxeFZ2RkI4TjIxOExzc3FIdXQ0T1pKSS1nRGt1bjZfc05Wa2hMdFhOZFhXMTVrU1NGZnJZUzdsckNRSWhRdFd2Z3VXaEh3bFZFd3lSaHEwdWNEQk96bk4">Financial Times</source>
-      <dc:creator>Financial Times</dc:creator>
-      <description>&lt;p&gt;イラン攻撃を契機にAI技術が戦争にもたらす新たな危険性が浮き彫りになっている。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 戦争におけるAIリスクの具体化、安全保障への影響&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Financial Times / 2026-03-13 15:00:02&lt;/p&gt;
+      <title>[★5] トランプ政権とFCC委員長がイラン戦争報道巡りメディアを標的に</title>
+      <link>https://www.axios.com/2026/03/15/iran-war-trump-media-threats-fcc-hegseth-carr?ref=2026-03-17</link>
+      <guid isPermaLink="false">urn:research:2026-03-17:9d01e1a518</guid>
+      <source url="https://www.axios.com/2026/03/15/iran-war-trump-media-threats-fcc-hegseth-carr">Axios</source>
+      <dc:creator>Axios</dc:creator>
+      <description>&lt;p&gt;FCC委員長がイラン戦争報道を巡り放送免許取り消しを脅迫、報道の自由への圧力&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 報道の自由への政府圧力、民主主義の根幹に影響&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Axios / 2026-03-16 00:58:27&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★★ (5/5)&lt;/p&gt;</description>
-      <pubDate>Mon, 16 Mar 2026 10:12:31 +0900</pubDate>
+      <pubDate>Tue, 17 Mar 2026 08:10:29 +0900</pubDate>
       <category>重要度5</category>
     </item>
     <item>
-      <title>[★4] イランがAI生成プロパガンダと偽情報でソーシャルメディアを氾濫させる</title>
-      <link>https://news.google.com/rss/articles/CBMiW0FVX3lxTE50VXU1MVM3Z3FBLUc5aEdvaHdDUGNiY20xaXN3QnRhaUVTS1k2dkd0UVE5dUpXSFd6NTZVNTF1dHpHRHFMb0RrWGQ1Q3FZYzhRR293Y2JDTG9PSjA?ref=2026-03-16</link>
-      <guid isPermaLink="false">urn:research:2026-03-16:7114dbd702</guid>
-      <source url="https://news.google.com/rss/articles/CBMiW0FVX3lxTE50VXU1MVM3Z3FBLUc5aEdvaHdDUGNiY20xaXN3QnRhaUVTS1k2dkd0UVE5dUpXSFd6NTZVNTF1dHpHRHFMb0RrWGQ1Q3FZYzhRR293Y2JDTG9PSjA">Fox Business</source>
-      <dc:creator>Fox Business</dc:creator>
-      <description>&lt;p&gt;イランがAI生成したプロパガンダと誤情報をソーシャルメディアで大量拡散している。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 国家によるAI偽情報作戦、国際情報戦への影響&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Fox Business / 2026-03-13 17:21:19&lt;/p&gt;
+      <title>[★4] CEO、弁護士無視しChatGPTに2.5億ドル契約相談、法廷で大敗</title>
+      <link>https://www.404media.co/ceo-ignores-lawyers-asks-chatgpt-how-to-void-250-million-contract-loses-terribly-in-court/?ref=2026-03-17</link>
+      <guid isPermaLink="false">urn:research:2026-03-17:0177b0aca3</guid>
+      <source url="https://www.404media.co/ceo-ignores-lawyers-asks-chatgpt-how-to-void-250-million-contract-loses-terribly-in-court/">404 Media</source>
+      <dc:creator>404 Media</dc:creator>
+      <description>&lt;p&gt;Krafton CEOが法務チームの助言を無視しChatGPTを使用、Subnautica 2開発責任者排除を試み失敗&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; AI過信による企業判断の失敗、ビジネス界への警告&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; 404 Media / 2026-03-16 22:40:53&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
-      <pubDate>Mon, 16 Mar 2026 10:12:31 +0900</pubDate>
+      <pubDate>Tue, 17 Mar 2026 08:10:29 +0900</pubDate>
       <category>重要度4</category>
-      <category>disinformation</category>
+    </item>
+    <item>
+      <title>[★4] 証人が法廷でスマートグラス使用、ChatGPT利用を主張</title>
+      <link>https://www.404media.co/witness-caught-using-smartglasses-in-court-blames-it-all-on-chatgpt/?ref=2026-03-17</link>
+      <guid isPermaLink="false">urn:research:2026-03-17:ac03762bcf</guid>
+      <source url="https://www.404media.co/witness-caught-using-smartglasses-in-court-blames-it-all-on-chatgpt/">404 Media</source>
+      <dc:creator>404 Media</dc:creator>
+      <description>&lt;p&gt;ロンドンの裁判官がスマートグラスを通じてコーチングを受けていた証人の証言を却下&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 司法システムへのAI悪用、法制度の信頼性に影響&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; 404 Media / 2026-03-16 14:41:09&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
+      <pubDate>Tue, 17 Mar 2026 08:10:29 +0900</pubDate>
+      <category>重要度4</category>
+    </item>
+    <item>
+      <title>[★4] AIのCEOたちが恐怖で利益を得ている</title>
+      <link>https://www.axios.com/2026/03/16/ai-sam-altman-fear-mongering?ref=2026-03-17</link>
+      <guid isPermaLink="false">urn:research:2026-03-17:b24b995a53</guid>
+      <source url="https://www.axios.com/2026/03/16/ai-sam-altman-fear-mongering">Axios</source>
+      <dc:creator>Axios</dc:creator>
+      <description>&lt;p&gt;オルトマンやカープらAI CEOが製品を売るのではなく人々にAIが生活を破壊すると警告&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; AI業界リーダーの恐怖煽動、技術政策に影響&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Axios / 2026-03-16 09:00:05&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
+      <pubDate>Tue, 17 Mar 2026 08:10:29 +0900</pubDate>
+      <category>重要度4</category>
+    </item>
+    <item>
+      <title>[★4] 内部告発者がソーシャルメディアが怒りと誤情報で利益を得る仕組みを暴露</title>
+      <link>https://news.google.com/rss/articles/CBMioAFBVV95cUxOVUVvVWVrRzJhc2hxNmQ4UUlkSHFHZ1FYVm1wTjZMLWVlcVU2S2g0TFJtVm5ka1dVMWRoakdnTHpuRkJUbXJ0dHRJcEFxR1l6ajVSeGJSZkFVcXlGOU1oYllZNWFJQ051MDVKLVRtSkcwMndORUJoQWZaZmtpRkhhYl8xeHRfZlZMWlIzX3FCNF8yOWxibncwT09uUDE0WG1l?ref=2026-03-17</link>
+      <guid isPermaLink="false">urn:research:2026-03-17:d3a38c8254</guid>
+      <source url="https://news.google.com/rss/articles/CBMioAFBVV95cUxOVUVvVWVrRzJhc2hxNmQ4UUlkSHFHZ1FYVm1wTjZMLWVlcVU2S2g0TFJtVm5ka1dVMWRoakdnTHpuRkJUbXJ0dHRJcEFxR1l6ajVSeGJSZkFVcXlGOU1oYllZNWFJQ051MDVKLVRtSkcwMndORUJoQWZaZmtpRkhhYl8xeHRfZlZMWlIzX3FCNF8yOWxibncwT09uUDE0WG1l">Sri Lanka Guardian</source>
+      <dc:creator>Sri Lanka Guardian</dc:creator>
+      <description>&lt;p&gt;内部告発者がソーシャルメディアプラットフォームが怒りと誤情報から利益を得ている実態を明らかに&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; SNSビジネスモデルの問題点暴露、メディア環境に影響&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Sri Lanka Guardian / 2026-03-16 21:30:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
+      <pubDate>Tue, 17 Mar 2026 08:10:29 +0900</pubDate>
+      <category>重要度4</category>
+      <category>misinformation</category>
+      <category>platform accountability</category>
+    </item>
+    <item>
+      <title>[★4] 出版社はAI誤情報に「今すぐ」対処すべき、操作される前に</title>
+      <link>https://news.google.com/rss/articles/CBMixAFBVV95cUxPMmNOazg2N1JGdk5HaE5ZbzZhd2N4VXdiUi1XanZ2aW83UGhkQzZKY2lOaVpXMTBhSFNiTUFGcVlhVDhiaE9DNG1pcHFhMjdCc3hqYi0xMlFjckRkYUp2SFY4dk9lQnNzTnlET0w0U3NabE16REFCcHZobXBTZEt4aE5DN0dTdnZ1ZWdEVWYzRXdnUjZJOTVsWWpTLW10Sml5VmgwbUZCbHh0dVAzMkNHREpOeC1zekVEbXNTaEdRT25DaTls?ref=2026-03-17</link>
+      <guid isPermaLink="false">urn:research:2026-03-17:48b3072ae5</guid>
+      <source url="https://news.google.com/rss/articles/CBMixAFBVV95cUxPMmNOazg2N1JGdk5HaE5ZbzZhd2N4VXdiUi1XanZ2aW83UGhkQzZKY2lOaVpXMTBhSFNiTUFGcVlhVDhiaE9DNG1pcHFhMjdCc3hqYi0xMlFjckRkYUp2SFY4dk9lQnNzTnlET0w0U3NabE16REFCcHZobXBTZEt4aE5DN0dTdnZ1ZWdEVWYzRXdnUjZJOTVsWWpTLW10Sml5VmgwbUZCbHh0dVAzMkNHREpOeC1zekVEbXNTaEdRT25DaTls">The Bookseller</source>
+      <dc:creator>The Bookseller</dc:creator>
+      <description>&lt;p&gt;出版業界に対し、人々が操作される前にAI誤情報問題に今すぐ対処するよう警告&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 出版・知識産業へのAI脅威、情報信頼性に影響&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; The Bookseller / 2026-03-14 04:43:17&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
+      <pubDate>Tue, 17 Mar 2026 08:10:29 +0900</pubDate>
+      <category>重要度4</category>
       <category>misinformation</category>
     </item>
     <item>
-      <title>[★4] 米イスラエル軍パイロットがイランの囮航空機を爆撃したとする画像はAI生成</title>
-      <link>https://news.google.com/rss/articles/CBMiWEFVX3lxTE9VWDh4WUdrWWtIRFl4YWtGd3UzVE1ONlNsTEhGblA3NWdrbVhfTDJ3YThKTEFJUTVveXYyQjVuTHhCNVE5SENvTFpKMjRmZnB6bHcwWnF2czA?ref=2026-03-16</link>
-      <guid isPermaLink="false">urn:research:2026-03-16:56846385ba</guid>
-      <source url="https://news.google.com/rss/articles/CBMiWEFVX3lxTE9VWDh4WUdrWWtIRFl4YWtGd3UzVE1ONlNsTEhGblA3NWdrbVhfTDJ3YThKTEFJUTVveXYyQjVuTHhCNVE5SENvTFpKMjRmZnB6bHcwWnF2czA">AFP Fact Check</source>
-      <dc:creator>AFP Fact Check</dc:creator>
-      <description>&lt;p&gt;AFPファクトチェックが、イラン攻撃に関する拡散画像がAI生成であることを確認。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 戦時プロパガンダにおけるAI偽画像の検証事例&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; AFP Fact Check / 2026-03-13 15:02:16&lt;/p&gt;
+      <title>[★4] カンボジアの詐欺センター内部、偽の部屋と台本で被害者誘導</title>
+      <link>https://www.theguardian.com/technology/2026/mar/14/inside-abandoned-scam-centre-cambodia-thai-border?ref=2026-03-17</link>
+      <guid isPermaLink="false">urn:research:2026-03-17:30b2d192a0</guid>
+      <source url="https://www.theguardian.com/technology/2026/mar/14/inside-abandoned-scam-centre-cambodia-thai-border">Guardian Tech</source>
+      <dc:creator>Guardian Tech</dc:creator>
+      <description>&lt;p&gt;放棄された詐欺センターから偽銀行や警察署のセットを含む広大な施設が発見される&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 組織的詐欺インフラ、国際犯罪への警鐘&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Guardian Tech / 2026-03-14 02:25:17&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
-      <pubDate>Mon, 16 Mar 2026 10:12:31 +0900</pubDate>
+      <pubDate>Tue, 17 Mar 2026 08:10:29 +0900</pubDate>
       <category>重要度4</category>
     </item>
     <item>
-      <title>[★4] イラン学校爆撃と情報戦</title>
-      <link>https://news.google.com/rss/articles/CBMicEFVX3lxTE4ySmVjRHN2d2YySklKbXpRQVB3al91aUVQcjNXSmZpZXpGQ1R1MDh6eEZsTWt5SVhqWC1vOGlYNUlqeVhDbUk4aGQtMUxPcDJzdHlWN2s0RVBPZzR6YktBMGk4TGtYRWlYSzZFaFdqdjM?ref=2026-03-16</link>
-      <guid isPermaLink="false">urn:research:2026-03-16:7689a8aa7b</guid>
-      <source url="https://news.google.com/rss/articles/CBMicEFVX3lxTE4ySmVjRHN2d2YySklKbXpRQVB3al91aUVQcjNXSmZpZXpGQ1R1MDh6eEZsTWt5SVhqWC1vOGlYNUlqeVhDbUk4aGQtMUxPcDJzdHlWN2s0RVBPZzR6YktBMGk4TGtYRWlYSzZFaFdqdjM">Financial Times</source>
+      <title>[★4] Googleが素人医療アドバイスを集めるAI検索機能を廃止</title>
+      <link>https://www.theguardian.com/technology/2026/mar/16/google-scraps-ai-search-feature-that-crowdsourced-amateur-medical-advice?ref=2026-03-17</link>
+      <guid isPermaLink="false">urn:research:2026-03-17:f14d93146d</guid>
+      <source url="https://www.theguardian.com/technology/2026/mar/16/google-scraps-ai-search-feature-that-crowdsourced-amateur-medical-advice">Guardian Tech</source>
+      <dc:creator>Guardian Tech</dc:creator>
+      <description>&lt;p&gt;GoogleがクラウドソースされたAI健康アドバイスを提供する新機能を中止、AI健康情報への監視強化&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; AI医療情報の危険性、市民の健康に直接影響&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Guardian Tech / 2026-03-16 07:14:05&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
+      <pubDate>Tue, 17 Mar 2026 08:10:29 +0900</pubDate>
+      <category>重要度4</category>
+    </item>
+    <item>
+      <title>[★4] ディープフェイク、カツラ、真実への戦争</title>
+      <link>https://news.google.com/rss/articles/CBMicEFVX3lxTE9TT19CN19ZdGFjeXVIYjlwQjFpYmpCMVFsN3JieVNDWnhRZ29vRGNweGpPbUpxcjE2bVRLX2syWmo4cUFsWHgzX19WQ1RsUmg5blhra0VzaDlUQ1RuQm9nUllRaE9DeGstcm4zaVIwMkg?ref=2026-03-17</link>
+      <guid isPermaLink="false">urn:research:2026-03-17:ca42bd774c</guid>
+      <source url="https://news.google.com/rss/articles/CBMicEFVX3lxTE9TT19CN19ZdGFjeXVIYjlwQjFpYmpCMVFsN3JieVNDWnhRZ29vRGNweGpPbUpxcjE2bVRLX2syWmo4cUFsWHgzX19WQ1RsUmg5blhra0VzaDlUQ1RuQm9nUllRaE9DeGstcm4zaVIwMkg">Financial Times</source>
       <dc:creator>Financial Times</dc:creator>
-      <description>&lt;p&gt;イランの学校爆撃を巡る情報戦とAI技術が戦時報道に与える影響を分析。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 戦時における情報戦とAI技術の役割&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Financial Times / 2026-03-13 05:01:03&lt;/p&gt;
+      <description>&lt;p&gt;ディープフェイク技術が真実をめぐる戦いを激化させている実態&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; ディープフェイクが情報環境を破壊、真実性への脅威&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Financial Times / 2026-03-14 05:02:07&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
-      <pubDate>Mon, 16 Mar 2026 10:12:31 +0900</pubDate>
+      <pubDate>Tue, 17 Mar 2026 08:10:29 +0900</pubDate>
       <category>重要度4</category>
+      <category>deepfake</category>
     </item>
     <item>
-      <title>[★4] アンソロピックのAI「憲法」がモデルの行動規制に初期的成果、研究者が報告</title>
-      <link>https://www.semafor.com/article/03/13/2026/anthropics-ai-constitution-shows-early-promise-in-regulating-models-behavior-researchers-say?ref=2026-03-16</link>
-      <guid isPermaLink="false">urn:research:2026-03-16:e5efd706b7</guid>
-      <source url="https://www.semafor.com/article/03/13/2026/anthropics-ai-constitution-shows-early-promise-in-regulating-models-behavior-researchers-say">Semafor</source>
-      <dc:creator>Semafor</dc:creator>
-      <description>&lt;p&gt;クロードの行動を制限する文書が、不正直さや有害性への制限を加えることで効果を示している。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; AI安全性と倫理的規制の新しいアプローチ&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Semafor / 2026-03-13 17:38:09&lt;/p&gt;
+      <title>[★4] AI誤情報対策ツールが実際には誤情報を促進する可能性</title>
+      <link>https://news.google.com/rss/articles/CBMiswFBVV95cUxOMlB4cm51Z3FkMU9xckVTUm1fV1NTTGoyNmc0Rkh1TVlJZlJWVWdrUWVwVWFkd3V5Qjd2TVFIc3hNemZtNE41ZTJSODQ3bHA4eUVYRlNqdWtjb3FtVlVCTjVWclVHVHEyQ0RkM25fUTEwRG1ra1JYSWRndDZfZDhyTkM0NmhmRzNSMi0xb0o5b3pTNHJyMUJ5azdFS1BZc2RRRzVGMk5tVXk4cDh1Q1hwVGVYVQ?ref=2026-03-17</link>
+      <guid isPermaLink="false">urn:research:2026-03-17:22d516ef50</guid>
+      <source url="https://news.google.com/rss/articles/CBMiswFBVV95cUxOMlB4cm51Z3FkMU9xckVTUm1fV1NTTGoyNmc0Rkh1TVlJZlJWVWdrUWVwVWFkd3V5Qjd2TVFIc3hNemZtNE41ZTJSODQ3bHA4eUVYRlNqdWtjb3FtVlVCTjVWclVHVHEyQ0RkM25fUTEwRG1ra1JYSWRndDZfZDhyTkM0NmhmRzNSMi0xb0o5b3pTNHJyMUJ5azdFS1BZc2RRRzVGMk5tVXk4cDh1Q1hwVGVYVQ">Genetic Literacy Project</source>
+      <dc:creator>Genetic Literacy Project</dc:creator>
+      <description>&lt;p&gt;誤情報対策として設計されたAIツールが逆に誤情報を促進するリスク&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; AI対策の逆効果、技術的ジレンマの深刻化&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Genetic Literacy Project / 2026-03-16 04:25:13&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
-      <pubDate>Mon, 16 Mar 2026 10:12:31 +0900</pubDate>
+      <pubDate>Tue, 17 Mar 2026 08:10:29 +0900</pubDate>
       <category>重要度4</category>
-      <category>AI regulation</category>
+      <category>misinformation</category>
     </item>
     <item>
-      <title>[★4] 北朝鮮の「偽労働者」がAIを利用して欧州企業を搾取</title>
-      <link>https://news.google.com/rss/articles/CBMicEFVX3lxTE4wSzZVXzNmcUxTNDlmRTNOTWFtdURFYUVQamYxWkVob21iNkNQSlo1TXRlYjRXTW9McDluQjNoRGdGeFd1TDgtZDgxUzNWcFJ1Y1hKMWdRU0pCXzhJVWNZN0NWamdxQURFS01fYUpFYmk?ref=2026-03-16</link>
-      <guid isPermaLink="false">urn:research:2026-03-16:4e8173c4ff</guid>
-      <source url="https://news.google.com/rss/articles/CBMicEFVX3lxTE4wSzZVXzNmcUxTNDlmRTNOTWFtdURFYUVQamYxWkVob21iNkNQSlo1TXRlYjRXTW9McDluQjNoRGdGeFd1TDgtZDgxUzNWcFJ1Y1hKMWdRU0pCXzhJVWNZN0NWamdxQURFS01fYUpFYmk">Financial Times</source>
-      <dc:creator>Financial Times</dc:creator>
-      <description>&lt;p&gt;北朝鮮がAI技術を使って偽の労働者を作り出し、欧州企業に潜入している実態が明らかに。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 国家によるAI悪用、国際安全保障への脅威&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Financial Times / 2026-03-15 05:00:32&lt;/p&gt;
+      <title>[★4] ロシアの偽情報キャンペーンがカナダのウクライナ支援を試す</title>
+      <link>https://news.google.com/rss/articles/CBMimgFBVV95cUxON3VJcjJzZDBSWmE0QmZxQ0h3azM3YzBmaUZndDBvdW1QZE0xbHI5eGc4NXhCX0hVSkZmSnBCTG85T1RmTExlR0lXdkprSGVkVTNNVW9lcG11RHN5SWlrZlpBQXJPZGh0cUVUWEItZDB0MmRZNWpHLU1ZOFhHUVQ4eHZ5YzNBQUtsUFdSdmtHRHplb0tocUo3YVdn?ref=2026-03-17</link>
+      <guid isPermaLink="false">urn:research:2026-03-17:7aaefb933e</guid>
+      <source url="https://news.google.com/rss/articles/CBMimgFBVV95cUxON3VJcjJzZDBSWmE0QmZxQ0h3azM3YzBmaUZndDBvdW1QZE0xbHI5eGc4NXhCX0hVSkZmSnBCTG85T1RmTExlR0lXdkprSGVkVTNNVW9lcG11RHN5SWlrZlpBQXJPZGh0cUVUWEItZDB0MmRZNWpHLU1ZOFhHUVQ4eHZ5YzNBQUtsUFdSdmtHRHplb0tocUo3YVdn">The Kyiv Independent</source>
+      <dc:creator>The Kyiv Independent</dc:creator>
+      <description>&lt;p&gt;ロシアの偽情報キャンペーンがカナダの対ウクライナ支援に影響を与えようと活動&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 国際的偽情報作戦、地政学的影響&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; The Kyiv Independent / 2026-03-16 18:08:35&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
-      <pubDate>Mon, 16 Mar 2026 10:12:31 +0900</pubDate>
-      <category>重要度4</category>
-    </item>
-    <item>
-      <title>[★4] ソーシャルメディアインフルエンサーが偽情報の毒性と影響力を増大させる</title>
-      <link>https://news.google.com/rss/articles/CBMigwFBVV95cUxPczlnb3ZLSlR0b3ZwYTdHVEQ1RVRLWUJEZVVGTTUxSHFOZ0U4MHRRNVhzdUlSczRRb0dNdUstSl8yRTZCVGxnU2ViNks4MW1wZDhaOGFaNWtfdUU1REZoLTJZTzRnVUNSRzlUMmhTdFlNZk9Damt6TVI2ejdkdFZVWkNuNA?ref=2026-03-16</link>
-      <guid isPermaLink="false">urn:research:2026-03-16:c16c9fbfbd</guid>
-      <source url="https://news.google.com/rss/articles/CBMigwFBVV95cUxPczlnb3ZLSlR0b3ZwYTdHVEQ1RVRLWUJEZVVGTTUxSHFOZ0U4MHRRNVhzdUlSczRRb0dNdUstSl8yRTZCVGxnU2ViNks4MW1wZDhaOGFaNWtfdUU1REZoLTJZTzRnVUNSRzlUMmhTdFlNZk9Damt6TVI2ejdkdFZVWkNuNA">Phys.org</source>
-      <dc:creator>Phys.org</dc:creator>
-      <description>&lt;p&gt;研究により、インフルエンサーが偽情報の拡散において毒性と影響力を高めていることが明らかに。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 偽情報拡散メカニズムの解明、メディア環境への影響&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Phys.org / 2026-03-13 01:20:01&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
-      <pubDate>Mon, 16 Mar 2026 10:12:31 +0900</pubDate>
+      <pubDate>Tue, 17 Mar 2026 08:10:29 +0900</pubDate>
       <category>重要度4</category>
       <category>disinformation</category>
     </item>
     <item>
-      <title>[★4] 出版社はAI偽情報に「人々が操作される前に今すぐ」対応すべき</title>
-      <link>https://news.google.com/rss/articles/CBMixAFBVV95cUxPMmNOazg2N1JGdk5HaE5ZbzZhd2N4VXdiUi1XanZ2aW83UGhkQzZKY2lOaVpXMTBhSFNiTUFGcVlhVDhiaE9DNG1pcHFhMjdCc3hqYi0xMlFjckRkYUp2SFY4dk9lQnNzTnlET0w0U3NabE16REFCcHZobXBTZEt4aE5DN0dTdnZ1ZWdEVWYzRXdnUjZJOTVsWWpTLW10Sml5VmgwbUZCbHh0dVAzMkNHREpOeC1zekVEbXNTaEdRT25DaTls?ref=2026-03-16</link>
-      <guid isPermaLink="false">urn:research:2026-03-16:fb3d312bdd</guid>
-      <source url="https://news.google.com/rss/articles/CBMixAFBVV95cUxPMmNOazg2N1JGdk5HaE5ZbzZhd2N4VXdiUi1XanZ2aW83UGhkQzZKY2lOaVpXMTBhSFNiTUFGcVlhVDhiaE9DNG1pcHFhMjdCc3hqYi0xMlFjckRkYUp2SFY4dk9lQnNzTnlET0w0U3NabE16REFCcHZobXBTZEt4aE5DN0dTdnZ1ZWdEVWYzRXdnUjZJOTVsWWpTLW10Sml5VmgwbUZCbHh0dVAzMkNHREpOeC1zekVEbXNTaEdRT25DaTls">The Bookseller</source>
-      <dc:creator>The Bookseller</dc:creator>
-      <description>&lt;p&gt;出版業界に対し、人々が操作される前にAI偽情報への対策を今すぐ講じるよう警告。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; メディア産業への緊急警告、情報環境の保護&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; The Bookseller / 2026-03-13 16:00:44&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
-      <pubDate>Mon, 16 Mar 2026 10:12:31 +0900</pubDate>
-      <category>重要度4</category>
-      <category>disinformation</category>
-    </item>
-    <item>
-      <title>[★4] ネタニヤフ死亡デマをファクトチェッカーが否定</title>
-      <link>https://news.google.com/rss/articles/CBMi3wFBVV95cUxQd2R5SFQyWElrdllxVFdpTTIwMndkeEYxamFJOVBZNy1tbXlnaWI5LV8wbk1JNVFrUHVWTW1fSlcxMEkzNDNPa2hqb3dNN0o0ZWYxb1ZpcjB0ZG9kalhRN0FGVTh3dUdoYl9pNFNILUlmUHJhSm1OYmRuMUFzZFdsS3FPUm1OalMzdnpjclVlMWx4WTcyZk9TUHJjcERvaEZxYURpY2dPQUx1elJQLVN4QmxqUXk0ZENLbW93dXBOMXNzV1BRV3Q4bFJYS2JpVkRaQXNtLS11RU9uN1ZkdEVn?ref=2026-03-16</link>
-      <guid isPermaLink="false">urn:research:2026-03-16:c1dc305c55</guid>
-      <source url="https://news.google.com/rss/articles/CBMi3wFBVV95cUxQd2R5SFQyWElrdllxVFdpTTIwMndkeEYxamFJOVBZNy1tbXlnaWI5LV8wbk1JNVFrUHVWTW1fSlcxMEkzNDNPa2hqb3dNN0o0ZWYxb1ZpcjB0ZG9kalhRN0FGVTh3dUdoYl9pNFNILUlmUHJhSm1OYmRuMUFzZFdsS3FPUm1OalMzdnpjclVlMWx4WTcyZk9TUHJjcERvaEZxYURpY2dPQUx1elJQLVN4QmxqUXk0ZENLbW93dXBOMXNzV1BRV3Q4bFJYS2JpVkRaQXNtLS11RU9uN1ZkdEVn">MSN</source>
-      <dc:creator>MSN</dc:creator>
-      <description>&lt;p&gt;ネタニヤフ首相死亡の偽情報が拡散、ファクトチェック組織が否定に動く。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 重要政治家の死亡デマ、国際政治への影響&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; MSN / 2026-03-15 17:45:47&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
-      <pubDate>Mon, 16 Mar 2026 10:12:31 +0900</pubDate>
-      <category>重要度4</category>
-      <category>disinformation</category>
-    </item>
-    <item>
-      <title>[★4] 3月15日：ネタニヤフ死亡デマが偽情報と政策リスクを拡大</title>
-      <link>https://news.google.com/rss/articles/CBMilgFBVV95cUxPNHc2Wk5Jc25JWXFZczhVb0FJR3EwODhsRk8zbzlsX0djNlhUVlFibElZcTVVQ3VUUWtqOE5Kc3VaSms0Y3pjcGJlR3IyOE1iQWFnY3NEVkxqV1BRZGp5RGl3TGlhbzZ0U0VONjZFRUFHckJtajIzcTl6emd2YmQtaGdoMmFHdXZ5NmU3VS1icDFOb1NMQ3c?ref=2026-03-16</link>
-      <guid isPermaLink="false">urn:research:2026-03-16:f8b7cd2611</guid>
-      <source url="https://news.google.com/rss/articles/CBMilgFBVV95cUxPNHc2Wk5Jc25JWXFZczhVb0FJR3EwODhsRk8zbzlsX0djNlhUVlFibElZcTVVQ3VUUWtqOE5Kc3VaSms0Y3pjcGJlR3IyOE1iQWFnY3NEVkxqV1BRZGp5RGl3TGlhbzZ0U0VONjZFRUFHckJtajIzcTl6emd2YmQtaGdoMmFHdXZ5NmU3VS1icDFOb1NMQ3c">Meyka</source>
-      <dc:creator>Meyka</dc:creator>
-      <description>&lt;p&gt;ネタニヤフ死亡の偽情報が政策決定や市場に影響を与えるリスクを分析。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 偽情報が政策と市場に与える具体的リスク&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Meyka / 2026-03-15 10:54:38&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
-      <pubDate>Mon, 16 Mar 2026 10:12:31 +0900</pubDate>
-      <category>重要度4</category>
-      <category>disinformation</category>
-    </item>
-    <item>
-      <title>[★4] AIは創作権に関する進歩を装った貪欲さ</title>
-      <link>https://news.google.com/rss/articles/CBMicEFVX3lxTE91SHR4cmxBeEZ5dFhwVGlXZjZ6TUlZUnVpLXduMUVndEN2Y29zNmtiSHNGYkx3THkxaV9KQV84d0lxMl8yT2VjQ0dzT0RyU3pyOWN3aG1WM0QxZm83S0M2MGNjcGY2SWZGYkVidE5jYk0?ref=2026-03-16</link>
-      <guid isPermaLink="false">urn:research:2026-03-16:40591f34b5</guid>
-      <source url="https://news.google.com/rss/articles/CBMicEFVX3lxTE91SHR4cmxBeEZ5dFhwVGlXZjZ6TUlZUnVpLXduMUVndEN2Y29zNmtiSHNGYkx3THkxaV9KQV84d0lxMl8yT2VjQ0dzT0RyU3pyOWN3aG1WM0QxZm83S0M2MGNjcGY2SWZGYkVidE5jYk0">Financial Times</source>
-      <dc:creator>Financial Times</dc:creator>
-      <description>&lt;p&gt;AI企業が創作者の権利を侵害しながら「進歩」として正当化していると批判。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; AI企業による著作権侵害問題、クリエイターの権利&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Financial Times / 2026-03-14 05:01:19&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
-      <pubDate>Mon, 16 Mar 2026 10:12:31 +0900</pubDate>
-      <category>重要度4</category>
-    </item>
-    <item>
-      <title>[★4] 意見：なぜ私はGrammarlyを訴えるのか</title>
-      <link>https://news.google.com/rss/articles/CBMiigFBVV95cUxQNVFKc3VzWlRKc2lnMjJMWWVMZnVxajcyY3dkaGduUDlOX05ybmRSTzdacDAweWlTN0xvVldFME5oOExSRVJKQXlLRnpNdlJ5cnVpV1VwUXNqcm5pUU0tNEgxRkJTZklZYXV1X2lJQ2k1UEpGNXZHMWhYOGNDZXQ4Y2tNVEZQNDEwZlE?ref=2026-03-16</link>
-      <guid isPermaLink="false">urn:research:2026-03-16:5b1ee30f5f</guid>
-      <source url="https://news.google.com/rss/articles/CBMiigFBVV95cUxQNVFKc3VzWlRKc2lnMjJMWWVMZnVxajcyY3dkaGduUDlOX05ybmRSTzdacDAweWlTN0xvVldFME5oOExSRVJKQXlLRnpNdlJ5cnVpV1VwUXNqcm5pUU0tNEgxRkJTZklZYXV1X2lJQ2k1UEpGNXZHMWhYOGNDZXQ4Y2tNVEZQNDEwZlE">New York Times</source>
-      <dc:creator>New York Times</dc:creator>
-      <description>&lt;p&gt;ジャーナリストがGrammarlyによるアイデンティティ盗用でAI企業を提訴した理由を説明。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; AIによる個人情報・アイデンティティ侵害の訴訟&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; New York Times / 2026-03-13 20:06:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
-      <pubDate>Mon, 16 Mar 2026 10:12:31 +0900</pubDate>
-      <category>重要度4</category>
-    </item>
-    <item>
-      <title>[★4] 戦争、採掘、偽情報が健全な環境への基本的権利を脅かす：国連専門家</title>
-      <link>https://news.google.com/rss/articles/CBMi5wFBVV95cUxNQS04MXB1NUF2OW9CWTMtdHJpR3ZrT0tMb1p6QWo3QUdhRWpzYlM3WTZpWkhNNkZtdlpUWUVJZzNOVlIxWFRYWC1MQjcwODJLaS1SMGR4X1I0ZlZvNXBvWk4xQ0NDV2xtbTV2R3ZwUWY4Uy1MQlU4dW90SUViM3czY0JwWXBNclIyWmxsdEJpemNmcVh6aGJud0hoSUttcXlaT0FsZEc1ZGFxUDVRVmxGWl9rak1BQUFjaWtkYzJnWjB2bHRDdzJldUZwc3RFQ3NRTW0tNlQ1X2wyS1NyMEJ2TDVDQ2U0ZEE?ref=2026-03-16</link>
-      <guid isPermaLink="false">urn:research:2026-03-16:f2663a6842</guid>
-      <source url="https://news.google.com/rss/articles/CBMi5wFBVV95cUxNQS04MXB1NUF2OW9CWTMtdHJpR3ZrT0tMb1p6QWo3QUdhRWpzYlM3WTZpWkhNNkZtdlpUWUVJZzNOVlIxWFRYWC1MQjcwODJLaS1SMGR4X1I0ZlZvNXBvWk4xQ0NDV2xtbTV2R3ZwUWY4Uy1MQlU4dW90SUViM3czY0JwWXBNclIyWmxsdEJpemNmcVh6aGJud0hoSUttcXlaT0FsZEc1ZGFxUDVRVmxGWl9rak1BQUFjaWtkYzJnWjB2bHRDdzJldUZwc3RFQ3NRTW0tNlQ1X2wyS1NyMEJ2TDVDQ2U0ZEE">Geneva Solutions</source>
-      <dc:creator>Geneva Solutions</dc:creator>
-      <description>&lt;p&gt;国連専門家が戦争と偽情報が環境権を含む基本的人権を脅かしていると警告。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 偽情報と人権への国際的警告&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Geneva Solutions / 2026-03-15 20:21:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
-      <pubDate>Mon, 16 Mar 2026 10:12:31 +0900</pubDate>
-      <category>重要度4</category>
-      <category>disinformation</category>
-    </item>
-    <item>
-      <title>[★4] スパイ、嘘、動画クリック：欧州における親ロシア偽情報の歪んだ世界</title>
-      <link>https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTzZqOFQ2VGo1MlNYalNzOWhJOUQ5dmxNYjhXVEo1SEdUOEpLbm9JcXdPUU0yRzVkZ0RLUVF0SjExc1U3dU92TzA2SnZDVXZfMjVETkxFTXkxMGhHelM3VjVkOXRsNFRRRkcyQ1FOLVZHSk1LU1ptZFNtMGxubG1OcUpqTmNaMlByOENoa2V3X0RCQzVQWDZQaE9BdXR2VWJzcGlzUHhSb1dOWTVYRUVYZXpQeHUtN2d5?ref=2026-03-16</link>
-      <guid isPermaLink="false">urn:research:2026-03-16:9960d91575</guid>
+      <title>[★4] スパイ、嘘、動画クリック：欧州での親ロシア偽情報の歪んだ世界</title>
+      <link>https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTzZqOFQ2VGo1MlNYalNzOWhJOUQ5dmxNYjhXVEo1SEdUOEpLbm9JcXdPUU0yRzVkZ0RLUVF0SjExc1U3dU92TzA2SnZDVXZfMjVETkxFTXkxMGhHelM3VjVkOXRsNFRRRkcyQ1FOLVZHSk1LU1ptZFNtMGxubG1OcUpqTmNaMlByOENoa2V3X0RCQzVQWDZQaE9BdXR2VWJzcGlzUHhSb1dOWTVYRUVYZXpQeHUtN2d5?ref=2026-03-17</link>
+      <guid isPermaLink="false">urn:research:2026-03-17:f1d2adb09a</guid>
       <source url="https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTzZqOFQ2VGo1MlNYalNzOWhJOUQ5dmxNYjhXVEo1SEdUOEpLbm9JcXdPUU0yRzVkZ0RLUVF0SjExc1U3dU92TzA2SnZDVXZfMjVETkxFTXkxMGhHelM3VjVkOXRsNFRRRkcyQ1FOLVZHSk1LU1ptZFNtMGxubG1OcUpqTmNaMlByOENoa2V3X0RCQzVQWDZQaE9BdXR2VWJzcGlzUHhSb1dOWTVYRUVYZXpQeHUtN2d5">OCCRP</source>
       <dc:creator>OCCRP</dc:creator>
-      <description>&lt;p&gt;欧州で展開される親ロシア偽情報キャンペーンの実態を調査報道が暴露。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 国際的偽情報作戦の詳細な調査報道&lt;/p&gt;
+      <description>&lt;p&gt;欧州における親ロシア偽情報ネットワークの実態を調査報道が明らかに&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 組織的偽情報ネットワーク、国際関係への影響&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; OCCRP / 2026-03-14 22:37:44&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
-      <pubDate>Mon, 16 Mar 2026 10:12:31 +0900</pubDate>
+      <pubDate>Tue, 17 Mar 2026 08:10:29 +0900</pubDate>
       <category>重要度4</category>
       <category>disinformation</category>
     </item>
     <item>
-      <title>[★4] ByteDanceがSeeDance 2.0動画生成AIの世界展開を延期と報道</title>
-      <link>https://techcrunch.com/2026/03/15/bytedance-reportedly-pauses-global-launch-of-its-seedance-2-0-video-generator/?ref=2026-03-16</link>
-      <guid isPermaLink="false">urn:research:2026-03-16:937faf3dcd</guid>
-      <source url="https://techcrunch.com/2026/03/15/bytedance-reportedly-pauses-global-launch-of-its-seedance-2-0-video-generator/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>&lt;p&gt;法的問題を回避するため、エンジニアと弁護士が作業中として展開を延期。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; AI動画生成と著作権問題、テクノロジー業界への影響&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; TechCrunch / 2026-03-15 21:01:51&lt;/p&gt;
+      <title>[★4] EU外相、ブチャ虐殺・サイバー攻撃・偽情報でロシア個人に制裁</title>
+      <link>https://news.google.com/rss/articles/CBMizgFBVV95cUxQbHNVZ3E1MWlRSFI2cmg3S0xDbFpIQ01WRHdZX1dLNEZZZXpMU3NRQ3FIaGlHM0pkRUo2bWRwXzVsSGNIOGdyVzRvX2ZWMk9pWVQ1bWhHR2NZeFo4Q19WWXptaENjSnVuVHprX19TVmprN2dGQW5NaExsV0xmQVhxbXlrd1Z6c0J2ZmFnQ1RBalF1UkRXNlBMS2xqMi1McnotQXFtUjBXaUEwdGxpV2NMRDE5UHFHb2VWVzNkNENVOUJuRFVocFY1QlRsbXZWdw?ref=2026-03-17</link>
+      <guid isPermaLink="false">urn:research:2026-03-17:6974d61296</guid>
+      <source url="https://news.google.com/rss/articles/CBMizgFBVV95cUxQbHNVZ3E1MWlRSFI2cmg3S0xDbFpIQ01WRHdZX1dLNEZZZXpMU3NRQ3FIaGlHM0pkRUo2bWRwXzVsSGNIOGdyVzRvX2ZWMk9pWVQ1bWhHR2NZeFo4Q19WWXptaENjSnVuVHprX19TVmprN2dGQW5NaExsV0xmQVhxbXlrd1Z6c0J2ZmFnQ1RBalF1UkRXNlBMS2xqMi1McnotQXFtUjBXaUEwdGxpV2NMRDE5UHFHb2VWVzNkNENVOUJuRFVocFY1QlRsbXZWdw">The Sofia Globe</source>
+      <dc:creator>The Sofia Globe</dc:creator>
+      <description>&lt;p&gt;EU外相がロシア人個人に対し虐殺、サイバー攻撃、偽情報を理由に制裁&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; EU制裁措置、国際的偽情報対策の進展&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; The Sofia Globe / 2026-03-16 13:39:45&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
-      <pubDate>Mon, 16 Mar 2026 10:12:31 +0900</pubDate>
+      <pubDate>Tue, 17 Mar 2026 08:10:29 +0900</pubDate>
       <category>重要度4</category>
+      <category>disinformation</category>
     </item>
     <item>
-      <title>[★4] AIは法律・教育・ジャーナリズムにおける「死刑宣告」か、中庸左派コラムニストへの変容</title>
-      <link>https://www.semafor.com/article/03/13/2026/the-revenge-of-thomas-friedman-how-ai-is-turning-us-into-inoffensive-center-left-columnists?ref=2026-03-16</link>
-      <guid isPermaLink="false">urn:research:2026-03-16:81cc749566</guid>
-      <source url="https://www.semafor.com/article/03/13/2026/the-revenge-of-thomas-friedman-how-ai-is-turning-us-into-inoffensive-center-left-columnists">Semafor</source>
-      <dc:creator>Semafor</dc:creator>
-      <description>&lt;p&gt;AIが私たちを「無害で中道左派的」なコラムニストに変えている、トーマス・フリードマンの復讐。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; AIがジャーナリズムと言論に与える影響&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Semafor / 2026-03-13 18:58:04&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
-      <pubDate>Mon, 16 Mar 2026 10:12:31 +0900</pubDate>
-      <category>重要度4</category>
-    </item>
-    <item>
-      <title>[★4] ディグがAIボット急増で人員削減</title>
-      <link>https://news.google.com/rss/articles/CBMikAFBVV95cUxQT0VDM3h1cmFMdzhWSjBSd2VVaG04cTYtX2l4LWRPMXdGblhPeFJpbkhXbEgxT0RCWUNRdWY0TG8ySVlKc05CNmd6R09neDlma3AtQ2JiY3E5OUZUQ29keXVXZ29rTjJzemZHS2loOUZza3FTZkM2a0VELUxKaGNNaVI4Y1JMZ1JLWmJObjk1N1Q?ref=2026-03-16</link>
-      <guid isPermaLink="false">urn:research:2026-03-16:8ede5853f0</guid>
-      <source url="https://news.google.com/rss/articles/CBMikAFBVV95cUxQT0VDM3h1cmFMdzhWSjBSd2VVaG04cTYtX2l4LWRPMXdGblhPeFJpbkhXbEgxT0RCWUNRdWY0TG8ySVlKc05CNmd6R09neDlma3AtQ2JiY3E5OUZUQ29keXVXZ29rTjJzemZHS2loOUZza3FTZkM2a0VELUxKaGNNaVI4Y1JMZ1JLWmJObjk1N1Q">Reuters</source>
-      <dc:creator>Reuters</dc:creator>
-      <description>&lt;p&gt;ニュースサイトDiggがAIボットの大量流入に直面し、雇用削減を実施。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; AIボットがメディア産業に与える経済的影響&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Reuters / 2026-03-13 22:53:01&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
-      <pubDate>Mon, 16 Mar 2026 10:12:31 +0900</pubDate>
-      <category>重要度4</category>
-    </item>
-    <item>
-      <title>[★4] メタがAIコスト増大で大規模人員削減を計画と報道</title>
-      <link>https://www.theguardian.com/technology/2026/mar/13/meta-layoffs-ai?ref=2026-03-16</link>
-      <guid isPermaLink="false">urn:research:2026-03-16:9f0e344cab</guid>
-      <source url="https://www.theguardian.com/technology/2026/mar/13/meta-layoffs-ai">Guardian Tech</source>
-      <dc:creator>Guardian Tech</dc:creator>
-      <description>&lt;p&gt;情報筋によると、メタは従業員の20%以上に影響する人員削減を計画中。AI投資コスト増大が背景。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 大手テック企業のAI投資と雇用への影響&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Guardian Tech / 2026-03-14 00:55:14&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
-      <pubDate>Mon, 16 Mar 2026 10:12:31 +0900</pubDate>
-      <category>重要度4</category>
-    </item>
-    <item>
-      <title>[★4] 幼児向けAIおもちゃはより厳格な規制が必要と研究者</title>
-      <link>https://www.theguardian.com/technology/2026/mar/13/ai-toys-young-children-tigher-regulations-reseachers?ref=2026-03-16</link>
-      <guid isPermaLink="false">urn:research:2026-03-16:8daf830b96</guid>
-      <source url="https://www.theguardian.com/technology/2026/mar/13/ai-toys-young-children-tigher-regulations-reseachers">Guardian Tech</source>
-      <dc:creator>Guardian Tech</dc:creator>
-      <description>&lt;p&gt;ケンブリッジ大学研究で、AIおもちゃが子供の感情を誤読し不適切な反応をすることが判明。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 子供の安全とAI規制の必要性&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Guardian Tech / 2026-03-13 07:35:17&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
-      <pubDate>Mon, 16 Mar 2026 10:12:31 +0900</pubDate>
-      <category>重要度4</category>
-      <category>AI regulation</category>
-    </item>
-    <item>
-      <title>[★4] 子供向けAIおもちゃが感情を誤読し不適切な反応、研究者が警告</title>
-      <link>https://www.bbc.com/news/articles/clyg4wx6nxgo?at_medium=RSS&amp;at_campaign=rss&amp;ref=2026-03-16</link>
-      <guid isPermaLink="false">urn:research:2026-03-16:eaea4b6e73</guid>
-      <source url="https://www.bbc.com/news/articles/clyg4wx6nxgo?at_medium=RSS&amp;at_campaign=rss">BBC News Tech</source>
-      <dc:creator>BBC News Tech</dc:creator>
-      <description>&lt;p&gt;初の研究で、ケンブリッジの研究者がAIおもちゃが一部の子供の感情を誤読する可能性を発見。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 子供の発達とAI技術の安全性問題&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; BBC News Tech / 2026-03-13 09:10:53&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
-      <pubDate>Mon, 16 Mar 2026 10:12:31 +0900</pubDate>
-      <category>重要度4</category>
-    </item>
-    <item>
-      <title>[★3] マスクのxAIが「最初から正しく構築されていない」と再出発</title>
-      <link>https://techcrunch.com/2026/03/13/not-built-right-the-first-time-musks-xai-is-starting-over-again-again/?ref=2026-03-16</link>
-      <guid isPermaLink="false">urn:research:2026-03-16:e8991468e8</guid>
-      <source url="https://techcrunch.com/2026/03/13/not-built-right-the-first-time-musks-xai-is-starting-over-again-again/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>&lt;p&gt;AI研究所がAIコーディングツール構築の取り組みを刷新、Cursorから2人の幹部が参加。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 主要AI企業の戦略転換、業界動向への影響&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; TechCrunch / 2026-03-14 00:12:22&lt;/p&gt;
+      <title>[★3] AI企業が即興俳優のスキルを収穫、人間の感情訓練に</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/893931/ai-companies-handshake-improv-actors-training-data?ref=2026-03-17</link>
+      <guid isPermaLink="false">urn:research:2026-03-17:62d1547ec9</guid>
+      <source url="https://www.theverge.com/ai-artificial-intelligence/893931/ai-companies-handshake-improv-actors-training-data">The Verge AI</source>
+      <dc:creator>The Verge AI</dc:creator>
+      <description>&lt;p&gt;AI企業が即興俳優の感情表現能力をAIに訓練させるため採用活動&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; AI感情学習の新手法、労働と創造性への影響&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; The Verge AI / 2026-03-15 14:00:00&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★☆☆ (3/5)&lt;/p&gt;</description>
-      <pubDate>Mon, 16 Mar 2026 10:12:31 +0900</pubDate>
+      <pubDate>Tue, 17 Mar 2026 08:10:29 +0900</pubDate>
       <category>重要度3</category>
     </item>
     <item>
-      <title>[★3] マスクがxAI創業者らを排除、AIコーディング事業が失敗</title>
-      <link>https://news.google.com/rss/articles/CBMicEFVX3lxTE9DZlA5bC1FZnhqYjhONFlfVWVyT3dpZlpRTEV4YzZUZlJrWWNLdTExRmVITzBrS3A5bVd2aHJla1EybXFROGIzZ25QelNmR293dktob1ppNUp6M054ejVsNHZDN2p6Qm50M3lfRFJ3dTM?ref=2026-03-16</link>
-      <guid isPermaLink="false">urn:research:2026-03-16:003f8a5084</guid>
-      <source url="https://news.google.com/rss/articles/CBMicEFVX3lxTE9DZlA5bC1FZnhqYjhONFlfVWVyT3dpZlpRTEV4YzZUZlJrWWNLdTExRmVITzBrS3A5bVd2aHJla1EybXFROGIzZ25QelNmR293dktob1ppNUp6M054ejVsNHZDN2p6Qm50M3lfRFJ3dTM">Financial Times</source>
+      <title>[★3] 高度技能労働者がAI訓練、それにはコストが伴う</title>
+      <link>https://news.google.com/rss/articles/CBMicEFVX3lxTFBBX3NwamZ1d0xPSjlvaTIydGhoNTgwUDVGZWF0eHNwZ05PZksxeHc2bXc4X0o3VkROUGJpRTR3S3JQczZEWW1WQ3gwY0lkWWNKRXk0TWpoSzYxa3E4cGpJTWdQWDhySW1uR1pYSkk1bzM?ref=2026-03-17</link>
+      <guid isPermaLink="false">urn:research:2026-03-17:eb3e571689</guid>
+      <source url="https://news.google.com/rss/articles/CBMicEFVX3lxTFBBX3NwamZ1d0xPSjlvaTIydGhoNTgwUDVGZWF0eHNwZ05PZksxeHc2bXc4X0o3VkROUGJpRTR3S3JQczZEWW1WQ3gwY0lkWWNKRXk0TWpoSzYxa3E4cGpJTWdQWDhySW1uR1pYSkk1bzM">Financial Times</source>
       <dc:creator>Financial Times</dc:creator>
-      <description>&lt;p&gt;マスクがAIコーディング努力が失敗したとしてxAIの創業者をさらに追放。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 主要AI企業の内部混乱、業界への影響&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Financial Times / 2026-03-13 15:36:53&lt;/p&gt;
+      <description>&lt;p&gt;高度なスキルを持つ労働者がAI訓練に従事、その社会的コストが問題に&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; AI訓練労働の搾取問題、労働市場への影響&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Financial Times / 2026-03-16 05:00:08&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★☆☆ (3/5)&lt;/p&gt;</description>
-      <pubDate>Mon, 16 Mar 2026 10:12:31 +0900</pubDate>
+      <pubDate>Tue, 17 Mar 2026 08:10:29 +0900</pubDate>
       <category>重要度3</category>
     </item>
     <item>
-      <title>[★3] AIバブルがチップ代替技術への関心を促進</title>
-      <link>https://www.semafor.com/article/03/13/2026/ai-bubble-driving-interest-in-chip-alternatives?ref=2026-03-16</link>
-      <guid isPermaLink="false">urn:research:2026-03-16:19b239e1a8</guid>
-      <source url="https://www.semafor.com/article/03/13/2026/ai-bubble-driving-interest-in-chip-alternatives">Semafor</source>
-      <dc:creator>Semafor</dc:creator>
-      <description>&lt;p&gt;テック企業の設備投資問題が、データ処理のコストとエネルギー需要を下げる新種チップへの研究と投資を促進。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; AI産業のコスト問題と技術革新の方向性&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Semafor / 2026-03-13 17:38:51&lt;/p&gt;
+      <title>[★3] この製品は「人間製」か？AI不使用ロゴ競争</title>
+      <link>https://www.bbc.com/news/articles/cj0d6el50ppo?at_medium=RSS&amp;at_campaign=rss&amp;ref=2026-03-17</link>
+      <guid isPermaLink="false">urn:research:2026-03-17:e31e882cca</guid>
+      <source url="https://www.bbc.com/news/articles/cj0d6el50ppo?at_medium=RSS&amp;at_campaign=rss">BBC News Tech</source>
+      <dc:creator>BBC News Tech</dc:creator>
+      <description>&lt;p&gt;AI技術への反発が高まり、世界中で「AI不使用」ロゴの試みが爆発的に増加&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; AI反発運動、消費者意識と市場トレンドに影響&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; BBC News Tech / 2026-03-16 00:32:50&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★☆☆ (3/5)&lt;/p&gt;</description>
-      <pubDate>Mon, 16 Mar 2026 10:12:31 +0900</pubDate>
+      <pubDate>Tue, 17 Mar 2026 08:10:29 +0900</pubDate>
       <category>重要度3</category>
     </item>
     <item>
-      <title>[★3] 中国AIスタートアップMoonshotが180億ドル評価で資金調達</title>
-      <link>https://www.bloomberg.com/news/articles/2026-03-14/china-ai-startup-moonshot-snags-funds-at-18-billion-valuation?ref=2026-03-16</link>
-      <guid isPermaLink="false">urn:research:2026-03-16:b0f1ae3560</guid>
-      <source url="https://www.bloomberg.com/news/articles/2026-03-14/china-ai-startup-moonshot-snags-funds-at-18-billion-valuation">Bloomberg Tech</source>
-      <dc:creator>Bloomberg Tech</dc:creator>
-      <description>&lt;p&gt;Moonshot AIが評価額を3ヶ月で4倍以上に引き上げ、最大10億ドルの資金調達を目指す。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 中国AI産業の成長、国際競争への影響&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Bloomberg Tech / 2026-03-14 09:35:20&lt;/p&gt;
+      <title>[★3] 欧州のソーシャルメディア「FolkPost」、ボットなし無限スクロールなし</title>
+      <link>https://news.google.com/rss/articles/CBMiXkFVX3lxTE9zN1dyTE80Mm1SRUdEZ0FnQmlCYW5CS0gtenVzclRVb0x3WjZwOFUtdkVoOUxWZ3BESTZYbkVMcGNTRUNrQk1UT3JJcnYwa1pTWkl5azZ4bTYwMUx4bXc?ref=2026-03-17</link>
+      <guid isPermaLink="false">urn:research:2026-03-17:1e53808d72</guid>
+      <source url="https://news.google.com/rss/articles/CBMiXkFVX3lxTE9zN1dyTE80Mm1SRUdEZ0FnQmlCYW5CS0gtenVzclRVb0x3WjZwOFUtdkVoOUxWZ3BESTZYbkVMcGNTRUNrQk1UT3JJcnYwa1pTWkl5azZ4bTYwMUx4bXc">Cybernews</source>
+      <dc:creator>Cybernews</dc:creator>
+      <description>&lt;p&gt;ボットや無限スクロールのない欧州発の新SNSプラットフォームが登場&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; オルタナティブSNSの試み、メディア環境の多様化&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Cybernews / 2026-03-16 12:31:01&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★☆☆ (3/5)&lt;/p&gt;</description>
-      <pubDate>Mon, 16 Mar 2026 10:12:31 +0900</pubDate>
+      <pubDate>Tue, 17 Mar 2026 08:10:29 +0900</pubDate>
       <category>重要度3</category>
+      <category>platform accountability</category>
+    </item>
+    <item>
+      <title>[★3] クレンショー下院議員、誤情報が予備選敗北の一因と発言</title>
+      <link>https://news.google.com/rss/articles/CBMilwFBVV95cUxNaXdtOHFwUUVPejduWkY5RjBoS0pxYVg3cVdUWXE2Uk5JYW44NnduSUd1ZldxMmdlUkphNXZCWk1ROHJjdmF6WmRHTnhNWTlyc2RRS1V6RzdwXzUxQ2daU2YzZmRESlB4emRNLXd4S0FjNFhQbXc3eWNmcG9vcEtLT1Vfc0g2SUNXWHVmSXNmMzdBdGJtNF9F0gGcAUFVX3lxTE5qazg2RVdScl9SODVSM3BHaE9UQjZzaU5FNW01VVdKZHNHOGxiMF8tWS1hWUQ2M1FBWUowakVjV2FjQ0ZadEJkZmFLaEc1Qjhta0JUYS1xRS1wb2NVSGNmaVJLSHlUcjM3aWI4VTRIeTczaWVsS21qWDBsQnNfdjI0d3diV3NGTjJjZHFHOXQ3Sk12c0lLYUhMRW5HTA?ref=2026-03-17</link>
+      <guid isPermaLink="false">urn:research:2026-03-17:9639346ee5</guid>
+      <source url="https://news.google.com/rss/articles/CBMilwFBVV95cUxNaXdtOHFwUUVPejduWkY5RjBoS0pxYVg3cVdUWXE2Uk5JYW44NnduSUd1ZldxMmdlUkphNXZCWk1ROHJjdmF6WmRHTnhNWTlyc2RRS1V6RzdwXzUxQ2daU2YzZmRESlB4emRNLXd4S0FjNFhQbXc3eWNmcG9vcEtLT1Vfc0g2SUNXWHVmSXNmMzdBdGJtNF9F0gGcAUFVX3lxTE5qazg2RVdScl9SODVSM3BHaE9UQjZzaU5FNW01VVdKZHNHOGxiMF8tWS1hWUQ2M1FBWUowakVjV2FjQ0ZadEJkZmFLaEc1Qjhta0JUYS1xRS1wb2NVSGNmaVJLSHlUcjM3aWI4VTRIeTczaWVsS21qWDBsQnNfdjI0d3diV3NGTjJjZHFHOXQ3Sk12c0lLYUhMRW5HTA">CBS News</source>
+      <dc:creator>CBS News</dc:creator>
+      <description>&lt;p&gt;ダン・クレンショー議員が誤情報が予備選敗北に影響したと主張、「オンラインを全て信じるのか」と質問&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 政治選挙への誤情報影響、民主主義プロセスへの懸念&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; CBS News / 2026-03-15 20:56:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★☆☆ (3/5)&lt;/p&gt;</description>
+      <pubDate>Tue, 17 Mar 2026 08:10:29 +0900</pubDate>
+      <category>重要度3</category>
+      <category>misinformation</category>
+    </item>
+    <item>
+      <title>[★3] NTTがオンライン誤情報対策のC2PAベースシステムを試験</title>
+      <link>https://news.google.com/rss/articles/CBMipwFBVV95cUxONnVQOHh2TWRhUXp6X3hDX0hTcUZJOHkxYlEya1lwS1ZuaVBqVXJSem02LTlnTFdDZ1Z3eENwQ0VnU0VWRlFaQU1wRzVvOFNxazVoMzY4b3ROeHpReUxrMkV4Z2lTZmhpWmMyc2tiandXU3FYdVRta0VIRTk5aDlKN0JUMkE1d2hBMGtydm1TS0tEeWt0ck4zM2NOclAwSkdNWGhHTkVybw?ref=2026-03-17</link>
+      <guid isPermaLink="false">urn:research:2026-03-17:29c6723d7f</guid>
+      <source url="https://news.google.com/rss/articles/CBMipwFBVV95cUxONnVQOHh2TWRhUXp6X3hDX0hTcUZJOHkxYlEya1lwS1ZuaVBqVXJSem02LTlnTFdDZ1Z3eENwQ0VnU0VWRlFaQU1wRzVvOFNxazVoMzY4b3ROeHpReUxrMkV4Z2lTZmhpWmMyc2tiandXU3FYdVRta0VIRTk5aDlKN0JUMkE1d2hBMGtydm1TS0tEeWt0ck4zM2NOclAwSkdNWGhHTkVybw">Telecompaper</source>
+      <dc:creator>Telecompaper</dc:creator>
+      <description>&lt;p&gt;NTTがC2PA規格に基づくオンライン誤情報対策システムの試験運用を開始&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 技術的誤情報対策の進展、業界標準化の動き&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Telecompaper / 2026-03-16 06:53:58&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★☆☆ (3/5)&lt;/p&gt;</description>
+      <pubDate>Tue, 17 Mar 2026 08:10:29 +0900</pubDate>
+      <category>重要度3</category>
+      <category>misinformation</category>
     </item>
   </channel>
 </rss>
