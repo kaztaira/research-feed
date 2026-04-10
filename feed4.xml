@@ -5,26 +5,26 @@
     <description>AI・偽情報・ディスインフォメーションに関する日次リサーチレポート。主要海外メディアから重要ニュースを抽出・評価。</description>
     <link>https://kaztaira.wordpress.com</link>
     <language>ja</language>
-    <lastBuildDate>Sat, 11 Apr 2026 05:58:31 +0900</lastBuildDate>
-    <pubDate>Sat, 11 Apr 2026 05:58:31 +0900</pubDate>
+    <lastBuildDate>Sat, 11 Apr 2026 07:01:22 +0900</lastBuildDate>
+    <pubDate>Sat, 11 Apr 2026 07:01:22 +0900</pubDate>
     <generator>AI/Disinformation Research Agent</generator>
     <ttl>720</ttl>
     <docs>https://www.rssboard.org/rss-specification</docs>
     <atom:link href="https://kaztaira.github.io/research-feed/feed4.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
     <item>
-      <title>[★5] Google、YouTubeショートでAIディープフェイク自分身を簡単に作成可能に</title>
-      <link>https://kaztaira.github.io/research-feed/go/4f87db76a4b9.html</link>
-      <guid isPermaLink="false">urn:research:4f87db76a4b9</guid>
-      <source url="https://www.theverge.com/ai-artificial-intelligence/909104/youtube-shorts-make-ai-avatar">The Verge AI</source>
-      <dc:creator>The Verge AI</dc:creator>
-      <description>&lt;p&gt;YouTubeショートにAIアバター機能が追加。クリエイターが自分のリアルなクローンを簡単に作成可能に。ディープフェイク技術の大衆化が加速。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; ディープフェイク技術の主流プラットフォームへの統合は偽情報リスクを大幅に拡大&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; The Verge AI / 2026-04-09 10:53:49&lt;/p&gt;
+      <title>[★5] ハンガリー選挙前にオルバン政権の反対派がAI偽情報の標的に</title>
+      <link>https://kaztaira.github.io/research-feed/go/a36723fdae32.html</link>
+      <guid isPermaLink="false">urn:research:a36723fdae32</guid>
+      <source url="https://news.google.com/rss/articles/CBMi1gFBVV95cUxNeUs0TkFhQmQ3UHR0M1ZONTdId0d0MUdlZ2R2Mkp3dlM4dWZld2hMczdjVE5IWU82WDlUVkwySm1LcDlxbmpvRVB6enpKNWY4SlloeG5FOExFWktYVWVtTE53aHEwVVRiWWZkWVFoY3dEcmh5VzA3blVWcUhXYnFjOFZ5TDZzdFN0Mm50VlJVbThLbVFjSVR4cl9USEwtV0RXdzN3SS1qRkZkU3o2ZXFTTDhUM1dxSUdvRE42LVZHNFgwdDNQb1V2M1hpcTJHdmZrNUcwLWxB?oc=5">France 24</source>
+      <dc:creator>France 24</dc:creator>
+      <description>&lt;p&gt;ハンガリーの選挙を前にオルバン首相の反対派がAI駆動の偽情報キャンペーンの標的に。AI偽情報と選挙干渉の結合事例。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; AI偽情報による選挙干渉はEU圏の民主主義に対する直接的脅威&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; France 24 / 2026-04-10 16:56:10&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★★ (5/5)&lt;/p&gt;</description>
-      <pubDate>Sat, 11 Apr 2026 05:58:31 +0900</pubDate>
+      <pubDate>Sat, 11 Apr 2026 07:01:22 +0900</pubDate>
       <category>重要度5</category>
-      <category>deepfake</category>
+      <category>disinformation</category>
     </item>
     <item>
       <title>[★5] Google AIオーバービューが前例のない規模で誤情報を拡散との分析</title>
@@ -32,40 +32,296 @@
       <guid isPermaLink="false">urn:research:deb93a342f57</guid>
       <source url="https://news.google.com/rss/articles/CBMihgFBVV95cUxNRjFSZ1I2dFFtOWdFdllSYnBLUTREV09lcWtTeThrU0lvYS1HUjNfaktkNTVkMWRSU1otbW1mNVE4N3hmYTdDaHI3SnpGRDExSWMyakFGMEtuNms2c2s5TXdDLWhxTGtqMzNGVWJJeTVFSlV6WnhjQ2g0T0FTZHk1UHVmSi01dw?oc=5">Google News - Disinformation</source>
       <dc:creator>Google News - Disinformation</dc:creator>
-      <description>&lt;p&gt;GoogleのAIオーバービュー機能が「人類史上前例のない規模」で誤情報を提供しているとの調査結果が公表された。&lt;/p&gt;
+      <description>&lt;p&gt;GoogleのAIオーバービュー機能が「人類史上前例のない規模」で誤情報を提供しているとの調査結果。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; AI検索による誤情報の大規模拡散は市民社会の情報環境に深刻な影響&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Google News - Disinformation / 2026-04-08 19:16:29&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★★ (5/5)&lt;/p&gt;</description>
-      <pubDate>Sat, 11 Apr 2026 05:58:31 +0900</pubDate>
+      <pubDate>Sat, 11 Apr 2026 07:01:22 +0900</pubDate>
       <category>重要度5</category>
       <category>misinformation</category>
     </item>
     <item>
-      <title>[★5] ロンドン市長がSNS企業の偽情報「吹雪」を非難</title>
+      <title>[★5] ロンドン市長がSNS企業の偽情報「吹雪」を非難しSNS規制を要求</title>
       <link>https://kaztaira.github.io/research-feed/go/4b4427a6b084.html</link>
       <guid isPermaLink="false">urn:research:4b4427a6b084</guid>
       <source url="https://www.bbc.com/news/articles/cp3l4kwer5ko?at_medium=RSS&amp;at_campaign=rss">BBC News Tech</source>
       <dc:creator>BBC News Tech</dc:creator>
-      <description>&lt;p&gt;サディク・カーン市長がロンドンを「衰退都市」と描くソーシャルメディア上の偽情報を批判し、SNS企業の責任を追及。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 大都市首長によるプラットフォーム責任追及は国際的な規制議論に影響&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; BBC News Tech / 2026-04-09 19:04:18&lt;/p&gt;
+      <description>&lt;p&gt;サディク・カーン市長がロンドンを「衰退都市」と描くSNS偽情報を批判し、プラットフォーム企業への規制強化を要求。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 大都市首長のプラットフォーム規制要求は国際的な政策議論に影響&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; BBC News Tech / 2026-04-10 15:29:31&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★★ (5/5)&lt;/p&gt;</description>
-      <pubDate>Sat, 11 Apr 2026 05:58:31 +0900</pubDate>
+      <pubDate>Sat, 11 Apr 2026 07:01:22 +0900</pubDate>
       <category>重要度5</category>
       <category>disinformation</category>
+      <category>AI regulation</category>
+      <category>platform accountability</category>
+    </item>
+    <item>
+      <title>[★5] Google、YouTubeショートでAIディープフェイク自分身を簡単に作成可能に</title>
+      <link>https://kaztaira.github.io/research-feed/go/4f87db76a4b9.html</link>
+      <guid isPermaLink="false">urn:research:4f87db76a4b9</guid>
+      <source url="https://www.theverge.com/ai-artificial-intelligence/909104/youtube-shorts-make-ai-avatar">The Verge AI</source>
+      <dc:creator>The Verge AI</dc:creator>
+      <description>&lt;p&gt;YouTubeショートにAIアバター機能が追加。クリエイターが自分のリアルなクローンを簡単に作成可能に。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; ディープフェイク技術の主流プラットフォームへの統合は偽情報リスクを拡大&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; The Verge AI / 2026-04-09 10:53:49&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★★ (5/5)&lt;/p&gt;</description>
+      <pubDate>Sat, 11 Apr 2026 07:01:22 +0900</pubDate>
+      <category>重要度5</category>
+      <category>deepfake</category>
     </item>
     <item>
       <title>[★5] 英国議員がロシアの偽情報を「戦争状態」と警告</title>
       <link>https://kaztaira.github.io/research-feed/go/d9d9b4dd95d7.html</link>
       <guid isPermaLink="false">urn:research:d9d9b4dd95d7</guid>
-      <source url="https://news.google.com/rss/articles/CBMivAFBVV95cUxOOHg4ZFFzRVI4MlpBRHNZN1NwWGpuYWJvZTRRTlJKMjZXUFBtckg2WndrdEdoclZ2MkZTWXIycTRCSlZwaFpHd1BHeENNek45MkpIclV2aFR6MWxjQ2lCeklIeDBlTmpMVEZtYl82QmdDVGIyZVBpZ3ZHbXNrYTMzNEtqOGFkeGJnZnlVSTdxcE9BelQ2X1dNQ0gxSnZ6a2tnRElqNjlrUGEwYl9HZHZ5ZWtSSUFoNlBkNUF4Rg?oc=5">Google News - Disinformation</source>
-      <dc:creator>Google News - Disinformation</dc:creator>
+      <source url="https://news.google.com/rss/articles/CBMivAFBVV95cUxOOHg4ZFFzRVI4MlpBRHNZN1NwWGpuYWJvZTRRTlJKMjZXUFBtckg2WndrdEdoclZ2MkZTWXIycTRCSlZwaFpHd1BHeENNek45MkpIclV2aFR6MWxjQ2lCeklIeDBlTmpMVEZtYl82QmdDVGIyZVBpZ3ZHbXNrYTMzNEtqOGFkeGJnZnlVSTdxcE9BelQ2X1dNQ0gxSnZ6a2tnRElqNjlrUGEwYl9HZHZ5ZWtSSUFoNlBkNUF4Rg?oc=5">Forbes</source>
+      <dc:creator>Forbes</dc:creator>
       <description>&lt;p&gt;英国議員らがロシアの偽情報活動を「戦争状態に等しい」と警告。情報戦の深刻化を指摘。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; ロシアの偽情報が「戦争」レベルとの公式認識は国際安全保障に重大な意味&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Google News - Disinformation / 2026-04-09 12:29:05&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Forbes / 2026-04-09 12:29:05&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★★ (5/5)&lt;/p&gt;</description>
-      <pubDate>Sat, 11 Apr 2026 05:58:31 +0900</pubDate>
+      <pubDate>Sat, 11 Apr 2026 07:01:22 +0900</pubDate>
       <category>重要度5</category>
+      <category>disinformation</category>
+    </item>
+    <item>
+      <title>[★4] ホワイトハウス予算がCISAの偽情報対策プログラムを削減</title>
+      <link>https://kaztaira.github.io/research-feed/go/bdcd5c6586ad.html</link>
+      <guid isPermaLink="false">urn:research:bdcd5c6586ad</guid>
+      <source url="https://news.google.com/rss/articles/CBMiqgFBVV95cUxQOE1fbG1hY1IwSmZSNmFBdC1JTThIUlFSel9ZcnVKYms4eVQxd0lzQm1mci1SNzhBczF0TC1zZk5ZNHZYQTk0RHhlcUYtWmxwS3k4enFTQlJMVF93Mkw5ZjJFREVQaU5KNzJZTnZoWEtpY0I5N20zRTRxbEsxRFRQMXlSSXp0NVExM2t2ZFQ0TWhZem9EX3ZNOV81bjZTVld6bzN2dWxPWTRfZw?oc=5">Google News - Disinformation</source>
+      <dc:creator>Google News - Disinformation</dc:creator>
+      <description>&lt;p&gt;米ホワイトハウスの予算案がCISAの偽情報対策プログラムを大幅削減。対策能力の弱体化が懸念される。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 偽情報対策の政府予算削減は情報環境の悪化に直結&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Google News - Disinformation / 2026-04-09 14:23:58&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
+      <pubDate>Sat, 11 Apr 2026 07:01:22 +0900</pubDate>
+      <category>重要度4</category>
+      <category>disinformation</category>
+    </item>
+    <item>
+      <title>[★4] ディープフェイクポルノで初の連邦有罪判決（オハイオ州男性）</title>
+      <link>https://kaztaira.github.io/research-feed/go/ef5d6212f105.html</link>
+      <guid isPermaLink="false">urn:research:ef5d6212f105</guid>
+      <source url="https://news.google.com/rss/articles/CBMidkFVX3lxTE9jNTlidkF0c014b1N3b1FFM1V6X1ItV2dTZC13TFQtME9BenZ5cVEzMWg0bU9xQWp5TG1Fc1lfVng5TFh3VVl3QWR2NjhfWGFGTE9XcUpVS21MSVpCeTRsaXE1Y1dnU2tFX0hIUkVKWFQ1TVJBLWc?oc=5">New York Times</source>
+      <dc:creator>New York Times</dc:creator>
+      <description>&lt;p&gt;ディープフェイクポルノを作成・配布した男性が連邦法で初めて有罪判決。法的先例として画期的。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; ディープフェイク犯罪への初の連邦有罪判決は法的先例として重要&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; New York Times / 2026-04-09 00:59:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
+      <pubDate>Sat, 11 Apr 2026 07:01:22 +0900</pubDate>
+      <category>重要度4</category>
+      <category>deepfake</category>
+    </item>
+    <item>
+      <title>[★4] オルバン政権のSNSを使った偽情報キャンペーンの実態</title>
+      <link>https://kaztaira.github.io/research-feed/go/6a5c456a79f5.html</link>
+      <guid isPermaLink="false">urn:research:6a5c456a79f5</guid>
+      <source url="https://news.google.com/rss/articles/CBMiqwFBVV95cUxPajBPNW1jakh5dDluT0J0S3Jlc2xKcm52WHdMMzV4VWZOMWJOQ1dkM2VjMTZxWUVVVHFFRVBPeFdycTVnWlVndWt5YVE2RnBXNU03R2FwRWdIOFRocUNNWUMzSDdDYTBvTDlla181MUd6ZzZVM1c4UFhTQkNONzByTFAzSWptdXhqWElEdHFEajNiMjc5ZlpZYlVRSTVGSjNwZUJqUEVZODI3N2PSAbABQVVfeXFMT1JxOUZWZjlWTWdzMGpOc18tYTFNQUo4ejRwV3JsS2JQdXZ0LXVDWmRpVlZvaW5vNHBSbmNrMTNISUQwcjJBMFZmYkpjeTZvaFJPanlTWmVZYV9qNmhzUUdSc0pDeDBGN2N4a3IwaXU5TEFicE02T01GUmdZSVl3ZGpVZHN6SS1Ecy12QVFnakctS3k1RzZPS2NYd0hmaW9aTnVjOVhyWmxTMmJ6ZDlRNUg?oc=5">Devdiscourse</source>
+      <dc:creator>Devdiscourse</dc:creator>
+      <description>&lt;p&gt;ハンガリーのオルバン政権がSNSを利用したデジタル偽情報キャンペーンを展開。権威主義的情報操作の実態。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 権威主義政権による組織的SNS偽情報はEU民主主義への脅威&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Devdiscourse / 2026-04-10 15:17:27&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
+      <pubDate>Sat, 11 Apr 2026 07:01:22 +0900</pubDate>
+      <category>重要度4</category>
+      <category>disinformation</category>
+    </item>
+    <item>
+      <title>[★4] TikTok、ハンガリー選挙前に偽情報ネットワークを削除</title>
+      <link>https://kaztaira.github.io/research-feed/go/2d59a4551c3f.html</link>
+      <guid isPermaLink="false">urn:research:2d59a4551c3f</guid>
+      <source url="https://news.google.com/rss/articles/CBMidkFVX3lxTFA2MEFMUGpvYVlRWlhoLTl0d2JaY0lmUkNxZFVlVHVoa2p3Vk1DSF9XeEJ6MXJQRUdWaGl3RTg3LWs0QlNqR3Z5R3RpV045ajVXaXpGd3hnTUswaUtpUkQ3VXlGSnA2ZlluV2NUNzQ3cGhpdms2b2c?oc=5">Google News - Disinformation</source>
+      <dc:creator>Google News - Disinformation</dc:creator>
+      <description>&lt;p&gt;TikTokがハンガリーの選挙を前に秘密裏の偽情報ネットワークを削除。プラットフォームの選挙対策が注目。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 選挙前の偽情報対策はプラットフォームの民主主義への責任を示す&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Google News - Disinformation / 2026-04-08 20:28:27&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
+      <pubDate>Sat, 11 Apr 2026 07:01:22 +0900</pubDate>
+      <category>重要度4</category>
+      <category>disinformation</category>
+      <category>platform accountability</category>
+    </item>
+    <item>
+      <title>[★4] 米国の10代を脅かすディープフェイクヌード問題</title>
+      <link>https://kaztaira.github.io/research-feed/go/9ca591e6284d.html</link>
+      <guid isPermaLink="false">urn:research:9ca591e6284d</guid>
+      <source url="https://news.google.com/rss/articles/CBMid0FVX3lxTE1acXp3R3hHWGJ6TGFmNVhWVTZOQXd4UHBQUjRhUEJ0aFljRXdvMkJOZE00YTdnUUdNZGhQY2YtdUZsMHFTZlZJRXNVWW9DN243YUNfU0UyUGtNSDVMeWxTLXBWRlZZdHo2djI4YlJTSHFRUFNWSW5V?oc=5">New York Times</source>
+      <dc:creator>New York Times</dc:creator>
+      <description>&lt;p&gt;米国の10代がディープフェイクヌードの被害に遭う事例が急増。社会問題として深刻化。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 青少年のディープフェイク被害は社会的に深刻な問題&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; New York Times / 2026-04-08 13:00:14&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
+      <pubDate>Sat, 11 Apr 2026 07:01:22 +0900</pubDate>
+      <category>重要度4</category>
+      <category>deepfake</category>
+    </item>
+    <item>
+      <title>[★4] フランスのロシア偽情報対策の教訓</title>
+      <link>https://kaztaira.github.io/research-feed/go/e83ed0c008eb.html</link>
+      <guid isPermaLink="false">urn:research:e83ed0c008eb</guid>
+      <source url="https://news.google.com/rss/articles/CBMimgFBVV95cUxOOXdhaXhCSjBPeFdSN0J2X1VKM0ZUamc2MjVmblhGcHMyNnNJcjhTNVY2emw2T1NPenZMQ05uYnBReVNpcWZwN1dGSFUtUjR3Tm1QcUk4WVRxRUdTa21iWUVXTXlCYVBfM0xra3kxZURPSXNOTFFZNXh4dWg4Q200X3pBMmNrSGJiRjZJMkpPMVY3aGhHdm1feXp3?oc=5">The Economist</source>
+      <dc:creator>The Economist</dc:creator>
+      <description>&lt;p&gt;フランスがロシアの偽情報にどう対処したか。他国への教訓を提供する分析記事。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 偽情報対策の国際的ベストプラクティスとして政策立案者に有益&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; The Economist / 2026-04-08 15:31:25&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
+      <pubDate>Sat, 11 Apr 2026 07:01:22 +0900</pubDate>
+      <category>重要度4</category>
+      <category>disinformation</category>
+    </item>
+    <item>
+      <title>[★4] ハンガリーの岐路：権力・偽情報・政治的連携の政治学</title>
+      <link>https://kaztaira.github.io/research-feed/go/8de41fe5f678.html</link>
+      <guid isPermaLink="false">urn:research:8de41fe5f678</guid>
+      <source url="https://news.google.com/rss/articles/CBMivAFBVV95cUxOdFh2alRJQWpkalhQNmxJRmY1VWh5cl9TeENCaFNjNUx6N0JkNUpmeDc0SVZ4cjE0X0tFbnlQYXR3MUkwZUhrNEFsX0VacmhRUlpweVQxNEQ4M1Y2Rk5mXzR1Umg2bzZWeHl0MFBhcFBFSi04Q3l5NFFnZmxKR1l4dU9ib0JUUUtuUzNuMl9JTDh6eERCZHFFNmZMbXA0bnp4LTlQT3lPWUJmcXhTUzBORldkVVhRQm1DZS1QdA?oc=5">Friedrich Naumann Foundation</source>
+      <dc:creator>Friedrich Naumann Foundation</dc:creator>
+      <description>&lt;p&gt;ハンガリーの政治状況を権力・偽情報・政治的連携の観点から分析。EU圏の民主主義の試金石。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; ハンガリーの情報環境分析はEU全体の偽情報対策に示唆&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Friedrich Naumann Foundation / 2026-04-10 05:38:25&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
+      <pubDate>Sat, 11 Apr 2026 07:01:22 +0900</pubDate>
+      <category>重要度4</category>
+      <category>disinformation</category>
+    </item>
+    <item>
+      <title>[★3] トルコの偽情報法で2022年以降83人のジャーナリストが起訴</title>
+      <link>https://kaztaira.github.io/research-feed/go/3431c60bccd0.html</link>
+      <guid isPermaLink="false">urn:research:3431c60bccd0</guid>
+      <source url="https://news.google.com/rss/articles/CBMikwFBVV95cUxQVHRtZlVBelJiMzhiNUtpeVJvYy1xd3p1LWdwQkk2V2t4TFR4YU5lOXhaMk43SksyemxLYTVkR0dfSi1aa19TRGJsS1RXcFIyRFlsbGdwbzhiMFBES2VXQ1dvVjVpUE85MnNldmlHS0FZb3F6UjZMZzg2WlpTUkNhRjlXemMtWVAxWHpnb0ZoaFFQcFU?oc=5">Bianet</source>
+      <dc:creator>Bianet</dc:creator>
+      <description>&lt;p&gt;トルコの偽情報対策法が83人以上のジャーナリスト起訴に使用。報道の自由への影響が深刻。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 偽情報法の報道の自由への影響は民主主義にとって重要な論点&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Bianet / 2026-04-10 12:47:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★☆☆ (3/5)&lt;/p&gt;</description>
+      <pubDate>Sat, 11 Apr 2026 07:01:22 +0900</pubDate>
+      <category>重要度3</category>
+      <category>disinformation</category>
+    </item>
+    <item>
+      <title>[★3] チベットの物語への戦い：デジタル弾圧と偽情報</title>
+      <link>https://kaztaira.github.io/research-feed/go/a502bfa3bdf8.html</link>
+      <guid isPermaLink="false">urn:research:a502bfa3bdf8</guid>
+      <source url="https://news.google.com/rss/articles/CBMizgFBVV95cUxQMktTX2Mtd21lNGhpSmpwWjk2VDZKYXVBVktfdE11N1dPSDFMUmo3NmV4amM2OFpoNk83cDBDNE5jZXJXcVJnZUFmVHV2SGRZZUtLc2ZHY3FnbFh5TC1wcXVpSHk4YXJFeEQxd0drcmhhLVVxa0tTM0FhUEZRSkFFa1FCd2pYUG5iX0VONVZMaG9WbDJod1Fnd2pueWNqMlhPbVpKeVFWZkFnYno0SXBjYTFRWlltUkt2clZPLVFXZy14ajQtbzZMUUJDSUFrQQ?oc=5">Phayul</source>
+      <dc:creator>Phayul</dc:creator>
+      <description>&lt;p&gt;チベットコミュニティに対するデジタル弾圧と偽情報について分析。情報戦の人権への影響を指摘。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; デジタル弾圧と偽情報の人権侵害への利用は国際的課題&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Phayul / 2026-04-10 17:18:17&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★☆☆ (3/5)&lt;/p&gt;</description>
+      <pubDate>Sat, 11 Apr 2026 07:01:22 +0900</pubDate>
+      <category>重要度3</category>
+      <category>disinformation</category>
+    </item>
+    <item>
+      <title>[★3] FISA再認可をめぐる恐怖煽りと偽情報が加速</title>
+      <link>https://kaztaira.github.io/research-feed/go/c9d5e71a4cac.html</link>
+      <guid isPermaLink="false">urn:research:c9d5e71a4cac</guid>
+      <source url="https://news.google.com/rss/articles/CBMigwFBVV95cUxPNDRXX1dEblJyM1lWOFhBUnV6WWVaWGxzaEdJRzlSUFBDLTBIdkd1SkY2Qzdjem9SYTlnOGd4RWlmQXdFSjBDenJyMzlpU2F5Y0dPZWl4VVBEMmpXc0pFdkk0UmVCeDFWZVlLdWc2dWI5eU9mZnVvbXE4cldVRG50WkhnZw?oc=5">Cato Institute</source>
+      <dc:creator>Cato Institute</dc:creator>
+      <description>&lt;p&gt;FISA再認可の議論で偽情報と恐怖煽りが加速。監視法制と情報の自由をめぐる対立。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 監視法制をめぐる偽情報はプライバシーと安全保障の議論に影響&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Cato Institute / 2026-04-10 18:21:04&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★☆☆ (3/5)&lt;/p&gt;</description>
+      <pubDate>Sat, 11 Apr 2026 07:01:22 +0900</pubDate>
+      <category>重要度3</category>
+      <category>disinformation</category>
+    </item>
+    <item>
+      <title>[★3] ネタニヤフ首相の「死亡」偽情報とAI駆動の誤情報</title>
+      <link>https://kaztaira.github.io/research-feed/go/e39639a847a4.html</link>
+      <guid isPermaLink="false">urn:research:e39639a847a4</guid>
+      <source url="https://news.google.com/rss/articles/CBMisAFBVV95cUxPaGRiS0lzTXFXOGNQUDFub3NEYXdURVFpQkhRNTFnai1oeHN1RmhodU1LdnVueXpUUzFIZzlDalFINDlndDJncXBnaE9MZHRXc095TjlTb3cwMGRibC1JSHZEa0N3N2JGQ08xVW9rb2xaOFFyX1c2QU1JdGxIdTNYczN6aldEeGhuYVA4TG9YYVZpMGltM0NyaG9rdkhhcUJFcS1lUGlXeVJ5c05MTktHQw?oc=5">Modern Diplomacy</source>
+      <dc:creator>Modern Diplomacy</dc:creator>
+      <description>&lt;p&gt;ネタニヤフ首相の死亡を主張するAI生成偽情報が拡散。「見ることが信じること」ではなくなった時代の危険性。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; AI生成偽画像による政治的偽情報の具体例&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Modern Diplomacy / 2026-04-08 04:00:51&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★☆☆ (3/5)&lt;/p&gt;</description>
+      <pubDate>Sat, 11 Apr 2026 07:01:22 +0900</pubDate>
+      <category>重要度3</category>
+      <category>disinformation</category>
+      <category>misinformation</category>
+    </item>
+    <item>
+      <title>[★3] SNSのメンタルヘルス誤情報が蔓延</title>
+      <link>https://kaztaira.github.io/research-feed/go/d051405eeecd.html</link>
+      <guid isPermaLink="false">urn:research:d051405eeecd</guid>
+      <source url="https://news.google.com/rss/articles/CBMinwFBVV95cUxNRkhoTGttb25RMlFlNjNtSVI0d3JfSWVBRWRPd3dBeXdxbWJDeG5janlMdF9UMUxhLUdiSGU5LU1RaXhIQXpfTGl1Q0lEZ2JtbWdWNnUxM0prN0RFU1hGQmJCemFKeXc0SFlpR1VCNE52QWxucjMzVVYwMFRBTmxPbkVZRGZtcVYzNkhyRlh1bms3ZHZacEtEb3pYSW5rRWM?oc=5">European Medical Journal</source>
+      <dc:creator>European Medical Journal</dc:creator>
+      <description>&lt;p&gt;ソーシャルメディア上のメンタルヘルスに関する誤情報が広範に蔓延しているとの研究結果。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 健康分野の誤情報は公衆衛生に直接的な悪影響&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; European Medical Journal / 2026-04-09 14:03:41&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★☆☆ (3/5)&lt;/p&gt;</description>
+      <pubDate>Sat, 11 Apr 2026 07:01:22 +0900</pubDate>
+      <category>重要度3</category>
+      <category>misinformation</category>
+    </item>
+    <item>
+      <title>[★3] アゼルバイジャン、「ミサイル発射」主張を否定し偽情報を非難</title>
+      <link>https://kaztaira.github.io/research-feed/go/64059ce7dee0.html</link>
+      <guid isPermaLink="false">urn:research:64059ce7dee0</guid>
+      <source url="https://news.google.com/rss/articles/CBMiVEFVX3lxTFBIaEJSSGh4YTJIaEVBLXBMRW1RMHNEUkw5WkxTRnBNTS1UYW1kSWNGdE9rdHMzV0draTl5R2xHYlQ4ZzFUdXJoMTk0R1ZnaFI5eGppMA?oc=5">AzerNews</source>
+      <dc:creator>AzerNews</dc:creator>
+      <description>&lt;p&gt;アゼルバイジャンがミサイル発射の主張を否定し、地域緊張下での偽情報を非難。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 地政学的偽情報は地域の安定に直接影響&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; AzerNews / 2026-04-10 12:22:19&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★☆☆ (3/5)&lt;/p&gt;</description>
+      <pubDate>Sat, 11 Apr 2026 07:01:22 +0900</pubDate>
+      <category>重要度3</category>
+      <category>disinformation</category>
+    </item>
+    <item>
+      <title>[★3] ウクライナのジャーナリスト向け偽情報対策ワークショップ開催</title>
+      <link>https://kaztaira.github.io/research-feed/go/a1c031471e9c.html</link>
+      <guid isPermaLink="false">urn:research:a1c031471e9c</guid>
+      <source url="https://news.google.com/rss/articles/CBMi5gFBVV95cUxPUFlIUGR2ci1EeU9HRk9wOEtKNmEwVHppMWJkNG9vaktKaWVyazF4Uml0Q2w5ZzRnYjhzamVRNEJ0aDMxT1NDRE9tcHprOU1kNUpKTjJTSFZ6QWtodVd6cEdkZ3NrbzRSQU5ROC01NHBOd1BPRW40WS1VZVh0dHdzVWNOSlhTVl8yUVVwTFhrMlotMXBvbk1nWFM3dDBDN25uclhaZm1JS3hSTnFJWm5BVWVoSEV5QW4wbE1yY2dfaDdtNmpNSUYxblV5TkllMGRucmJzOFNQck1sT3ZIMlc5OGt2ZWVLZw?oc=5">EU NEIGHBOURS east</source>
+      <dc:creator>EU NEIGHBOURS east</dc:creator>
+      <description>&lt;p&gt;EUがウクライナのジャーナリスト・教育者・市民活動家向けに偽情報対策ワークショップを開催。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; メディアリテラシー向上の国際支援は偽情報対策の基盤&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; EU NEIGHBOURS east / 2026-04-10 09:45:55&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★☆☆ (3/5)&lt;/p&gt;</description>
+      <pubDate>Sat, 11 Apr 2026 07:01:22 +0900</pubDate>
+      <category>重要度3</category>
+      <category>disinformation</category>
+    </item>
+    <item>
+      <title>[★3] カナダのヘイトスピーチ改革に対する偽情報キャンペーン</title>
+      <link>https://kaztaira.github.io/research-feed/go/2205d5d3e129.html</link>
+      <guid isPermaLink="false">urn:research:2205d5d3e129</guid>
+      <source url="https://news.google.com/rss/articles/CBMimgFBVV95cUxQVm1RNEFmTzllc2RlT1dSM1FOQzFPSkM1RVowYk4tT2plODVWTHVXQ1lwcFBBSzg2R1RaWnE4dGZPZW80TUtxNkxTd2hzczIteElyZ1ZxZ3czUUl5YmxCYk1md09Rb2tVT3hWV3ViVV9fdVdLQXllQjF3OTkwMWJtdGJKSEk1R3hZeTA3WDNVeXE1NU40TVRIS0p3?oc=5">Yahoo</source>
+      <dc:creator>Yahoo</dc:creator>
+      <description>&lt;p&gt;カナダのヘイトスピーチ法改革に対して偽情報による妨害キャンペーンが展開されている。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 偽情報が立法プロセスに与える影響&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Yahoo / 2026-04-09 18:21:04&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★☆☆ (3/5)&lt;/p&gt;</description>
+      <pubDate>Sat, 11 Apr 2026 07:01:22 +0900</pubDate>
+      <category>重要度3</category>
+      <category>disinformation</category>
+    </item>
+    <item>
+      <title>[★3] AJIの偽情報との闘いの内側</title>
+      <link>https://kaztaira.github.io/research-feed/go/9c5953b53231.html</link>
+      <guid isPermaLink="false">urn:research:9c5953b53231</guid>
+      <source url="https://news.google.com/rss/articles/CBMilAFBVV95cUxPZkFXcE9QSjRPNXRmazRETDFvMTZPWERrX3U0MFMwN3lQQjZQWlVrUmNoSFVmVl9WZW5HQ1RkVGFQUmlEN3AtWXAwa291ZWx1Q21iU1A4MmlsSEF6WUZLZmIybVFPVmtPS295WlJuZ2hZck5DS2tFQWtqcXVydUVOWDBmbC1IcXNSZ0JxSDN0bFhHc3JP?oc=5">Editor and Publisher</source>
+      <dc:creator>Editor and Publisher</dc:creator>
+      <description>&lt;p&gt;ジャーナリスト組織AJIによる偽情報対策の取り組みの内幕。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; ジャーナリズム組織の偽情報対策は報道の質維持に重要&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Editor and Publisher / 2026-04-10 04:00:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★☆☆ (3/5)&lt;/p&gt;</description>
+      <pubDate>Sat, 11 Apr 2026 07:01:22 +0900</pubDate>
+      <category>重要度3</category>
+      <category>disinformation</category>
+    </item>
+    <item>
+      <title>[★2] ユーモアと知恵で偽情報を武装解除する方法</title>
+      <link>https://kaztaira.github.io/research-feed/go/1793bb8a7ae8.html</link>
+      <guid isPermaLink="false">urn:research:1793bb8a7ae8</guid>
+      <source url="https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWDMyaUV4eUJUV1h2S2hTanRYWk5JUml5eUtMZXNmOEtncGhXZ3dLUlRpUWVHZXBIX0V5NktnYUx1OE1KQTlnaG04aGVjSWNsbnNweW5PMG5wdkktZzFvZS1tUTV5bTZSdmJMOW1heEdqWm9jUlhtSXZ3RGFEMW50RmxmSE1rSk0zYUtXcGw3OEo0N3JFaFhscWcxRE1yTHp4Qk5zam5GTm5BZXPSAcQBQVVfeXFMTTRwTTBleXZPTEF0SjFkbzljcmRWU2pBemNzQWpfelFINnRjRWdjRk9WZTB0bTdWRFpPaEVUN0pxaV81YWlHbkdvX0RvU3NidU8tTUtwMFVpRjJIeWxtSkdYNkl0WHA5eDJNY09xVFNPVS1XeVlnRHozUUtTMm90Z0NZeDFpUzBteXhHVXhjMS1fNklzRTBaMXJkTXpvcTcyUXIxdXd1ZjNvcEFnSDEtWlRNNDdrZUpHZ3I5SUZWaVFvMzZCZg?oc=5">The Christian Science Monitor</source>
+      <dc:creator>The Christian Science Monitor</dc:creator>
+      <description>&lt;p&gt;ユーモアと知恵を使った偽情報対策のアプローチを紹介。市民レベルの対処法に焦点。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 市民参加型の偽情報対策は補完的だが重要なアプローチ&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; The Christian Science Monitor / 2026-04-10 19:21:52&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★☆☆☆ (2/5)&lt;/p&gt;</description>
+      <pubDate>Sat, 11 Apr 2026 07:01:22 +0900</pubDate>
+      <category>重要度2</category>
       <category>disinformation</category>
     </item>
     <item>
@@ -78,79 +334,8 @@
 &lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; AIのサイバー攻撃能力の進化がセキュリティと市民社会に及ぼす重大リスク&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Guardian Tech / 2026-04-08 22:10:39&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★★ (5/5)&lt;/p&gt;</description>
-      <pubDate>Sat, 11 Apr 2026 05:58:31 +0900</pubDate>
+      <pubDate>Fri, 10 Apr 2026 05:00:00 +0900</pubDate>
       <category>重要度5</category>
-    </item>
-    <item>
-      <title>[★4] ホワイトハウス予算がCISAの偽情報対策プログラムを削減</title>
-      <link>https://kaztaira.github.io/research-feed/go/bdcd5c6586ad.html</link>
-      <guid isPermaLink="false">urn:research:bdcd5c6586ad</guid>
-      <source url="https://news.google.com/rss/articles/CBMiqgFBVV95cUxQOE1fbG1hY1IwSmZSNmFBdC1JTThIUlFSel9ZcnVKYms4eVQxd0lzQm1mci1SNzhBczF0TC1zZk5ZNHZYQTk0RHhlcUYtWmxwS3k4enFTQlJMVF93Mkw5ZjJFREVQaU5KNzJZTnZoWEtpY0I5N20zRTRxbEsxRFRQMXlSSXp0NVExM2t2ZFQ0TWhZem9EX3ZNOV81bjZTVld6bzN2dWxPWTRfZw?oc=5">Google News - Disinformation</source>
-      <dc:creator>Google News - Disinformation</dc:creator>
-      <description>&lt;p&gt;米ホワイトハウスの予算案がサイバーセキュリティ・インフラ安全保障庁（CISA）の偽情報対策プログラムを大幅削減。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 偽情報対策の政府予算削減は情報環境の悪化に直結する政策判断&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Google News - Disinformation / 2026-04-08 22:32:56&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
-      <pubDate>Sat, 11 Apr 2026 05:58:31 +0900</pubDate>
-      <category>重要度4</category>
-      <category>disinformation</category>
-    </item>
-    <item>
-      <title>[★4] TikTok、ハンガリー選挙前に偽情報ネットワークを削除</title>
-      <link>https://kaztaira.github.io/research-feed/go/2d59a4551c3f.html</link>
-      <guid isPermaLink="false">urn:research:2d59a4551c3f</guid>
-      <source url="https://news.google.com/rss/articles/CBMidkFVX3lxTFA2MEFMUGpvYVlRWlhoLTl0d2JaY0lmUkNxZFVlVHVoa2p3Vk1DSF9XeEJ6MXJQRUdWaGl3RTg3LWs0QlNqR3Z5R3RpV045ajVXaXpGd3hnTUswaUtpUkQ3VXlGSnA2ZlluV2NUNzQ3cGhpdms2b2c?oc=5">Google News - Disinformation</source>
-      <dc:creator>Google News - Disinformation</dc:creator>
-      <description>&lt;p&gt;TikTokがハンガリーの選挙を前に秘密裏の偽情報ネットワークを削除。プラットフォームの選挙対策が注目される。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 選挙前の偽情報対策はプラットフォームの民主主義への責任を示す&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Google News - Disinformation / 2026-04-08 20:28:27&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
-      <pubDate>Sat, 11 Apr 2026 05:58:31 +0900</pubDate>
-      <category>重要度4</category>
-      <category>disinformation</category>
-      <category>platform accountability</category>
-    </item>
-    <item>
-      <title>[★4] ディープフェイクポルノで初の連邦有罪判決（オハイオ州男性）</title>
-      <link>https://kaztaira.github.io/research-feed/go/ef5d6212f105.html</link>
-      <guid isPermaLink="false">urn:research:ef5d6212f105</guid>
-      <source url="https://news.google.com/rss/articles/CBMidkFVX3lxTE9jNTlidkF0c014b1N3b1FFM1V6X1ItV2dTZC13TFQtME9BenZ5cVEzMWg0bU9xQWp5TG1Fc1lfVng5TFh3VVl3QWR2NjhfWGFGTE9XcUpVS21MSVpCeTRsaXE1Y1dnU2tFX0hIUkVKWFQ1TVJBLWc?oc=5">New York Times</source>
-      <dc:creator>New York Times</dc:creator>
-      <description>&lt;p&gt;ディープフェイクポルノを作成・配布したオハイオ州の男性が連邦法で初めて有罪判決を受けた。画期的な判例。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; ディープフェイク犯罪に対する初の連邦有罪判決は法的先例として重要&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; New York Times / 2026-04-09 00:59:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
-      <pubDate>Sat, 11 Apr 2026 05:58:31 +0900</pubDate>
-      <category>重要度4</category>
-      <category>deepfake</category>
-    </item>
-    <item>
-      <title>[★4] 米国の10代を脅かすディープフェイクヌード問題</title>
-      <link>https://kaztaira.github.io/research-feed/go/9ca591e6284d.html</link>
-      <guid isPermaLink="false">urn:research:9ca591e6284d</guid>
-      <source url="https://news.google.com/rss/articles/CBMid0FVX3lxTE1acXp3R3hHWGJ6TGFmNVhWVTZOQXd4UHBQUjRhUEJ0aFljRXdvMkJOZE00YTdnUUdNZGhQY2YtdUZsMHFTZlZJRXNVWW9DN243YUNfU0UyUGtNSDVMeWxTLXBWRlZZdHo2djI4YlJTSHFRUFNWSW5V?oc=5">New York Times</source>
-      <dc:creator>New York Times</dc:creator>
-      <description>&lt;p&gt;米国の10代がディープフェイクヌードの被害に遭う事例が急増。学校や家庭でも深刻な問題に。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 青少年のディープフェイク被害は社会問題として深刻化&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; New York Times / 2026-04-08 13:00:14&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
-      <pubDate>Sat, 11 Apr 2026 05:58:31 +0900</pubDate>
-      <category>重要度4</category>
-      <category>deepfake</category>
-    </item>
-    <item>
-      <title>[★4] フランスのロシア偽情報対策の教訓</title>
-      <link>https://kaztaira.github.io/research-feed/go/e83ed0c008eb.html</link>
-      <guid isPermaLink="false">urn:research:e83ed0c008eb</guid>
-      <source url="https://news.google.com/rss/articles/CBMimgFBVV95cUxOOXdhaXhCSjBPeFdSN0J2X1VKM0ZUamc2MjVmblhGcHMyNnNJcjhTNVY2emw2T1NPenZMQ05uYnBReVNpcWZwN1dGSFUtUjR3Tm1QcUk4WVRxRUdTa21iWUVXTXlCYVBfM0xra3kxZURPSXNOTFFZNXh4dWg4Q200X3pBMmNrSGJiRjZJMkpPMVY3aGhHdm1feXp3?oc=5">The Economist</source>
-      <dc:creator>The Economist</dc:creator>
-      <description>&lt;p&gt;フランスがロシアの偽情報にどのように対処することを学んだか。他国への教訓を提供する分析記事。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 偽情報対策の国際的なベストプラクティスとして政策立案者に有益&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; The Economist / 2026-04-08 15:31:25&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
-      <pubDate>Sat, 11 Apr 2026 05:58:31 +0900</pubDate>
-      <category>重要度4</category>
-      <category>disinformation</category>
     </item>
     <item>
       <title>[★4] 中国プロパガンダがスロバキアのメディアに浸透を図る</title>
@@ -162,7 +347,7 @@
 &lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 中国の対外プロパガンダ活動のEU圏への拡大は情報戦の新局面&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Google News - Disinformation / 2026-04-07 10:47:30&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
-      <pubDate>Sat, 11 Apr 2026 05:58:31 +0900</pubDate>
+      <pubDate>Fri, 10 Apr 2026 05:00:00 +0900</pubDate>
       <category>重要度4</category>
       <category>disinformation</category>
     </item>
@@ -176,7 +361,7 @@
 &lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; AI能力の急速な進化がもたらすサイバーセキュリティリスクの具体例&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Axios / 2026-04-08 09:49:59&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
-      <pubDate>Sat, 11 Apr 2026 05:58:31 +0900</pubDate>
+      <pubDate>Fri, 10 Apr 2026 05:00:00 +0900</pubDate>
       <category>重要度4</category>
     </item>
     <item>
@@ -189,24 +374,9 @@
 &lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 国家主導の偽情報工作のグローバルな拡大を示す具体的証拠&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Google News - Disinformation / 2026-04-07 13:12:07&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
-      <pubDate>Sat, 11 Apr 2026 05:58:31 +0900</pubDate>
+      <pubDate>Fri, 10 Apr 2026 05:00:00 +0900</pubDate>
       <category>重要度4</category>
       <category>disinformation</category>
-    </item>
-    <item>
-      <title>[★4] ネタニヤフ首相の「死亡」偽情報とAI駆動の誤情報</title>
-      <link>https://kaztaira.github.io/research-feed/go/e39639a847a4.html</link>
-      <guid isPermaLink="false">urn:research:e39639a847a4</guid>
-      <source url="https://news.google.com/rss/articles/CBMisAFBVV95cUxPaGRiS0lzTXFXOGNQUDFub3NEYXdURVFpQkhRNTFnai1oeHN1RmhodU1LdnVueXpUUzFIZzlDalFINDlndDJncXBnaE9MZHRXc095TjlTb3cwMGRibC1JSHZEa0N3N2JGQ08xVW9rb2xaOFFyX1c2QU1JdGxIdTNYczN6aldEeGhuYVA4TG9YYVZpMGltM0NyaG9rdkhhcUJFcS1lUGlXeVJ5c05MTktHQw?oc=5">Google News - Disinformation</source>
-      <dc:creator>Google News - Disinformation</dc:creator>
-      <description>&lt;p&gt;ネタニヤフ首相の死亡を主張するAI生成偽情報が拡散。「見ることが信じること」ではなくなった時代の危険性を分析。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; AI生成偽画像による政治的偽情報は国際関係に直接的リスク&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Google News - Disinformation / 2026-04-08 04:00:51&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
-      <pubDate>Sat, 11 Apr 2026 05:58:31 +0900</pubDate>
-      <category>重要度4</category>
-      <category>disinformation</category>
-      <category>misinformation</category>
     </item>
     <item>
       <title>[★4] OpenAI、英国Stargate投資を棚上げ</title>
@@ -218,7 +388,7 @@
 &lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; AIインフラ投資の国際競争と規制環境の影響を示す重要事例&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Guardian Tech / 2026-04-09 17:13:00&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
-      <pubDate>Sat, 11 Apr 2026 05:58:31 +0900</pubDate>
+      <pubDate>Fri, 10 Apr 2026 05:00:00 +0900</pubDate>
       <category>重要度4</category>
       <category>AI regulation</category>
     </item>
@@ -232,7 +402,7 @@
 &lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; AI時代の労働環境変化に関する業界リーダーの提言&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; BBC News Tech / 2026-04-07 11:55:47&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★☆☆ (3/5)&lt;/p&gt;</description>
-      <pubDate>Sat, 11 Apr 2026 05:58:31 +0900</pubDate>
+      <pubDate>Fri, 10 Apr 2026 05:00:00 +0900</pubDate>
       <category>重要度3</category>
     </item>
     <item>
@@ -245,7 +415,7 @@
 &lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 偽情報法の報道の自由への影響は民主主義にとって重要な論点&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Google News - Disinformation / 2026-04-09 19:04:21&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★☆☆ (3/5)&lt;/p&gt;</description>
-      <pubDate>Sat, 11 Apr 2026 05:58:31 +0900</pubDate>
+      <pubDate>Fri, 10 Apr 2026 05:00:00 +0900</pubDate>
       <category>重要度3</category>
       <category>disinformation</category>
     </item>
@@ -259,7 +429,7 @@
 &lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 公人によるAI偽画像の無自覚な拡散は社会的信頼を損なう&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; AFP / 2026-04-07 08:30:20&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★☆☆ (3/5)&lt;/p&gt;</description>
-      <pubDate>Sat, 11 Apr 2026 05:58:31 +0900</pubDate>
+      <pubDate>Fri, 10 Apr 2026 05:00:00 +0900</pubDate>
       <category>重要度3</category>
     </item>
     <item>
@@ -272,7 +442,7 @@
 &lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; AI画像の陰謀論への悪用は科学コミュニケーションへの脅威&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; AFP / 2026-04-09 18:21:36&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★☆☆ (3/5)&lt;/p&gt;</description>
-      <pubDate>Sat, 11 Apr 2026 05:58:31 +0900</pubDate>
+      <pubDate>Fri, 10 Apr 2026 05:00:00 +0900</pubDate>
       <category>重要度3</category>
     </item>
     <item>
@@ -285,7 +455,7 @@
 &lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 政治家のAI偽画像は選挙や世論操作のツールとなりうる&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; AFP / 2026-04-09 08:02:56&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★☆☆ (3/5)&lt;/p&gt;</description>
-      <pubDate>Sat, 11 Apr 2026 05:58:31 +0900</pubDate>
+      <pubDate>Fri, 10 Apr 2026 05:00:00 +0900</pubDate>
       <category>重要度3</category>
     </item>
     <item>
@@ -298,7 +468,7 @@
 &lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; AI生成の軍事偽動画は国際安全保障上の新たなリスク&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; AFP / 2026-04-07 08:30:20&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★☆☆ (3/5)&lt;/p&gt;</description>
-      <pubDate>Sat, 11 Apr 2026 05:58:31 +0900</pubDate>
+      <pubDate>Fri, 10 Apr 2026 05:00:00 +0900</pubDate>
       <category>重要度3</category>
       <category>disinformation</category>
     </item>
@@ -312,7 +482,7 @@
 &lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 健康分野の誤情報は公衆衛生に直接的な悪影響&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Google News - Disinformation / 2026-04-09 14:03:41&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★☆☆ (3/5)&lt;/p&gt;</description>
-      <pubDate>Sat, 11 Apr 2026 05:58:31 +0900</pubDate>
+      <pubDate>Fri, 10 Apr 2026 05:00:00 +0900</pubDate>
       <category>重要度3</category>
       <category>misinformation</category>
     </item>
@@ -326,7 +496,7 @@
 &lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; AI業界最大手の組織的課題はテクノロジー業界全体に影響&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; The Verge AI / 2026-04-08 13:47:38&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★☆☆ (3/5)&lt;/p&gt;</description>
-      <pubDate>Sat, 11 Apr 2026 05:58:31 +0900</pubDate>
+      <pubDate>Fri, 10 Apr 2026 05:00:00 +0900</pubDate>
       <category>重要度3</category>
     </item>
     <item>
@@ -339,35 +509,7 @@
 &lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; ロシアの偽情報戦術の中東への拡大&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Google News - Disinformation / 2026-04-07 10:24:20&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★☆☆ (3/5)&lt;/p&gt;</description>
-      <pubDate>Sat, 11 Apr 2026 05:58:31 +0900</pubDate>
-      <category>重要度3</category>
-      <category>disinformation</category>
-    </item>
-    <item>
-      <title>[★3] カナダのヘイトスピーチ改革に対する偽情報キャンペーン</title>
-      <link>https://kaztaira.github.io/research-feed/go/2205d5d3e129.html</link>
-      <guid isPermaLink="false">urn:research:2205d5d3e129</guid>
-      <source url="https://news.google.com/rss/articles/CBMimgFBVV95cUxQVm1RNEFmTzllc2RlT1dSM1FOQzFPSkM1RVowYk4tT2plODVWTHVXQ1lwcFBBSzg2R1RaWnE4dGZPZW80TUtxNkxTd2hzczIteElyZ1ZxZ3czUUl5YmxCYk1md09Rb2tVT3hWV3ViVV9fdVdLQXllQjF3OTkwMWJtdGJKSEk1R3hZeTA3WDNVeXE1NU40TVRIS0p3?oc=5">Google News - Disinformation</source>
-      <dc:creator>Google News - Disinformation</dc:creator>
-      <description>&lt;p&gt;カナダのヘイトスピーチ法改革に対して偽情報による妨害キャンペーンが展開されている。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 偽情報が立法プロセスに与える影響の具体例&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Google News - Disinformation / 2026-04-09 18:21:04&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★☆☆ (3/5)&lt;/p&gt;</description>
-      <pubDate>Sat, 11 Apr 2026 05:58:31 +0900</pubDate>
-      <category>重要度3</category>
-      <category>disinformation</category>
-    </item>
-    <item>
-      <title>[★3] AJIの偽情報との闘いの内側</title>
-      <link>https://kaztaira.github.io/research-feed/go/9c5953b53231.html</link>
-      <guid isPermaLink="false">urn:research:9c5953b53231</guid>
-      <source url="https://news.google.com/rss/articles/CBMilAFBVV95cUxPZkFXcE9QSjRPNXRmazRETDFvMTZPWERrX3U0MFMwN3lQQjZQWlVrUmNoSFVmVl9WZW5HQ1RkVGFQUmlEN3AtWXAwa291ZWx1Q21iU1A4MmlsSEF6WUZLZmIybVFPVmtPS295WlJuZ2hZck5DS2tFQWtqcXVydUVOWDBmbC1IcXNSZ0JxSDN0bFhHc3JP?oc=5">Google News - Disinformation</source>
-      <dc:creator>Google News - Disinformation</dc:creator>
-      <description>&lt;p&gt;ジャーナリスト組織AJIによる偽情報対策の取り組みの内幕を紹介。報道機関の対応策に焦点。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; ジャーナリズムの偽情報対策は報道の質維持に不可欠&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Google News - Disinformation / 2026-04-10 03:19:47&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★☆☆ (3/5)&lt;/p&gt;</description>
-      <pubDate>Sat, 11 Apr 2026 05:58:31 +0900</pubDate>
+      <pubDate>Fri, 10 Apr 2026 05:00:00 +0900</pubDate>
       <category>重要度3</category>
       <category>disinformation</category>
     </item>
