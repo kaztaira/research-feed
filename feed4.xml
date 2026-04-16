@@ -1,18 +1,298 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
-  <!-- Generated: 2026-04-16T10:40:39+0900 -->
+  <!-- Generated: 2026-04-17T06:30:33+0900 -->
   <channel>
     <title>AI/Disinformation Daily Report（新聞紙学的）</title>
     <description>AI・偽情報・ディスインフォメーションに関する日次リサーチレポート。主要海外メディアから重要ニュースを抽出・評価。</description>
     <link>https://kaztaira.wordpress.com</link>
     <language>ja</language>
-    <lastBuildDate>Thu, 16 Apr 2026 10:40:39 +0900</lastBuildDate>
-    <pubDate>Thu, 16 Apr 2026 10:40:39 +0900</pubDate>
+    <lastBuildDate>Fri, 17 Apr 2026 06:30:33 +0900</lastBuildDate>
+    <pubDate>Fri, 17 Apr 2026 06:30:33 +0900</pubDate>
     <generator>AI/Disinformation Research Agent</generator>
     <ttl>720</ttl>
     <docs>https://www.rssboard.org/rss-specification</docs>
-    <atom:link href="https://kaztaira-feed.blackmao.workers.dev" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://raw.githubusercontent.com/kaztaira/research-feed/main/feed4.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
+    <item>
+      <title>[★5] ホワイトハウス、米政府機関にAnthropicのAI「Mythos」を提供へ</title>
+      <link>https://kaztaira.github.io/research-feed/go/c9b76b9a966e.html</link>
+      <guid isPermaLink="false">urn:research:20260417:c9b76b9a966e</guid>
+      <source url="https://www.bloomberg.com/news/articles/2026-04-16/white-house-moves-to-give-us-agencies-anthropic-mythos-access">Bloomberg Tech</source>
+      <dc:creator>Bloomberg Tech</dc:creator>
+      <description>&lt;p&gt;米政府がAnthropicの強力な新AIモデル「Mythos」を主要連邦機関に導入準備。AIの国家安全保障・社会インフラへの影響を示唆。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 最先端AIの国家安全保障・社会インフラへの影響を示唆。ブログ主要テーマと合致。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Bloomberg Tech / 2026-04-16 17:54:11&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★★ (5/5)&lt;/p&gt;</description>
+      <pubDate>Fri, 17 Apr 2026 06:30:33 +0900</pubDate>
+      <category>重要度5</category>
+    </item>
+    <item>
+      <title>[★5] アンソロピック、Claude Opus 4.7をリリースも、未発表のMythosに劣ると認める</title>
+      <link>https://kaztaira.github.io/research-feed/go/a9c65c3fc015.html</link>
+      <guid isPermaLink="false">urn:research:20260417:a9c65c3fc015</guid>
+      <source url="https://www.axios.com/2026/04/16/anthropic-claude-opus-model-mythos">Axios</source>
+      <dc:creator>Axios</dc:creator>
+      <description>&lt;p&gt;AnthropicがClaude Opus 4.7を公開。未発表のMythosがさらに高性能であることを示唆。AI技術開発競争の最前線。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; ブログ主要テーマであるAnthropicの新AIモデルに関する最新情報。技術開発競争の最前線。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Axios / 2026-04-16 16:17:52&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★★ (5/5)&lt;/p&gt;</description>
+      <pubDate>Fri, 17 Apr 2026 06:30:33 +0900</pubDate>
+      <category>重要度5</category>
+    </item>
+    <item>
+      <title>[★5] AI動画が中東和平交渉を巡るインドの反応を誤って伝え、ネット上で混乱招く</title>
+      <link>https://kaztaira.github.io/research-feed/go/2e2edcdd168e.html</link>
+      <guid isPermaLink="false">urn:research:20260417:2e2edcdd168e</guid>
+      <source url="https://news.google.com/rss/articles/CBMiWEFVX3lxTFBvMzlOc3B1Y09OenVHMkRnMFJLbklFcFpMTEtvd3dvMFp4UmszMEVnV2JRaW1jcmpXZF9QSkJIOHpLMkFTQVUtMkdrb1BOdmdHNVRZYWZRVWg?oc=5">AFP</source>
+      <dc:creator>AFP</dc:creator>
+      <description>&lt;p&gt;AI生成動画が国際政治問題で誤情報を生み出し、外交関係に影響を与える具体例。AIフェイクの脅威を警告。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; AI生成コンテンツによる国際政治の誤情報拡散の具体例。ブログテーマに直結する。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; AFP / 2026-04-15 01:45:32&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★★ (5/5)&lt;/p&gt;</description>
+      <pubDate>Fri, 17 Apr 2026 06:30:33 +0900</pubDate>
+      <category>重要度5</category>
+      <category>misinformation</category>
+    </item>
+    <item>
+      <title>[★5] AI時代の最初の戦争は「スロパガンダ」によるミーム支配の戦い</title>
+      <link>https://kaztaira.github.io/research-feed/go/dce6c78fee51.html</link>
+      <guid isPermaLink="false">urn:research:20260417:dce6c78fee51</guid>
+      <source url="https://www.axios.com/2026/04/14/ai-tools-propaganda-social-media">Axios</source>
+      <dc:creator>Axios</dc:creator>
+      <description>&lt;p&gt;AIツールがプロパガンダと情報戦に利用され、ミームを巡る戦いが加速。AIが歪める戦争の現実を指摘。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; AIが情報戦、プロパガンダに与える影響の最前線を報じており、ブログテーマに完全に合致。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Axios / 2026-04-14 18:09:07&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★★ (5/5)&lt;/p&gt;</description>
+      <pubDate>Fri, 17 Apr 2026 06:30:33 +0900</pubDate>
+      <category>重要度5</category>
+    </item>
+    <item>
+      <title>[★4] 政府への不信感がコロナ禍のワクチン誤情報を引き起こしたと閣僚が警告</title>
+      <link>https://kaztaira.github.io/research-feed/go/e5460058d7a8.html</link>
+      <guid isPermaLink="false">urn:research:20260417:e5460058d7a8</guid>
+      <source url="https://news.google.com/rss/articles/CBMiuAFBVV95cUxNOTZGNG42ZGFPbWRXRWtmekhFdThaVWpzQnU5OWhVd1c2ZUIzOHprYXQ4X0tLMEtyWUViVy1WV1ZHOFNhM1AxS3hCREloUmtOTmVXbkkyVkZfeGlWdjhKWVl2MHJISnIybnBIX1llWFczWkRLTEJjbWlYRjV5bVNtbEM2UDEyRVkzaFlCSFF1TkxKeE1ILVJKUzNWb2VNVWNDS1ZKdnJyQ2FhejFUaE9pY0VWQWVjdloz?oc=5">The Independent</source>
+      <dc:creator>The Independent</dc:creator>
+      <description>&lt;p&gt;政府への不信が、新型コロナパンデミック時のワクチン誤情報拡散の主要因と指摘。メディア環境と市民社会への影響大。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 政府と市民の信頼関係が情報環境に与える影響を分析。メディアと市民社会への影響大。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; The Independent / 2026-04-16 16:49:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
+      <pubDate>Fri, 17 Apr 2026 06:30:33 +0900</pubDate>
+      <category>重要度4</category>
+      <category>misinformation</category>
+    </item>
+    <item>
+      <title>[★4] コロナ禍にワクチン誤情報が英国中に拡散した理由</title>
+      <link>https://kaztaira.github.io/research-feed/go/08ba05c1eee7.html</link>
+      <guid isPermaLink="false">urn:research:20260417:08ba05c1eee7</guid>
+      <source url="https://news.google.com/rss/articles/CBMirAFBVV95cUxOeUVYSFF0NERXazZIMUxBd0tNZjZSWWNidnBMaUhHMkl2ekVCSHR4WG10bUlKa0ZRNDNHdWJJcXQ3WFd5aVpDeDBweHVnSU90bm5uVUxURUthU2s0eHlyRFZ2ZkVpY3RNOC0wTmY2cG00SThEWWl3ZU0wWXB1NERxczhlb200WTdEN1dHTlAtZmdDMnppeC0tNUtfc2dpTDN0SGFxVnpEVzhFb0It?oc=5">The Independent</source>
+      <dc:creator>The Independent</dc:creator>
+      <description>&lt;p&gt;英国で新型コロナパンデミック時にワクチン誤情報が広まった背景とメカニズムを解説。メディア環境と市民社会への影響大。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; パンデミック時の誤情報拡散の背景分析。メディア環境と市民社会への影響大。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; The Independent / 2026-04-16 14:40:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
+      <pubDate>Fri, 17 Apr 2026 06:30:33 +0900</pubDate>
+      <category>重要度4</category>
+      <category>misinformation</category>
+    </item>
+    <item>
+      <title>[★4] コロナワクチンは「驚異的な偉業」だが、誤情報が国民の信頼を損ねた</title>
+      <link>https://kaztaira.github.io/research-feed/go/b31ab174aec8.html</link>
+      <guid isPermaLink="false">urn:research:20260417:b31ab174aec8</guid>
+      <source url="https://news.google.com/rss/articles/CBMivAFBVV95cUxORzc0VmhocUdnTzl5SlVLX0VCQnBZWXNlQXpSSHp1V0hRZEplekhyMWRNZUZiMEpvNXBSanVlUnNkNFBWQ0FYVnRXLS1Cc1NBQTZIcmZ0SjlkbXVBS1FGa1dDZUQ3dFZSaGNpOVlfQ0pxLVdIbTNRdGtROEdxRjcxMWtyUXl2Y2JzMlgyeVoxS3hta3J5ZTd4eTB6aGFzS2NNcVYyNFBfaTY5RFZJODNLeFIwMkk1RlFtZHFFeQ?oc=5">ITVX</source>
+      <dc:creator>ITVX</dc:creator>
+      <description>&lt;p&gt;コロナワクチンの成果を認めつつ、誤情報が公衆衛生への信頼を低下させた影響を指摘。メディアと市民社会への影響大。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 誤情報が公衆衛生と社会の信頼に与えた影響を再確認。メディアと市民社会への影響大。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; ITVX / 2026-04-16 11:47:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
+      <pubDate>Fri, 17 Apr 2026 06:30:33 +0900</pubDate>
+      <category>重要度4</category>
+      <category>misinformation</category>
+    </item>
+    <item>
+      <title>[★4] D-8事務局長、誤情報対策へのグローバルな協力を呼びかけ</title>
+      <link>https://kaztaira.github.io/research-feed/go/afe104a8d659.html</link>
+      <guid isPermaLink="false">urn:research:20260417:afe104a8d659</guid>
+      <source url="https://news.google.com/rss/articles/CBMiuAFBVV95cUxPeXVYd2tTem16anJ6OTRkekZyVU1qRHlwRnZtT1dKcHdURjBZUGt3Z0Fsa1VKcS1vS0gwTlh6SE16bjNHczdjYVRfQUs3R0huRWkwOGhJaFY4SVBlQkhiT0pOQTh6MktaTW9LSVQ1LXRSdXJLRGloWFVCd0RIUE01ajFhZEU2ZWNmaV9Nb2xSUUdMRWRjSU9DQ1ZINk5Lem5yM3ZzMzdvSW5JM1owVDI1bWpwTnp1Ylk5?oc=5">Yeni Safak English</source>
+      <dc:creator>Yeni Safak English</dc:creator>
+      <description>&lt;p&gt;D-8事務局長が、国境を越える誤情報に対抗するための国際的な連携の重要性を訴える。国際関係と市民社会への影響。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 誤情報が国際的な問題であり、対策にはグローバルな連携が必要という認識の表明。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Yeni Safak English / 2026-04-16 04:03:31&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
+      <pubDate>Fri, 17 Apr 2026 06:30:33 +0900</pubDate>
+      <category>重要度4</category>
+      <category>misinformation</category>
+    </item>
+    <item>
+      <title>[★4] 誤情報は抗議の手段となり、社会の信頼を蝕む</title>
+      <link>https://kaztaira.github.io/research-feed/go/ddfb67748db8.html</link>
+      <guid isPermaLink="false">urn:research:20260417:ddfb67748db8</guid>
+      <source url="https://news.google.com/rss/articles/CBMi1AFBVV95cUxPc2puSVlVai1ZRm1vZU9iU3FwMFB1REVJeVZNUUItUjM5bHJ3d0hXbzVPdkFOSmJGZk1acGw1ZDJKUDFBR21oLVFVX29ZYmpTMkhEcm51UHdvNHZmY09RdzZYSEJQbjlnVEdabGp2dzhXeWM2bDZHV1RlalI4bUN0dHRhSllPMTdUaFF4djBXb1Q5VTc5Y1RSQmJtTjJoSE5NTTRrLTlYRk9DR3lYVjVkbmxDRTRGRnpxVG16NWZ2NEtnSUgzd0lvWmo5SGNvN0wzVTMzU?oc=5">The Irish Times</source>
+      <dc:creator>The Irish Times</dc:creator>
+      <description>&lt;p&gt;誤情報が抗議活動に利用され、結果として社会全体の信頼基盤を損なっている実態を論じる。市民社会とメディア環境に影響。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 誤情報が社会の信頼を破壊するメカニズムを指摘。民主主義や市民社会への影響。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; The Irish Times / 2026-04-16 04:01:45&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
+      <pubDate>Fri, 17 Apr 2026 06:30:33 +0900</pubDate>
+      <category>重要度4</category>
+      <category>misinformation</category>
+    </item>
+    <item>
+      <title>[★4] フランス：国境なき記者団、Xに対する誤情報巡る法的措置を強化</title>
+      <link>https://kaztaira.github.io/research-feed/go/24e8d64de85b.html</link>
+      <guid isPermaLink="false">urn:research:20260417:24e8d64de85b</guid>
+      <source url="https://news.google.com/rss/articles/CBMihAFBVV95cUxPRGRiVkZYRm5WX3BEVndMZnRPUExiY3dMU2NENkNJSUMxU0FMVGExLU5oNmIwZ29ISzBVaGlHLWk5TWhPcUpYcXloUmFNWmItMmM3SGlIajFLcVVCMXpPQmlhZzY2ZWZaMU0yNnhwNF9aUi1fQW9YMHR4Wjd1NGZiS181Q3E?oc=5">RSF.ORG</source>
+      <dc:creator>RSF.ORG</dc:creator>
+      <description>&lt;p&gt;国境なき記者団がX（旧Twitter）に対し、プラットフォーム上での誤情報拡散の責任を問い、法的措置を強化。メディア環境に影響。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 主要SNSプラットフォームの誤情報対策への責任追及。メディア環境・テクノロジー業界に影響。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; RSF.ORG / 2026-04-15 17:07:05&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
+      <pubDate>Fri, 17 Apr 2026 06:30:33 +0900</pubDate>
+      <category>重要度4</category>
+      <category>misinformation</category>
+      <category>platform accountability</category>
+    </item>
+    <item>
+      <title>[★4] オーストラリア政治を標的とする「産業的」クリックベイト型ディスインフォメーション</title>
+      <link>https://kaztaira.github.io/research-feed/go/3a9f39eefffe.html</link>
+      <guid isPermaLink="false">urn:research:20260417:3a9f39eefffe</guid>
+      <source url="https://news.google.com/rss/articles/CBMirwFBVV95cUxPNzVqcTJjZ1k3cVZTZ2lXTU5aZmwyTmlkXzdFbm9MT1VNX01xUVAxSW9lZmpMMVd1OGMyZzVtT1ZOd2QzUHBBZXRhZkFvNTZYaUtvWmF5S2I4TE1ITkxsZlJWX3drSXJyMWJSZTNmNGw0M0RsVGVDeHYxNGlGRU9wbWxXaUFwQThPT1hLRzlQenR6N0t4NGhZUVVxRVBkZ19FUDI4d3FPQXc3LVdoQ1kw?oc=5">France 24</source>
+      <dc:creator>France 24</dc:creator>
+      <description>&lt;p&gt;オーストラリアで組織的なクリックベイト型の政治的誤情報活動が展開されている実態を報じる。AIによる情報操作の脅威にも重なる。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 組織的な政治的誤情報操作であり、AIによる情報操作の脅威とも重なる。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; France 24 / 2026-04-15 05:35:16&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
+      <pubDate>Fri, 17 Apr 2026 06:30:33 +0900</pubDate>
+      <category>重要度4</category>
+      <category>disinformation</category>
+      <category>misinformation</category>
+    </item>
+    <item>
+      <title>[★4] オーストラリア政治を標的とする「産業的」クリックベイト型ディスインフォメーション</title>
+      <link>https://kaztaira.github.io/research-feed/go/4502b058a76d.html</link>
+      <guid isPermaLink="false">urn:research:20260417:4502b058a76d</guid>
+      <source url="https://news.google.com/rss/articles/CBMi5wFBVV95cUxNdzJTdW1VQzZXREd3VlR5YnpsQW43N3JzYkFXc1FYVzB6YklfMVVRSlhTa0FJUWtkMmVqR0NQSG9hOWlZWlBWNDd1VXc2UmNPSVY5SHN1UWhfcGlMbGpVOHpJc0x5dUVRV2pNTVluOWZ4VWtuN2JXdDluT1d5S3p0dFdwVVZ5akRya0YxYUFTblZZYUNfMDlDN0ZPTVE4VjJFR0w1RDF2YWYwSmYzSHV2Zi1nNjB6ZG1PWm9uVGJQbXBJS2QzaENaeUw0alluZW9ULTkyOUk5NHFPV2l2cWNUdWtkZmY0WUk?oc=5">Northeast Mississippi Daily Journal</source>
+      <dc:creator>Northeast Mississippi Daily Journal</dc:creator>
+      <description>&lt;p&gt;オーストラリアで組織的なクリックベイト型の政治的誤情報活動が展開されている実態を報じる。AIによる情報操作の脅威にも重なる。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 主要メディアによる報道が続き、誤情報問題への広範な関心を示す。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Northeast Mississippi Daily Journal / 2026-04-15 05:32:55&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
+      <pubDate>Fri, 17 Apr 2026 06:30:33 +0900</pubDate>
+      <category>重要度4</category>
+      <category>disinformation</category>
+      <category>misinformation</category>
+    </item>
+    <item>
+      <title>[★3] 「議員、誤情報を広めるのをやめろ！」：RFK Jrが麻疹ワクチンを巡りサンチェスを激しく非難</title>
+      <link>https://kaztaira.github.io/research-feed/go/9fa33db2e6aa.html</link>
+      <guid isPermaLink="false">urn:research:20260417:9fa33db2e6aa</guid>
+      <source url="https://news.google.com/rss/articles/CBMiiAJBVV95cUxQeEdzSldUMmg4OEJFQTVGRE1XNUZHbW1ZNUJqcDBaS0xMUFljRDJ4eV85bERXc3RXRERHck1hd0hiTkZsRy1PYlkwbmNaNzhZQUI1SXNuTjduSEFjZ0NsbkkyZDdHQkZqTkNGQ3g2ZFRiV1ZjOXBpZDgzeFFDdjQ3eW9EZTFrQmtLNThCdy1WLVNXcjlzb1pKb0VtWFVUcjZUUXRIaGRuY3lwU2s5aHF1RnRjdHNBZzlld0dHVzZNY1IzdzNYMHJCajBNM2hsbHJoZFJYUlE3dUFucFczLU1kUEhNYmM5eUpkcDIyMGJBYjA3S05CVE9Wa0N2V0h6V01lZTRENkdmSWbSAY4CQVVfeXFMTWJyUU5uOGRDN0x6NmVINjh5Vm1hRGxteEYyMVNwWGZCbjRZUm1yMl9UcUZwd0ZvdGswcVhmdVdxQkpickg5REg2dFNyMXRxT0o4c0hOSWZyeW9pYndySkdNLUZPQndndlpRWXRjbEtwRm1Pbk92UzNBYS1HZ3hvZk5reEdQcHc2RGkyUUg2LWJmRmRQanR3c1dzT252V0hMbzVLVVYtV3pZWC13MHRpM3RVdXVjbEo2YXUyNkl2R0FuQkJNM1FYYVVMZFlYMHg2TFdYYUM2QV9wZlY1Vm5PSnNwYXhfUzVFMWd2NENObV9sczNWd2hnellvOG85NmpEUHVtUTFuMmxmZ19OSDJn?oc=5">The Economic Times</source>
+      <dc:creator>The Economic Times</dc:creator>
+      <description>&lt;p&gt;RFK Jrが、麻疹ワクチンに関する誤情報を広めたとして連邦議会議員を激しく非難。政治における誤情報問題が論争を呼ぶ。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 政治家による公衆衛生に関する誤情報問題は市民社会に影響を及ぼす論争的な話題。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; The Economic Times / 2026-04-16 16:23:57&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★☆☆ (3/5)&lt;/p&gt;</description>
+      <pubDate>Fri, 17 Apr 2026 06:30:33 +0900</pubDate>
+      <category>重要度3</category>
+      <category>misinformation</category>
+    </item>
+    <item>
+      <title>[★3] 失敗：ボブ・リー殺害事件</title>
+      <link>https://kaztaira.github.io/research-feed/go/bf883c5a5e9e.html</link>
+      <guid isPermaLink="false">urn:research:20260417:bf883c5a5e9e</guid>
+      <source url="https://www.bloomberg.com/news/videos/2026-04-16/foundering-the-killing-of-bob-lee-video">Bloomberg Tech</source>
+      <dc:creator>Bloomberg Tech</dc:creator>
+      <description>&lt;p&gt;テック幹部ボブ・リー殺害事件を巡り、オンライン上でデマや誤情報が拡散。AIによる拡散の可能性も示唆。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 悲劇的な事件を巡るオンラインでの誤情報拡散問題。AIによる拡散の可能性も示唆。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Bloomberg Tech / 2026-04-16 13:32:26&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★☆☆ (3/5)&lt;/p&gt;</description>
+      <pubDate>Fri, 17 Apr 2026 06:30:33 +0900</pubDate>
+      <category>重要度3</category>
+      <category>misinformation</category>
+    </item>
+    <item>
+      <title>[★3] フィリピンのデジタル化ブームが先住民を標的とする誤情報を助長：研究</title>
+      <link>https://kaztaira.github.io/research-feed/go/6ba3bcb22bef.html</link>
+      <guid isPermaLink="false">urn:research:20260417:6ba3bcb22bef</guid>
+      <source url="https://news.google.com/rss/articles/CBMitgFBVV95cUxQUk5Td0Q1blhGT0hNOEhNRlNPRlJEaHVYZmVwWW93ZnhkbDFJNTg2X1BlX01pR3ZmNUZ4d2pkaXRvUTdTMjE3X0RZRjcxbV9rZ2hRSmlqYTl2X2xGMWFYSUFYWHFmbWc5RkVGc0FxMU1SeTJweWJBeWg0X2F2YldYc2lLU3dSekJVTzBfdFVXOWNXelhOMlJpVzNaeUNtZTFrYVlPeXIySWNDcnhGbTlpTDhjS09hQQ?oc=5">Eco-Business</source>
+      <dc:creator>Eco-Business</dc:creator>
+      <description>&lt;p&gt;フィリピンのデジタル化が加速する中で、先住民族が誤情報の標的となっている問題を研究が指摘。テクノロジーの負の側面。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; デジタル化の進展が、脆弱な立場の人々を狙った誤情報問題を引き起こしている事例。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Eco-Business / 2026-04-15 11:29:07&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★☆☆ (3/5)&lt;/p&gt;</description>
+      <pubDate>Fri, 17 Apr 2026 06:30:33 +0900</pubDate>
+      <category>重要度3</category>
+      <category>misinformation</category>
+    </item>
+    <item>
+      <title>[★3] トップの性転換医療団体が誤情報と闘う方法として…誤情報を教えた経緯</title>
+      <link>https://kaztaira.github.io/research-feed/go/4c21f4432314.html</link>
+      <guid isPermaLink="false">urn:research:20260417:4c21f4432314</guid>
+      <source url="https://news.google.com/rss/articles/CBMicEFVX3lxTFB2ZTM4NEk4OW1iLWdGQ1JXWjZ4Nm1tSUtmTGR4NUx4RDlEa0ZOTmllS0VhbWd1NzdKblo4ZVVEdXJ5YVIxTXF4ZndBSjdFNFptWEFpaFpVa2JJWTF6V2JqZVRVR0dmTjlZaXhsaklkczc?oc=5">Benjamin Ryan | Substack</source>
+      <dc:creator>Benjamin Ryan | Substack</dc:creator>
+      <description>&lt;p&gt;主要な性転換医療団体が、誤情報対策として、逆説的に不正確な情報を用いるよう指導していたと報じる。倫理的な問題提起。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 誤情報対策が誤情報を生むという倫理的な問題提起。専門機関の信頼性に関わる。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Benjamin Ryan | Substack / 2026-04-14 16:32:10&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★☆☆ (3/5)&lt;/p&gt;</description>
+      <pubDate>Fri, 17 Apr 2026 06:30:33 +0900</pubDate>
+      <category>重要度3</category>
+      <category>misinformation</category>
+    </item>
+    <item>
+      <title>[★3] 「我々の名においてではない」：女性への暴力に関する誤情報が反移民言説を広めるために使われるとき、どうすべきか</title>
+      <link>https://kaztaira.github.io/research-feed/go/b203a78c3bbc.html</link>
+      <guid isPermaLink="false">urn:research:20260417:b203a78c3bbc</guid>
+      <source url="https://news.google.com/rss/articles/CBMihAFBVV95cUxQYVdwd0IyS1dHeHJpdmtZTjR6QlpLX18xd2UySENudXBocWotTEthTmdkUHl5bS1fd2dEcEFMb3QtUk9rbk9YWmdxUWI1TGJ2NzF5ZXFVSjJUTzlqZ1d0TzhRb3Z1czY1VHdpbnAyWlZrQUFsa2lJR3o2eWlOZ2JnS2FYbm8?oc=5">Asylum Matters</source>
+      <dc:creator>Asylum Matters</dc:creator>
+      <description>&lt;p&gt;女性への暴力に関する誤情報が反移民感情を煽るために利用される問題と、その対策について論じる。市民社会の分断を招く。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 特定の社会問題を悪用した誤情報が差別や分断を煽る深刻な事例。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Asylum Matters / 2026-04-14 10:38:05&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★☆☆ (3/5)&lt;/p&gt;</description>
+      <pubDate>Fri, 17 Apr 2026 06:30:33 +0900</pubDate>
+      <category>重要度3</category>
+      <category>misinformation</category>
+    </item>
+    <item>
+      <title>[★2] 都市の真実コレクティブと自転車レーン、交通、都市生活に関する誤情報修正の戦い</title>
+      <link>https://kaztaira.github.io/research-feed/go/ff1b78d34cc2.html</link>
+      <guid isPermaLink="false">urn:research:20260417:ff1b78d34cc2</guid>
+      <source url="https://news.google.com/rss/articles/CBMiwgFBVV95cUxQbGJBU2laLWZ5SUd1TEx6YUdMZmtjQUZPWFFNLU93MzN5ZUE2aDVqd0VkQVVtNUlKMFNVNW5OcWp6RmxxNjNSbTk5MW01MXZwV3ZfeVU2N1R6UjU2NTVVTUVoOUxOUkRLdkZFYy02YmZkUkhoU3l6ZV85emRkcHRoM2phbXB5Z3AtcG5Ubl92NkRIZmhhb3o4VndRWm9uSDdlWm15NVJQYWZmd2I3emNTWE80VGl3WExrRGc4U2ktdnQ2UQ?oc=5">Momentum Mag</source>
+      <dc:creator>Momentum Mag</dc:creator>
+      <description>&lt;p&gt;自転車レーンや交通など都市生活に関連する誤情報に対処する市民団体の取り組み。局所的だが、誤情報対策の一例。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 都市計画という局所的なテーマの誤情報対策。ブログ主要テーマとの直接関連は薄いが、最新日付。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Momentum Mag / 2026-04-16 15:47:20&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★☆☆☆ (2/5)&lt;/p&gt;</description>
+      <pubDate>Fri, 17 Apr 2026 06:30:33 +0900</pubDate>
+      <category>重要度2</category>
+      <category>misinformation</category>
+    </item>
+    <item>
+      <title>[★2] 小児科医が自閉症に関する誤情報を訂正</title>
+      <link>https://kaztaira.github.io/research-feed/go/8a382c823e1b.html</link>
+      <guid isPermaLink="false">urn:research:20260417:8a382c823e1b</guid>
+      <source url="https://news.google.com/rss/articles/CBMingFBVV95cUxNcUZaZ2tmVXd0LUFYMFVzbkVqYjJ2dmVOd1NEdTZuWGREVVFhVFZUdnlyelR0SmlyNVZwQ0tpVWJZN3F1WnppaXhPcDBQSWgxcFVkUFdNb3pPQml2TGRtTEtLSVJFUjk1ZUNZUHhPVVIwaG94ZDV0Z1h3Y2JzZlBWOVJqcGY5cDJELVYwdkdNODNHTHZKWllwM0c1SldwUdIBowFBVV95cUxPaWJ4UmdDbDc3U3ZJNnA2SHpiLWNfdnNvaHRFaUtBSkVJaGNMc2JEZjgzc3dXV09YbFdXbnZVUE15U3NGY2stSk5VNnRaQXlfTUk3QlE4VHhLem9HWW9UaFc0V1ZGRFBYd3hXclBBUHljZTItMWpadldXTHpadVp5ekduMW5zU2h1bmJKaml2N2o2WTk0Q0g2T1JWTGFHSnFDWENZ?oc=5">ValleyCentral.com</source>
+      <dc:creator>ValleyCentral.com</dc:creator>
+      <description>&lt;p&gt;小児科医が自閉症に関する一般的な誤解や誤情報を正すための情報提供を行う。市民社会における誤情報の一例。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 自閉症に関する医療誤情報。ブログ主要テーマとの直接関連は低いが、市民社会の健康問題。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; ValleyCentral.com / 2026-04-15 03:38:35&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★☆☆☆ (2/5)&lt;/p&gt;</description>
+      <pubDate>Fri, 17 Apr 2026 06:30:33 +0900</pubDate>
+      <category>重要度2</category>
+      <category>misinformation</category>
+    </item>
+    <item>
+      <title>[★2] 誤情報が安全を脱線させないように</title>
+      <link>https://kaztaira.github.io/research-feed/go/3babe33108e9.html</link>
+      <guid isPermaLink="false">urn:research:20260417:3babe33108e9</guid>
+      <source url="https://news.google.com/rss/articles/CBMiggFBVV95cUxPNmg2c2ZJOXptZTcxSDdzS29NUUpBMTNuVkc1OFFCZmg5SjlGOHFBczhXRDFSVlVmSUlDV2lHS3BMSzhReTJTYnlPVk1ITHE0WTY3azltVW5SNmxmaHlXRm1iOEtwYmd1U1lhMVpwQjFOWkducHg5cmQyWGFyRDdQMktn?oc=5">Railway Age</source>
+      <dc:creator>Railway Age</dc:creator>
+      <description>&lt;p&gt;鉄道業界において、誤情報が安全対策や運営に悪影響を及ぼさないよう警告する。産業分野における誤情報対策の重要性。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 産業分野における誤情報対策の重要性。ブログ主要テーマとの直接的な関連性は低い。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Railway Age / 2026-04-14 14:51:05&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★☆☆☆ (2/5)&lt;/p&gt;</description>
+      <pubDate>Fri, 17 Apr 2026 06:30:33 +0900</pubDate>
+      <category>重要度2</category>
+      <category>misinformation</category>
+    </item>
     <item>
       <title>[★5] Grokの性的ディープフェイク、Apple App StoreからBAN寸前に</title>
       <link>https://kaztaira.github.io/research-feed/go/4610a7905986.html</link>
@@ -23,7 +303,7 @@
 &lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; AI倫理、ディープフェイクの脅威、プラットフォーム規制、市民社会への影響が大きく論争を呼ぶ。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; The Verge AI / 2026-04-15 10:55:22&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★★ (5/5)&lt;/p&gt;</description>
-      <pubDate>Thu, 16 Apr 2026 10:40:39 +0900</pubDate>
+      <pubDate>Thu, 16 Apr 2026 05:00:00 +0900</pubDate>
       <category>重要度5</category>
       <category>deepfake</category>
       <category>AI regulation</category>
@@ -38,7 +318,7 @@
 &lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; AIと誤情報への法規制は市民社会・テクノロジー業界に大きな影響を与える。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; CDO Magazine / 2026-04-15 17:38:00&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★★ (5/5)&lt;/p&gt;</description>
-      <pubDate>Thu, 16 Apr 2026 10:40:39 +0900</pubDate>
+      <pubDate>Thu, 16 Apr 2026 05:00:00 +0900</pubDate>
       <category>重要度5</category>
       <category>misinformation</category>
       <category>AI regulation</category>
@@ -53,7 +333,7 @@
 &lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; AIの信頼性欠如が市民の健康に直接影響し、極めて重要な問題。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Medical Xpress / 2026-04-14 22:30:04&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★★ (5/5)&lt;/p&gt;</description>
-      <pubDate>Thu, 16 Apr 2026 10:40:39 +0900</pubDate>
+      <pubDate>Thu, 16 Apr 2026 05:00:00 +0900</pubDate>
       <category>重要度5</category>
       <category>misinformation</category>
     </item>
@@ -67,7 +347,7 @@
 &lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; AIが市民の健康情報に与える具体的な負の影響を指摘し、社会全体に関わる。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Nursing Times / 2026-04-15 10:26:54&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★★ (5/5)&lt;/p&gt;</description>
-      <pubDate>Thu, 16 Apr 2026 10:40:39 +0900</pubDate>
+      <pubDate>Thu, 16 Apr 2026 05:00:00 +0900</pubDate>
       <category>重要度5</category>
       <category>misinformation</category>
     </item>
@@ -81,21 +361,7 @@
 &lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 国際関係・安全保障に直結する偽情報戦の具体的報告で、極めて重要。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Ukrinform - Ukrainian National News Agency / 2026-04-15 14:00:00&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★★ (5/5)&lt;/p&gt;</description>
-      <pubDate>Thu, 16 Apr 2026 10:40:39 +0900</pubDate>
-      <category>重要度5</category>
-      <category>disinformation</category>
-    </item>
-    <item>
-      <title>[★5] フランス：国境なき記者団、X（旧Twitter）に対する偽情報巡る法的措置を強化</title>
-      <link>https://kaztaira.github.io/research-feed/go/24e8d64de85b.html</link>
-      <guid isPermaLink="false">urn:research:20260416:24e8d64de85b</guid>
-      <source url="https://news.google.com/rss/articles/CBMihAFBVV95cUxPRGRiVkZYRm5WX3BEVndMZnRPUExiY3dMU2NENkNJSUMxU0FMVGExLU5oNmIwZ29ISzBVaGlHLWk5TWhPcUpYcXloUmFNWmItMmM3SGlIajFLcVVCMXpPQmlhZzY2ZWZaMU0yNnhwNF9aUi1fQW9YMHR4Wjd1NGZiS181Q3E?oc=5">RSF.ORG</source>
-      <dc:creator>RSF.ORG</dc:creator>
-      <description>&lt;p&gt;国境なき記者団（RSF）が、X（旧Twitter）における偽情報拡散を巡り法的措置を強化した。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 主要プラットフォームにおける偽情報規制、メディアの責任、言論の自由に関わる論争。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; RSF.ORG / 2026-04-15 17:07:05&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★★ (5/5)&lt;/p&gt;</description>
-      <pubDate>Thu, 16 Apr 2026 10:40:39 +0900</pubDate>
+      <pubDate>Thu, 16 Apr 2026 05:00:00 +0900</pubDate>
       <category>重要度5</category>
       <category>disinformation</category>
     </item>
@@ -109,37 +375,9 @@
 &lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 安全保障に関わる偽情報戦の具体的な事例であり、国際関係に重大な影響。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; UNITED24 Media / 2026-04-14 20:56:34&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★★ (5/5)&lt;/p&gt;</description>
-      <pubDate>Thu, 16 Apr 2026 10:40:39 +0900</pubDate>
+      <pubDate>Thu, 16 Apr 2026 05:00:00 +0900</pubDate>
       <category>重要度5</category>
       <category>disinformation</category>
-    </item>
-    <item>
-      <title>[★5] 最初のAI時代の戦争はミームを支配するための「スロパガンダ」戦だ</title>
-      <link>https://kaztaira.github.io/research-feed/go/dce6c78fee51.html</link>
-      <guid isPermaLink="false">urn:research:20260416:dce6c78fee51</guid>
-      <source url="https://www.axios.com/2026/04/14/ai-tools-propaganda-social-media">Axios</source>
-      <dc:creator>Axios</dc:creator>
-      <description>&lt;p&gt;AIツールがプロパガンダを加速させ、ミームが情報戦の主戦場となる「スロパガンダ」の時代が到来。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; AIによるプロパガンダは「AIゴミ」として情報空間を歪め、国際関係や市民社会に極めて大きな影響を与える。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Axios / 2026-04-14 18:09:07&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★★ (5/5)&lt;/p&gt;</description>
-      <pubDate>Thu, 16 Apr 2026 10:40:39 +0900</pubDate>
-      <category>重要度5</category>
-    </item>
-    <item>
-      <title>[★5] インドのパキスタン中東和平仲介に対する反応のAI動画クリップがオンラインで誤解を招く</title>
-      <link>https://kaztaira.github.io/research-feed/go/2e2edcdd168e.html</link>
-      <guid isPermaLink="false">urn:research:20260416:2e2edcdd168e</guid>
-      <source url="https://news.google.com/rss/articles/CBMiWEFVX3lxTFBvMzlOc3B1Y09OenVHMkRnMFJLbklFcFpMTEtvd3dvMFp4UmszMEVnV2JRaW1jcmpXZF9QSkJIOHpLMkFTQVUtMkdrb1BOdmdHNVRZYWZRVWg?oc=5">AFP Fact Check</source>
-      <dc:creator>AFP Fact Check</dc:creator>
-      <description>&lt;p&gt;AI生成動画が国際政治に関する誤情報を拡散。中東和平交渉を巡る偽情報がオンラインで混乱を招く。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; AIフェイク動画が国際関係の誤情報を生成し、国際安全保障やメディア環境を歪める事例。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; AFP Fact Check / 2026-04-15 01:45:32&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★★ (5/5)&lt;/p&gt;</description>
-      <pubDate>Thu, 16 Apr 2026 10:40:39 +0900</pubDate>
-      <category>重要度5</category>
-      <category>disinformation</category>
-      <category>misinformation</category>
     </item>
     <item>
       <title>[★5] OpenAIがサイバーAIへのアクセスを拡大、ハッキングリスク増大に伴い</title>
@@ -151,7 +389,7 @@
 &lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; AIのサイバーセキュリティ利用とリスク拡大は、AI安全性や国際安全保障に直結する重要な動向。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Axios / 2026-04-14 20:00:34&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★★ (5/5)&lt;/p&gt;</description>
-      <pubDate>Thu, 16 Apr 2026 10:40:39 +0900</pubDate>
+      <pubDate>Thu, 16 Apr 2026 05:00:00 +0900</pubDate>
       <category>重要度5</category>
     </item>
     <item>
@@ -164,7 +402,7 @@
 &lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; Anthropicの最新AIと米中AI対話は、国際安全保障に極めて重要な影響を持つ。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Bloomberg Tech / 2026-04-15 23:12:47&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★★ (5/5)&lt;/p&gt;</description>
-      <pubDate>Thu, 16 Apr 2026 10:40:39 +0900</pubDate>
+      <pubDate>Thu, 16 Apr 2026 05:00:00 +0900</pubDate>
       <category>重要度5</category>
     </item>
     <item>
@@ -177,7 +415,7 @@
 &lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; AIがジャーナリズムの信頼性や言論の自由を脅かす可能性は、民主主義に極めて深刻な影響がある。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; TechCrunch / 2026-04-15 18:33:20&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★★ (5/5)&lt;/p&gt;</description>
-      <pubDate>Thu, 16 Apr 2026 10:40:39 +0900</pubDate>
+      <pubDate>Thu, 16 Apr 2026 05:00:00 +0900</pubDate>
       <category>重要度5</category>
     </item>
     <item>
@@ -190,7 +428,7 @@
 &lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 国際紛争でのAIフェイク動画拡散は、市民社会と国際関係に極めて深刻な影響を及ぼす。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; AFP Fact Check / 2026-04-15 06:07:18&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★★ (5/5)&lt;/p&gt;</description>
-      <pubDate>Thu, 16 Apr 2026 10:40:39 +0900</pubDate>
+      <pubDate>Thu, 16 Apr 2026 05:00:00 +0900</pubDate>
       <category>重要度5</category>
     </item>
     <item>
@@ -203,7 +441,7 @@
 &lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 政治キャンペーンでのAI利用は、民主主義のあり方と市民社会に極めて深刻な影響を及ぼす。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Axios / 2026-04-14 09:00:07&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★★ (5/5)&lt;/p&gt;</description>
-      <pubDate>Thu, 16 Apr 2026 10:40:39 +0900</pubDate>
+      <pubDate>Thu, 16 Apr 2026 05:00:00 +0900</pubDate>
       <category>重要度5</category>
     </item>
     <item>
@@ -216,7 +454,7 @@
 &lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; AIボットによるニュース消費は、ジャーナリズムの存在意義とメディア環境を根本的に変える。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Press Gazette / 2026-04-14 08:22:36&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★★ (5/5)&lt;/p&gt;</description>
-      <pubDate>Thu, 16 Apr 2026 10:40:39 +0900</pubDate>
+      <pubDate>Thu, 16 Apr 2026 05:00:00 +0900</pubDate>
       <category>重要度5</category>
     </item>
     <item>
@@ -229,7 +467,7 @@
 &lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; メディア環境、言論の自由、広告業界の倫理に関わる論争で重要。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Mediagazer / 2026-04-15 18:30:18&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
-      <pubDate>Thu, 16 Apr 2026 10:40:39 +0900</pubDate>
+      <pubDate>Thu, 16 Apr 2026 05:00:00 +0900</pubDate>
       <category>重要度4</category>
       <category>misinformation</category>
     </item>
@@ -243,7 +481,7 @@
 &lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 国家レベルでのAI誤情報対策は国際的な潮流に影響を与える。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; TRT World / 2026-04-15 10:39:21&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
-      <pubDate>Thu, 16 Apr 2026 10:40:39 +0900</pubDate>
+      <pubDate>Thu, 16 Apr 2026 05:00:00 +0900</pubDate>
       <category>重要度4</category>
       <category>misinformation</category>
     </item>
@@ -257,21 +495,7 @@
 &lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 民主主義プロセスへの偽情報の影響は市民社会にとって非常に重要。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Iosco County News Herald / 2026-04-15 05:32:55&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
-      <pubDate>Thu, 16 Apr 2026 10:40:39 +0900</pubDate>
-      <category>重要度4</category>
-      <category>disinformation</category>
-    </item>
-    <item>
-      <title>[★4] フィリピンのデジタルブームが先住民族を標的とした偽情報を助長：研究</title>
-      <link>https://kaztaira.github.io/research-feed/go/6ba3bcb22bef.html</link>
-      <guid isPermaLink="false">urn:research:20260416:6ba3bcb22bef</guid>
-      <source url="https://news.google.com/rss/articles/CBMitgFBVV95cUxQUk5Td0Q1blhGT0hNOEhNRlNPRlJEaHVYZmVwWW93ZnhkbDFJNTg2X1BlX01pR3ZmNUZ4d2pkaXRvUTdTMjE3X0RZRjcxbV9rZ2hRSmlqYTl2X2xGMWFYSUFYWHFmbWc5RkVGc0FxMU1SeTJweWJBeWg0X2F2YldYc2lLU3dSekJVTzBfdFVXOWNXelhOMlJpVzNaeUNtZTFrYVlPeXIySWNDcnhGbTlpTDhjS09hQQ?oc=5">Eco-Business</source>
-      <dc:creator>Eco-Business</dc:creator>
-      <description>&lt;p&gt;フィリピンのデジタル化が、特に先住民族を標的とする偽情報の拡散に拍車をかけていることが研究で示された。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; デジタル化の負の側面と特定の市民社会層への偽情報の影響を指摘。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Eco-Business / 2026-04-15 11:29:07&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
-      <pubDate>Thu, 16 Apr 2026 10:40:39 +0900</pubDate>
+      <pubDate>Thu, 16 Apr 2026 05:00:00 +0900</pubDate>
       <category>重要度4</category>
       <category>disinformation</category>
     </item>
@@ -285,7 +509,7 @@
 &lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 健康誤情報への対策の必要性を提起し、市民社会への影響を重視。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; PRovoke Media / 2026-04-14 19:13:00&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
-      <pubDate>Thu, 16 Apr 2026 10:40:39 +0900</pubDate>
+      <pubDate>Thu, 16 Apr 2026 05:00:00 +0900</pubDate>
       <category>重要度4</category>
       <category>misinformation</category>
     </item>
@@ -299,7 +523,7 @@
 &lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 誤情報がビジネスとして成立する構造を浮き彫りにし、メディア環境に影響。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; News-Medical / 2026-04-13 08:31:00&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
-      <pubDate>Thu, 16 Apr 2026 10:40:39 +0900</pubDate>
+      <pubDate>Thu, 16 Apr 2026 05:00:00 +0900</pubDate>
       <category>重要度4</category>
       <category>misinformation</category>
     </item>
@@ -313,7 +537,7 @@
 &lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 民主主義プロセスにおける偽情報の影響はブログの主要テーマの一つ。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Euronews / 2026-04-13 13:58:38&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
-      <pubDate>Thu, 16 Apr 2026 10:40:39 +0900</pubDate>
+      <pubDate>Thu, 16 Apr 2026 05:00:00 +0900</pubDate>
       <category>重要度4</category>
       <category>disinformation</category>
     </item>
@@ -327,22 +551,8 @@
 &lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 医療分野でのAIリスク管理は、市民社会とテクノロジー業界におけるAIの安全性と倫理に深く関わる。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; American Hospital Association / 2026-04-15 21:09:57&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
-      <pubDate>Thu, 16 Apr 2026 10:40:39 +0900</pubDate>
+      <pubDate>Thu, 16 Apr 2026 05:00:00 +0900</pubDate>
       <category>重要度4</category>
-    </item>
-    <item>
-      <title>[★4] 「組織的」なクリックベイト型偽情報がオーストラリア政治を標的に</title>
-      <link>https://kaztaira.github.io/research-feed/go/3a9f39eefffe.html</link>
-      <guid isPermaLink="false">urn:research:20260416:3a9f39eefffe</guid>
-      <source url="https://news.google.com/rss/articles/CBMirwFBVV95cUxPNzVqcTJjZ1k3cVZTZ2lXTU5aZmwyTmlkXzdFbm9MT1VNX01xUVAxSW9lZmpMMVd1OGMyZzVtT1ZOd2QzUHBBZXRhZkFvNTZYaUtvWmF5S2I4TE1ITkxsZlJWX3drSXJyMWJSZTNmNGw0M0RsVGVDeHYxNGlGRU9wbWxXaUFwQThPT1hLRzlQenR6N0t4NGhZUVVxRVBkZ19FUDI4d3FPQXc3LVdoQ1kw?oc=5">France 24</source>
-      <dc:creator>France 24</dc:creator>
-      <description>&lt;p&gt;組織的に行われるクリックベイト型偽情報がオーストラリアの政治を標的にし、情報環境を歪める。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; AI時代の民主主義の解体や「AIゴミ」問題と関連し、メディア環境と市民社会に影響。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; France 24 / 2026-04-15 05:35:16&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
-      <pubDate>Thu, 16 Apr 2026 10:40:39 +0900</pubDate>
-      <category>重要度4</category>
-      <category>disinformation</category>
     </item>
     <item>
       <title>[★4] Appleは競争せずにAIレースに勝つことができる</title>
@@ -354,7 +564,7 @@
 &lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 主要企業のAI戦略は、テクノロジー業界の潮流と競争環境を大きく左右する。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Axios / 2026-04-14 16:35:25&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
-      <pubDate>Thu, 16 Apr 2026 10:40:39 +0900</pubDate>
+      <pubDate>Thu, 16 Apr 2026 05:00:00 +0900</pubDate>
       <category>重要度4</category>
     </item>
     <item>
@@ -367,7 +577,7 @@
 &lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 主要AI企業の競争戦略は、AIの技術開発と普及の方向性を決定づける。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Axios / 2026-04-13 19:24:33&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
-      <pubDate>Thu, 16 Apr 2026 10:40:39 +0900</pubDate>
+      <pubDate>Thu, 16 Apr 2026 05:00:00 +0900</pubDate>
       <category>重要度4</category>
     </item>
     <item>
@@ -380,7 +590,7 @@
 &lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 紛争地域の誤情報が経済的影響を及ぼし、国際関係・安全保障とメディア環境に影響を与える。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; theinsurer.com / 2026-04-14 07:00:36&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
-      <pubDate>Thu, 16 Apr 2026 10:40:39 +0900</pubDate>
+      <pubDate>Thu, 16 Apr 2026 05:00:00 +0900</pubDate>
       <category>重要度4</category>
       <category>misinformation</category>
     </item>
@@ -394,7 +604,7 @@
 &lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; AIエージェントの安全性向上は、社会実装における信頼性を左右し、市民社会に影響がある。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; TechCrunch / 2026-04-15 19:28:36&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
-      <pubDate>Thu, 16 Apr 2026 10:40:39 +0900</pubDate>
+      <pubDate>Thu, 16 Apr 2026 05:00:00 +0900</pubDate>
       <category>重要度4</category>
     </item>
     <item>
@@ -407,7 +617,7 @@
 &lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; AIがサイバー攻撃と防御の両面で利用され、国際関係とテクノロジー安全保障に深く関わる。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; SC Media / 2026-04-15 19:20:05&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
-      <pubDate>Thu, 16 Apr 2026 10:40:39 +0900</pubDate>
+      <pubDate>Thu, 16 Apr 2026 05:00:00 +0900</pubDate>
       <category>重要度4</category>
     </item>
     <item>
@@ -420,7 +630,7 @@
 &lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; クリエイティブ産業におけるAIツールの主流化は、著作権問題を含め大きな影響を与える。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Reuters / 2026-04-15 16:48:24&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
-      <pubDate>Thu, 16 Apr 2026 10:40:39 +0900</pubDate>
+      <pubDate>Thu, 16 Apr 2026 05:00:00 +0900</pubDate>
       <category>重要度4</category>
     </item>
     <item>
