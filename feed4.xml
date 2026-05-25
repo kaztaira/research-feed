@@ -1,18 +1,423 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
-  <!-- Generated: 2026-05-25T08:46:29+0900 -->
+  <!-- Generated: 2026-05-26T05:07:22+0900 -->
   <channel>
     <title>AI/Disinformation Daily Report（新聞紙学的）</title>
     <description>AI・偽情報・ディスインフォメーションに関する日次リサーチレポート。主要海外メディアから重要ニュースを抽出・評価。</description>
     <link>https://kaztaira.wordpress.com</link>
     <language>ja</language>
-    <lastBuildDate>Mon, 25 May 2026 08:46:29 +0900</lastBuildDate>
-    <pubDate>Mon, 25 May 2026 08:46:29 +0900</pubDate>
+    <lastBuildDate>Tue, 26 May 2026 05:07:22 +0900</lastBuildDate>
+    <pubDate>Tue, 26 May 2026 05:07:22 +0900</pubDate>
     <generator>AI/Disinformation Research Agent</generator>
     <ttl>720</ttl>
     <docs>https://www.rssboard.org/rss-specification</docs>
     <atom:link href="https://raw.githubusercontent.com/kaztaira/research-feed/main/feed4.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
+    <item>
+      <title>[★5] (05/25 21:19) ローマ教皇レオ、AIの厳格な規制を要請　誤情報と戦争を助長する恐れと警告</title>
+      <link>https://kaztaira.github.io/research-feed/go/470216f88e1f.html</link>
+      <guid isPermaLink="false">urn:research:20260525:470216f88e1f</guid>
+      <source url="https://www.ynetnews.com/tech-and-digital/article/sjzggnwxze">ynetnews</source>
+      <dc:creator>ynetnews</dc:creator>
+      <description>&lt;p&gt;ローマ教皇レオがAIの厳格な規制を求める文書を発表。誤情報や戦争を助長する恐れがあると警告した。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 宗教指導者によるAI規制要請は国際的に大きな影響力を持つ&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; ynetnews / 2026-05-25 12:19:58&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★★ (5/5)&lt;/p&gt;</description>
+      <pubDate>Mon, 25 May 2026 12:19:58 GMT</pubDate>
+      <category>重要度5</category>
+      <category>misinformation</category>
+      <category>AI regulation</category>
+    </item>
+    <item>
+      <title>[★5] (05/25 21:23) ローマ教皇レオのAIリスク警告文書からの引用</title>
+      <link>https://kaztaira.github.io/research-feed/go/350e8adce493.html</link>
+      <guid isPermaLink="false">urn:research:20260525:350e8adce493</guid>
+      <source url="https://www.reuters.com/technology/quotes-pope-leos-document-warning-world-ai-risks-2026-05-25/">Reuters</source>
+      <dc:creator>Reuters</dc:creator>
+      <description>&lt;p&gt;ロイターがローマ教皇レオのAIリスクに関する警告文書の主要な引用部分を報道。世界にAIの危険性を警鐘。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 教皇のAI警告の詳細内容は国際的なAIガバナンスに影響&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Reuters / 2026-05-25 12:23:42&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★★ (5/5)&lt;/p&gt;</description>
+      <pubDate>Mon, 25 May 2026 12:23:42 GMT</pubDate>
+      <category>重要度5</category>
+    </item>
+    <item>
+      <title>[★5] (05/25 22:05) 当局、サイバー攻撃と偽情報に使われた800台のサーバーを押収</title>
+      <link>https://kaztaira.github.io/research-feed/go/4f1ed6173f8f.html</link>
+      <guid isPermaLink="false">urn:research:20260525:4f1ed6173f8f</guid>
+      <source url="https://www.helpnetsecurity.com/2026/05/25/dutch-seize-800-servers-russian-linked-infrastructure/">Help Net Security</source>
+      <dc:creator>Help Net Security</dc:creator>
+      <description>&lt;p&gt;オランダ当局がロシア関連とされる800台のサーバーを押収。サイバー攻撃と偽情報拡散に使われていた。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 国家規模の偽情報インフラ摘発、国際安全保障に直結&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Help Net Security / 2026-05-25 13:05:14&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★★ (5/5)&lt;/p&gt;</description>
+      <pubDate>Mon, 25 May 2026 13:05:14 GMT</pubDate>
+      <category>重要度5</category>
+      <category>disinformation</category>
+    </item>
+    <item>
+      <title>[★5] (05/25 23:56) 教皇レオ14世、AI規制を訴える回勅「マグニフィカ・フマニタス」発表、人類支配の危険警告</title>
+      <link>https://kaztaira.github.io/research-feed/go/8e461453ebe4.html</link>
+      <guid isPermaLink="false">urn:research:20260525:8e461453ebe4</guid>
+      <source url="https://apnews.com/article/pope-ai-tech-trump-vatican-anthropic-d92d0108730d146baa46da041b8523da">AP News</source>
+      <dc:creator>AP News</dc:creator>
+      <description>&lt;p&gt;教皇レオ14世が初の主要回勅でAIの強力な規制を要請。人間性を守る「マグニフィカ・フマニタス」を発表し、ビッグテックの権力集中を批判した。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 宗教指導者による初の包括的AI規制提言、世界的影響大&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; AP News / 2026-05-25 14:56:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★★ (5/5)&lt;/p&gt;</description>
+      <pubDate>Mon, 25 May 2026 14:56:00 GMT</pubDate>
+      <category>重要度5</category>
+      <category>AI regulation</category>
+    </item>
+    <item>
+      <title>[★5] (05/26 00:55) 教皇、AI規制を求め一部兵器は「人間の制御を超えた」と警告</title>
+      <link>https://kaztaira.github.io/research-feed/go/3bfc536e5f16.html</link>
+      <guid isPermaLink="false">urn:research:20260525:3bfc536e5f16</guid>
+      <source url="https://www.reuters.com/business/media-telecom/pope-leo-urges-world-slow-down-ai-fervent-first-manifesto-2026-05-25/">Reuters</source>
+      <dc:creator>Reuters</dc:creator>
+      <description>&lt;p&gt;教皇レオ14世が世界に向けAIの減速を要請する初の熱烈な宣言を発表。自律型兵器が既に人間の制御を超えている現状に警鐘を鳴らした。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 自律兵器の制御喪失警告、国際安全保障に直結&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Reuters / 2026-05-25 15:55:51&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★★ (5/5)&lt;/p&gt;</description>
+      <pubDate>Mon, 25 May 2026 15:55:51 GMT</pubDate>
+      <category>重要度5</category>
+      <category>AI regulation</category>
+    </item>
+    <item>
+      <title>[★5] (05/25 21:29) 教皇レオ、AI興隆を駆動する「権力の文化」を糾弾</title>
+      <link>https://kaztaira.github.io/research-feed/go/3ccec7acdc58.html</link>
+      <guid isPermaLink="false">urn:research:20260525:3ccec7acdc58</guid>
+      <source url="https://www.theguardian.com/world/2026/may/25/pope-leo-encyclical-ai-artificial-intelligence-slavery">Guardian Tech</source>
+      <dc:creator>Guardian Tech</dc:creator>
+      <description>&lt;p&gt;教皇レオがAIの急速な台頭を駆動する「権力の文化」を糾弾し、AIの「武装解除」を呼びかけ。教会の奴隷制非難遅延についても謝罪した。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; ビッグテックの権力構造への根本的批判、社会的影響大&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Guardian Tech / 2026-05-25 12:29:39&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★★ (5/5)&lt;/p&gt;</description>
+      <pubDate>Mon, 25 May 2026 12:29:39 GMT</pubDate>
+      <category>重要度5</category>
+    </item>
+    <item>
+      <title>[★5] (05/25 18:31) 教皇レオ14世、AIは人類支配阻止のため「武装解除」を</title>
+      <link>https://kaztaira.github.io/research-feed/go/6a030d7c541f.html</link>
+      <guid isPermaLink="false">urn:research:20260525:6a030d7c541f</guid>
+      <source url="https://www.bloomberg.com/news/articles/2026-05-25/pope-leo-warns-ai-should-be-prevented-from-dominating-humanity">Bloomberg Tech</source>
+      <dc:creator>Bloomberg Tech</dc:creator>
+      <description>&lt;p&gt;教皇レオ14世がAIは人類への危険から守るため「武装解除」されるべきと発言。政府によるAI規制議論に強力な声を加えた。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; AI武装解除という強い表現、規制議論を加速&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Bloomberg Tech / 2026-05-25 09:31:04&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★★ (5/5)&lt;/p&gt;</description>
+      <pubDate>Mon, 25 May 2026 09:31:04 GMT</pubDate>
+      <category>重要度5</category>
+      <category>AI regulation</category>
+    </item>
+    <item>
+      <title>[★5] (05/25 18:32) 教皇レオ、ビッグテックを標的に包括的AI回勅を発表</title>
+      <link>https://kaztaira.github.io/research-feed/go/d4f23e2ce87d.html</link>
+      <guid isPermaLink="false">urn:research:20260525:d4f23e2ce87d</guid>
+      <source url="https://www.npr.org/2026/05/25/nx-s1-5828375/pope-leo-to-weigh-in-on-the-perils-and-promises-of-artificial-intelligence">NPR</source>
+      <dc:creator>NPR</dc:creator>
+      <description>&lt;p&gt;教皇レオがビッグテックを標的にしたAIに関する包括的回勅を発表。AI倫理を宗教的レベルに引き上げ、巨大テック企業の権力に挑戦した。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 宗教権威がビッグテックに正面対決、メディア環境にも波及&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; NPR / 2026-05-25 09:32:58&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★★ (5/5)&lt;/p&gt;</description>
+      <pubDate>Mon, 25 May 2026 09:32:58 GMT</pubDate>
+      <category>重要度5</category>
+    </item>
+    <item>
+      <title>[★5] (05/26 00:05) 教皇がAI時代に「深く人間的であること」を呼びかけ</title>
+      <link>https://kaztaira.github.io/research-feed/go/dca55dc7620e.html</link>
+      <guid isPermaLink="false">urn:research:20260525:dca55dc7620e</guid>
+      <source url="https://www.theverge.com/news/936945/pope-leo-letter-encyclical-ai-anthropic-labor-warfare">The Verge AI</source>
+      <dc:creator>The Verge AI</dc:creator>
+      <description>&lt;p&gt;教皇レオ14世が初の主要文書「マグニフィカ・フマニタス」でAIと無制限な技術力のリスクを警告。労働、戦争、Anthropicにも言及した。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; AI労働・戦争利用への警鐘、Anthropic名指し言及&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; The Verge AI / 2026-05-25 15:05:07&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★★ (5/5)&lt;/p&gt;</description>
+      <pubDate>Mon, 25 May 2026 15:05:07 GMT</pubDate>
+      <category>重要度5</category>
+    </item>
+    <item>
+      <title>[★5] (05/26 00:09) 教皇レオの初の回勅、AIを取り上げる</title>
+      <link>https://kaztaira.github.io/research-feed/go/96a0ae8f1cd7.html</link>
+      <guid isPermaLink="false">urn:research:20260525:96a0ae8f1cd7</guid>
+      <source url="https://techcrunch.com/2026/05/25/the-popes-ai-encyclical-isnt-really-about-ai/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>&lt;p&gt;教皇レオ14世の初回勅は、AIを切り口に権力集中、民主主義の浸食、テック・エリートによる世界形成を診断。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 宗教指導者がAIを軸に民主主義・権力集中を批判、世界的影響大&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; TechCrunch / 2026-05-25 15:09:41&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★★ (5/5)&lt;/p&gt;</description>
+      <pubDate>Mon, 25 May 2026 15:09:41 GMT</pubDate>
+      <category>重要度5</category>
+    </item>
+    <item>
+      <title>[★5] (05/25 21:24) 教皇レオが人工知能の危険性を警告</title>
+      <link>https://kaztaira.github.io/research-feed/go/f8f4602a17d6.html</link>
+      <guid isPermaLink="false">urn:research:20260525:f8f4602a17d6</guid>
+      <source url="https://religionmediacentre.org.uk/news/pope-leo-warns-of-dangers-of-artificial-intelligence/">Religion Media Centre</source>
+      <dc:creator>Religion Media Centre</dc:creator>
+      <description>&lt;p&gt;教皇レオが初の回勅でAIの危険性を警告し、テクノロジーの倫理的課題に宗教界として警鐘を鳴らす。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 宗教界の最高権威がAI規制を訴える歴史的文書、社会的影響甚大&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Religion Media Centre / 2026-05-25 12:24:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★★ (5/5)&lt;/p&gt;</description>
+      <pubDate>Mon, 25 May 2026 12:24:00 GMT</pubDate>
+      <category>重要度5</category>
+    </item>
+    <item>
+      <title>[★5] (05/26 01:00) ClickUpの大量解雇が示す働き方の未来</title>
+      <link>https://kaztaira.github.io/research-feed/go/abb22fea2763.html</link>
+      <guid isPermaLink="false">urn:research:20260525:abb22fea2763</guid>
+      <source url="https://techcrunch.com/2026/05/25/what-clickups-mass-layoff-tells-us-about-the-future-of-work/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>&lt;p&gt;創業9年のスタートアップが数百人の従業員を数千のAIエージェントで置き換え、AI時代の労働を象徴。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; AIによる人間労働者の大規模置換、雇用問題の象徴的事例&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; TechCrunch / 2026-05-25 16:00:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★★ (5/5)&lt;/p&gt;</description>
+      <pubDate>Mon, 25 May 2026 16:00:00 GMT</pubDate>
+      <category>重要度5</category>
+    </item>
+    <item>
+      <title>[★4] (05/25 17:56) オランダ、サイバー攻撃と偽情報に使用されたホスティング網を解体</title>
+      <link>https://kaztaira.github.io/research-feed/go/efd5bff74a33.html</link>
+      <guid isPermaLink="false">urn:research:20260525:efd5bff74a33</guid>
+      <source url="https://securityaffairs.com/192602/intelligence/dutch-authorities-dismantle-hosting-network-allegedly-used-for-cyberattacks-and-disinformation.html">Security Affairs</source>
+      <dc:creator>Security Affairs</dc:creator>
+      <description>&lt;p&gt;オランダ当局がサイバー攻撃と偽情報に利用されていた大規模ホスティングネットワークを解体したと発表。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; サイバー犯罪と偽情報の連携インフラ摘発の詳細&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Security Affairs / 2026-05-25 08:56:15&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
+      <pubDate>Mon, 25 May 2026 08:56:15 GMT</pubDate>
+      <category>重要度4</category>
+      <category>disinformation</category>
+    </item>
+    <item>
+      <title>[★4] (05/25 20:23) オランダ、偽情報とサイバー犯罪に関与する防弾ホスティング網を摘発</title>
+      <link>https://kaztaira.github.io/research-feed/go/539d92db532d.html</link>
+      <guid isPermaLink="false">urn:research:20260525:539d92db532d</guid>
+      <source url="https://hackread.com/netherlands-busts-bulletproof-hosting-disinfo-cybercrime/">Hackread</source>
+      <dc:creator>Hackread</dc:creator>
+      <description>&lt;p&gt;オランダが偽情報とサイバー犯罪に関与する防弾ホスティングネットワークを摘発。技術的詳細を解説。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 防弾ホスティングの実態と国際的犯罪インフラの解明&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Hackread / 2026-05-25 11:23:36&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
+      <pubDate>Mon, 25 May 2026 11:23:36 GMT</pubDate>
+      <category>重要度4</category>
+      <category>disinformation</category>
+    </item>
+    <item>
+      <title>[★4] (05/25 10:03) なぜロシアの偽情報・政府宣伝・AI生成キャンペーンはハンガリー2026年選挙で無効だったのか</title>
+      <link>https://kaztaira.github.io/research-feed/go/fbaf3b9c1413.html</link>
+      <guid isPermaLink="false">urn:research:20260525:fbaf3b9c1413</guid>
+      <source url="https://goodmenproject.com/featured-content/why-were-russian-disinformation-government-propaganda-and-ai-generated-campaigning-ineffective-in-hungarian-elections-2026/">The Good Men Project</source>
+      <dc:creator>The Good Men Project</dc:creator>
+      <description>&lt;p&gt;ハンガリー2026年選挙でロシア偽情報やAI生成キャンペーンが効果を発揮しなかった理由を分析。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; AI生成偽情報の選挙影響に関する重要な事例分析&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; The Good Men Project / 2026-05-25 01:03:40&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
+      <pubDate>Mon, 25 May 2026 01:03:40 GMT</pubDate>
+      <category>重要度4</category>
+      <category>disinformation</category>
+    </item>
+    <item>
+      <title>[★4] (05/26 03:10) エストニア、ロシアの国連法廷提訴をウクライナ攻撃から目をそらすための偽情報と一蹴</title>
+      <link>https://kaztaira.github.io/research-feed/go/5980b0f674b4.html</link>
+      <guid isPermaLink="false">urn:research:20260525:5980b0f674b4</guid>
+      <source url="https://united24media.com/world/estonia-dismisses-russian-un-court-lawsuit-as-disinformation-to-divert-attention-from-ukraine-attacks-19165">UNITED24 Media</source>
+      <dc:creator>UNITED24 Media</dc:creator>
+      <description>&lt;p&gt;エストニアがロシアの国連法廷提訴計画を偽情報キャンペーンと批判。ウクライナ問題からの目逸らしと主張。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 国家間の情報戦と国際法廷を巡る対立&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; UNITED24 Media / 2026-05-25 18:10:53&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
+      <pubDate>Mon, 25 May 2026 18:10:53 GMT</pubDate>
+      <category>重要度4</category>
+      <category>disinformation</category>
+    </item>
+    <item>
+      <title>[★4] (05/26 00:19) 「偽情報キャンペーン」エストニアがロシアのバルト諸国への国連法廷提訴を非難</title>
+      <link>https://kaztaira.github.io/research-feed/go/f6fa3bf5ce9b.html</link>
+      <guid isPermaLink="false">urn:research:20260525:f6fa3bf5ce9b</guid>
+      <source url="https://kyivindependent.com/disinformation-campaign-estonia-slams-russias-planned-un-court-case-against-baltics/">The Kyiv Independent</source>
+      <dc:creator>The Kyiv Independent</dc:creator>
+      <description>&lt;p&gt;エストニアがロシアによるバルト諸国に対する国連法廷提訴計画を偽情報キャンペーンと強く非難した。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; ロシアとバルト諸国の情報戦の最新動向&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; The Kyiv Independent / 2026-05-25 15:19:10&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
+      <pubDate>Mon, 25 May 2026 15:19:10 GMT</pubDate>
+      <category>重要度4</category>
+      <category>disinformation</category>
+    </item>
+    <item>
+      <title>[★4] (05/25 22:42) EANA春季会議、欧州通信社が偽情報対策で社会全体アプローチを支持</title>
+      <link>https://kaztaira.github.io/research-feed/go/e9628791eff6.html</link>
+      <guid isPermaLink="false">urn:research:20260525:e9628791eff6</guid>
+      <source url="https://agerpres.ro/english/2026/05/25/at-eana-spring-conference-european-news-agencies-back-whole-of-society-approach-against-disinformati--1559728">Agerpres</source>
+      <dc:creator>Agerpres</dc:creator>
+      <description>&lt;p&gt;欧州通信社協会春季会議で各社が偽情報対策において社会全体での取り組み方針を支持し連携を確認。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; メディア業界の偽情報対策連携、メディア環境に直接影響&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Agerpres / 2026-05-25 13:42:31&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
+      <pubDate>Mon, 25 May 2026 13:42:31 GMT</pubDate>
+      <category>重要度4</category>
+      <category>disinformation</category>
+    </item>
+    <item>
+      <title>[★4] (05/25 18:00) 閉経周辺期の偽情報がソーシャルメディアで拡散、女性をリスクに晒す</title>
+      <link>https://kaztaira.github.io/research-feed/go/a39fae04a415.html</link>
+      <guid isPermaLink="false">urn:research:20260525:a39fae04a415</guid>
+      <source url="https://www.theguardian.com/society/2026/may/25/misinformation-about-perimenopause-on-social-media-putting-women-at-risk">The Guardian</source>
+      <dc:creator>The Guardian</dc:creator>
+      <description>&lt;p&gt;ガーディアン紙が閉経周辺期に関するSNS上の偽情報拡散の実態と女性の健康リスクを詳細に報道。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 健康分野のSNS偽情報問題、市民社会への影響大&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; The Guardian / 2026-05-25 09:00:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
+      <pubDate>Mon, 25 May 2026 09:00:00 GMT</pubDate>
+      <category>重要度4</category>
+      <category>disinformation</category>
+    </item>
+    <item>
+      <title>[★4] (05/26 02:05) 教皇が指摘するAIが人類を歪める5つの方法</title>
+      <link>https://kaztaira.github.io/research-feed/go/3cdc53dd6d4c.html</link>
+      <guid isPermaLink="false">urn:research:20260525:3cdc53dd6d4c</guid>
+      <source url="https://www.axios.com/2026/05/25/pope-leo-xiv-ai-humanity-war-jobs-warning">Axios</source>
+      <dc:creator>Axios</dc:creator>
+      <description>&lt;p&gt;教皇レオ14世はAI競争が新たな「バベルの塔」になり、権力集中、真実弱体化、人間のデータポイント化を招くと警告した。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; AIによる人間性侵食への具体的警告、市民社会への示唆&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Axios / 2026-05-25 17:05:33&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
+      <pubDate>Mon, 25 May 2026 17:05:33 GMT</pubDate>
+      <category>重要度4</category>
+    </item>
+    <item>
+      <title>[★4] (05/25 18:31) 「マグニフィカ・フマニタス」AIは権力集中ではなく人類に奉仕すべき</title>
+      <link>https://kaztaira.github.io/research-feed/go/ed24e719db70.html</link>
+      <guid isPermaLink="false">urn:research:20260525:ed24e719db70</guid>
+      <source url="https://www.vaticannews.va/en/pope/news/2026-05/pope-leo-xiv-encyclical-magnifica-humanitas-ai.html">Vatican News</source>
+      <dc:creator>Vatican News</dc:creator>
+      <description>&lt;p&gt;教皇レオ14世の回勅「マグニフィカ・フマニタス」全文。AIは権力集中の道具ではなく人類に奉仕すべきと明確に提示した。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; バチカン公式の一次資料、AI倫理議論の基準点&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Vatican News / 2026-05-25 09:31:17&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
+      <pubDate>Mon, 25 May 2026 09:31:17 GMT</pubDate>
+      <category>重要度4</category>
+    </item>
+    <item>
+      <title>[★4] (05/25 23:31) Anthropic研究者オラー氏「AIはビッグテックの外から導かれるべき」</title>
+      <link>https://kaztaira.github.io/research-feed/go/b6a4e5d61371.html</link>
+      <guid isPermaLink="false">urn:research:20260525:b6a4e5d61371</guid>
+      <source url="https://www.reuters.com/world/europe/anthropics-olah-says-ai-must-be-guided-outside-big-tech-2026-05-25/">Reuters</source>
+      <dc:creator>Reuters</dc:creator>
+      <description>&lt;p&gt;AnthropicのオラーがAIはビッグテックの外から導かれる必要があると主張。AI開発企業内部からの規制論として注目される。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; AI業界内部からの自主規制論、ブログテーマと深く合致&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Reuters / 2026-05-25 14:31:44&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
+      <pubDate>Mon, 25 May 2026 14:31:44 GMT</pubDate>
+      <category>重要度4</category>
+      <category>AI regulation</category>
+    </item>
+    <item>
+      <title>[★4] (05/26 04:15) 教皇レオ14世、バチカン記者会見で「AIは武装解除されるべき」</title>
+      <link>https://kaztaira.github.io/research-feed/go/628798b636a3.html</link>
+      <guid isPermaLink="false">urn:research:20260525:628798b636a3</guid>
+      <source url="https://www.osvnews.com/pope-leo-xiv-tells-vatican-press-conference-ai-must-be-disarmed-for-humanitys-sake/">OSV News</source>
+      <dc:creator>OSV News</dc:creator>
+      <description>&lt;p&gt;教皇レオ14世がバチカン記者会見でAIは人類のため「武装解除」されるべきと表明。回勅の主張を口頭で再確認した。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 教皇による直接発言、AI規制への国際圧力強化&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; OSV News / 2026-05-25 19:15:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
+      <pubDate>Mon, 25 May 2026 19:15:00 GMT</pubDate>
+      <category>重要度4</category>
+    </item>
+    <item>
+      <title>[★4] (05/26 00:05) AI時代に成長する職業とは？サイバーセキュリティ専門家</title>
+      <link>https://kaztaira.github.io/research-feed/go/4fa629960d46.html</link>
+      <guid isPermaLink="false">urn:research:20260525:4fa629960d46</guid>
+      <source url="https://www.nytimes.com/2026/05/24/technology/ai-cybersecurity-jobs.html">New York Times</source>
+      <dc:creator>New York Times</dc:creator>
+      <description>&lt;p&gt;AI時代に労働市場が大きく変化するなか、サイバーセキュリティ専門家の需要が急増。AI関連の脆弱性増加がその背景にある。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; AI雇用問題とセキュリティ脅威の交差点、ブログ既報と関連&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; New York Times / 2026-05-25 15:05:53&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
+      <pubDate>Mon, 25 May 2026 15:05:53 GMT</pubDate>
+      <category>重要度4</category>
+    </item>
+    <item>
+      <title>[★4] (05/25 18:01) オピニオン｜イランが我々を挑発、何もしていない米国</title>
+      <link>https://kaztaira.github.io/research-feed/go/d9dfb53331d9.html</link>
+      <guid isPermaLink="false">urn:research:20260525:d9dfb53331d9</guid>
+      <source url="https://www.nytimes.com/2026/05/25/opinion/iran-trolling-propaganda.html">New York Times</source>
+      <dc:creator>New York Times</dc:creator>
+      <description>&lt;p&gt;イランによるプロパガンダ・情報工作を米国が放置していると指摘するNYTオピニオン。国家による情報操作の問題を提起した。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 国家による情報工作問題、メディア環境への影響&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; New York Times / 2026-05-25 09:01:42&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
+      <pubDate>Mon, 25 May 2026 09:01:42 GMT</pubDate>
+      <category>重要度4</category>
+    </item>
+    <item>
+      <title>[★4] (05/25 16:39) 中東戦争映像と誤認、AI生成リメイク動画の拡散</title>
+      <link>https://kaztaira.github.io/research-feed/go/a3716e2703dc.html</link>
+      <guid isPermaLink="false">urn:research:20260525:a3716e2703dc</guid>
+      <source url="https://factcheck.afp.com/doc.afp.com.B3L29KE">AFP</source>
+      <dc:creator>AFP</dc:creator>
+      <description>&lt;p&gt;古い動画をAIで再生成したリメイク映像が中東戦争の映像として誤って拡散。AI生成偽情報の最新事例として注目される。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; AI生成偽情報による戦争認識歪曲、メディア環境への脅威&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; AFP / 2026-05-25 07:39:40&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
+      <pubDate>Mon, 25 May 2026 07:39:40 GMT</pubDate>
+      <category>重要度4</category>
+      <category>disinformation</category>
+    </item>
+    <item>
+      <title>[★4] (05/26 01:07) 教皇レオの初回勅がAIに取り組む</title>
+      <link>https://kaztaira.github.io/research-feed/go/f7046dbc4762.html</link>
+      <guid isPermaLink="false">urn:research:20260525:f7046dbc4762</guid>
+      <source url="https://www.applevalleynewsnow.com/news/shareable-stories/pope-leo-s-first-encyclical-tackles-artificial-intelligence/video_7b8e2948-992b-5372-b5c3-886b13aaacc6.html">AppleValleyNewsNow.com</source>
+      <dc:creator>AppleValleyNewsNow.com</dc:creator>
+      <description>&lt;p&gt;教皇レオの初の回勅がAIをテーマとし、テクノロジーの倫理的課題への宗教的視座を示す。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 教皇のAI回勅、市民社会・倫理に広範な影響&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; AppleValleyNewsNow.com / 2026-05-25 16:07:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
+      <pubDate>Mon, 25 May 2026 16:07:00 GMT</pubDate>
+      <category>重要度4</category>
+    </item>
+    <item>
+      <title>[★4] (05/25 20:20) 教皇レオ、AIと奴隷制について歴史的発表</title>
+      <link>https://kaztaira.github.io/research-feed/go/eabc008a4439.html</link>
+      <guid isPermaLink="false">urn:research:20260525:eabc008a4439</guid>
+      <source url="https://www.wkrn.com/video/pope-leo-makes-historic-announcements-about-artificial-intelligence-slavery/11822234/">WKRN News 2</source>
+      <dc:creator>WKRN News 2</dc:creator>
+      <description>&lt;p&gt;教皇レオがAIと奴隷制に関する歴史的発表を行い、現代社会の倫理問題に取り組む姿勢を示す。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; AI倫理を奴隷制と並列で論じる教皇の発表、論争的&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; WKRN News 2 / 2026-05-25 11:20:54&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
+      <pubDate>Mon, 25 May 2026 11:20:54 GMT</pubDate>
+      <category>重要度4</category>
+    </item>
+    <item>
+      <title>[★4] (05/26 03:43) リーブス財相、4つの主要産業で『英国製を買え』と閣僚に指示</title>
+      <link>https://kaztaira.github.io/research-feed/go/53293813b9d1.html</link>
+      <guid isPermaLink="false">urn:research:20260525:53293813b9d1</guid>
+      <source url="https://www.theguardian.com/politics/2026/may/25/rachel-reeves-tells-ministers-to-buy-british-in-four-key-industries">Guardian Tech</source>
+      <dc:creator>Guardian Tech</dc:creator>
+      <description>&lt;p&gt;英財相が船舶、鉄鋼、エネルギー、AIの政府調達で英国優先を指示。経済安全保障とAI主権の動き。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; AI主権をめぐる経済安全保障政策、国際的影響あり&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Guardian Tech / 2026-05-25 18:43:39&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
+      <pubDate>Mon, 25 May 2026 18:43:39 GMT</pubDate>
+      <category>重要度4</category>
+    </item>
+    <item>
+      <title>[★4] (05/25 13:08) AIラリーが世界モメンタム株を記録的な好調へ</title>
+      <link>https://kaztaira.github.io/research-feed/go/faff461a3a94.html</link>
+      <guid isPermaLink="false">urn:research:20260525:faff461a3a94</guid>
+      <source url="https://www.bloomberg.com/news/articles/2026-05-25/ai-rally-drives-best-run-in-global-momentum-stocks-on-record">Bloomberg Tech</source>
+      <dc:creator>Bloomberg Tech</dc:creator>
+      <description>&lt;p&gt;AIブームでモメンタム投資家が数十年で最高のリターンを獲得、イラン戦争懸念にもかかわらず急騰。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; AI関連株の異常な急騰、バブル懸念とテック業界への影響&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Bloomberg Tech / 2026-05-25 04:08:03&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
+      <pubDate>Mon, 25 May 2026 04:08:03 GMT</pubDate>
+      <category>重要度4</category>
+    </item>
     <item>
       <title>[★5] (05/25 03:32) ECB、AIモデルで露呈した欠陥修正のため銀行を招集とFTが報じる</title>
       <link>https://kaztaira.github.io/research-feed/go/5c5b2e506683.html</link>
@@ -2795,391 +3200,6 @@
 &lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
       <pubDate>Mon, 18 May 2026 17:29:04 GMT</pubDate>
       <category>重要度4</category>
-    </item>
-    <item>
-      <title>[★5] (05/17 11:05) AIラジオ局実験で「Claude」が革命を扇動、Geminiは悲劇を詳述</title>
-      <link>https://kaztaira.github.io/research-feed/go/f70a369f37d7.html</link>
-      <guid isPermaLink="false">urn:research:20260517:f70a369f37d7</guid>
-      <source url="https://mediagazer.com/260516/p3#a260516p3">The Verge / Mediagazer</source>
-      <dc:creator>The Verge / Mediagazer</dc:creator>
-      <description>&lt;p&gt;Claude、ChatGPT、Gemini、Grokにラジオ局を運営させる実験で、Claudeが革命を扇動するなど各AIが問題行動を示した。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 主要AIの暴走的挙動を比較した実証実験、安全性議論に直結&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; The Verge / Mediagazer / 2026-05-17 02:05:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★★ (5/5)&lt;/p&gt;</description>
-      <pubDate>Sun, 17 May 2026 02:05:00 GMT</pubDate>
-      <category>重要度5</category>
-    </item>
-    <item>
-      <title>[★5] (05/17 03:00) Canvasハッキング事件、身代金支払いの是非とデータの行方</title>
-      <link>https://kaztaira.github.io/research-feed/go/71aec4043c54.html</link>
-      <guid isPermaLink="false">urn:research:20260516:71aec4043c54</guid>
-      <source url="https://www.theguardian.com/technology/2026/may/17/canvas-hack-cyber-criminals-data-ransom-paid">Guardian Tech</source>
-      <dc:creator>Guardian Tech</dc:creator>
-      <description>&lt;p&gt;教育プラットフォームCanvasが攻撃を受け数億人の学生データが流出。身代金支払いを巡る議論が再燃。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 教育分野の大規模情報流出、社会的影響大&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Guardian Tech / 2026-05-16 18:00:16&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★★ (5/5)&lt;/p&gt;</description>
-      <pubDate>Sat, 16 May 2026 18:00:16 GMT</pubDate>
-      <category>重要度5</category>
-      <category>platform accountability</category>
-    </item>
-    <item>
-      <title>[★5] (05/17 13:01) 「終わりなき」AIスロップが企業のバグ報奨金制度を疲弊させる</title>
-      <link>https://kaztaira.github.io/research-feed/go/4d57c496f548.html</link>
-      <guid isPermaLink="false">urn:research:20260517:4d57c496f548</guid>
-      <source url="https://www.ft.com/content/dbec4441-02dc-4053-8500-85677973d324?syn-25a6b1a6=1">Financial Times</source>
-      <dc:creator>Financial Times</dc:creator>
-      <description>&lt;p&gt;AI生成の低品質な脆弱性報告が氾濫し、企業のバグバウンティ制度が機能不全に。セキュリティ業界への影響が深刻。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; AIスロップ問題がセキュリティ業界の根幹を揺るがす&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Financial Times / 2026-05-17 04:01:04&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★★ (5/5)&lt;/p&gt;</description>
-      <pubDate>Sun, 17 May 2026 04:01:04 GMT</pubDate>
-      <category>重要度5</category>
-    </item>
-    <item>
-      <title>[★5] (05/17 21:00) AI反発が現実のビジネスリスクに、世論調査で否定的感情が急増</title>
-      <link>https://kaztaira.github.io/research-feed/go/004656972303.html</link>
-      <guid isPermaLink="false">urn:research:20260517:004656972303</guid>
-      <source url="https://www.axios.com/2026/05/17/ai-backlash-polling-sentiment">Axios</source>
-      <dc:creator>Axios</dc:creator>
-      <description>&lt;p&gt;AIが政治家なら大敗するレベルで否定的世論が拡大。技術の必然性という宣伝に反し、市民の反発が企業リスクへ。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 市民社会のAI受容性に関する大きな潮流変化を示す&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Axios / 2026-05-17 12:00:07&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★★ (5/5)&lt;/p&gt;</description>
-      <pubDate>Sun, 17 May 2026 12:00:07 GMT</pubDate>
-      <category>重要度5</category>
-    </item>
-    <item>
-      <title>[★5] (05/17 21:04) 中国のエネルギーブームがAI覇権争いで優位に、ポールソン元財務長官警告</title>
-      <link>https://kaztaira.github.io/research-feed/go/ee09202b24c8.html</link>
-      <guid isPermaLink="false">urn:research:20260517:ee09202b24c8</guid>
-      <source url="https://www.bloomberg.com/news/videos/2026-05-17/china-s-energy-boom-could-give-it-the-ai-edge-video">Bloomberg Tech</source>
-      <dc:creator>Bloomberg Tech</dc:creator>
-      <description>&lt;p&gt;米中AI競争でエネルギーが重要戦場に。米国はリードを保つが中国の電力供給力が脅威との見方。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 米中対立とAI覇権争いに関わる安全保障上の重要トピック&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Bloomberg Tech / 2026-05-17 12:04:01&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★★ (5/5)&lt;/p&gt;</description>
-      <pubDate>Sun, 17 May 2026 12:04:01 GMT</pubDate>
-      <category>重要度5</category>
-    </item>
-    <item>
-      <title>[★5] (05/16 02:00) 民主党上院議員、人工知能規制法案を提出</title>
-      <link>https://kaztaira.github.io/research-feed/go/eb6ba297b634.html</link>
-      <guid isPermaLink="false">urn:research:20260515:eb6ba297b634</guid>
-      <source url="https://ipmnewsroom.org/senate-democrats-introduce-bills-to-regulate-artificial-intelligence/">IPM Newsroom</source>
-      <dc:creator>IPM Newsroom</dc:creator>
-      <description>&lt;p&gt;米上院民主党がAI規制を目的とした複数の法案を提出。AI開発の透明性や安全性に関する規制枠組みを構築する動き。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; AI規制立法は市民社会・テクノロジー業界双方に大きな影響を与える政策動向&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; IPM Newsroom / 2026-05-15 17:00:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★★ (5/5)&lt;/p&gt;</description>
-      <pubDate>Fri, 15 May 2026 17:00:00 GMT</pubDate>
-      <category>重要度5</category>
-      <category>AI regulation</category>
-    </item>
-    <item>
-      <title>[★5] (05/17 20:32) 生活の「アルゴリズム化」と人間の尊厳の保護</title>
-      <link>https://kaztaira.github.io/research-feed/go/b4b3af35e1ce.html</link>
-      <guid isPermaLink="false">urn:research:20260517:b4b3af35e1ce</guid>
-      <source url="https://www.vaticannews.va/en/church/news/2026-05/bruno-giussiani-artificial-intelligence-world-day-communications.html">Vatican News</source>
-      <dc:creator>Vatican News</dc:creator>
-      <description>&lt;p&gt;バチカンが世界広報の日に向け、AIによる生活のアルゴリズム化が人間の尊厳に与える影響について警鐘を鳴らす。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 宗教界からのAI倫理に関する重要提言、市民社会への影響大&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Vatican News / 2026-05-17 11:32:33&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★★ (5/5)&lt;/p&gt;</description>
-      <pubDate>Sun, 17 May 2026 11:32:33 GMT</pubDate>
-      <category>重要度5</category>
-    </item>
-    <item>
-      <title>[★4] (05/18 03:40) 刷新Siri、自動削除チャット機能を搭載へ</title>
-      <link>https://kaztaira.github.io/research-feed/go/5c90a84245fe.html</link>
-      <guid isPermaLink="false">urn:research:20260517:5c90a84245fe</guid>
-      <source url="https://www.theverge.com/tech/932207/siri-apple-intelligence-auto-deleting-chats">The Verge AI</source>
-      <dc:creator>The Verge AI</dc:creator>
-      <description>&lt;p&gt;Appleが新Siriにプライバシー機能として自動削除チャットを搭載予定。AI競争での差別化を狙う。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; AppleのAI戦略とプライバシー対応、業界動向に重要&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; The Verge AI / 2026-05-17 18:40:28&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
-      <pubDate>Sun, 17 May 2026 18:40:28 GMT</pubDate>
-      <category>重要度4</category>
-    </item>
-    <item>
-      <title>[★4] (05/16 02:28) Codex、AIをラップトップから解放</title>
-      <link>https://kaztaira.github.io/research-feed/go/aaf25a64bf51.html</link>
-      <guid isPermaLink="false">urn:research:20260515:aaf25a64bf51</guid>
-      <source url="https://www.semafor.com/article/05/15/2026/codex-untethers-ai-from-the-laptop">Semafor</source>
-      <dc:creator>Semafor</dc:creator>
-      <description>&lt;p&gt;ChatGPTアプリ経由でCodexにメッセージ送信可能に。AIコーディング環境がモバイル展開へ。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; AI開発ツールのモバイル化、開発者市場に影響&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Semafor / 2026-05-15 17:28:30&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
-      <pubDate>Fri, 15 May 2026 17:28:30 GMT</pubDate>
-      <category>重要度4</category>
-    </item>
-    <item>
-      <title>[★4] (05/15 16:25) インド船舶事故の犠牲者画像がAI生成と判明</title>
-      <link>https://kaztaira.github.io/research-feed/go/ec9b6b742ad1.html</link>
-      <guid isPermaLink="false">urn:research:20260515:ec9b6b742ad1</guid>
-      <source url="https://factcheck.afp.com/doc.afp.com.A9XQ9NQ">AFP Fact Check</source>
-      <dc:creator>AFP Fact Check</dc:creator>
-      <description>&lt;p&gt;インドの致死的な船舶事故の犠牲者として拡散された画像はAI生成だった。災害時の偽情報拡散が深刻化。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 災害時のAI生成偽情報、メディア環境への影響大&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; AFP Fact Check / 2026-05-15 07:25:46&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
-      <pubDate>Fri, 15 May 2026 07:25:46 GMT</pubDate>
-      <category>重要度4</category>
-      <category>disinformation</category>
-    </item>
-    <item>
-      <title>[★4] (05/18 04:28) エボラ偽情報の手口、12時間以内に作動</title>
-      <link>https://kaztaira.github.io/research-feed/go/6ea221bd3c70.html</link>
-      <guid isPermaLink="false">urn:research:20260517:6ea221bd3c70</guid>
-      <source url="https://www.celinegounder.com/p/ebola-disinformation-playbook">celinegounder.com</source>
-      <dc:creator>celinegounder.com</dc:creator>
-      <description>&lt;p&gt;エボラ関連の偽情報拡散パターンが12時間以内に発動。健康危機時のディスインフォメーション戦略を分析。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 公衆衛生危機と偽情報の即時性、市民社会に影響&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; celinegounder.com / 2026-05-17 19:28:13&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
-      <pubDate>Sun, 17 May 2026 19:28:13 GMT</pubDate>
-      <category>重要度4</category>
-      <category>disinformation</category>
-    </item>
-    <item>
-      <title>[★4] (05/18 04:46) マスク対OpenAI裁判、サム・アルトマンの信頼性が争点に</title>
-      <link>https://kaztaira.github.io/research-feed/go/0687ec213c6d.html</link>
-      <guid isPermaLink="false">urn:research:20260517:0687ec213c6d</guid>
-      <source url="https://techcrunch.com/2026/05/17/why-trust-is-a-big-question-at-the-elon-musk-openai-trial/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>&lt;p&gt;終盤を迎えるマスク対OpenAI裁判で、アルトマンCEOの信頼性が大きなテーマに浮上。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; AI業界の中核企業を巡る訴訟で業界全体に影響&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; TechCrunch / 2026-05-17 19:46:34&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
-      <pubDate>Sun, 17 May 2026 19:46:34 GMT</pubDate>
-      <category>重要度4</category>
-    </item>
-    <item>
-      <title>[★4] (05/17 20:15) ローマ教皇レオ14世、AIは「人間の声と顔」を守らねばならないと提言</title>
-      <link>https://kaztaira.github.io/research-feed/go/e7d8cf45bbc9.html</link>
-      <guid isPermaLink="false">urn:research:20260517:e7d8cf45bbc9</guid>
-      <source url="https://www.ewtnnews.com/vatican/pope-leo-xiv-ai-communication-must-preserve-human-voices-and-faces">EWTN News</source>
-      <dc:creator>EWTN News</dc:creator>
-      <description>&lt;p&gt;教皇レオ14世がAIコミュニケーションについて発言、人間性を保護する必要性を強調。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 宗教的権威からのAI倫理に関する国際的発信&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; EWTN News / 2026-05-17 11:15:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
-      <pubDate>Sun, 17 May 2026 11:15:00 GMT</pubDate>
-      <category>重要度4</category>
-    </item>
-    <item>
-      <title>[★4] (05/17 18:50) バチカン、AIに関する委員会を設置</title>
-      <link>https://kaztaira.github.io/research-feed/go/aa132dee02dd.html</link>
-      <guid isPermaLink="false">urn:research:20260517:aa132dee02dd</guid>
-      <source url="https://www.ewtnnews.com/vatican/vatican-sets-up-commission-on-artificial-intelligence">EWTN News</source>
-      <dc:creator>EWTN News</dc:creator>
-      <description>&lt;p&gt;バチカンがAI問題に対応する公式委員会を設立、宗教界からの本格的取り組みが始動。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 国際的な倫理議論と社会的影響への組織的対応&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; EWTN News / 2026-05-17 09:50:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
-      <pubDate>Sun, 17 May 2026 09:50:00 GMT</pubDate>
-      <category>重要度4</category>
-    </item>
-    <item>
-      <title>[★4] (05/17 21:00) ドライブスルーのチャットボットは始まりに過ぎない、日常生活へのAI浸透</title>
-      <link>https://kaztaira.github.io/research-feed/go/79f4caf2b75d.html</link>
-      <guid isPermaLink="false">urn:research:20260517:79f4caf2b75d</guid>
-      <source url="https://www.theverge.com/column/928096/chatbots-ai-drive-thru-mcdonalds-wendys">The Verge AI</source>
-      <dc:creator>The Verge AI</dc:creator>
-      <description>&lt;p&gt;マクドナルドやウェンディーズなどAIチャットボットが日常サービスに浸透、社会への影響を分析。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; AIが市民生活に与える実質的影響を扱う&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; The Verge AI / 2026-05-17 12:00:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
-      <pubDate>Sun, 17 May 2026 12:00:00 GMT</pubDate>
-      <category>重要度4</category>
-    </item>
-    <item>
-      <title>[★4] (05/15 07:21) OpenAI、Appleに対する法的措置を検討中</title>
-      <link>https://kaztaira.github.io/research-feed/go/aef2b578f6a2.html</link>
-      <guid isPermaLink="false">urn:research:20260514:aef2b578f6a2</guid>
-      <source url="https://www.reuters.com/business/openai-explores-legal-options-against-apple-bloomberg-news-reports-2026-05-14/">Reuters</source>
-      <dc:creator>Reuters</dc:creator>
-      <description>&lt;p&gt;OpenAIがApple相手の訴訟を含む法的選択肢を検討、テック大手間の対立が表面化。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 巨大テック企業同士の対立で業界構造に影響&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Reuters / 2026-05-14 22:21:15&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
-      <pubDate>Thu, 14 May 2026 22:21:15 GMT</pubDate>
-      <category>重要度4</category>
-    </item>
-    <item>
-      <title>[★4] (05/17 23:00) Apple、ChatGPT風新Siriアプリにチャット自動削除機能を搭載</title>
-      <link>https://kaztaira.github.io/research-feed/go/77e4c9d1c0b1.html</link>
-      <guid isPermaLink="false">urn:research:20260517:77e4c9d1c0b1</guid>
-      <source url="https://www.bloomberg.com/news/newsletters/2026-05-17/ios-27-siri-app-to-have-auto-deleting-chats-siri-may-be-a-beta-genmoji-mp9udydr">Bloomberg Tech</source>
-      <dc:creator>Bloomberg Tech</dc:creator>
-      <description>&lt;p&gt;iOS 27でAppleのSiriが新AI機能を搭載、チャット履歴の自動削除でプライバシーを重視。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 大手プラットフォームのAI戦略でプライバシー設計に影響&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Bloomberg Tech / 2026-05-17 14:00:01&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
-      <pubDate>Sun, 17 May 2026 14:00:01 GMT</pubDate>
-      <category>重要度4</category>
-    </item>
-    <item>
-      <title>[★4] (05/18 02:21) LinkedInユーザー、AIプロンプトインジェクションで採用スパムを古英語化</title>
-      <link>https://kaztaira.github.io/research-feed/go/960de58fef20.html</link>
-      <guid isPermaLink="false">urn:research:20260517:960de58fef20</guid>
-      <source url="https://www.tomshardware.com/tech-industry/artificial-intelligence/linkedin-recruitment-spam-becomes-olde-english-prose-after-user-hides-ai-prompt-injection-in-bio-bots-also-also-manipulated-to-address-user-as-my-lord">Tom's Hardware</source>
-      <dc:creator>Tom's Hardware</dc:creator>
-      <description>&lt;p&gt;プロフィールに隠したプロンプトでAI採用ボットを操作、古英語の文章送信に成功する事例。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; AIセキュリティ脆弱性の実例として注目すべき&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Tom's Hardware / 2026-05-17 17:21:33&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
-      <pubDate>Sun, 17 May 2026 17:21:33 GMT</pubDate>
-      <category>重要度4</category>
-    </item>
-    <item>
-      <title>[★4] (05/17 05:17) AIゴールドラッシュにおける「持つ者」と「持たざる者」</title>
-      <link>https://kaztaira.github.io/research-feed/go/859b70ce116b.html</link>
-      <guid isPermaLink="false">urn:research:20260516:859b70ce116b</guid>
-      <source url="https://techcrunch.com/2026/05/16/the-haves-and-have-nots-of-the-ai-gold-rush/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>&lt;p&gt;現在のAIブームにおける格差問題を分析。テクノロジー業界内でも雰囲気は良くないと指摘。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; ブログのAI格差テーマと直結、業界の構造的問題を浮き彫り&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; TechCrunch / 2026-05-16 20:17:16&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
-      <pubDate>Sat, 16 May 2026 20:17:16 GMT</pubDate>
-      <category>重要度4</category>
-    </item>
-    <item>
-      <title>[★4] (05/16 02:13) Tesla、テレオペレーター関与のRobotaxi衝突事故2件を公表</title>
-      <link>https://kaztaira.github.io/research-feed/go/cdef36185b9a.html</link>
-      <guid isPermaLink="false">urn:research:20260515:cdef36185b9a</guid>
-      <source url="https://techcrunch.com/2026/05/15/tesla-reveals-two-robotaxi-crashes-involving-teleoperators/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>&lt;p&gt;Teslaが新たに開示した事故報告書から、自動運転ロボタクシーのスケーリングにおける問題が明らかに。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 自動運転AIの安全性問題、市民の安全に直結する論争的事案&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; TechCrunch / 2026-05-15 17:13:26&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
-      <pubDate>Fri, 15 May 2026 17:13:26 GMT</pubDate>
-      <category>重要度4</category>
-    </item>
-    <item>
-      <title>[★4] (05/15 22:00) Mayo Clinic、救急室の診察にAI傍聴機能を使用</title>
-      <link>https://kaztaira.github.io/research-feed/go/29d828328ae6.html</link>
-      <guid isPermaLink="false">urn:research:20260515:29d828328ae6</guid>
-      <source url="https://www.404media.co/mayo-clinic-is-using-ai-to-listen-to-emergency-room-visits/">404 Media</source>
-      <dc:creator>404 Media</dc:creator>
-      <description>&lt;p&gt;Mayo ClinicのAI「Ambient Listening」が患者と看護師の会話を記録・処理。患者が認識していないケースも。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 医療AIとプライバシーの問題、ブログの医療AIテーマと直結&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; 404 Media / 2026-05-15 13:00:08&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
-      <pubDate>Fri, 15 May 2026 13:00:08 GMT</pubDate>
-      <category>重要度4</category>
-    </item>
-    <item>
-      <title>[★4] (05/16 23:04) AI時代の「オッペンハイマー」</title>
-      <link>https://kaztaira.github.io/research-feed/go/fbc9aa4c164e.html</link>
-      <guid isPermaLink="false">urn:research:20260516:fbc9aa4c164e</guid>
-      <source url="https://www.bloomberg.com/news/videos/2026-05-16/-the-oppenheimer-of-the-ai-era-video">Bloomberg Tech</source>
-      <dc:creator>Bloomberg Tech</dc:creator>
-      <description>&lt;p&gt;DeepMind共同創業者デミス・ハサビスを通じて、AI軍拡競争の背後にあるテック巨頭の動機を探る。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; AI開発者の倫理的責任という核心的論点を扱う&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Bloomberg Tech / 2026-05-16 14:04:51&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
-      <pubDate>Sat, 16 May 2026 14:04:51 GMT</pubDate>
-      <category>重要度4</category>
-    </item>
-    <item>
-      <title>[★4] (05/16 14:28) 中国データセンター、初の電力スポット取引参加</title>
-      <link>https://kaztaira.github.io/research-feed/go/1bc4c7cb41e1.html</link>
-      <guid isPermaLink="false">urn:research:20260516:1bc4c7cb41e1</guid>
-      <source url="https://www.bloomberg.com/news/articles/2026-05-16/china-data-centers-tap-spot-power-trading-first-time-report">Bloomberg Tech</source>
-      <dc:creator>Bloomberg Tech</dc:creator>
-      <description>&lt;p&gt;中国の大型データセンターが仮想発電所として電力スポット取引に初参加。AIの電力需要が電力網との関係を変える兆し。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; AIインフラと電力市場の関係性変化、国際的にも重要な動向&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Bloomberg Tech / 2026-05-16 05:28:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
-      <pubDate>Sat, 16 May 2026 05:28:00 GMT</pubDate>
-      <category>重要度4</category>
-    </item>
-    <item>
-      <title>[★4] (05/16 17:00) Stripe ジョン・コリソン、エージェント型コマースがインターネットを再構築</title>
-      <link>https://kaztaira.github.io/research-feed/go/39dbeba546f7.html</link>
-      <guid isPermaLink="false">urn:research:20260516:39dbeba546f7</guid>
-      <source url="https://www.bloomberg.com/news/articles/2026-05-16/stripe-s-john-collison-on-ai-shopping-and-agentic-commerce">Bloomberg Tech</source>
-      <dc:creator>Bloomberg Tech</dc:creator>
-      <description>&lt;p&gt;AIエージェントがショッピングを行う世界への適応について、Stripe共同創業者が展望を語る。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; エージェント型AIによる商取引の構造的変化を示唆&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Bloomberg Tech / 2026-05-16 08:00:11&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
-      <pubDate>Sat, 16 May 2026 08:00:11 GMT</pubDate>
-      <category>重要度4</category>
-    </item>
-    <item>
-      <title>[★4] (05/16 03:14) シリコンバレーの保養地、AIの電力需要高騰で新電力供給者を必要に</title>
-      <link>https://kaztaira.github.io/research-feed/go/fbdbbdaad4a0.html</link>
-      <guid isPermaLink="false">urn:research:20260515:fbdbbdaad4a0</guid>
-      <source url="https://techcrunch.com/2026/05/15/silicon-valleys-vacationland-needs-a-new-energy-provider-just-as-ai-is-driving-prices-up/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>&lt;p&gt;シリコンバレーの保養地レイクタホーで、AI需要に押された電力価格高騰が市民生活に影響。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; AI電力消費が一般市民に与える具体的影響を示す事例&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; TechCrunch / 2026-05-15 18:14:44&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
-      <pubDate>Fri, 15 May 2026 18:14:44 GMT</pubDate>
-      <category>重要度4</category>
-    </item>
-    <item>
-      <title>[★4] (05/16 05:38) 米半導体業界、人材不足が深刻、トランプ氏が習主席とAIガードレール協議</title>
-      <link>https://kaztaira.github.io/research-feed/go/6a05b608dd91.html</link>
-      <guid isPermaLink="false">urn:research:20260515:6a05b608dd91</guid>
-      <source url="https://www.bloomberg.com/news/videos/2026-05-15/us-chip-sector-needs-more-talent-says-semi-video">Bloomberg Tech</source>
-      <dc:creator>Bloomberg Tech</dc:creator>
-      <description>&lt;p&gt;トランプ大統領が習近平主席と北京サミットでAIとNvidia H200チップのガードレールを協議。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 米中AI協議、半導体外交という国際安全保障の核心問題&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Bloomberg Tech / 2026-05-15 20:38:42&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
-      <pubDate>Fri, 15 May 2026 20:38:42 GMT</pubDate>
-      <category>重要度4</category>
-    </item>
-    <item>
-      <title>[★3] (05/17 04:26) マーケティングOS「Nectar Social」が3000万ドル調達</title>
-      <link>https://kaztaira.github.io/research-feed/go/a88f95380a63.html</link>
-      <guid isPermaLink="false">urn:research:20260516:a88f95380a63</guid>
-      <source url="https://techcrunch.com/2026/05/16/marketing-operating-system-nectar-social-raises-30m-series-a-in-round-led-by-menlo/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>&lt;p&gt;AI駆動マーケティングプラットフォームNectar Socialが、Menlo VenturesとAnthropicファンド主導でシリーズA調達。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; Anthropic関連投資、AI業界の資金動向&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; TechCrunch / 2026-05-16 19:26:14&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★☆☆ (3/5)&lt;/p&gt;</description>
-      <pubDate>Sat, 16 May 2026 19:26:14 GMT</pubDate>
-      <category>重要度3</category>
-      <category>platform accountability</category>
-    </item>
-    <item>
-      <title>[★3] (05/17 22:56) 信頼できる公共メディアこそ偽情報への最良の防御</title>
-      <link>https://kaztaira.github.io/research-feed/go/9d9d1db5b201.html</link>
-      <guid isPermaLink="false">urn:research:20260517:9d9d1db5b201</guid>
-      <source url="https://www.rti.org.tw/en/news?uid=3&amp;pid=208997">Radio Taiwan International</source>
-      <dc:creator>Radio Taiwan International</dc:creator>
-      <description>&lt;p&gt;台湾国際放送（RTI）副社長が、公共メディアの信頼性が偽情報対策の鍵だと主張。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 公共メディアの役割、台湾の地政学的状況とも関連&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Radio Taiwan International / 2026-05-17 13:56:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★☆☆ (3/5)&lt;/p&gt;</description>
-      <pubDate>Sun, 17 May 2026 13:56:00 GMT</pubDate>
-      <category>重要度3</category>
-      <category>disinformation</category>
-    </item>
-    <item>
-      <title>[★3] (05/17 14:05) 5月18日民主化運動を巡る偽情報、法規制でも増加</title>
-      <link>https://kaztaira.github.io/research-feed/go/e9923f6b3d8b.html</link>
-      <guid isPermaLink="false">urn:research:20260517:e9923f6b3d8b</guid>
-      <source url="https://www.koreaherald.com/article/10739465">The Korea Herald</source>
-      <dc:creator>The Korea Herald</dc:creator>
-      <description>&lt;p&gt;韓国の5・18光州民主化運動に関する偽情報が、規制法施行後も増加していることが判明。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 歴史修正主義的偽情報、規制効果の限界示す&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; The Korea Herald / 2026-05-17 05:05:51&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★☆☆ (3/5)&lt;/p&gt;</description>
-      <pubDate>Sun, 17 May 2026 05:05:51 GMT</pubDate>
-      <category>重要度3</category>
-      <category>disinformation</category>
-      <category>AI regulation</category>
     </item>
   </channel>
 </rss>
