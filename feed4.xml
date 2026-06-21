@@ -1,18 +1,401 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
-  <!-- Generated: 2026-06-21T05:07:25+0900 -->
+  <!-- Generated: 2026-06-22T05:11:21+0900 -->
   <channel>
     <title>AI/Disinformation Daily Report（新聞紙学的）</title>
     <description>AI・偽情報・ディスインフォメーションに関する日次リサーチレポート。主要海外メディアから重要ニュースを抽出・評価。</description>
     <link>https://kaztaira.wordpress.com</link>
     <language>ja</language>
-    <lastBuildDate>Sun, 21 Jun 2026 05:07:25 +0900</lastBuildDate>
-    <pubDate>Sun, 21 Jun 2026 05:07:25 +0900</pubDate>
+    <lastBuildDate>Mon, 22 Jun 2026 05:11:21 +0900</lastBuildDate>
+    <pubDate>Mon, 22 Jun 2026 05:11:21 +0900</pubDate>
     <generator>AI/Disinformation Research Agent</generator>
     <ttl>720</ttl>
     <docs>https://www.rssboard.org/rss-specification</docs>
     <atom:link href="https://raw.githubusercontent.com/kaztaira/research-feed/main/feed4.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
+    <item>
+      <title>[★5] (06/20 03:18) 独占：トランプ氏、「The Axios Show」でAnthropicを国家安全保障上の脅威と発言</title>
+      <link>https://kaztaira.github.io/research-feed/go/5df78de46984.html</link>
+      <guid isPermaLink="false">urn:research:20260619:5df78de46984</guid>
+      <source url="https://www.axios.com/2026/06/19/trump-anthropic-national-security-the-axios-show">Axios</source>
+      <dc:creator>Axios</dc:creator>
+      <description>&lt;p&gt;トランプ大統領がAxiosの独占インタビューで、Anthropicを国家安全保障上の脅威と見なすに至ったと発言。ただし関係改善も示唆。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; AI企業と政権の対立が安全保障問題に発展し業界全体に波及&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Axios / 2026-06-19 18:18:54&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★★ (5/5)&lt;/p&gt;</description>
+      <pubDate>Fri, 19 Jun 2026 18:18:54 GMT</pubDate>
+      <category>重要度5</category>
+    </item>
+    <item>
+      <title>[★5] (06/22 00:28) トランプ政権がAnthropicを取り締まる時、誰が利益を得るのか</title>
+      <link>https://kaztaira.github.io/research-feed/go/a96480a97656.html</link>
+      <guid isPermaLink="false">urn:research:20260621:a96480a97656</guid>
+      <source url="https://techcrunch.com/2026/06/21/when-the-trump-administration-cracks-down-on-anthropic-who-benefits/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>&lt;p&gt;Equityの新エピソードで、政権のAnthropicに対する最新の動きの背景と、AIエコシステムへの影響を議論。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; AI業界規制とその利害構造を分析、業界再編につながる重大事案&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; TechCrunch / 2026-06-21 15:28:17&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★★ (5/5)&lt;/p&gt;</description>
+      <pubDate>Sun, 21 Jun 2026 15:28:17 GMT</pubDate>
+      <category>重要度5</category>
+    </item>
+    <item>
+      <title>[★5] (06/22 02:47) NSA幹部、AnthropicのMythosが「ほぼ全ての」機密システムに数時間で侵入と発言</title>
+      <link>https://kaztaira.github.io/research-feed/go/d61de8a41889.html</link>
+      <guid isPermaLink="false">urn:research:20260621:d61de8a41889</guid>
+      <source url="https://x.com/rohanpaul_ai/status/2068752800759386532">Rohan Paul (X) / The Economist</source>
+      <dc:creator>Rohan Paul (X) / The Economist</dc:creator>
+      <description>&lt;p&gt;NSAリーダーシップがAnthropicのMythosが機密システムへの侵入を数週間ではなく数時間で達成したと証言。他ツールとの併用条件下とはいえ警戒すべき事態。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 国家安全保障とAI能力の交差点。AIの軍事・諜報利用の重大な転換点&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Rohan Paul (X) / The Economist / 2026-06-21 17:47:57&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★★ (5/5)&lt;/p&gt;</description>
+      <pubDate>Sun, 21 Jun 2026 17:47:57 GMT</pubDate>
+      <category>重要度5</category>
+    </item>
+    <item>
+      <title>[★5] (06/20 04:55) トランプ氏、Anthropicをもはや国家安全保障上の脅威と見なさずと表明</title>
+      <link>https://kaztaira.github.io/research-feed/go/5d79855aaaeb.html</link>
+      <guid isPermaLink="false">urn:research:20260619:5d79855aaaeb</guid>
+      <source url="https://www.reuters.com/world/us/trump-tells-axios-he-no-longer-views-anthropic-national-security-threat-2026-06-19/">Reuters</source>
+      <dc:creator>Reuters</dc:creator>
+      <description>&lt;p&gt;トランプ大統領がAxiosの取材に対し、Anthropicに対する見方を変えたと発言。輸出規制を巡る政策転換の可能性を示唆。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; AI企業への政府規制の重大な方針転換。業界全体に影響&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Reuters / 2026-06-19 19:55:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★★ (5/5)&lt;/p&gt;</description>
+      <pubDate>Fri, 19 Jun 2026 19:55:00 GMT</pubDate>
+      <category>重要度5</category>
+      <category>AI regulation</category>
+    </item>
+    <item>
+      <title>[★5] (06/22 02:47) トランプ氏のAnthropicブロック、気まぐれで混沌としている――同盟国に衝撃</title>
+      <link>https://kaztaira.github.io/research-feed/go/70022ce1f210.html</link>
+      <guid isPermaLink="false">urn:research:20260621:70022ce1f210</guid>
+      <source url="https://x.com/rohanpaul_ai/status/2068752803846312189">The Economist (via Rohan Paul X)</source>
+      <dc:creator>The Economist (via Rohan Paul X)</dc:creator>
+      <description>&lt;p&gt;Economist誌が、トランプ政権のAnthropicに対する輸出規制が同盟国にも衝撃を与えていると報道。米国の最も近い同盟国がショック状態。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 国際関係とAI輸出規制の交差。同盟国への影響を分析する重要記事&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; The Economist (via Rohan Paul X) / 2026-06-21 17:47:58&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★★ (5/5)&lt;/p&gt;</description>
+      <pubDate>Sun, 21 Jun 2026 17:47:58 GMT</pubDate>
+      <category>重要度5</category>
+      <category>AI regulation</category>
+    </item>
+    <item>
+      <title>[★5] (06/19 10:20) 議員ら、政権のAnthropic規制に説明を要求</title>
+      <link>https://kaztaira.github.io/research-feed/go/4d8a67fd4566.html</link>
+      <guid isPermaLink="false">urn:research:20260619:4d8a67fd4566</guid>
+      <source url="https://www.washingtonpost.com/technology/2026/06/18/house-members-want-answers-export-controls-placed-anthropic-fable/">Washington Post</source>
+      <dc:creator>Washington Post</dc:creator>
+      <description>&lt;p&gt;下院議員らが、政権が課したAnthropicとFableへの輸出規制について政府に説明を求めている。議会の超党派的な懸念が浮上。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 議会と政権の対立が表面化。AI規制を巡る政治的議論の中心&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Washington Post / 2026-06-19 01:20:02&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★★ (5/5)&lt;/p&gt;</description>
+      <pubDate>Fri, 19 Jun 2026 01:20:02 GMT</pubDate>
+      <category>重要度5</category>
+      <category>AI regulation</category>
+    </item>
+    <item>
+      <title>[★5] (06/20 01:00) 「政治的に世間知らず」――Anthropicの輸出規制を巡る政治抗争</title>
+      <link>https://kaztaira.github.io/research-feed/go/b30e815a8443.html</link>
+      <guid isPermaLink="false">urn:research:20260619:b30e815a8443</guid>
+      <source url="https://www.politico.com/news/2026/06/19/he-has-to-find-a-way-to-be-friends-the-political-fight-behind-anthropics-export-controls-00968597">Politico</source>
+      <dc:creator>Politico</dc:creator>
+      <description>&lt;p&gt;Anthropicの輸出規制を巡る背後の政治闘争をPolitico誌が詳細に報道。同社の政治的なナイーブさが指摘される。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; AI業界の政治力学を解明する重要な調査報道&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Politico / 2026-06-19 16:00:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★★ (5/5)&lt;/p&gt;</description>
+      <pubDate>Fri, 19 Jun 2026 16:00:00 GMT</pubDate>
+      <category>重要度5</category>
+      <category>AI regulation</category>
+    </item>
+    <item>
+      <title>[★5] (06/20 22:23) 新たな世界秩序：AI企業CEOが国家元首として登場</title>
+      <link>https://kaztaira.github.io/research-feed/go/6ca9ff690a80.html</link>
+      <guid isPermaLink="false">urn:research:20260620:6ca9ff690a80</guid>
+      <source url="https://www.axios.com/2026/06/20/ai-tech-moguls-g7">Axios</source>
+      <dc:creator>Axios</dc:creator>
+      <description>&lt;p&gt;G7サミットにAI企業CEOが国家元首と並んで参加。地政学的秩序の歴史的転換を象徴する場面となった。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 国際関係・テック業界の力学を根本的に変える歴史的事象&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Axios / 2026-06-20 13:23:10&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★★ (5/5)&lt;/p&gt;</description>
+      <pubDate>Sat, 20 Jun 2026 13:23:10 GMT</pubDate>
+      <category>重要度5</category>
+    </item>
+    <item>
+      <title>[★5] (06/21 05:32) Signal社CEOウィテカー氏「AIチャットボットは友人ではない」と警鐘</title>
+      <link>https://kaztaira.github.io/research-feed/go/7ddc78b7ede2.html</link>
+      <guid isPermaLink="false">urn:research:20260620:7ddc78b7ede2</guid>
+      <source url="https://techcrunch.com/2026/06/20/signals-meredith-whittaker-wants-you-to-remember-that-ai-chatbots-are-not-your-friends/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>&lt;p&gt;Signal社のメレディス・ウィテカーCEOがAIチャットボットを意識や感情を持つ存在とみなすことに警鐘を鳴らした。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; AI擬人化問題への著名人の発言で市民社会に影響大&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; TechCrunch / 2026-06-20 20:32:29&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★★ (5/5)&lt;/p&gt;</description>
+      <pubDate>Sat, 20 Jun 2026 20:32:29 GMT</pubDate>
+      <category>重要度5</category>
+    </item>
+    <item>
+      <title>[★5] (06/20 21:00) ティール氏主催の秘密リトリート参加者リスト流出、クシュナーら名前</title>
+      <link>https://kaztaira.github.io/research-feed/go/7eb18c0820e3.html</link>
+      <guid isPermaLink="false">urn:research:20260620:7eb18c0820e3</guid>
+      <source url="https://www.theguardian.com/technology/2026/jun/20/trump-elon-musk-peter-thiel-retreat">Guardian Tech</source>
+      <dc:creator>Guardian Tech</dc:creator>
+      <description>&lt;p&gt;ピーター・ティール氏が創設した秘密会合Dialogの参加者リストが流出。トランプ側近やマスク氏らの名前が判明。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; テック業界の政治への影響力を可視化する重要事件&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Guardian Tech / 2026-06-20 12:00:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★★ (5/5)&lt;/p&gt;</description>
+      <pubDate>Sat, 20 Jun 2026 12:00:00 GMT</pubDate>
+      <category>重要度5</category>
+    </item>
+    <item>
+      <title>[★4] (06/19 07:05) Fable行動を遡及的に正当化する基準は米AIにとって壊滅的：Stamos氏</title>
+      <link>https://kaztaira.github.io/research-feed/go/37ed35e02313.html</link>
+      <guid isPermaLink="false">urn:research:20260618:37ed35e02313</guid>
+      <source url="https://x.com/alexstamos/status/2067730470335627547">Alex Stamos (@alexstamos)</source>
+      <dc:creator>Alex Stamos (@alexstamos)</dc:creator>
+      <description>&lt;p&gt;セキュリティ専門家Alex Stamos氏が、Fableに対する措置を正当化する基準はUS AIに災難をもたらすと警告。Anthropicの調整役を問う。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; AI規制基準の正当性をめぐる業界キーパーソンの警告&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Alex Stamos (@alexstamos) / 2026-06-18 22:05:35&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
+      <pubDate>Thu, 18 Jun 2026 22:05:35 GMT</pubDate>
+      <category>重要度4</category>
+    </item>
+    <item>
+      <title>[★4] (06/21 15:00) ブランドがAI生成インフルエンサーを使い商品宣伝、SNSで広がる</title>
+      <link>https://kaztaira.github.io/research-feed/go/aa6f34a2eb4b.html</link>
+      <guid isPermaLink="false">urn:research:20260621:aa6f34a2eb4b</guid>
+      <source url="https://www.theguardian.com/technology/2026/jun/21/brands-using-ai-generated-influencers-to-promote-products-on-social-media">Guardian Tech</source>
+      <dc:creator>Guardian Tech</dc:creator>
+      <description>&lt;p&gt;ブランドがAI生成インフルエンサーを実際の顧客と装って宣伝に使用していることが調査で判明、透明性向上の要求が高まる。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; AI偽装広告がメディア環境と消費者の信頼を脅かす問題&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Guardian Tech / 2026-06-21 06:00:23&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
+      <pubDate>Sun, 21 Jun 2026 06:00:23 GMT</pubDate>
+      <category>重要度4</category>
+    </item>
+    <item>
+      <title>[★4] (06/21 08:18) SNS禁止令が我々全員のインターネット利用をどう変えるか</title>
+      <link>https://kaztaira.github.io/research-feed/go/034434ab2b7e.html</link>
+      <guid isPermaLink="false">urn:research:20260620:034434ab2b7e</guid>
+      <source url="https://www.bbc.com/news/articles/c1jy512r19ro">BBC News Tech</source>
+      <dc:creator>BBC News Tech</dc:creator>
+      <description>&lt;p&gt;SNS禁止令が若者の知識獲得方法だけでなく全ユーザーのネット利用方法に深刻な影響を与える可能性を分析。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; SNS規制がメディア環境全体に与える構造的影響&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; BBC News Tech / 2026-06-20 23:18:12&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
+      <pubDate>Sat, 20 Jun 2026 23:18:12 GMT</pubDate>
+      <category>重要度4</category>
+    </item>
+    <item>
+      <title>[★4] (06/21 08:18) AI企業が私のNYアパートを無料清掃した理由</title>
+      <link>https://kaztaira.github.io/research-feed/go/0ff6c8f8b5dc.html</link>
+      <guid isPermaLink="false">urn:research:20260620:0ff6c8f8b5dc</guid>
+      <source url="https://www.bbc.com/news/articles/cpwerjy20kyo">BBC News Tech</source>
+      <dc:creator>BBC News Tech</dc:creator>
+      <description>&lt;p&gt;AI企業が将来ロボットに置き換える訓練データ収集のため、無料清掃員を各家庭に派遣している。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; AI訓練のための労働データ収集モデルが労働市場に影響&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; BBC News Tech / 2026-06-20 23:18:55&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
+      <pubDate>Sat, 20 Jun 2026 23:18:55 GMT</pubDate>
+      <category>重要度4</category>
+    </item>
+    <item>
+      <title>[★4] (06/22 01:05) TechCrunchモビリティ：新ロボタクシー成績表で中国の優位明らかに</title>
+      <link>https://kaztaira.github.io/research-feed/go/a6050a9f4921.html</link>
+      <guid isPermaLink="false">urn:research:20260621:a6050a9f4921</guid>
+      <source url="https://techcrunch.com/2026/06/21/techcrunch-mobility-a-new-robotaxi-scorecard-shows-chinas-dominance/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>&lt;p&gt;新たなロボタクシー評価指標で中国の自動運転技術の優位性が示された。世界の自動運転競争の現状を報告。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 米中AI・自動運転覇権競争の現状を示す重要指標&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; TechCrunch / 2026-06-21 16:05:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
+      <pubDate>Sun, 21 Jun 2026 16:05:00 GMT</pubDate>
+      <category>重要度4</category>
+    </item>
+    <item>
+      <title>[★4] (06/20 07:12) 米科学者ジョン・ジャンパー氏、Google DeepMindからAnthropicへ移籍</title>
+      <link>https://kaztaira.github.io/research-feed/go/a5dce2d46468.html</link>
+      <guid isPermaLink="false">urn:research:20260619:a5dce2d46468</guid>
+      <source url="https://www.reuters.com/technology/us-scientist-john-jumper-leave-google-deepmind-anthropic-2026-06-19/">Reuters</source>
+      <dc:creator>Reuters</dc:creator>
+      <description>&lt;p&gt;ノーベル賞受賞のAI科学者ジョン・ジャンパー氏がGoogle DeepMindを離れAnthropicに移籍。AI業界の人材移動を象徴する出来事。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; トップAI研究者の移籍はテクノロジー業界の勢力図に影響&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Reuters / 2026-06-19 22:12:38&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
+      <pubDate>Fri, 19 Jun 2026 22:12:38 GMT</pubDate>
+      <category>重要度4</category>
+    </item>
+    <item>
+      <title>[★4] (06/22 01:37) AIスキャンダルがドイツメディアを揺るがす</title>
+      <link>https://kaztaira.github.io/research-feed/go/b1e8db2fe890.html</link>
+      <guid isPermaLink="false">urn:research:20260621:b1e8db2fe890</guid>
+      <source url="https://www.dw.com/en/ai-scandal-rocks-the-german-media/a-77606407">DW.com</source>
+      <dc:creator>DW.com</dc:creator>
+      <description>&lt;p&gt;ドイツメディア業界でAIに関する重大なスキャンダルが発生。メディアにおけるAI利用の倫理的問題が表面化。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; メディア環境とAI倫理の重要な事例。ブログの主要テーマと直結&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; DW.com / 2026-06-21 16:37:30&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
+      <pubDate>Sun, 21 Jun 2026 16:37:30 GMT</pubDate>
+      <category>重要度4</category>
+    </item>
+    <item>
+      <title>[★4] (06/20 05:28) 英国データ・AI規制トップ、「不適切なユーモア」で辞任</title>
+      <link>https://kaztaira.github.io/research-feed/go/dd5efeb4a63a.html</link>
+      <guid isPermaLink="false">urn:research:20260619:dd5efeb4a63a</guid>
+      <source url="https://www.bbc.com/news/articles/c0eyq7rnn22o">BBC News Tech</source>
+      <dc:creator>BBC News Tech</dc:creator>
+      <description>&lt;p&gt;2022年1月から英国データ監視機関のトップを務めたエドワーズ氏が、不適切なユーモアを試みたとして辞任した。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; AI規制機関トップの辞任は規制環境とガバナンスに影響&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; BBC News Tech / 2026-06-19 20:28:33&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
+      <pubDate>Fri, 19 Jun 2026 20:28:33 GMT</pubDate>
+      <category>重要度4</category>
+      <category>AI regulation</category>
+    </item>
+    <item>
+      <title>[★4] (06/21 23:03) ヒュンダイ、Boston Dynamicsを完全子会社化――ソフトバンク3.25億ドルで撤退</title>
+      <link>https://kaztaira.github.io/research-feed/go/4991b34371ff.html</link>
+      <guid isPermaLink="false">urn:research:20260621:4991b34371ff</guid>
+      <source url="https://x.com/rohanpaul_ai/status/2068696187658740025">Rohan Paul (X) / Startupfortune</source>
+      <dc:creator>Rohan Paul (X) / Startupfortune</dc:creator>
+      <description>&lt;p&gt;ヒュンダイがソフトバンクの残り9.65%株式を3.25億ドルで取得しBoston Dynamicsを完全子会社化。Atlasの産業展開を加速。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; ロボティクス業界の主要再編。ヒューマノイドロボット商業化の節目&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Rohan Paul (X) / Startupfortune / 2026-06-21 14:03:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
+      <pubDate>Sun, 21 Jun 2026 14:03:00 GMT</pubDate>
+      <category>重要度4</category>
+    </item>
+    <item>
+      <title>[★4] (06/22 03:44) 「モデルはもはや製品ではない」――Aravind Srinivas氏が語るエージェントハーネス時代</title>
+      <link>https://kaztaira.github.io/research-feed/go/d55e3b917532.html</link>
+      <guid isPermaLink="false">urn:research:20260621:d55e3b917532</guid>
+      <source url="https://x.com/rohanpaul_ai/status/2068767074663690502">Rohan Paul (X)</source>
+      <dc:creator>Rohan Paul (X)</dc:creator>
+      <description>&lt;p&gt;Perplexity CEOが、Codex、Perplexity Computer、Claude Codeなどが全てオーケストレーションシステムだと指摘。エージェントハーネスが鍵に。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; AIプロダクト戦略の根本的な変化。テクノロジー潮流の重要な指摘&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Rohan Paul (X) / 2026-06-21 18:44:41&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
+      <pubDate>Sun, 21 Jun 2026 18:44:41 GMT</pubDate>
+      <category>重要度4</category>
+    </item>
+    <item>
+      <title>[★4] (06/19 06:27) Meta、データセンター企業Crusoeと新たなAI計算契約を締結</title>
+      <link>https://kaztaira.github.io/research-feed/go/c5a290cb0cca.html</link>
+      <guid isPermaLink="false">urn:research:20260618:c5a290cb0cca</guid>
+      <source url="https://www.reuters.com/business/meta-signs-new-ai-computing-deals-with-data-center-firm-crusoe-bloomberg-news-2026-06-18/">Reuters</source>
+      <dc:creator>Reuters</dc:creator>
+      <description>&lt;p&gt;MetaがデータセンターファームCrusoeと新たなAI計算インフラ契約を締結したとBloombergが報道。AIインフラ投資競争が加速。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; AIインフラ投資の動向。業界の競争構造に影響&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Reuters / 2026-06-18 21:27:56&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
+      <pubDate>Thu, 18 Jun 2026 21:27:56 GMT</pubDate>
+      <category>重要度4</category>
+    </item>
+    <item>
+      <title>[★4] (06/20 07:50) ハーバーマン＝スワン著作：トランプ氏Fox Newsに「懇願」させたかった</title>
+      <link>https://kaztaira.github.io/research-feed/go/8fc94885309f.html</link>
+      <guid isPermaLink="false">urn:research:20260619:8fc94885309f</guid>
+      <source url="https://mediagazer.com/260619/p10#a260619p10">Mediagazer / CNN</source>
+      <dc:creator>Mediagazer / CNN</dc:creator>
+      <description>&lt;p&gt;新著によると、トランプ氏は大統領インタビューでFox Newsに懇願させたいと考え、ABCの1600万ドルでなく300万ドルで決着しかけた。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; メディアと権力の関係を示す重要な内幕情報&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Mediagazer / CNN / 2026-06-19 22:50:01&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
+      <pubDate>Fri, 19 Jun 2026 22:50:01 GMT</pubDate>
+      <category>重要度4</category>
+    </item>
+    <item>
+      <title>[★4] (06/20 18:00) Granta誌、AI論争で短編賞受賞作品の掲載停止</title>
+      <link>https://kaztaira.github.io/research-feed/go/0608db00d60d.html</link>
+      <guid isPermaLink="false">urn:research:20260620:0608db00d60d</guid>
+      <source url="https://www.theguardian.com/books/2026/jun/20/granta-magazine-commonwealth-short-story-prize-ai">Guardian Tech</source>
+      <dc:creator>Guardian Tech</dc:creator>
+      <description>&lt;p&gt;英文芸誌Grantaが、コモンウェルス短編賞をめぐるAI関連騒動を受け、受賞作品の掲載提携を打ち切ると発表。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 文学・出版界におけるAI論争の象徴的事例&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Guardian Tech / 2026-06-20 09:00:04&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
+      <pubDate>Sat, 20 Jun 2026 09:00:04 GMT</pubDate>
+      <category>重要度4</category>
+    </item>
+    <item>
+      <title>[★4] (06/21 03:46) アトランティック誌、AI学習に使われた音楽の検索データベースを公開</title>
+      <link>https://kaztaira.github.io/research-feed/go/e4500944fe85.html</link>
+      <guid isPermaLink="false">urn:research:20260620:e4500944fe85</guid>
+      <source url="https://www.theverge.com/ai-artificial-intelligence/953183/the-atlantic-searchable-database-music-ai-training-data">The Verge AI</source>
+      <dc:creator>The Verge AI</dc:creator>
+      <description>&lt;p&gt;アトランティック誌記者がAIモデル学習に使われた4つの音楽データセットを発見、検索可能な形で公開した。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; AI学習データの透明性問題と著作権論争に直結&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; The Verge AI / 2026-06-20 18:46:48&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
+      <pubDate>Sat, 20 Jun 2026 18:46:48 GMT</pubDate>
+      <category>重要度4</category>
+    </item>
+    <item>
+      <title>[★4] (06/21 09:15) ルモンド紙、有料読者のAIエージェントにアクセス許可を検討</title>
+      <link>https://kaztaira.github.io/research-feed/go/eccdc877d49d.html</link>
+      <guid isPermaLink="false">urn:research:20260621:eccdc877d49d</guid>
+      <source url="https://mediagazer.com/260620/p4#a260620p4">Mediagazer</source>
+      <dc:creator>Mediagazer</dc:creator>
+      <description>&lt;p&gt;仏ルモンドが、クローラーボットはブロックしつつ有料読者のAIエージェントにはアクセスを許可する方法を模索。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; メディアとAIエージェントの新たな関係性の試み&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Mediagazer / 2026-06-21 00:15:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
+      <pubDate>Sun, 21 Jun 2026 00:15:00 GMT</pubDate>
+      <category>重要度4</category>
+    </item>
+    <item>
+      <title>[★4] (06/19 10:01) インドのTelegram禁止、VPNや代替アプリへの殺到を招く</title>
+      <link>https://kaztaira.github.io/research-feed/go/43dd03f73350.html</link>
+      <guid isPermaLink="false">urn:research:20260619:43dd03f73350</guid>
+      <source url="https://techcrunch.com/2026/06/18/telegram-ban-in-india-sparks-a-rush-to-vpns-rival-apps/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>&lt;p&gt;インドでのTelegram禁止令により、数百万人がVPNや代替アプリに移行。Telegramは個別コンテンツのブロックを要求。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; プラットフォーム規制と表現の自由の論争&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; TechCrunch / 2026-06-19 01:01:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
+      <pubDate>Fri, 19 Jun 2026 01:01:00 GMT</pubDate>
+      <category>重要度4</category>
+    </item>
+    <item>
+      <title>[★4] (06/20 00:23) 印富豪アンバニ氏、すべての通話・アプリ・家庭にAIを</title>
+      <link>https://kaztaira.github.io/research-feed/go/e35040ffdf08.html</link>
+      <guid isPermaLink="false">urn:research:20260619:e35040ffdf08</guid>
+      <source url="https://techcrunch.com/2026/06/19/billionaire-ambani-wants-ai-in-every-call-app-and-home/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>&lt;p&gt;Relianceが5億人以上が使う通信サービスにAIを統合。インドのAI普及における巨大な動きとなる。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 5億人規模のAI実装は社会的影響大&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; TechCrunch / 2026-06-19 15:23:28&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
+      <pubDate>Fri, 19 Jun 2026 15:23:28 GMT</pubDate>
+      <category>重要度4</category>
+    </item>
+    <item>
+      <title>[★4] (06/19 08:15) EU過剰規制が事業を制約、経営者らが警告</title>
+      <link>https://kaztaira.github.io/research-feed/go/a6090ec9ed0b.html</link>
+      <guid isPermaLink="false">urn:research:20260618:a6090ec9ed0b</guid>
+      <source url="https://www.semafor.com/article/06/18/2026/execs-are-warning-that-eu-overregulation-is-constraining-business">Semafor</source>
+      <dc:creator>Semafor</dc:creator>
+      <description>&lt;p&gt;アルセロール・ミタル会長やサウジPIF総裁らがEUの規制環境への懸念を表明。AI規制も含めた議論が広がる。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; テック規制の国際的論争に直結&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Semafor / 2026-06-18 23:15:43&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
+      <pubDate>Thu, 18 Jun 2026 23:15:43 GMT</pubDate>
+      <category>重要度4</category>
+      <category>AI regulation</category>
+    </item>
+    <item>
+      <title>[★3] (06/19 13:49) Barret Zoph氏、わずか5カ月でOpenAIを再離脱</title>
+      <link>https://kaztaira.github.io/research-feed/go/4b49eeba9a48.html</link>
+      <guid isPermaLink="false">urn:research:20260619:4b49eeba9a48</guid>
+      <source url="https://www.theverge.com/ai-artificial-intelligence/952837/barret-zoph-openai-thinking-machines-lab">The Verge AI</source>
+      <dc:creator>The Verge AI</dc:creator>
+      <description>&lt;p&gt;OpenAIのエンタープライズAI営業責任者Barret Zoph氏が復帰からわずか5カ月で再び退社したことが判明。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; OpenAI幹部の流動性が業界の不安定性を象徴&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; The Verge AI / 2026-06-19 04:49:33&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★☆☆ (3/5)&lt;/p&gt;</description>
+      <pubDate>Fri, 19 Jun 2026 04:49:33 GMT</pubDate>
+      <category>重要度3</category>
+    </item>
     <item>
       <title>[★5] (06/18 10:01) トランプのAnthropic規制でG-7の同盟国が動揺、AI輸出規制が国際問題化</title>
       <link>https://kaztaira.github.io/research-feed/go/7728493ab3b7.html</link>
@@ -2804,405 +3187,6 @@
 &lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Mediagazer / 2026-06-12 14:25:01&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
       <pubDate>Fri, 12 Jun 2026 14:25:01 GMT</pubDate>
-      <category>重要度4</category>
-    </item>
-    <item>
-      <title>[★5] (06/14 04:25) Duke大学レポーターズ・ラボ：ファクトチェック団体が世界で減少、2024年464から2025年441に</title>
-      <link>https://kaztaira.github.io/research-feed/go/1ed2f767bc32.html</link>
-      <guid isPermaLink="false">urn:research:20260613:1ed2f767bc32</guid>
-      <source url="https://mediagazer.com/260613/p4#a260613p4">Mediagazer</source>
-      <dc:creator>Mediagazer</dc:creator>
-      <description>&lt;p&gt;世界のファクトチェック団体数が2024年の464から2025年は441へ減少、米国も65から61に。誤情報対策の縮小傾向が浮き彫りに。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; メディア環境・誤情報対策の世界的後退を示す重要データ&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Mediagazer / 2026-06-13 19:25:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★★ (5/5)&lt;/p&gt;</description>
-      <pubDate>Sat, 13 Jun 2026 19:25:00 GMT</pubDate>
-      <category>重要度5</category>
-      <category>misinformation</category>
-    </item>
-    <item>
-      <title>[★5] (06/13 07:23) Nature Medicine研究：汎用LLMが医療専用AIを上回る、臨床タスクで医師が高評価</title>
-      <link>https://kaztaira.github.io/research-feed/go/28f0e2a3ac9a.html</link>
-      <guid isPermaLink="false">urn:research:20260612:28f0e2a3ac9a</guid>
-      <source url="https://x.com/rohanpaul_ai/status/2065560579167883344">Rohan Paul (X)</source>
-      <dc:creator>Rohan Paul (X)</dc:creator>
-      <description>&lt;p&gt;GPT-5.2、Gemini 3.1 Pro、Claude Opus 4.6がOpenEvidence等の医療特化AIを上回り、医師が完成度・明瞭性で評価。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 汎用AIが専門領域を凌駕する潮流変化、医療業界全体に影響&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Rohan Paul (X) / 2026-06-12 22:23:12&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★★ (5/5)&lt;/p&gt;</description>
-      <pubDate>Fri, 12 Jun 2026 22:23:12 GMT</pubDate>
-      <category>重要度5</category>
-    </item>
-    <item>
-      <title>[★5] (06/12 07:29) AIによる偽カーメロ・アンソニー裁判画像、誤情報の波を加速</title>
-      <link>https://kaztaira.github.io/research-feed/go/4a03687cfdf3.html</link>
-      <guid isPermaLink="false">urn:research:20260611:4a03687cfdf3</guid>
-      <source url="https://www.cbsnews.com/texas/video/fake-karmelo-anthony-trial-photos-fuel-wave-of-ai-driven-misinformation/">CBS News</source>
-      <dc:creator>CBS News</dc:creator>
-      <description>&lt;p&gt;実際の裁判を巡るAI生成の偽画像が拡散し、AI主導の誤情報の新たな波となっている。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 司法現場のAI誤情報、市民社会・司法システムへの直接的脅威&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; CBS News / 2026-06-11 22:29:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★★ (5/5)&lt;/p&gt;</description>
-      <pubDate>Thu, 11 Jun 2026 22:29:00 GMT</pubDate>
-      <category>重要度5</category>
-      <category>misinformation</category>
-    </item>
-    <item>
-      <title>[★5] (06/13 10:35) Anthropic、米政府命令により最先端AIモデルを外国アクセスから遮断・全面停止へ</title>
-      <link>https://kaztaira.github.io/research-feed/go/ee3a2b90ff67.html</link>
-      <guid isPermaLink="false">urn:research:20260613:ee3a2b90ff67</guid>
-      <source url="https://www.axios.com/2026/06/12/anthropic-trump-mythos-fable-national-security">Axios</source>
-      <dc:creator>Axios</dc:creator>
-      <description>&lt;p&gt;トランプ政権が外国政府・企業・個人によるAnthropic最先端AIへのアクセスを遮断、同社は全顧客向けサービスを停止。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 国家安全保障とAI規制の歴史的転換、ブログの「Mythosショック」記事と直結&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Axios / 2026-06-13 01:35:52&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★★ (5/5)&lt;/p&gt;</description>
-      <pubDate>Sat, 13 Jun 2026 01:35:52 GMT</pubDate>
-      <category>重要度5</category>
-    </item>
-    <item>
-      <title>[★5] (06/13 21:37) Anthropic、米政府の外国アクセス制限命令を受け最先端AIモデルを停止</title>
-      <link>https://kaztaira.github.io/research-feed/go/991729d098d7.html</link>
-      <guid isPermaLink="false">urn:research:20260613:991729d098d7</guid>
-      <source url="https://www.theguardian.com/technology/2026/jun/13/anthropic-disable-advanced-ai-models-us-government-order">Guardian Tech</source>
-      <dc:creator>Guardian Tech</dc:creator>
-      <description>&lt;p&gt;米政府が安全対策の回避と脆弱性特定への悪用を懸念、Anthropicが最先端モデルを「突然停止」すると発表。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 国際安全保障とAI業界に重大影響、政府規制の新段階&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Guardian Tech / 2026-06-13 12:37:12&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★★ (5/5)&lt;/p&gt;</description>
-      <pubDate>Sat, 13 Jun 2026 12:37:12 GMT</pubDate>
-      <category>重要度5</category>
-    </item>
-    <item>
-      <title>[★5] (06/13 11:26) Anthropicの安全警告が裏目に、米政府が最強AIを停止へ</title>
-      <link>https://kaztaira.github.io/research-feed/go/debd8a7ac5d0.html</link>
-      <guid isPermaLink="false">urn:research:20260613:debd8a7ac5d0</guid>
-      <source url="https://techcrunch.com/2026/06/12/anthropics-safety-warnings-may-have-just-backfired-the-government-has-pulled-the-plug-on-its-most-powerful-ai/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>&lt;p&gt;Anthropicが「狭い脱獄の可能性で数億人向け商用モデルをリコールすべきでない」と政府方針に強く反発。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; AI安全性開示が規制を招いた逆説、業界全体への警告&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; TechCrunch / 2026-06-13 02:26:30&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★★ (5/5)&lt;/p&gt;</description>
-      <pubDate>Sat, 13 Jun 2026 02:26:30 GMT</pubDate>
-      <category>重要度5</category>
-    </item>
-    <item>
-      <title>[★5] (06/13 13:47) 米、AnthropicのAIモデル「Fable 5」「Mythos」使用制限</title>
-      <link>https://kaztaira.github.io/research-feed/go/839b4bca39e5.html</link>
-      <guid isPermaLink="false">urn:research:20260613:839b4bca39e5</guid>
-      <source url="https://www.semafor.com/article/06/12/2026/us-limits-use-of-anthropic-ai-models-fable-5-and-mythos">Semafor</source>
-      <dc:creator>Semafor</dc:creator>
-      <description>&lt;p&gt;新たなホワイトハウス指令により、Anthropicは最先端AIモデルへのアクセスを停止。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; ブログ既出の「Mythosショック」と直結、政策決定の詳細&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Semafor / 2026-06-13 04:47:51&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★★ (5/5)&lt;/p&gt;</description>
-      <pubDate>Sat, 13 Jun 2026 04:47:51 GMT</pubDate>
-      <category>重要度5</category>
-    </item>
-    <item>
-      <title>[★5] (06/13 09:27) OpenAI、州司法長官連合による調査対象に</title>
-      <link>https://kaztaira.github.io/research-feed/go/1c779e8671e2.html</link>
-      <guid isPermaLink="false">urn:research:20260613:1c779e8671e2</guid>
-      <source url="https://www.bloomberg.com/news/articles/2026-06-13/openai-probed-by-coalition-of-state-attorneys-general">Bloomberg Tech</source>
-      <dc:creator>Bloomberg Tech</dc:creator>
-      <description>&lt;p&gt;州司法長官連合がOpenAIに広範な情報提供を求め調査を開始。AI企業への法的監視が強化。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; AI企業への複数州による法的調査、業界全体への規制圧力&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Bloomberg Tech / 2026-06-13 00:27:02&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★★ (5/5)&lt;/p&gt;</description>
-      <pubDate>Sat, 13 Jun 2026 00:27:02 GMT</pubDate>
-      <category>重要度5</category>
-    </item>
-    <item>
-      <title>[★5] (06/13 19:22) Google、Gemini悪用の中国サイバー犯罪集団を提訴 米国民数十万人を標的</title>
-      <link>https://kaztaira.github.io/research-feed/go/8cc626d5a2a8.html</link>
-      <guid isPermaLink="false">urn:research:20260613:8cc626d5a2a8</guid>
-      <source url="https://x.com/Meer_AIIT/status/2065741515024949625">Rohan Paul (X)</source>
-      <dc:creator>Rohan Paul (X)</dc:creator>
-      <description>&lt;p&gt;中国系犯罪集団がGeminiで偽サイト9000件を生成、2週間で250万件の詐欺メッセージ送信。AI詐欺被害は8.93億ドル。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; AI悪用犯罪の大規模化、FBI連携の初事例で市民社会に直接影響&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Rohan Paul (X) / 2026-06-13 10:22:11&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★★ (5/5)&lt;/p&gt;</description>
-      <pubDate>Sat, 13 Jun 2026 10:22:11 GMT</pubDate>
-      <category>重要度5</category>
-    </item>
-    <item>
-      <title>[★5] (06/13 11:02) Anthropic、米政府の外国人アクセス遮断命令を受け最新AIモデルを停止</title>
-      <link>https://kaztaira.github.io/research-feed/go/3e909e6682fe.html</link>
-      <guid isPermaLink="false">urn:research:20260613:3e909e6682fe</guid>
-      <source url="https://www.ft.com/content/2a27300a-b90d-4649-8c09-f7e7cd426dbb?syn-25a6b1a6=1">Financial Times</source>
-      <dc:creator>Financial Times</dc:creator>
-      <description>&lt;p&gt;米政府の外国人アクセス禁止命令を受け、Anthropicが最新AIモデルへのアクセスを停止。AI輸出規制の新たな局面。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 国際関係・安全保障とAI業界に重大な影響を与える米政府の規制措置。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Financial Times / 2026-06-13 02:02:42&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★★ (5/5)&lt;/p&gt;</description>
-      <pubDate>Sat, 13 Jun 2026 02:02:42 GMT</pubDate>
-      <category>重要度5</category>
-      <category>AI regulation</category>
-    </item>
-    <item>
-      <title>[★5] (06/13 12:15) Anthropic、米国の外国人利用禁止命令で最新AIモデルを停止</title>
-      <link>https://kaztaira.github.io/research-feed/go/d699bfa5cd02.html</link>
-      <guid isPermaLink="false">urn:research:20260613:d699bfa5cd02</guid>
-      <source url="https://www.washingtonpost.com/technology/2026/06/13/anthropic-shuts-down-newest-ai-model-after-us-bans-foreign-use/">Washington Post</source>
-      <dc:creator>Washington Post</dc:creator>
-      <description>&lt;p&gt;米政府による外国人利用禁止命令を受け、Anthropicが最新モデルの提供を停止。フロンティアAIの国際分断が加速。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 国家安全保障とAIエコシステムの分断という重大局面を報道。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Washington Post / 2026-06-13 03:15:12&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★★ (5/5)&lt;/p&gt;</description>
-      <pubDate>Sat, 13 Jun 2026 03:15:12 GMT</pubDate>
-      <category>重要度5</category>
-    </item>
-    <item>
-      <title>[★5] (06/13 20:55) Anthropic、米輸出管理命令を受け最高位AIモデルを停止</title>
-      <link>https://kaztaira.github.io/research-feed/go/e86c1aac6957.html</link>
-      <guid isPermaLink="false">urn:research:20260613:e86c1aac6957</guid>
-      <source url="https://www.reuters.com/technology/us-blocks-foreign-access-anthropics-most-advanced-ai-models-axios-reports-2026-06-13/">Reuters</source>
-      <dc:creator>Reuters</dc:creator>
-      <description>&lt;p&gt;米政府がAnthropicの最先端AIモデルへの外国人アクセスを遮断、同社は対応として最上位モデルを無効化。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 輸出管理によるAIの地政学的分断を示す決定的事案。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Reuters / 2026-06-13 11:55:18&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★★ (5/5)&lt;/p&gt;</description>
-      <pubDate>Sat, 13 Jun 2026 11:55:18 GMT</pubDate>
-      <category>重要度5</category>
-    </item>
-    <item>
-      <title>[★5] (06/14 03:13) Amazon、政府の取締り前にAnthropicのAIモデルへ懸念表明</title>
-      <link>https://kaztaira.github.io/research-feed/go/b1dfdc605491.html</link>
-      <guid isPermaLink="false">urn:research:20260613:b1dfdc605491</guid>
-      <source url="https://www.reuters.com/business/retail-consumer/amazon-voiced-concerns-about-anthropic-ai-models-before-us-governments-crackdown-2026-06-13/">Reuters</source>
-      <dc:creator>Reuters</dc:creator>
-      <description>&lt;p&gt;Amazon幹部が政府による規制発動前にAnthropicモデルへの懸念を伝えていたと報道。出資企業の異例の動き。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 巨額出資企業が規制の引き金を引いた疑い。AI業界構造に影響大。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Reuters / 2026-06-13 18:13:44&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★★ (5/5)&lt;/p&gt;</description>
-      <pubDate>Sat, 13 Jun 2026 18:13:44 GMT</pubDate>
-      <category>重要度5</category>
-      <category>AI regulation</category>
-    </item>
-    <item>
-      <title>[★5] (06/14 04:11) AmazonのジャシーCEOが政府取締り前にAnthropic懸念を提起か</title>
-      <link>https://kaztaira.github.io/research-feed/go/0308281aa0fc.html</link>
-      <guid isPermaLink="false">urn:research:20260613:0308281aa0fc</guid>
-      <source url="https://techcrunch.com/2026/06/13/amazon-ceo-reportedly-raised-anthropic-model-concerns-before-government-crackdown/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>&lt;p&gt;Andy Jassy CEOが安全保障上の懸念を伝えた可能性。これがAnthropicのモデル停止につながった可能性も。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; AI業界の利害関係と政府規制の連動を示す重要報道。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; TechCrunch / 2026-06-13 19:11:41&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★★ (5/5)&lt;/p&gt;</description>
-      <pubDate>Sat, 13 Jun 2026 19:11:41 GMT</pubDate>
-      <category>重要度5</category>
-    </item>
-    <item>
-      <title>[★4] (06/11 11:12) AI音声クローン技術により声のアイデンティティが脅威に</title>
-      <link>https://kaztaira.github.io/research-feed/go/484653cea8ae.html</link>
-      <guid isPermaLink="false">urn:research:20260611:484653cea8ae</guid>
-      <source url="https://arxiv.org/abs/2606.12812v1">arXiv (cs.CY society/ethics)</source>
-      <dc:creator>arXiv (cs.CY society/ethics)</dc:creator>
-      <description>&lt;p&gt;高度なAI音声クローン技術が声のアイデンティティ保護を巡る法的・倫理的課題を提起している。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; AI悪用と個人の権利保護、論争を呼ぶテーマ&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; arXiv (cs.CY society/ethics) / 2026-06-11 02:12:37&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
-      <pubDate>Thu, 11 Jun 2026 02:12:37 GMT</pubDate>
-      <category>重要度4</category>
-    </item>
-    <item>
-      <title>[★4] (06/12 14:18) AI画像と無関係の倒壊写真、フィリピン地震被害として誤拡散</title>
-      <link>https://kaztaira.github.io/research-feed/go/dd28bad53125.html</link>
-      <guid isPermaLink="false">urn:research:20260612:dd28bad53125</guid>
-      <source url="https://factcheck.afp.com/doc.afp.com.B6JZ8CQ">AFP</source>
-      <dc:creator>AFP</dc:creator>
-      <description>&lt;p&gt;AFPファクトチェックがフィリピン地震を巡るAI画像と関係ない倒壊写真の誤情報を検証。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 災害時のAI誤情報拡散、国際的なメディア環境への影響&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; AFP / 2026-06-12 05:18:37&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
-      <pubDate>Fri, 12 Jun 2026 05:18:37 GMT</pubDate>
-      <category>重要度4</category>
-      <category>misinformation</category>
-    </item>
-    <item>
-      <title>[★4] (06/14 01:19) ウクライナ外務省、生物研究所巡る新たな偽情報に反論</title>
-      <link>https://kaztaira.github.io/research-feed/go/2f504de3db8f.html</link>
-      <guid isPermaLink="false">urn:research:20260613:2f504de3db8f</guid>
-      <source url="https://censor.net/en/news/4008210/ukraine-s-ministry-of-foreign-affairs-has-responded-to-new-disinformation-about-biolaboratories">Цензор.НЕТ</source>
-      <dc:creator>Цензор.НЕТ</dc:creator>
-      <description>&lt;p&gt;ウクライナ外務省が生物研究所に関する新たな偽情報キャンペーンに公式反論を発表。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 戦時下の国家間偽情報戦、国際安全保障に直結&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Цензор.НЕТ / 2026-06-13 16:19:24&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
-      <pubDate>Sat, 13 Jun 2026 16:19:24 GMT</pubDate>
-      <category>重要度4</category>
-      <category>disinformation</category>
-    </item>
-    <item>
-      <title>[★4] (06/11 23:28) Mod-Guide：少数民族・宗教マイノリティへの差別発言に対するLLM型コンテンツ規制システム</title>
-      <link>https://kaztaira.github.io/research-feed/go/8f8914d03089.html</link>
-      <guid isPermaLink="false">urn:research:20260611:8f8914d03089</guid>
-      <source url="https://arxiv.org/abs/2606.13397v1">arXiv (cs.CY society/ethics)</source>
-      <dc:creator>arXiv (cs.CY society/ethics)</dc:creator>
-      <description>&lt;p&gt;LLMを用いた先住民族・宗教マイノリティ向けの不適切発言に対するコンテンツモデレーションFBシステムを提案。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; AIによるコンテンツ規制と社会的少数派保護の研究&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; arXiv (cs.CY society/ethics) / 2026-06-11 14:28:18&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
-      <pubDate>Thu, 11 Jun 2026 14:28:18 GMT</pubDate>
-      <category>重要度4</category>
-      <category>AI regulation</category>
-    </item>
-    <item>
-      <title>[★4] (06/12 22:04) 世論調査：NJ州有権者の多数が誤情報を重大問題と認識、地域報道は依然強い</title>
-      <link>https://kaztaira.github.io/research-feed/go/739f312e8ef5.html</link>
-      <guid isPermaLink="false">urn:research:20260612:739f312e8ef5</guid>
-      <source url="https://www.newjerseyhills.com/bernardsville_news/new_jersey/poll-most-nj-voters-see-misinformation-as-major-problem-local-news-use-remains-strong/article_cdfef43e-e0bf-4777-a65d-f66e818f43a3.html">New Jersey Hills Media Group</source>
-      <dc:creator>New Jersey Hills Media Group</dc:creator>
-      <description>&lt;p&gt;ニュージャージー州の有権者多数が誤情報を深刻な問題と捉える一方、地域ニュース利用は堅調。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 市民の誤情報認識とローカルメディアの位置付け&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; New Jersey Hills Media Group / 2026-06-12 13:04:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
-      <pubDate>Fri, 12 Jun 2026 13:04:00 GMT</pubDate>
-      <category>重要度4</category>
-      <category>misinformation</category>
-    </item>
-    <item>
-      <title>[★4] (06/14 01:56) 米国のワクチン政策を巡る攻防、今後数か月で方向性決定</title>
-      <link>https://kaztaira.github.io/research-feed/go/4dc5a900d2d7.html</link>
-      <guid isPermaLink="false">urn:research:20260613:4dc5a900d2d7</guid>
-      <source url="https://www.axios.com/2026/06/13/kennedy-vaccine-policy">Axios</source>
-      <dc:creator>Axios</dc:creator>
-      <description>&lt;p&gt;ケネディ長官下で今後数か月の決定が米国のワクチン政策と公衆衛生上のワクチン認識を長年方向付ける。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 公衆衛生政策と健康誤情報の交差点、市民社会に大きな影響&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Axios / 2026-06-13 16:56:05&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
-      <pubDate>Sat, 13 Jun 2026 16:56:05 GMT</pubDate>
-      <category>重要度4</category>
-    </item>
-    <item>
-      <title>[★4] (06/13 20:00) 世界の資本主義、AI未来に全賭けで有権者が警戒</title>
-      <link>https://kaztaira.github.io/research-feed/go/f3ca4895abd1.html</link>
-      <guid isPermaLink="false">urn:research:20260613:f3ca4895abd1</guid>
-      <source url="https://www.bloomberg.com/news/articles/2026-06-13/global-capitalism-bets-it-all-on-ai-future-that-alarms-voters">Bloomberg Tech</source>
-      <dc:creator>Bloomberg Tech</dc:creator>
-      <description>&lt;p&gt;9650億ドル評価のAnthropicが極秘IPO申請、AI企業への過剰投資に有権者から懸念の声。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; AI投資の社会的影響と民主主義との緊張関係&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Bloomberg Tech / 2026-06-13 11:00:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
-      <pubDate>Sat, 13 Jun 2026 11:00:00 GMT</pubDate>
-      <category>重要度4</category>
-    </item>
-    <item>
-      <title>[★4] (06/13 13:00) オランダ極右政党、AIで法廷画像を改変し画家に賠償</title>
-      <link>https://kaztaira.github.io/research-feed/go/b58b01f5bdb0.html</link>
-      <guid isPermaLink="false">urn:research:20260613:b58b01f5bdb0</guid>
-      <source url="https://www.theguardian.com/world/2026/jun/13/geert-wilders-pvv-dutch-far-right-party-damages-court-artist-change-image-ai">Guardian Tech</source>
-      <dc:creator>Guardian Tech</dc:creator>
-      <description>&lt;p&gt;ウィルダース氏のPVVがシリア人兄弟を凶悪に見せる目的で法廷画家のスケッチをAI加工、賠償命令。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 政治的AI悪用と民主主義・メディアへの影響、ブログテーマに合致&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Guardian Tech / 2026-06-13 04:00:04&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
-      <pubDate>Sat, 13 Jun 2026 04:00:04 GMT</pubDate>
-      <category>重要度4</category>
-    </item>
-    <item>
-      <title>[★4] (06/13 20:01) 英国、ロンドン・テックウィークでAIインフラ投資計画発表</title>
-      <link>https://kaztaira.github.io/research-feed/go/fecbe4cb9e47.html</link>
-      <guid isPermaLink="false">urn:research:20260613:fecbe4cb9e47</guid>
-      <source url="https://www.theguardian.com/technology/2026/jun/13/uk-ai-hardware-london-tech-week-investment-chips">Guardian Tech</source>
-      <dc:creator>Guardian Tech</dc:creator>
-      <description>&lt;p&gt;英政府が数十億ポンドのAIチップ等への投資を発表するが、計画の実行可能性に疑問の声。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 国家AI戦略の国際比較、技術主権の政策論争&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Guardian Tech / 2026-06-13 11:01:12&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
-      <pubDate>Sat, 13 Jun 2026 11:01:12 GMT</pubDate>
-      <category>重要度4</category>
-    </item>
-    <item>
-      <title>[★4] (06/13 22:40) AI依存ニュースサイト、ボストン南部19町を取材し有料購読350人獲得</title>
-      <link>https://kaztaira.github.io/research-feed/go/83d932a19edb.html</link>
-      <guid isPermaLink="false">urn:research:20260613:83d932a19edb</guid>
-      <source url="https://mediagazer.com/260613/p3#a260613p3">Mediagazer</source>
-      <dc:creator>Mediagazer</dc:creator>
-      <description>&lt;p&gt;公開議事録とLLMで地方ニュースを生成するサイトの取り組み、ローカルジャーナリズムの新形態。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; AI時代のローカルメディア再構築、ブログのメディア環境テーマと直結&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Mediagazer / 2026-06-13 13:40:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
-      <pubDate>Sat, 13 Jun 2026 13:40:00 GMT</pubDate>
-      <category>重要度4</category>
-    </item>
-    <item>
-      <title>[★4] (06/13 22:00) Tulsi Gabbard、ロシアプロパガンダ的「生物兵器研究所」陰謀論を主張</title>
-      <link>https://kaztaira.github.io/research-feed/go/476ddbb6cbd4.html</link>
-      <guid isPermaLink="false">urn:research:20260613:476ddbb6cbd4</guid>
-      <source url="https://x.com/KaterynaLis/status/2065781411445932327">Anne Applebaum (@anneapplebaum)</source>
-      <dc:creator>Anne Applebaum (@anneapplebaum)</dc:creator>
-      <description>&lt;p&gt;米情報長官が反証済みの陰謀論を流布、AIツールでさえ容易に否定できる内容が政治的に流通。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 国家高官による偽情報拡散、メディア環境と民主主義の危機&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Anne Applebaum (@anneapplebaum) / 2026-06-13 13:00:43&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
-      <pubDate>Sat, 13 Jun 2026 13:00:43 GMT</pubDate>
-      <category>重要度4</category>
-    </item>
-    <item>
-      <title>[★4] (06/14 01:33) Amazon、今年初めにOpenAIに500億ドル投資</title>
-      <link>https://kaztaira.github.io/research-feed/go/0da373768f5d.html</link>
-      <guid isPermaLink="false">urn:research:20260613:0da373768f5d</guid>
-      <source url="https://x.com/Kantrowitz/status/2065834951141126631">Alex Kantrowitz (@kantrowitz)</source>
-      <dc:creator>Alex Kantrowitz (@kantrowitz)</dc:creator>
-      <description>&lt;p&gt;AmazonがOpenAIに500億ドル投資、AndyジャシーCEOがトランプ政権高官に懸念表明していた。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 巨大IT企業のAI投資再編、業界勢力図への影響&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Alex Kantrowitz (@kantrowitz) / 2026-06-13 16:33:28&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
-      <pubDate>Sat, 13 Jun 2026 16:33:28 GMT</pubDate>
-      <category>重要度4</category>
-    </item>
-    <item>
-      <title>[★4] (06/14 01:44) Anthropic、米輸出管理命令で上位AIモデルを停止</title>
-      <link>https://kaztaira.github.io/research-feed/go/441c364f7deb.html</link>
-      <guid isPermaLink="false">urn:research:20260613:441c364f7deb</guid>
-      <source url="https://www.nextgov.com/artificial-intelligence/2026/06/anthropic-suspends-top-ai-models-after-us-export-control-order/414173/">Nextgov/FCW</source>
-      <dc:creator>Nextgov/FCW</dc:creator>
-      <description>&lt;p&gt;米国の輸出管理命令を受けAnthropicが上位モデルを停止。政府のAI輸出規制が本格化。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 政府関連メディアによる輸出管理の文脈での詳細報道。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Nextgov/FCW / 2026-06-13 16:44:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
-      <pubDate>Sat, 13 Jun 2026 16:44:00 GMT</pubDate>
-      <category>重要度4</category>
-      <category>AI regulation</category>
-    </item>
-    <item>
-      <title>[★4] (06/14 02:50) Anthropic、米命令で最強AIモデルを撤回――外国人アクセス禁止</title>
-      <link>https://kaztaira.github.io/research-feed/go/292abd06140a.html</link>
-      <guid isPermaLink="false">urn:research:20260613:292abd06140a</guid>
-      <source url="https://time.com/article/2026/06/13/anthropic-fable-mythos-ban-US-security/">Time Magazine</source>
-      <dc:creator>Time Magazine</dc:creator>
-      <description>&lt;p&gt;Anthropicが米政府命令を受けFable/Mythosモデルを停止。安全保障とAI開発の国際性が衝突。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; AI輸出規制の象徴的事案を大衆メディアが報道。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Time Magazine / 2026-06-13 17:50:17&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
-      <pubDate>Sat, 13 Jun 2026 17:50:17 GMT</pubDate>
-      <category>重要度4</category>
-    </item>
-    <item>
-      <title>[★4] (06/13 22:05) Anthropic、米命令でAIモデルへのアクセスを停止</title>
-      <link>https://kaztaira.github.io/research-feed/go/454a48b7acdb.html</link>
-      <guid isPermaLink="false">urn:research:20260613:454a48b7acdb</guid>
-      <source url="https://www.politico.com/news/2026/06/13/anthropic-ai-models-foreign-ban-00961304">Politico</source>
-      <dc:creator>Politico</dc:creator>
-      <description>&lt;p&gt;米政府の命令を受けAnthropicが最新AIモデルへのアクセスを停止。政治・政策の観点から注目。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; AI政策と政治の交差点を扱う重要記事。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Politico / 2026-06-13 13:05:24&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
-      <pubDate>Sat, 13 Jun 2026 13:05:24 GMT</pubDate>
-      <category>重要度4</category>
-    </item>
-    <item>
-      <title>[★4] (06/14 01:47) OpenAI、複数州司法長官による調査の対象に</title>
-      <link>https://kaztaira.github.io/research-feed/go/748265de56e1.html</link>
-      <guid isPermaLink="false">urn:research:20260613:748265de56e1</guid>
-      <source url="https://techcrunch.com/2026/06/13/openai-faces-investigation-from-state-attorneys-general/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>&lt;p&gt;複数州の司法長官がOpenAIの広告ポリシーや健康データの取り扱いに関し調査を開始。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 大手AI企業への規制当局の包囲網を示す重要事案。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; TechCrunch / 2026-06-13 16:47:18&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
-      <pubDate>Sat, 13 Jun 2026 16:47:18 GMT</pubDate>
       <category>重要度4</category>
     </item>
   </channel>
