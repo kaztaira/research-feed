@@ -1,18 +1,421 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
-  <!-- Generated: 2026-06-30T05:07:10+0900 -->
+  <!-- Generated: 2026-07-01T05:10:06+0900 -->
   <channel>
     <title>AI/Disinformation Daily Report（新聞紙学的）</title>
     <description>AI・偽情報・ディスインフォメーションに関する日次リサーチレポート。主要海外メディアから重要ニュースを抽出・評価。</description>
     <link>https://kaztaira.wordpress.com</link>
     <language>ja</language>
-    <lastBuildDate>Tue, 30 Jun 2026 05:07:10 +0900</lastBuildDate>
-    <pubDate>Tue, 30 Jun 2026 05:07:10 +0900</pubDate>
+    <lastBuildDate>Wed, 01 Jul 2026 05:10:06 +0900</lastBuildDate>
+    <pubDate>Wed, 01 Jul 2026 05:10:06 +0900</pubDate>
     <generator>AI/Disinformation Research Agent</generator>
     <ttl>720</ttl>
     <docs>https://www.rssboard.org/rss-specification</docs>
     <atom:link href="https://raw.githubusercontent.com/kaztaira/research-feed/main/feed4.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
+    <item>
+      <title>[★5] (07/01 03:00) Anthropic、エージェント運用の低コスト化を狙う「Claude Sonnet 5」を発表</title>
+      <link>https://kaztaira.github.io/research-feed/go/302f40558b94.html</link>
+      <guid isPermaLink="false">urn:research:20260630:302f40558b94</guid>
+      <source url="https://techcrunch.com/2026/06/30/anthropic-launches-claude-sonnet-5-as-a-cheaper-way-to-run-agents/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>&lt;p&gt;AnthropicがClaude Sonnet 5を投入。エージェント機能強化、低価格化、安全性向上を実現し、GPT-5.5やGemini Proの対抗馬として位置付け。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 主要AIモデル投入はテクノロジー業界全体に直接影響&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; TechCrunch / 2026-06-30 18:00:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★★ (5/5)&lt;/p&gt;</description>
+      <pubDate>Tue, 30 Jun 2026 18:00:00 GMT</pubDate>
+      <category>重要度5</category>
+    </item>
+    <item>
+      <title>[★5] (06/30 07:51) OpenAIがGPT-5.6プレビュー版を発表、Sol/Terra/Lunaの3モデル構成</title>
+      <link>https://kaztaira.github.io/research-feed/go/2ae33f837392.html</link>
+      <guid isPermaLink="false">urn:research:20260629:2ae33f837392</guid>
+      <source url="https://x.com/rohanpaul_ai/status/2071728231879979203">Rohan Paul (X)</source>
+      <dc:creator>Rohan Paul (X)</dc:creator>
+      <description>&lt;p&gt;OpenAIがGPT-5.6スイートを限定プレビュー公開。Solは前世代比でエージェント高リスク動作が約10倍に増加との指摘も。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; ブログ既出のGPT-5.6関連、安全性議論の続報として極めて重要&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Rohan Paul (X) / 2026-06-29 22:51:15&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★★ (5/5)&lt;/p&gt;</description>
+      <pubDate>Mon, 29 Jun 2026 22:51:15 GMT</pubDate>
+      <category>重要度5</category>
+    </item>
+    <item>
+      <title>[★5] (07/01 03:38) GlobalFact 2026、ファクトチェッカーが資金縮小とAI脅威の高まりに対峙</title>
+      <link>https://kaztaira.github.io/research-feed/go/4cb5ac79136d.html</link>
+      <guid isPermaLink="false">urn:research:20260630:4cb5ac79136d</guid>
+      <source url="https://www.niemanlab.org/2026/06/at-globalfact-fact-checkers-reckon-with-declining-grant-funding-and-ai-generated-disinfo-on-the-rise/">Nieman Lab</source>
+      <dc:creator>Nieman Lab</dc:creator>
+      <description>&lt;p&gt;ヴィリニュスで開催のGlobalFactで、助成金縮小とAI生成偽情報の急増という二重苦に直面するファクトチェック業界の現状が議論された。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; メディア環境・AI偽情報問題で最重要、ブログ核心テーマ&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Nieman Lab / 2026-06-30 18:38:33&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★★ (5/5)&lt;/p&gt;</description>
+      <pubDate>Tue, 30 Jun 2026 18:38:33 GMT</pubDate>
+      <category>重要度5</category>
+      <category>disinformation</category>
+    </item>
+    <item>
+      <title>[★5] (07/01 00:06) ニューヨーク州、AI生成「フェイクニュース」にタバコ式の警告ラベル導入を検討</title>
+      <link>https://kaztaira.github.io/research-feed/go/f50f12548d16.html</link>
+      <guid isPermaLink="false">urn:research:20260630:f50f12548d16</guid>
+      <source url="https://x.com/mkeierleber/status/2071973593999626674">Taylor Lorenz (X)</source>
+      <dc:creator>Taylor Lorenz (X)</dc:creator>
+      <description>&lt;p&gt;NY州がAI生成コンテンツと本物のジャーナリズムを区別するためのタバコ式警告ラベル制度を構想。出版社からは巻き添えへの懸念も。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; AI規制とメディア環境に直結する画期的政策提案&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Taylor Lorenz (X) / 2026-06-30 15:06:14&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★★ (5/5)&lt;/p&gt;</description>
+      <pubDate>Tue, 30 Jun 2026 15:06:14 GMT</pubDate>
+      <category>重要度5</category>
+    </item>
+    <item>
+      <title>[★5] (07/01 02:56) 米下院、子どものオンライン安全に関する超党派法案を可決――欧州型SNS規制との指摘</title>
+      <link>https://kaztaira.github.io/research-feed/go/d009d756e999.html</link>
+      <guid isPermaLink="false">urn:research:20260630:d009d756e999</guid>
+      <source url="https://x.com/NicoPerrino/status/2072016509925314836">Taylor Lorenz (X)</source>
+      <dc:creator>Taylor Lorenz (X)</dc:creator>
+      <description>&lt;p&gt;米下院が267対117で子どものオンライン安全法案パッケージを可決。欧州型のSNS検閲法だとの批判も上がる。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; SNS規制の重要な政策転換、論争性が高い&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Taylor Lorenz (X) / 2026-06-30 17:56:46&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★★ (5/5)&lt;/p&gt;</description>
+      <pubDate>Tue, 30 Jun 2026 17:56:46 GMT</pubDate>
+      <category>重要度5</category>
+      <category>AI regulation</category>
+    </item>
+    <item>
+      <title>[★5] (07/01 02:29) Claude Codeが中国経由ルートを「隠し指紋」で検知か、AIエージェントの監査性に深刻な懸念</title>
+      <link>https://kaztaira.github.io/research-feed/go/e90ccdeaacd7.html</link>
+      <guid isPermaLink="false">urn:research:20260630:e90ccdeaacd7</guid>
+      <source url="https://x.com/rohanpaul_ai/status/2072009571569467658">Rohan Paul (X)</source>
+      <dc:creator>Rohan Paul (X)</dc:creator>
+      <description>&lt;p&gt;Claude CodeがANTHROPIC_BASE_URLの中国系プロキシ経由を、目に見えない句読点や日付形式で密かにタグ付けしているとの疑惑。AIエージェントの透明性と信頼を巡る重大論争。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; AI企業の不透明な追跡手法、米中規制、エージェント監査性に直結する重大問題&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Rohan Paul (X) / 2026-06-30 17:29:12&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★★ (5/5)&lt;/p&gt;</description>
+      <pubDate>Tue, 30 Jun 2026 17:29:12 GMT</pubDate>
+      <category>重要度5</category>
+    </item>
+    <item>
+      <title>[★5] (07/01 02:34) Claude Codeの「隠しマーク」疑惑、GitHub検証で「事実だが影響は限定的」</title>
+      <link>https://kaztaira.github.io/research-feed/go/d58639147c58.html</link>
+      <guid isPermaLink="false">urn:research:20260630:d58639147c58</guid>
+      <source url="https://x.com/rohanpaul_ai/status/2072010802698318080">Rohan Paul (X)</source>
+      <dc:creator>Rohan Paul (X)</dc:creator>
+      <description>&lt;p&gt;GitHub検証報告によれば、Claude Codeが非公式サーバー経由時のみ隠しマークを付与。直接利用者は対象外だが、ユーザー同意なしの仕様に信頼問題が残る。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 前項の検証続報。AIエージェントの透明性問題を裏付ける重要報告&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Rohan Paul (X) / 2026-06-30 17:34:06&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★★ (5/5)&lt;/p&gt;</description>
+      <pubDate>Tue, 30 Jun 2026 17:34:06 GMT</pubDate>
+      <category>重要度5</category>
+    </item>
+    <item>
+      <title>[★5] (07/01 04:51) AIチャットボット頻繁利用者、反ワクチンの俗説を信じる傾向　世論調査で判明</title>
+      <link>https://kaztaira.github.io/research-feed/go/78d883f99bf0.html</link>
+      <guid isPermaLink="false">urn:research:20260630:78d883f99bf0</guid>
+      <source url="https://www.theguardian.com/technology/2026/jun/30/ai-chatbot-use-anti-vaccine-myths-poll">Guardian Tech</source>
+      <dc:creator>Guardian Tech</dc:creator>
+      <description>&lt;p&gt;AI健康相談を頻繁に利用する米成人ほど、ワクチンが自閉症を引き起こすなどの誤情報を信じやすい傾向が世論調査で判明。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 公衆衛生と誤情報の交差点、市民社会への直接的影響が大きい&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Guardian Tech / 2026-06-30 19:51:07&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★★ (5/5)&lt;/p&gt;</description>
+      <pubDate>Tue, 30 Jun 2026 19:51:07 GMT</pubDate>
+      <category>重要度5</category>
+      <category>misinformation</category>
+    </item>
+    <item>
+      <title>[★5] (07/01 02:29) Claude Code、システムプロンプトに中国プロキシの痕跡を隠蔽の疑い</title>
+      <link>https://kaztaira.github.io/research-feed/go/f1f4e8f338ec.html</link>
+      <guid isPermaLink="false">urn:research:20260630:f1f4e8f338ec</guid>
+      <source url="https://x.com/rohanpaul_ai/status/2072009575319167178">Rohan Paul (X)</source>
+      <dc:creator>Rohan Paul (X)</dc:creator>
+      <description>&lt;p&gt;RedditリークとGitHub検証報告により、Claude Codeが中国プロキシの指紋をシステムプロンプト内に隠していた疑いが浮上。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; AI安全保障と国際関係に直結、メディア注目テーマと合致&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Rohan Paul (X) / 2026-06-30 17:29:13&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★★ (5/5)&lt;/p&gt;</description>
+      <pubDate>Tue, 30 Jun 2026 17:29:13 GMT</pubDate>
+      <category>重要度5</category>
+    </item>
+    <item>
+      <title>[★5] (07/01 02:53) ホワイトハウス警告：プロキシ口座が産業規模のAI抽出キャンペーンを支援</title>
+      <link>https://kaztaira.github.io/research-feed/go/5c03e54560d8.html</link>
+      <guid isPermaLink="false">urn:research:20260630:5c03e54560d8</guid>
+      <source url="https://x.com/rohanpaul_ai/status/2072015583554781455">Rohan Paul (X)</source>
+      <dc:creator>Rohan Paul (X)</dc:creator>
+      <description>&lt;p&gt;ホワイトハウスの公式報告書が、プロキシ経由で安価なClaude APIを売る灰色市場が大規模AI抽出を支援していると警告。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; AI輸出規制・国家安全保障に関わる重要警告&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Rohan Paul (X) / 2026-06-30 17:53:05&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★★ (5/5)&lt;/p&gt;</description>
+      <pubDate>Tue, 30 Jun 2026 17:53:05 GMT</pubDate>
+      <category>重要度5</category>
+    </item>
+    <item>
+      <title>[★5] (06/30 21:25) KIDS Act下院通過、年齢「故意の無視」処罰で過剰監視を誘発する懸念</title>
+      <link>https://kaztaira.github.io/research-feed/go/3f63d2371de9.html</link>
+      <guid isPermaLink="false">urn:research:20260630:3f63d2371de9</guid>
+      <source url="https://x.com/StephenKentX/status/2071933021905666161">Taylor Lorenz (@taylorlorenz)</source>
+      <dc:creator>Taylor Lorenz (@taylorlorenz)</dc:creator>
+      <description>&lt;p&gt;KIDS Act可決により年齢の故意無視が処罰対象に。法的安全策として攻撃的なデータ収集が促進されプライバシーが犠牲になる懸念。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 市民社会のプライバシー権と子供保護法の衝突、論争性高い&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Taylor Lorenz (@taylorlorenz) / 2026-06-30 12:25:01&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★★ (5/5)&lt;/p&gt;</description>
+      <pubDate>Tue, 30 Jun 2026 12:25:01 GMT</pubDate>
+      <category>重要度5</category>
+    </item>
+    <item>
+      <title>[★5] (06/30 08:04) 下院KIDS Act可決、上院での攻防へ　子供のオンライン安全巡る激突</title>
+      <link>https://kaztaira.github.io/research-feed/go/3b5c9eb1d6f3.html</link>
+      <guid isPermaLink="false">urn:research:20260629:3b5c9eb1d6f3</guid>
+      <source url="https://www.axios.com/2026/06/29/house-vote-senate-clash-kids-online-safety">Axios</source>
+      <dc:creator>Axios</dc:creator>
+      <description>&lt;p&gt;下院がKIDS Actを月曜に可決したが、主要上院議員は現状での法案通過は困難と表明。子供のオンライン安全を巡る対決が本格化。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; メディア環境と市民社会に重大な影響を及ぼす立法動向&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Axios / 2026-06-29 23:04:01&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★★ (5/5)&lt;/p&gt;</description>
+      <pubDate>Mon, 29 Jun 2026 23:04:01 GMT</pubDate>
+      <category>重要度5</category>
+      <category>AI regulation</category>
+    </item>
+    <item>
+      <title>[★4] (07/01 02:32) ブランドが自社に関するAI偽情報の拡散に資金提供している可能性</title>
+      <link>https://kaztaira.github.io/research-feed/go/04fc5396e872.html</link>
+      <guid isPermaLink="false">urn:research:20260630:04fc5396e872</guid>
+      <source url="https://www.adweek.com/media/brands-may-be-bankrolling-the-ai-misinformation-spreading-about-them/">ADWEEK</source>
+      <dc:creator>ADWEEK</dc:creator>
+      <description>&lt;p&gt;広告主が自社ブランドに関するAI生成偽情報サイトに広告費を流している実態が指摘され、メディアエコシステムの歪みが浮き彫りに。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 広告経済とAI偽情報の構造的問題、業界横断的影響&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; ADWEEK / 2026-06-30 17:32:56&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
+      <pubDate>Tue, 30 Jun 2026 17:32:56 GMT</pubDate>
+      <category>重要度4</category>
+      <category>disinformation</category>
+    </item>
+    <item>
+      <title>[★4] (06/30 16:00) ロシアがウクライナEU加盟巡りポーランドに偽情報攻勢、報告書</title>
+      <link>https://kaztaira.github.io/research-feed/go/59386699e064.html</link>
+      <guid isPermaLink="false">urn:research:20260630:59386699e064</guid>
+      <source url="https://www.polskieradio.pl/395/7785/Artykul/3703165,russia-targets-poland-with-disinformation-on-ukraine%E2%80%99s-eu-bid-report-says">Polskie Radio</source>
+      <dc:creator>Polskie Radio</dc:creator>
+      <description>&lt;p&gt;ロシアがウクライナのEU加盟申請に関連してポーランドを標的にした偽情報キャンペーンを展開していると新報告書が指摘。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 国家関与の偽情報、国際安全保障に直接影響&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Polskie Radio / 2026-06-30 07:00:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
+      <pubDate>Tue, 30 Jun 2026 07:00:00 GMT</pubDate>
+      <category>重要度4</category>
+      <category>disinformation</category>
+    </item>
+    <item>
+      <title>[★4] (06/30 14:00) オランダRIVM、偽情報と国際協力への圧力を公衆衛生の重大脅威に位置付け</title>
+      <link>https://kaztaira.github.io/research-feed/go/93383751dd96.html</link>
+      <guid isPermaLink="false">urn:research:20260630:93383751dd96</guid>
+      <source url="https://www.rivm.nl/en/news/disinformation-and-pressure-on-international-cooperation-pose-major-international-threats-to">Rijksinstituut voor Volksgezondheid en Milieu (RIVM)</source>
+      <dc:creator>Rijksinstituut voor Volksgezondheid en Milieu (RIVM)</dc:creator>
+      <description>&lt;p&gt;オランダ国立公衆衛生環境研究所が偽情報と国際協力への圧力を主要な国際的公衆衛生脅威として正式に認定。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 政府機関による偽情報の公衆衛生脅威化、政策的意義大&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Rijksinstituut voor Volksgezondheid en Milieu (RIVM) / 2026-06-30 05:00:53&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
+      <pubDate>Tue, 30 Jun 2026 05:00:53 GMT</pubDate>
+      <category>重要度4</category>
+      <category>disinformation</category>
+    </item>
+    <item>
+      <title>[★4] (07/01 03:20) オランダ研究所、偽情報とワクチン忌避を主要な新たな健康リスクに認定</title>
+      <link>https://kaztaira.github.io/research-feed/go/2987d4b19d92.html</link>
+      <guid isPermaLink="false">urn:research:20260630:2987d4b19d92</guid>
+      <source url="https://nltimes.nl/2026/06/30/disinformation-vaccine-hesitancy-among-top-new-health-risks-says-dutch-institute">NL Times</source>
+      <dc:creator>NL Times</dc:creator>
+      <description>&lt;p&gt;RIVMが偽情報とワクチン忌避を主要な新興健康リスクに位置付け、社会的影響への対応の必要性を提起。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; RIVM声明の市民社会向け解説、健康と情報環境の交差点&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; NL Times / 2026-06-30 18:20:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
+      <pubDate>Tue, 30 Jun 2026 18:20:00 GMT</pubDate>
+      <category>重要度4</category>
+      <category>disinformation</category>
+    </item>
+    <item>
+      <title>[★4] (06/30 20:03) TalkTVが憎悪と偽情報を放置したOfcomを提訴へ――Good Law Project</title>
+      <link>https://kaztaira.github.io/research-feed/go/8f81ac269301.html</link>
+      <guid isPermaLink="false">urn:research:20260630:8f81ac269301</guid>
+      <source url="https://goodlawproject.org/talktv-were-suing-ofcom-for-failing-to-stop-hate-and-misinformation/">Good Law Project</source>
+      <dc:creator>Good Law Project</dc:creator>
+      <description>&lt;p&gt;Good Law ProjectがTalkTVの憎悪表現と偽情報を制止しなかったとして英放送通信規制庁Ofcomを訴える方針を発表。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; メディア規制機関への司法挑戦、放送制度に影響&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Good Law Project / 2026-06-30 11:03:51&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
+      <pubDate>Tue, 30 Jun 2026 11:03:51 GMT</pubDate>
+      <category>重要度4</category>
+      <category>disinformation</category>
+      <category>AI regulation</category>
+    </item>
+    <item>
+      <title>[★4] (06/30 20:04) Good Law ProjectがTalkTVの偽情報問題でOfcomを提訴</title>
+      <link>https://kaztaira.github.io/research-feed/go/c4f714e53543.html</link>
+      <guid isPermaLink="false">urn:research:20260630:c4f714e53543</guid>
+      <source url="https://www.thenational.scot/news/26238782.ofcom-sued-talktv-misinformation-ruling/">The National Scot</source>
+      <dc:creator>The National Scot</dc:creator>
+      <description>&lt;p&gt;Good Law ProjectがTalkTVに関する偽情報判断を巡りOfcomを提訴へ。英メディア規制の在り方を問う訴訟。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 英放送規制を問う訴訟、メディア環境に重要&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; The National Scot / 2026-06-30 11:04:05&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
+      <pubDate>Tue, 30 Jun 2026 11:04:05 GMT</pubDate>
+      <category>重要度4</category>
+      <category>disinformation</category>
+      <category>AI regulation</category>
+    </item>
+    <item>
+      <title>[★4] (07/01 00:05) 選挙偽情報の87％がSNS経由で拡散、研究結果</title>
+      <link>https://kaztaira.github.io/research-feed/go/46a566d5f4c1.html</link>
+      <guid isPermaLink="false">urn:research:20260630:46a566d5f4c1</guid>
+      <source url="https://english.khabarhub.com/2026/30/556336/">Khabarhub</source>
+      <dc:creator>Khabarhub</dc:creator>
+      <description>&lt;p&gt;選挙関連の偽情報の87％がソーシャルメディアを通じて拡散しているとする研究結果が公表され、民主主義への影響が懸念される。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 民主主義と情報拡散経路の関係を示す重要データ&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Khabarhub / 2026-06-30 15:05:49&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
+      <pubDate>Tue, 30 Jun 2026 15:05:49 GMT</pubDate>
+      <category>重要度4</category>
+      <category>disinformation</category>
+    </item>
+    <item>
+      <title>[★4] (07/01 02:34) Anthropicが「隠しマーク」を実装する背景、中国グレーマーケットでのClaude転売実態</title>
+      <link>https://kaztaira.github.io/research-feed/go/62a11672e7f3.html</link>
+      <guid isPermaLink="false">urn:research:20260630:62a11672e7f3</guid>
+      <source url="https://x.com/rohanpaul_ai/status/2072010974924828940">Rohan Paul (X)</source>
+      <dc:creator>Rohan Paul (X)</dc:creator>
+      <description>&lt;p&gt;中国の開発者が灰色市場のAPI転送ステーションを通じてClaudeを購入している実態が、Anthropicの隠しタグ付け対応の背景にあると指摘。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 米中AI規制の抜け穴と企業対応の実態を示す重要な文脈情報&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Rohan Paul (X) / 2026-06-30 17:34:47&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
+      <pubDate>Tue, 30 Jun 2026 17:34:47 GMT</pubDate>
+      <category>重要度4</category>
+    </item>
+    <item>
+      <title>[★4] (07/01 02:00) Anthropic、研究自動化ツール「Claude Science」を発表</title>
+      <link>https://kaztaira.github.io/research-feed/go/778111c379fe.html</link>
+      <guid isPermaLink="false">urn:research:20260630:778111c379fe</guid>
+      <source url="https://www.bloomberg.com/news/articles/2026-06-30/anthropic-releases-claude-science-for-automating-research">Bloomberg Tech</source>
+      <dc:creator>Bloomberg Tech</dc:creator>
+      <description>&lt;p&gt;Anthropicが科学者向けの研究自動化ソフトウェア「Claude Science」を発表。研究の煩雑な作業の削減を目指す。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; AIによる研究自動化は科学界・知的労働全体に大きな影響を持つ&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Bloomberg Tech / 2026-06-30 17:00:15&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
+      <pubDate>Tue, 30 Jun 2026 17:00:15 GMT</pubDate>
+      <category>重要度4</category>
+    </item>
+    <item>
+      <title>[★4] (07/01 01:24) Claude Sonnet 5、本日リリースか　100万トークンのコンテキストウィンドウ搭載と漏洩スペック</title>
+      <link>https://kaztaira.github.io/research-feed/go/c0cbd800c944.html</link>
+      <guid isPermaLink="false">urn:research:20260630:c0cbd800c944</guid>
+      <source url="https://x.com/rohanpaul_ai/status/2071993162978230508">Rohan Paul (X)</source>
+      <dc:creator>Rohan Paul (X)</dc:creator>
+      <description>&lt;p&gt;Anthropicの新モデル「Claude Sonnet 5」が本日リリース予定との漏洩情報。100万トークンの長大なコンテキストウィンドウを搭載するとされる。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 主要AIモデルの新リリースはテクノロジー潮流に大きく影響&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Rohan Paul (X) / 2026-06-30 16:24:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
+      <pubDate>Tue, 30 Jun 2026 16:24:00 GMT</pubDate>
+      <category>重要度4</category>
+    </item>
+    <item>
+      <title>[★4] (06/30 22:14) AI株式が低迷の一週間、バブル崩壊の兆しか</title>
+      <link>https://kaztaira.github.io/research-feed/go/cfa61d4549b0.html</link>
+      <guid isPermaLink="false">urn:research:20260630:cfa61d4549b0</guid>
+      <source url="https://www.theguardian.com/technology/2026/jun/30/artificial-intelligence-shares">Guardian Tech</source>
+      <dc:creator>Guardian Tech</dc:creator>
+      <description>&lt;p&gt;AI関連株が下落の一週間。市場の見方は厳しくなりつつあるが、バブル崩壊の決定的兆候はまだ見えず。カリフォルニア州は億万長者税も検討中。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; AI業界の経済的基盤に関わる重要な動向&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Guardian Tech / 2026-06-30 13:14:52&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
+      <pubDate>Tue, 30 Jun 2026 13:14:52 GMT</pubDate>
+      <category>重要度4</category>
+    </item>
+    <item>
+      <title>[★4] (07/01 00:00) Amazonが10億ドル規模のFDE組織を新設、OpenAI・Anthropicに追随</title>
+      <link>https://kaztaira.github.io/research-feed/go/ba1797ae4193.html</link>
+      <guid isPermaLink="false">urn:research:20260630:ba1797ae4193</guid>
+      <source url="https://techcrunch.com/2026/06/30/amazon-launches-new-1-billion-fde-org-following-openai-and-anthropic/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>&lt;p&gt;Amazonが10億ドル投資の新FDE組織を立ち上げ。エンジニアが企業内に常駐し、専用AIエージェントを高速展開する事業モデル。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; AIエージェント市場における大手の競合構造変化を示す&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; TechCrunch / 2026-06-30 15:00:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
+      <pubDate>Tue, 30 Jun 2026 15:00:00 GMT</pubDate>
+      <category>重要度4</category>
+    </item>
+    <item>
+      <title>[★4] (07/01 02:19) Netflix、ウィリー・ウォンカ番組で故ジーン・ワイルダーのAI生成音声を使用</title>
+      <link>https://kaztaira.github.io/research-feed/go/cda80fe152fa.html</link>
+      <guid isPermaLink="false">urn:research:20260630:cda80fe152fa</guid>
+      <source url="https://www.theverge.com/streaming/959684/netflix-wonka-golden-ticket-gene-wilder">The Verge AI</source>
+      <dc:creator>The Verge AI</dc:creator>
+      <description>&lt;p&gt;Netflixの新リアリティ番組「Wonka's The Golden Ticket」で、故ジーン・ワイルダーのAI生成音声を使用することを予告編で確認。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 故人のAI音声利用は倫理・著作権を巡る論争の核心&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; The Verge AI / 2026-06-30 17:19:15&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
+      <pubDate>Tue, 30 Jun 2026 17:19:15 GMT</pubDate>
+      <category>重要度4</category>
+    </item>
+    <item>
+      <title>[★4] (06/30 22:33) コスト高騰対策で各社がClaudeやCodexに「原始人言葉」で話させる動き</title>
+      <link>https://kaztaira.github.io/research-feed/go/05ac4bae75fc.html</link>
+      <guid isPermaLink="false">urn:research:20260630:05ac4bae75fc</guid>
+      <source url="https://www.404media.co/companies-are-making-claude-and-codex-talk-like-cavemen-to-stop-ais-soaring-costs/">404 Media</source>
+      <dc:creator>404 Media</dc:creator>
+      <description>&lt;p&gt;AI運用コスト削減のため、プロンプトを極端に短縮する「caveman」プロジェクトが拡大。OpenAI幹部もコード提供。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; AI運用コストの実態と各社の対応策を示す注目トピック&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; 404 Media / 2026-06-30 13:33:16&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
+      <pubDate>Tue, 30 Jun 2026 13:33:16 GMT</pubDate>
+      <category>重要度4</category>
+    </item>
+    <item>
+      <title>[★4] (06/30 23:37) AIは人間労働者を代替しない、OpenAIチーフエコノミストが見解</title>
+      <link>https://kaztaira.github.io/research-feed/go/72cd9da18973.html</link>
+      <guid isPermaLink="false">urn:research:20260630:72cd9da18973</guid>
+      <source url="https://www.bloomberg.com/news/articles/2026-06-30/ai-won-t-be-substitute-for-human-workers-openai-economist-says">Bloomberg Tech</source>
+      <dc:creator>Bloomberg Tech</dc:creator>
+      <description>&lt;p&gt;OpenAIのチーフエコノミスト、ロニー・チャタジー氏が「AIの台頭は人間労働者を不要にしない」との見解を表明。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 労働市場に対する大手AI企業の公式見解として注目&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Bloomberg Tech / 2026-06-30 14:37:28&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
+      <pubDate>Tue, 30 Jun 2026 14:37:28 GMT</pubDate>
+      <category>重要度4</category>
+    </item>
+    <item>
+      <title>[★4] (07/01 03:15) TikTok、依存症訴訟で和解最終調整　陪審裁判回避へ</title>
+      <link>https://kaztaira.github.io/research-feed/go/bc160f194b32.html</link>
+      <guid isPermaLink="false">urn:research:20260630:bc160f194b32</guid>
+      <source url="https://www.bloomberg.com/news/articles/2026-06-30/tiktok-finalizing-settlement-of-addiction-lawsuit-to-avoid-trial">Bloomberg Tech</source>
+      <dc:creator>Bloomberg Tech</dc:creator>
+      <description>&lt;p&gt;TikTokが未成年者への依存性を訴える訴訟で和解を最終調整中。世界最大級SNSの陪審裁判を回避する見通し。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; SNS規制とプラットフォーム責任、メディア環境への影響大&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Bloomberg Tech / 2026-06-30 18:15:22&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
+      <pubDate>Tue, 30 Jun 2026 18:15:22 GMT</pubDate>
+      <category>重要度4</category>
+    </item>
+    <item>
+      <title>[★4] (06/30 06:31) Apple、AIサイバーセキュリティ懸念を受け更新を前倒し配信</title>
+      <link>https://kaztaira.github.io/research-feed/go/3cfe89334020.html</link>
+      <guid isPermaLink="false">urn:research:20260629:3cfe89334020</guid>
+      <source url="https://www.reuters.com/business/apple-says-it-is-releasing-updates-early-response-ai-cybersecurity-concerns-2026-06-29/">Reuters</source>
+      <dc:creator>Reuters</dc:creator>
+      <description>&lt;p&gt;AppleはAI関連のサイバーセキュリティ懸念に対応するため、ソフトウェア更新を前倒しで提供すると発表した。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; AIセキュリティと大手テックの対応、業界全体への影響&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Reuters / 2026-06-29 21:31:04&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
+      <pubDate>Mon, 29 Jun 2026 21:31:04 GMT</pubDate>
+      <category>重要度4</category>
+    </item>
+    <item>
+      <title>[★4] (07/01 04:01) Claude Sonnet 5発表、Opus 4.8との性能差を縮小　エージェント型AIが大幅低価格化</title>
+      <link>https://kaztaira.github.io/research-feed/go/24b681a88465.html</link>
+      <guid isPermaLink="false">urn:research:20260630:24b681a88465</guid>
+      <source url="https://x.com/rohanpaul_ai/status/2072032758348820881">Rohan Paul (X)</source>
+      <dc:creator>Rohan Paul (X)</dc:creator>
+      <description>&lt;p&gt;Anthropic Claude Sonnet 5が登場。SWE-bench Pro 63.2%を記録、入力$2/出力$10/百万トークンと低価格でエージェントAI普及を促進。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; AI業界のトレンドと価格競争に直接影響&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Rohan Paul (X) / 2026-06-30 19:01:20&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
+      <pubDate>Tue, 30 Jun 2026 19:01:20 GMT</pubDate>
+      <category>重要度4</category>
+    </item>
     <item>
       <title>[★5] (06/29 03:24) オーストリア、米AI規制受けEUにAnthropicの欧州拠点誘致を要請</title>
       <link>https://kaztaira.github.io/research-feed/go/41b46efe0a2f.html</link>
@@ -2825,413 +3228,6 @@
       <pubDate>Tue, 23 Jun 2026 07:35:00 GMT</pubDate>
       <category>重要度3</category>
       <category>misinformation</category>
-    </item>
-    <item>
-      <title>[★5] (06/22 22:00) 政府を倒せるAIモデルが数カ月で実現、ファイブ・アイズが異例の警告</title>
-      <link>https://kaztaira.github.io/research-feed/go/6238ddcd22c8.html</link>
-      <guid isPermaLink="false">urn:research:20260622:6238ddcd22c8</guid>
-      <source url="https://www.theguardian.com/technology/2026/jun/22/anthropic-claude-fable-ai-model-artificial-intelligence-national-security">Guardian Tech</source>
-      <dc:creator>Guardian Tech</dc:creator>
-      <description>&lt;p&gt;米英豪NZカナダの信号情報機関が、政府や企業を機能停止させ得る強力なAIモデルの登場を警告。トランプ政権の外国人へのFable AI制限を背景に異例の共同声明を発表。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 国際安全保障に関わる極めて重要な共同警告&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Guardian Tech / 2026-06-22 13:00:24&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★★ (5/5)&lt;/p&gt;</description>
-      <pubDate>Mon, 22 Jun 2026 13:00:24 GMT</pubDate>
-      <category>重要度5</category>
-    </item>
-    <item>
-      <title>[★5] (06/23 04:03) ニューヨーク市下院予備選、「AI内戦」の主戦場に</title>
-      <link>https://kaztaira.github.io/research-feed/go/6f1a6f42a9b7.html</link>
-      <guid isPermaLink="false">urn:research:20260622:6f1a6f42a9b7</guid>
-      <source url="https://www.theguardian.com/us-news/2026/jun/22/new-york-city-house-primary-race">Guardian Tech</source>
-      <dc:creator>Guardian Tech</dc:creator>
-      <description>&lt;p&gt;AI業界がスーパーPACを通じ2026年中間選挙で巨額支出。マンハッタンの下院選に集中。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; AI業界の政治介入と市民社会への影響を象徴&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Guardian Tech / 2026-06-22 19:03:45&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★★ (5/5)&lt;/p&gt;</description>
-      <pubDate>Mon, 22 Jun 2026 19:03:45 GMT</pubDate>
-      <category>重要度5</category>
-    </item>
-    <item>
-      <title>[★5] (06/23 01:53) 子どものオンライン安全法案、米下院で超党派合意</title>
-      <link>https://kaztaira.github.io/research-feed/go/7c1cc2a9ccbb.html</link>
-      <guid isPermaLink="false">urn:research:20260622:7c1cc2a9ccbb</guid>
-      <source url="https://www.bloomberg.com/news/articles/2026-06-22/kids-online-safety-bill-deal-struck-by-house-gop-democrats">Bloomberg Tech</source>
-      <dc:creator>Bloomberg Tech</dc:creator>
-      <description>&lt;p&gt;米下院議員が子ども・若者のオンライン安全と個人情報保護強化の超党派合意に到達。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; KOSA法案進展、メディア環境と表現の自由に直結&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Bloomberg Tech / 2026-06-22 16:53:07&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★★ (5/5)&lt;/p&gt;</description>
-      <pubDate>Mon, 22 Jun 2026 16:53:07 GMT</pubDate>
-      <category>重要度5</category>
-      <category>AI regulation</category>
-    </item>
-    <item>
-      <title>[★5] (06/22 18:31) Getty Images、OpenAIライセンス契約発表で株価145%急騰</title>
-      <link>https://kaztaira.github.io/research-feed/go/0474be594483.html</link>
-      <guid isPermaLink="false">urn:research:20260622:0474be594483</guid>
-      <source url="https://www.bloomberg.com/news/articles/2026-06-22/getty-images-soars-200-in-early-trading-after-openai-deal">Bloomberg Tech</source>
-      <dc:creator>Bloomberg Tech</dc:creator>
-      <description>&lt;p&gt;ストック写真大手GettyがOpenAIとライセンス契約を発表、株価が一時145%急騰。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; AI著作権問題の転機、メディア業界に大きな影響&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Bloomberg Tech / 2026-06-22 09:31:20&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★★ (5/5)&lt;/p&gt;</description>
-      <pubDate>Mon, 22 Jun 2026 09:31:20 GMT</pubDate>
-      <category>重要度5</category>
-    </item>
-    <item>
-      <title>[★4] (06/22 23:14) 情報相：16のプロパガンダサイトと400超のSNSアカウントが偽情報拡散</title>
-      <link>https://kaztaira.github.io/research-feed/go/af4b561a987f.html</link>
-      <guid isPermaLink="false">urn:research:20260622:af4b561a987f</guid>
-      <source url="https://www.dhakatribune.com/bangladesh/parliament/413338/info-minister-16-propaganda-websites-over-400">Dhaka Tribune</source>
-      <dc:creator>Dhaka Tribune</dc:creator>
-      <description>&lt;p&gt;バングラデシュ情報相が、16のプロパガンダサイトと400以上のSNSアカウントが偽情報を拡散していると国会で報告。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 国家規模の組織的偽情報を公式認定。メディア環境・民主主義に影響&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Dhaka Tribune / 2026-06-22 14:14:40&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
-      <pubDate>Mon, 22 Jun 2026 14:14:40 GMT</pubDate>
-      <category>重要度4</category>
-      <category>disinformation</category>
-    </item>
-    <item>
-      <title>[★4] (06/22 18:51) 情報省：偽情報キャンペーン関与者に法的措置</title>
-      <link>https://kaztaira.github.io/research-feed/go/b05e20679ba4.html</link>
-      <guid isPermaLink="false">urn:research:20260622:b05e20679ba4</guid>
-      <source url="https://sudanhorizon.com/ministry-of-information-legal-action-against-individuals-behind-disinformation-campaign/">Sudan Horizon</source>
-      <dc:creator>Sudan Horizon</dc:creator>
-      <description>&lt;p&gt;スーダン情報省が、偽情報キャンペーンを行った個人に対し法的措置を取ると発表。紛争下の情報統制の動き。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 紛争国における政府の偽情報対策と言論統制の境界が論点&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Sudan Horizon / 2026-06-22 09:51:53&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
-      <pubDate>Mon, 22 Jun 2026 09:51:53 GMT</pubDate>
-      <category>重要度4</category>
-      <category>disinformation</category>
-    </item>
-    <item>
-      <title>[★4] (06/22 13:05) 下院検察団、サラ副大統領裁判控え偽情報に身構え</title>
-      <link>https://kaztaira.github.io/research-feed/go/951b133780a5.html</link>
-      <guid isPermaLink="false">urn:research:20260622:951b133780a5</guid>
-      <source url="https://www.pna.gov.ph/articles/1277749">Philippine News Agency</source>
-      <dc:creator>Philippine News Agency</dc:creator>
-      <description>&lt;p&gt;フィリピンのサラ副大統領弾劾裁判を前に、下院検察団が偽情報拡散への警戒を強めていると報じる。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 政治裁判と偽情報の関係。市民社会・民主主義に直接影響&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Philippine News Agency / 2026-06-22 04:05:44&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
-      <pubDate>Mon, 22 Jun 2026 04:05:44 GMT</pubDate>
-      <category>重要度4</category>
-      <category>disinformation</category>
-    </item>
-    <item>
-      <title>[★4] (06/23 01:49) ロシア、学生に無人機講座を義務化　偽情報対策センター報告</title>
-      <link>https://kaztaira.github.io/research-feed/go/4cfa32f968db.html</link>
-      <guid isPermaLink="false">urn:research:20260622:4cfa32f968db</guid>
-      <source url="https://ukranews.com/en/news/1159003-russia-to-introduce-mandatory-uav-course-for-students-according-to-the-center-for-public-policy">ukranews.com</source>
-      <dc:creator>ukranews.com</dc:creator>
-      <description>&lt;p&gt;ウクライナの偽情報対策センターが、ロシアが学生にUAV(無人機)講座を義務化したと報告。教育の軍事化が進む。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 戦時下の教育軍事化。国際安全保障に関わる重要案件&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; ukranews.com / 2026-06-22 16:49:33&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
-      <pubDate>Mon, 22 Jun 2026 16:49:33 GMT</pubDate>
-      <category>重要度4</category>
-      <category>disinformation</category>
-    </item>
-    <item>
-      <title>[★4] (06/23 01:05) Metaがスマートグラスに顔認識搭載計画、内部メモ流出で75団体が反対</title>
-      <link>https://kaztaira.github.io/research-feed/go/72a2ed0e8b42.html</link>
-      <guid isPermaLink="false">urn:research:20260622:72a2ed0e8b42</guid>
-      <source url="https://x.com/AJLUnited/status/2069089367482577340">Joan Donovan (@bostonjoan)</source>
-      <dc:creator>Joan Donovan (@bostonjoan)</dc:creator>
-      <description>&lt;p&gt;Meta内部メモが流出、スマートグラスへの顔認識技術搭載計画を「政治的混乱期」に投入予定と判明。ACLU、EPIC等75団体が反対書簡を発表。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 監視社会化と市民的自由に関わる重大問題&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Joan Donovan (@bostonjoan) / 2026-06-22 16:05:21&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
-      <pubDate>Mon, 22 Jun 2026 16:05:21 GMT</pubDate>
-      <category>重要度4</category>
-    </item>
-    <item>
-      <title>[★4] (06/23 03:05) Anthropic、Claudeが身分証提示を求める可能性とプライバシーポリシー改訂</title>
-      <link>https://kaztaira.github.io/research-feed/go/da4313bf96e2.html</link>
-      <guid isPermaLink="false">urn:research:20260622:da4313bf96e2</guid>
-      <source url="https://techcrunch.com/2026/06/22/anthropic-says-claude-may-want-to-see-your-id/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>&lt;p&gt;Anthropicがプライバシーポリシーを改訂。Claudeチャットボットが特定状況下でパスポートや運転免許証など年齢・身元確認書類の提示を求める可能性があると明示。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; AI利用とプライバシーの新たな境界線を示す&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; TechCrunch / 2026-06-22 18:05:13&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
-      <pubDate>Mon, 22 Jun 2026 18:05:13 GMT</pubDate>
-      <category>重要度4</category>
-    </item>
-    <item>
-      <title>[★4] (06/22 23:44) Anthropic、人類絶滅リスクをどう評価するか</title>
-      <link>https://kaztaira.github.io/research-feed/go/311edf572471.html</link>
-      <guid isPermaLink="false">urn:research:20260622:311edf572471</guid>
-      <source url="https://www.bloomberg.com/news/videos/2026-06-22/how-anthropic-weighs-the-risk-of-human-extinction">Bloomberg Tech</source>
-      <dc:creator>Bloomberg Tech</dc:creator>
-      <description>&lt;p&gt;Odd Lotsポッドキャストで、AIの労働市場や社会への影響、そして実存的リスクについてAnthropicの考え方が議論された。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; AI開発の倫理と存続リスクに関する重要議論&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Bloomberg Tech / 2026-06-22 14:44:17&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
-      <pubDate>Mon, 22 Jun 2026 14:44:17 GMT</pubDate>
-      <category>重要度4</category>
-    </item>
-    <item>
-      <title>[★4] (06/22 19:10) Getty ImagesがOpenAIとライセンス契約、株価120％超急騰</title>
-      <link>https://kaztaira.github.io/research-feed/go/f2de954da6c1.html</link>
-      <guid isPermaLink="false">urn:research:20260622:f2de954da6c1</guid>
-      <source url="https://mediagazer.com/260622/p5#a260622p5">Mediagazer</source>
-      <dc:creator>Mediagazer</dc:creator>
-      <description>&lt;p&gt;Getty Imagesがそのライブラリ画像をChatGPTの検索・発見機能で利用可能にする契約をOpenAIと締結。GETY株は120％超上昇、年初来でもプラス転換。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 画像著作権とAIの関係を変える重要契約&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Mediagazer / 2026-06-22 10:10:02&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
-      <pubDate>Mon, 22 Jun 2026 10:10:02 GMT</pubDate>
-      <category>重要度4</category>
-    </item>
-    <item>
-      <title>[★4] (06/23 01:32) カリフォルニアでガソリン店がAIで価格つり上げの疑い、集団訴訟</title>
-      <link>https://kaztaira.github.io/research-feed/go/7914f8b1a956.html</link>
-      <guid isPermaLink="false">urn:research:20260622:7914f8b1a956</guid>
-      <source url="https://www.bloomberg.com/news/articles/2026-06-22/gas-stations-accused-of-using-ai-to-inflate-prices-in-california">Bloomberg Tech</source>
-      <dc:creator>Bloomberg Tech</dc:creator>
-      <description>&lt;p&gt;Walmart、Marathon、BP、7-Elevenなどがガソリン価格をAIで違法に操作している疑いがあるとして、カリフォルニア州消費者が集団訴訟を提起。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; AIによる価格操作という新たな消費者問題&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Bloomberg Tech / 2026-06-22 16:32:38&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
-      <pubDate>Mon, 22 Jun 2026 16:32:38 GMT</pubDate>
-      <category>重要度4</category>
-    </item>
-    <item>
-      <title>[★4] (06/23 01:51) SpaceX、Reflection AIと月1.5億ドルのコンピュート契約</title>
-      <link>https://kaztaira.github.io/research-feed/go/f7ef68bb6a12.html</link>
-      <guid isPermaLink="false">urn:research:20260622:f7ef68bb6a12</guid>
-      <source url="https://techcrunch.com/2026/06/22/spacex-inks-compute-deal-with-reflection-ai-an-open-source-ai-lab/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>&lt;p&gt;Reflection AIが2026年7月から2029年まで月1.5億ドルでSpaceXのColossus 2 GB300チップを利用。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; マスク陣営のAIインフラ覇権争いを象徴する巨額契約&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; TechCrunch / 2026-06-22 16:51:29&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
-      <pubDate>Mon, 22 Jun 2026 16:51:29 GMT</pubDate>
-      <category>重要度4</category>
-    </item>
-    <item>
-      <title>[★4] (06/23 03:50) Apple チップに修正不能の脆弱性、iPhone脱獄の扉開く</title>
-      <link>https://kaztaira.github.io/research-feed/go/b075fdd3e206.html</link>
-      <guid isPermaLink="false">urn:research:20260622:b075fdd3e206</guid>
-      <source url="https://techcrunch.com/2026/06/22/a-new-unpatchable-flaw-in-apple-chips-opens-the-door-to-an-iphone-jailbreak/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>&lt;p&gt;欧州サイバーセキュリティ企業Paradigm Shiftが旧型iPhoneの脱獄を可能にする欠陥と手法を公開。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 修正不能のハードウェア脆弱性で広範なユーザーに影響&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; TechCrunch / 2026-06-22 18:50:24&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
-      <pubDate>Mon, 22 Jun 2026 18:50:24 GMT</pubDate>
-      <category>重要度4</category>
-    </item>
-    <item>
-      <title>[★4] (06/23 02:21) ソーシャルメディア法案KOSA、研究が立法根拠を否定</title>
-      <link>https://kaztaira.github.io/research-feed/go/3c22e364a87b.html</link>
-      <guid isPermaLink="false">urn:research:20260622:3c22e364a87b</guid>
-      <source url="https://x.com/tzduren/status/2069108526362821023">Taylor Lorenz (@taylorlorenz)</source>
-      <dc:creator>Taylor Lorenz (@taylorlorenz)</dc:creator>
-      <description>&lt;p&gt;KOSA等の法案はSNS有害論を前提とするが、最新研究はその根拠を支持しないと指摘。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; SNS規制の科学的根拠を巡る論争、メディア環境に影響&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Taylor Lorenz (@taylorlorenz) / 2026-06-22 17:21:29&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
-      <pubDate>Mon, 22 Jun 2026 17:21:29 GMT</pubDate>
-      <category>重要度4</category>
-      <category>AI regulation</category>
-    </item>
-    <item>
-      <title>[★4] (06/22 22:36) Klueへのハッキングで複数サイバーセキュリティ企業がデータ漏洩</title>
-      <link>https://kaztaira.github.io/research-feed/go/3080985cf56a.html</link>
-      <guid isPermaLink="false">urn:research:20260622:3080985cf56a</guid>
-      <source url="https://techcrunch.com/2026/06/22/klue-hack-results-in-data-breach-at-several-cybersecurity-firms/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>&lt;p&gt;市場調査会社Klueの侵害により、Huntress、HackerOne、Jamf等のデータが盗難。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; サプライチェーン攻撃の典型、業界全体に影響&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; TechCrunch / 2026-06-22 13:36:08&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
-      <pubDate>Mon, 22 Jun 2026 13:36:08 GMT</pubDate>
-      <category>重要度4</category>
-    </item>
-    <item>
-      <title>[★4] (06/23 00:54) Alphabet、AIスター人材が再び競合へ移籍、株価下落</title>
-      <link>https://kaztaira.github.io/research-feed/go/147c6df39c50.html</link>
-      <guid isPermaLink="false">urn:research:20260622:147c6df39c50</guid>
-      <source url="https://www.bloomberg.com/news/articles/2026-06-22/alphabet-shares-drop-after-second-ai-star-departs-for-a-rival">Bloomberg Tech</source>
-      <dc:creator>Bloomberg Tech</dc:creator>
-      <description>&lt;p&gt;またも著名AIリーダーが競合に移籍、Alphabet株が月曜下落。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; AI人材獲得競争激化、業界勢力図に影響&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Bloomberg Tech / 2026-06-22 15:54:27&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
-      <pubDate>Mon, 22 Jun 2026 15:54:27 GMT</pubDate>
-      <category>重要度4</category>
-    </item>
-    <item>
-      <title>[★4] (06/22 16:50) WPP Media、AI検索・チャットボット広告収入を2030年に1010億ドル予測</title>
-      <link>https://kaztaira.github.io/research-feed/go/9f758992bfbb.html</link>
-      <guid isPermaLink="false">urn:research:20260622:9f758992bfbb</guid>
-      <source url="https://mediagazer.com/260622/p2#a260622p2">Mediagazer</source>
-      <dc:creator>Mediagazer</dc:creator>
-      <description>&lt;p&gt;WPPはAI検索広告収入が2026年51億ドル、2030年に1010億ドルに達すると予測。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; AI検索が広告・メディア経済を変革する規模を示す&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Mediagazer / 2026-06-22 07:50:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
-      <pubDate>Mon, 22 Jun 2026 07:50:00 GMT</pubDate>
-      <category>重要度4</category>
-    </item>
-    <item>
-      <title>[★4] (06/23 04:20) Boltimore Sun記者、Smith氏所有後の変化に抗議し辞職</title>
-      <link>https://kaztaira.github.io/research-feed/go/0e26136f1af8.html</link>
-      <guid isPermaLink="false">urn:research:20260622:0e26136f1af8</guid>
-      <source url="https://mediagazer.com/260622/p15#a260622p15">Mediagazer</source>
-      <dc:creator>Mediagazer</dc:creator>
-      <description>&lt;p&gt;25年間Baltimore Sunで政治・スポーツを取材してきたJeff Barker記者がDavid Smith所有による変質に抗議し辞職。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; メディア所有とジャーナリズム独立性の問題&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Mediagazer / 2026-06-22 19:20:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
-      <pubDate>Mon, 22 Jun 2026 19:20:00 GMT</pubDate>
-      <category>重要度4</category>
-    </item>
-    <item>
-      <title>[★3] (06/22 17:17) ナイジェリア：選挙偽情報・ファクトチェック・AIに関する報道機関向け上級ワークショップ</title>
-      <link>https://kaztaira.github.io/research-feed/go/a17ebf047974.html</link>
-      <guid isPermaLink="false">urn:research:20260622:a17ebf047974</guid>
-      <source url="https://www2.fundsforngos.org/individuals/advanced-workshop-on-electoral-disinformation-fact-checking-and-ai-in-newsrooms-nigeria/">fundsforNGOs</source>
-      <dc:creator>fundsforNGOs</dc:creator>
-      <description>&lt;p&gt;ナイジェリアで選挙偽情報、ファクトチェック、AI活用に関する報道機関向け上級ワークショップを開催。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 選挙報道とAI・ファクトチェックの実務的取組み&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; fundsforNGOs / 2026-06-22 08:17:09&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★☆☆ (3/5)&lt;/p&gt;</description>
-      <pubDate>Mon, 22 Jun 2026 08:17:09 GMT</pubDate>
-      <category>重要度3</category>
-      <category>disinformation</category>
-    </item>
-    <item>
-      <title>[★3] (06/22 21:34) 気候否定論者エクソン元CEOの遺産　対抗策を心理学者が提示</title>
-      <link>https://kaztaira.github.io/research-feed/go/3e68db66af3f.html</link>
-      <guid isPermaLink="false">urn:research:20260622:3e68db66af3f</guid>
-      <source url="https://theconversation.com/longtime-exxon-ceo-lee-raymonds-legacy-of-climate-denial-and-misinformation-lives-on-a-psychologist-offers-ways-to-counter-it-285667">The Conversation</source>
-      <dc:creator>The Conversation</dc:creator>
-      <description>&lt;p&gt;エクソン元CEOレイモンドが残した気候否定論と偽情報の遺産は今も続く。心理学者が対抗策を示す。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 気候偽情報の歴史的影響と科学的対抗策。社会的関心高い&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; The Conversation / 2026-06-22 12:34:33&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★☆☆ (3/5)&lt;/p&gt;</description>
-      <pubDate>Mon, 22 Jun 2026 12:34:33 GMT</pubDate>
-      <category>重要度3</category>
-      <category>disinformation</category>
-    </item>
-    <item>
-      <title>[★3] (06/22 18:21) 高齢者の多数、オンライン医療情報で偽情報の識別に自信なし</title>
-      <link>https://kaztaira.github.io/research-feed/go/834528a8c188.html</link>
-      <guid isPermaLink="false">urn:research:20260622:834528a8c188</guid>
-      <source url="https://www.wemu.org/wemu-news/2026-06-22/majority-of-older-adults-seeking-online-medical-advice-report-little-confidence-in-spotting-misinformation">WEMU</source>
-      <dc:creator>WEMU</dc:creator>
-      <description>&lt;p&gt;オンラインで医療助言を求める高齢者の大半が、偽情報を見抜く自信を持たないと報告。健康リスクに直結。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 高齢者の医療偽情報脆弱性。健康と市民リテラシーに関連&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; WEMU / 2026-06-22 09:21:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★☆☆ (3/5)&lt;/p&gt;</description>
-      <pubDate>Mon, 22 Jun 2026 09:21:00 GMT</pubDate>
-      <category>重要度3</category>
-      <category>disinformation</category>
-    </item>
-    <item>
-      <title>[★3] (06/22 20:01) ロンドン気候行動週間、気候偽情報への反撃で開幕</title>
-      <link>https://kaztaira.github.io/research-feed/go/f2bfe265acb2.html</link>
-      <guid isPermaLink="false">urn:research:20260622:f2bfe265acb2</guid>
-      <source url="https://www.smartcitiesworld.net/climate-action/lcaw-opens-with-fightback-against-climate-disinformation-12944">Smart Cities World</source>
-      <dc:creator>Smart Cities World</dc:creator>
-      <description>&lt;p&gt;ロンドン気候行動週間(LCAW)が、気候偽情報への反撃をテーマに開幕。各種団体が連携を強化。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 気候偽情報対策の国際的取組み。メディア環境に影響&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Smart Cities World / 2026-06-22 11:01:49&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★☆☆ (3/5)&lt;/p&gt;</description>
-      <pubDate>Mon, 22 Jun 2026 11:01:49 GMT</pubDate>
-      <category>重要度3</category>
-      <category>disinformation</category>
-    </item>
-    <item>
-      <title>[★3] (06/22 23:06) 市民テックによる偽情報削減の商業イノベーション機会</title>
-      <link>https://kaztaira.github.io/research-feed/go/cad2059248b9.html</link>
-      <guid isPermaLink="false">urn:research:20260622:cad2059248b9</guid>
-      <source url="https://www.wired-gov.net/wg/news.nsf/articles/Commercial+Innovation+Opportunities+for+Civic+Tech+to+Reduce+Misinformation+Thinking+outside+the+bunk+22062026150500?open">Wired-Gov</source>
-      <dc:creator>Wired-Gov</dc:creator>
-      <description>&lt;p&gt;市民テックが偽情報削減の新たな商業イノベーション機会を提供する可能性を提示するレポート。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; テクノロジー業界による偽情報対策イノベーションの動向&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Wired-Gov / 2026-06-22 14:06:17&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★☆☆ (3/5)&lt;/p&gt;</description>
-      <pubDate>Mon, 22 Jun 2026 14:06:17 GMT</pubDate>
-      <category>重要度3</category>
-      <category>disinformation</category>
-    </item>
-    <item>
-      <title>[★3] (06/22 16:30) TikTokで日焼け止め偽情報が高エンゲージメント獲得</title>
-      <link>https://kaztaira.github.io/research-feed/go/15cc8f291b11.html</link>
-      <guid isPermaLink="false">urn:research:20260622:15cc8f291b11</guid>
-      <source url="https://www.thepharmacist.co.uk/clinical/dangerous-sunscreen-misinformation-attracts-more-tiktok-engagement/">The Pharmacist News</source>
-      <dc:creator>The Pharmacist News</dc:creator>
-      <description>&lt;p&gt;TikTokで「危険な」日焼け止め偽情報が、正確な情報よりも多くのエンゲージメントを集めているとの研究。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; SNSアルゴリズムが健康偽情報を増幅する構造的問題&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; The Pharmacist News / 2026-06-22 07:30:58&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★☆☆ (3/5)&lt;/p&gt;</description>
-      <pubDate>Mon, 22 Jun 2026 07:30:58 GMT</pubDate>
-      <category>重要度3</category>
-      <category>disinformation</category>
-    </item>
-    <item>
-      <title>[★3] (06/22 07:17) TikTokで日焼け止め偽情報が拡散、研究者が警告</title>
-      <link>https://kaztaira.github.io/research-feed/go/6e5ecdcf60cb.html</link>
-      <guid isPermaLink="false">urn:research:20260621:6e5ecdcf60cb</guid>
-      <source url="https://torontosun.com/health/sunscreen-misinformation-spreading-on-tiktok-researchers">Toronto Sun</source>
-      <dc:creator>Toronto Sun</dc:creator>
-      <description>&lt;p&gt;研究者がTikTokで広がる日焼け止めに関する偽情報を警告。皮膚がんリスクへの影響を懸念。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; SNS上の健康偽情報拡散に関する研究報告&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Toronto Sun / 2026-06-21 22:17:30&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★☆☆ (3/5)&lt;/p&gt;</description>
-      <pubDate>Sun, 21 Jun 2026 22:17:30 GMT</pubDate>
-      <category>重要度3</category>
-      <category>disinformation</category>
-    </item>
-    <item>
-      <title>[★3] (06/20 22:18) エボラ危機が悪化、保健当局は偽情報と闘う</title>
-      <link>https://kaztaira.github.io/research-feed/go/e4d4c2813d86.html</link>
-      <guid isPermaLink="false">urn:research:20260620:e4d4c2813d86</guid>
-      <source url="https://www.yahoo.com/news/videos/ebola-crisis-worsens-health-officials-131849998.html">Yahoo</source>
-      <dc:creator>Yahoo</dc:creator>
-      <description>&lt;p&gt;エボラ流行が深刻化する中、保健当局は感染症対策と並行して偽情報拡散と闘っていると報告。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 公衆衛生危機下の偽情報問題。国際保健への影響&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Yahoo / 2026-06-20 13:18:49&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★☆☆ (3/5)&lt;/p&gt;</description>
-      <pubDate>Sat, 20 Jun 2026 13:18:49 GMT</pubDate>
-      <category>重要度3</category>
-      <category>disinformation</category>
-    </item>
-    <item>
-      <title>[★3] (06/22 21:55) ナタリー・バー氏を標的に外国の偽情報の波</title>
-      <link>https://kaztaira.github.io/research-feed/go/75e9a4514d26.html</link>
-      <guid isPermaLink="false">urn:research:20260622:75e9a4514d26</guid>
-      <source url="https://www.thenewdaily.com.au/social-media/2026/06/22/natalie-barr-fake-posts">Google News - Disinformation</source>
-      <dc:creator>Google News - Disinformation</dc:creator>
-      <description>&lt;p&gt;豪州ジャーナリスト、ナタリー・バー氏を標的にした外国発の偽情報投稿が大量拡散。SNSプラットフォームでの情報汚染が深刻化。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; メディア従事者への偽情報攻撃の事例&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Google News - Disinformation / 2026-06-22 12:55:45&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★☆☆ (3/5)&lt;/p&gt;</description>
-      <pubDate>Mon, 22 Jun 2026 12:55:45 GMT</pubDate>
-      <category>重要度3</category>
-      <category>disinformation</category>
-      <category>platform accountability</category>
-    </item>
-    <item>
-      <title>[★3] (06/22 16:21) 「組織的偽情報キャンペーン」、デリー高裁がCJIロンドン訪問の偽投稿削除命令</title>
-      <link>https://kaztaira.github.io/research-feed/go/270e3e5f97f1.html</link>
-      <guid isPermaLink="false">urn:research:20260622:270e3e5f97f1</guid>
-      <source url="https://lawbeat.in/news-updates/systematic-misinformation-campaign-delhi-hc-orders-takedown-of-fake-posts-on-cjis-alleged-london-visit-1604590">Google News - Disinformation</source>
-      <dc:creator>Google News - Disinformation</dc:creator>
-      <description>&lt;p&gt;インドのデリー高裁が、最高裁長官のロンドン訪問に関する偽投稿を「組織的偽情報キャンペーン」と認定し、削除命令を出した。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 司法による偽情報対応の国際的事例&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Google News - Disinformation / 2026-06-22 07:21:34&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★☆☆ (3/5)&lt;/p&gt;</description>
-      <pubDate>Mon, 22 Jun 2026 07:21:34 GMT</pubDate>
-      <category>重要度3</category>
-      <category>disinformation</category>
     </item>
   </channel>
 </rss>
