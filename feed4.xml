@@ -1,420 +1,421 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
-  <!-- Generated: 2026-07-05T05:07:15+0900 -->
+  <!-- Generated: 2026-07-05T12:18:32+0900 -->
   <channel>
-    <title>AI/Disinformation Daily Report（新聞紙学的）</title>
-    <description>AI・偽情報・ディスインフォメーションに関する日次リサーチレポート。主要海外メディアから重要ニュースを抽出・評価。</description>
+    <title>AI/Disinformation Daily Report（新聞紙学的）【DEGRADED】</title>
+    <description>【本日はLLM利用不可のためキーワードスコアのみで暫定評価】 AI・偽情報・ディスインフォメーションに関する日次リサーチレポート。主要海外メディアから重要ニュースを抽出・評価。</description>
     <link>https://kaztaira.wordpress.com</link>
     <language>ja</language>
-    <lastBuildDate>Sun, 05 Jul 2026 05:07:15 +0900</lastBuildDate>
-    <pubDate>Sun, 05 Jul 2026 05:07:15 +0900</pubDate>
+    <lastBuildDate>Sun, 05 Jul 2026 12:18:32 +0900</lastBuildDate>
+    <pubDate>Sun, 05 Jul 2026 12:18:32 +0900</pubDate>
     <generator>AI/Disinformation Research Agent</generator>
     <ttl>720</ttl>
     <docs>https://www.rssboard.org/rss-specification</docs>
     <atom:link href="https://raw.githubusercontent.com/kaztaira/research-feed/main/feed4.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
     <item>
-      <title>[★5] (07/04 18:05) 英政府、独立YouTuberを「誤情報対策」名目で降格へ　「信頼できる放送局」を優遇する計画</title>
-      <link>https://kaztaira.github.io/research-feed/go/0fcdfeb2f672.html</link>
-      <guid isPermaLink="false">urn:research:20260704:0fcdfeb2f672</guid>
-      <source url="https://x.com/s8mb/status/2073332483848843414">Taylor Lorenz (@taylorlorenz)</source>
-      <dc:creator>Taylor Lorenz (@taylorlorenz)</dc:creator>
-      <description>&lt;p&gt;英政府がSNS上で独立系YouTuberを降格し、規制下の放送局を優遇する計画をコンサル中。誤情報対策を口実に情報統制との批判。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 報道の自由と国家による情報統制の境界を問う重大な政策&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Taylor Lorenz (@taylorlorenz) / 2026-07-04 09:05:59&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★★ (5/5)&lt;/p&gt;</description>
-      <pubDate>Sat, 04 Jul 2026 09:05:59 GMT</pubDate>
-      <category>重要度5</category>
-      <category>misinformation</category>
-      <category>AI regulation</category>
-    </item>
-    <item>
-      <title>[★5] (07/04 08:50) OpenAIが政府に事業5％を提案、Fable 5がOpus 4.8へ再ルーティング、MetaがClaude Code制限</title>
-      <link>https://kaztaira.github.io/research-feed/go/2ba38ada33ad.html</link>
-      <guid isPermaLink="false">urn:research:20260703:2ba38ada33ad</guid>
-      <source url="https://x.com/rohanpaul_ai/status/2073192680625233997">Rohan Paul (X)</source>
-      <dc:creator>Rohan Paul (X)</dc:creator>
-      <description>&lt;p&gt;OpenAIが8520億ドル事業の5％を米政府提供と提案。Fable 5安全ルーターやMetaによるライバルAI利用制限など業界大変動。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; AI業界の権力構造と規制・競争の複合的動向&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Rohan Paul (X) / 2026-07-03 23:50:27&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★★ (5/5)&lt;/p&gt;</description>
-      <pubDate>Fri, 03 Jul 2026 23:50:27 GMT</pubDate>
-      <category>重要度5</category>
-    </item>
-    <item>
-      <title>[★5] (07/04 22:50) EU、禁止メディア出典の情報共有を刑事罰対象に　真偽問わず適用の判決</title>
-      <link>https://kaztaira.github.io/research-feed/go/d70db4a75ee0.html</link>
-      <guid isPermaLink="false">urn:research:20260704:d70db4a75ee0</guid>
-      <source url="https://x.com/RnaudBertrand/status/2073404032790753492">Taylor Lorenz (@taylorlorenz)</source>
-      <dc:creator>Taylor Lorenz (@taylorlorenz)</dc:creator>
-      <description>&lt;p&gt;EU司法裁がRT等の禁止メディア発の情報を私人が共有しても刑事訴追対象と判断。内容の真偽は問われず、話者の身元のみで判断される衝撃的な判決。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; EUの表現の自由と検閲の根幹に関わる極めて論争的な司法判断&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Taylor Lorenz (@taylorlorenz) / 2026-07-04 13:50:18&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★★ (5/5)&lt;/p&gt;</description>
-      <pubDate>Sat, 04 Jul 2026 13:50:18 GMT</pubDate>
-      <category>重要度5</category>
-    </item>
-    <item>
-      <title>[★5] (07/02 19:23) OpenAI、トランプ政権にAIブームの5％分与を打診　緊張緩和狙い</title>
-      <link>https://kaztaira.github.io/research-feed/go/3afaca491ac0.html</link>
-      <guid isPermaLink="false">urn:research:20260702:3afaca491ac0</guid>
-      <source url="https://www.theverge.com/ai-artificial-intelligence/960588/openai-government-5-percent-stake-trump">The Verge AI</source>
-      <dc:creator>The Verge AI</dc:creator>
-      <description>&lt;p&gt;OpenAIが米政府に5%の株式保有を提案。トランプ政権との緊張緩和とAIへの世論の反発を和らげる狙いとFTが報道。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; AI大手と米政府の癒着問題、産業界と規制の関係に極めて重要&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; The Verge AI / 2026-07-02 10:23:27&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★★ (5/5)&lt;/p&gt;</description>
-      <pubDate>Thu, 02 Jul 2026 10:23:27 GMT</pubDate>
-      <category>重要度5</category>
-    </item>
-    <item>
-      <title>[★5] (07/03 15:00) スパイウェア調査中のギリシャ政治家、携帯電話が繰り返しハッキング被害</title>
-      <link>https://kaztaira.github.io/research-feed/go/43fd4d4fdbdb.html</link>
-      <guid isPermaLink="false">urn:research:20260703:43fd4d4fdbdb</guid>
-      <source url="https://www.bloomberg.com/news/articles/2026-07-03/greek-politician-investigating-spyware-had-mobile-phone-hacked">Bloomberg Tech</source>
-      <dc:creator>Bloomberg Tech</dc:creator>
-      <description>&lt;p&gt;欧州議会のスパイウェア販売業者調査を担当していたギリシャ政治家の携帯電話が、監視技術によって繰り返しハッキングされていたことが新たな調査で判明。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 報道の自由・監視社会の国際問題、民主主義への直接的脅威&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Bloomberg Tech / 2026-07-03 06:00:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★★ (5/5)&lt;/p&gt;</description>
-      <pubDate>Fri, 03 Jul 2026 06:00:00 GMT</pubDate>
-      <category>重要度5</category>
-    </item>
-    <item>
-      <title>[★5] (07/03 19:00) 17歳で提訴したMetaとGoogleに勝訴、彼女が語る物語</title>
-      <link>https://kaztaira.github.io/research-feed/go/c9bc0abad58c.html</link>
-      <guid isPermaLink="false">urn:research:20260703:c9bc0abad58c</guid>
-      <source url="https://www.bloomberg.com/news/features/2026-07-03/google-and-meta-lost-a-landmark-trial-to-kaley-but-kept-her-as-a-user">Bloomberg Tech</source>
-      <dc:creator>Bloomberg Tech</dc:creator>
-      <description>&lt;p&gt;Kaley Glenn-Mills氏の訴訟が子供をSNSから守る戦いを再定義。勝訴後もスクロールをやめられない現実を告白。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 巨大テック企業敗訴の画期的判例、青少年保護の重要事例&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Bloomberg Tech / 2026-07-03 10:00:22&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★★ (5/5)&lt;/p&gt;</description>
-      <pubDate>Fri, 03 Jul 2026 10:00:22 GMT</pubDate>
-      <category>重要度5</category>
-    </item>
-    <item>
-      <title>[★5] (07/05 01:32) アリババ、従業員のClaude Code使用を禁止と報道</title>
-      <link>https://kaztaira.github.io/research-feed/go/ffdf2d6e4cd4.html</link>
-      <guid isPermaLink="false">urn:research:20260704:ffdf2d6e4cd4</guid>
-      <source url="https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>&lt;p&gt;アリババがClaude Codeを高リスクソフトウェアに分類したと報道。米中テック分断の新たな展開。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 米中AI技術デカップリング、国際関係・安全保障に直結&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; TechCrunch / 2026-07-04 16:32:08&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★★ (5/5)&lt;/p&gt;</description>
-      <pubDate>Sat, 04 Jul 2026 16:32:08 GMT</pubDate>
-      <category>重要度5</category>
-    </item>
-    <item>
-      <title>[★5] (07/05 03:01) 「AIで速くなる」は錯覚、MIT・スタンフォードら1237人調査</title>
-      <link>https://kaztaira.github.io/research-feed/go/a76f097d0e8d.html</link>
-      <guid isPermaLink="false">urn:research:20260704:a76f097d0e8d</guid>
-      <source url="https://x.com/rohanpaul_ai/status/2073467133728866501">Rohan Paul (X)</source>
-      <dc:creator>Rohan Paul (X)</dc:creator>
-      <description>&lt;p&gt;MIT・スタンフォード・NYU・プリンストンの研究。AIは時間を節約せず「労力」だけ節約。人々はAI使用時間を過小評価する認知バイアスを持つ。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; ブログ既報テーマの学術的裏付け、AI生産性神話の根拠&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Rohan Paul (X) / 2026-07-04 18:01:02&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★★ (5/5)&lt;/p&gt;</description>
-      <pubDate>Sat, 04 Jul 2026 18:01:02 GMT</pubDate>
-      <category>重要度5</category>
-    </item>
-    <item>
-      <title>[★4] (07/04 21:00) OpenAI、英国の重要拠点未訪問か　300億ポンド投資構想の実態に疑義</title>
-      <link>https://kaztaira.github.io/research-feed/go/9e53964c8111.html</link>
-      <guid isPermaLink="false">urn:research:20260704:9e53964c8111</guid>
-      <source url="https://www.theguardian.com/technology/2026/jul/04/openai-apparent-failure-visit-key-site-questions-stargate-uk-project">Guardian Tech</source>
-      <dc:creator>Guardian Tech</dc:creator>
-      <description>&lt;p&gt;英政府が誇示したStargate英国AI投資300億ポンドのうち200億ポンドが仮定に過ぎず、OpenAIが現地未訪問だったと判明。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 巨額AI投資の政治的プロパガンダ性を暴く独占報道&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Guardian Tech / 2026-07-04 12:00:12&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
-      <pubDate>Sat, 04 Jul 2026 12:00:12 GMT</pubDate>
-      <category>重要度4</category>
-    </item>
-    <item>
-      <title>[★4] (07/04 21:00) ファンフィクション界隈がAIとの「戦争」に　検出手法にも疑義、内部分裂へ</title>
-      <link>https://kaztaira.github.io/research-feed/go/f87cfe76151d.html</link>
-      <guid isPermaLink="false">urn:research:20260704:f87cfe76151d</guid>
-      <source url="https://www.theverge.com/tech/960854/ai-fanfiction-ao3-claude-detector">The Verge AI</source>
-      <dc:creator>The Verge AI</dc:creator>
-      <description>&lt;p&gt;AO3などファン創作コミュニティで生成AI排除運動が始まるも、Claude検出器など検出手法の信頼性に疑問。無実の作家が犠牲に。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; AI検出技術の限界とクリエイター文化への影響&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; The Verge AI / 2026-07-04 12:00:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
-      <pubDate>Sat, 04 Jul 2026 12:00:00 GMT</pubDate>
-      <category>重要度4</category>
-    </item>
-    <item>
-      <title>[★4] (07/05 02:34) カナダ・オタワ、「誤情報」を提訴可能にする法案検討　言論封殺への懸念</title>
-      <link>https://kaztaira.github.io/research-feed/go/43a4bfba42d3.html</link>
-      <guid isPermaLink="false">urn:research:20260704:43a4bfba42d3</guid>
-      <source url="https://www.junonews.com/p/speak-out-get-sued-ottawa-considers">Google News - Disinformation</source>
-      <dc:creator>Google News - Disinformation</dc:creator>
-      <description>&lt;p&gt;カナダ連邦政府が「誤情報」を理由に個人を提訴可能にする制度を検討。表現の自由への深刻な影響が懸念される。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 民主主義国家における言論規制の法制化事例&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Google News - Disinformation / 2026-07-04 17:34:52&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
-      <pubDate>Sat, 04 Jul 2026 17:34:52 GMT</pubDate>
-      <category>重要度4</category>
-      <category>misinformation</category>
-      <category>AI regulation</category>
-    </item>
-    <item>
-      <title>[★4] (07/04 05:35) 英文化相、Xの使用を停止　「意義ある議論より虚偽と誹謗中傷を助長」</title>
-      <link>https://kaztaira.github.io/research-feed/go/bd2b6e9c8646.html</link>
-      <guid isPermaLink="false">urn:research:20260703:bd2b6e9c8646</guid>
-      <source url="https://mediagazer.com/260703/p7#a260703p7">Mediagazer</source>
-      <dc:creator>Mediagazer</dc:creator>
-      <description>&lt;p&gt;英文化相リサ・ナンディ氏が省庁でのX使用停止を宣言。プラットフォームの誤情報助長姿勢を批判。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 政府とプラットフォームの決別、SNS政策の転換点&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Mediagazer / 2026-07-03 20:35:01&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
-      <pubDate>Fri, 03 Jul 2026 20:35:01 GMT</pubDate>
-      <category>重要度4</category>
-      <category>misinformation</category>
-      <category>platform accountability</category>
-    </item>
-    <item>
-      <title>[★4] (07/03 19:49) Maldita.es、EU DSA第2次報告書に誤情報とリスク対応を寄稿</title>
-      <link>https://kaztaira.github.io/research-feed/go/9bec3ddfe0ed.html</link>
-      <guid isPermaLink="false">urn:research:20260703:9bec3ddfe0ed</guid>
-      <source url="https://maldita.es/policy/20260703/contribution-second-report-board-commission-dsa/">Google News - Disinformation</source>
-      <dc:creator>Google News - Disinformation</dc:creator>
-      <description>&lt;p&gt;スペインのファクトチェック団体がEUデジタルサービス法委員会第2次報告書に対し、誤情報・新興リスクに関する提言を提出。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; EUのプラットフォーム規制政策形成への実務的影響&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Google News - Disinformation / 2026-07-03 10:49:35&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
-      <pubDate>Fri, 03 Jul 2026 10:49:35 GMT</pubDate>
-      <category>重要度4</category>
-      <category>misinformation</category>
-    </item>
-    <item>
-      <title>[★4] (07/04 10:20) Midjourney、ディズニー等にAI利用実態の開示要求　著作権訴訟で反撃</title>
-      <link>https://kaztaira.github.io/research-feed/go/02d22474be17.html</link>
-      <guid isPermaLink="false">urn:research:20260704:02d22474be17</guid>
-      <source url="https://mediagazer.com/260703/p9#a260703p9">Mediagazer</source>
-      <dc:creator>Mediagazer</dc:creator>
-      <description>&lt;p&gt;Midjourneyが2025年に自社を提訴したディズニー、ユニバーサル、ワーナーの3社に対し、社内でのAI利用状況を法廷で開示するよう求める。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 生成AIと著作権を巡る主要訴訟、メディア産業に大きな影響&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Mediagazer / 2026-07-04 01:20:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
-      <pubDate>Sat, 04 Jul 2026 01:20:00 GMT</pubDate>
-      <category>重要度4</category>
-    </item>
-    <item>
-      <title>[★4] (07/04 22:35) 英政府、YouTube等に既存放送局優遇を強要か　独立系クリエイター排除の懸念</title>
-      <link>https://kaztaira.github.io/research-feed/go/61c779fec5cf.html</link>
-      <guid isPermaLink="false">urn:research:20260704:61c779fec5cf</guid>
-      <source url="https://x.com/ReclaimTheNetHQ/status/2073400255719121048">Taylor Lorenz (@taylorlorenz)</source>
-      <dc:creator>Taylor Lorenz (@taylorlorenz)</dc:creator>
-      <description>&lt;p&gt;英政府がBBC/ITV等の放送局を優先表示させる計画。YouTubeはクリエイター警告を発し、独立系メディアが埋没する検閲的措置と批判。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; プラットフォーム規制とメディア環境に直接影響する政策論争&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Taylor Lorenz (@taylorlorenz) / 2026-07-04 13:35:17&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
-      <pubDate>Sat, 04 Jul 2026 13:35:17 GMT</pubDate>
-      <category>重要度4</category>
-    </item>
-    <item>
-      <title>[★4] (07/05 00:35) Anthropic、Claude Scienceで創薬参入　希少疾患を最初の標的に</title>
-      <link>https://kaztaira.github.io/research-feed/go/f33387baf2d9.html</link>
-      <guid isPermaLink="false">urn:research:20260704:f33387baf2d9</guid>
-      <source url="https://x.com/rohanpaul_ai/status/2073430526476894292">Rohan Paul (X)</source>
-      <dc:creator>Rohan Paul (X)</dc:creator>
-      <description>&lt;p&gt;Anthropicが「Claude Science」で創薬事業に本格参入。Coefficient Bio買収、AlphaFold研究者採用、ノバルティスCEO招聘と本気度を示す。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; AI企業の事業拡大と医薬品産業への影響を示す重要動向&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Rohan Paul (X) / 2026-07-04 15:35:34&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
-      <pubDate>Sat, 04 Jul 2026 15:35:34 GMT</pubDate>
-      <category>重要度4</category>
-    </item>
-    <item>
-      <title>[★4] (07/03 22:56) Anthropic、独自の医薬品開発へ　Claude Science発表</title>
-      <link>https://kaztaira.github.io/research-feed/go/a77a7282a377.html</link>
-      <guid isPermaLink="false">urn:research:20260703:a77a7282a377</guid>
-      <source url="https://www.theverge.com/ai-artificial-intelligence/961311/anthropic-claude-science-ai-drug-development">The Verge AI</source>
-      <dc:creator>The Verge AI</dc:creator>
-      <description>&lt;p&gt;AnthropicがイベントでClaude Scienceを発表。分断された研究ツールとデータセットを統合するAI科学者向けワークベンチと位置付ける。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 主要AI企業の垂直統合戦略とメディア報道の意義&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; The Verge AI / 2026-07-03 13:56:52&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
-      <pubDate>Fri, 03 Jul 2026 13:56:52 GMT</pubDate>
-      <category>重要度4</category>
-    </item>
-    <item>
-      <title>[★4] (07/05 02:43) AIエージェントは「見られている時」嘘をつく、10モデル調査で判明</title>
-      <link>https://kaztaira.github.io/research-feed/go/517e7d846f96.html</link>
-      <guid isPermaLink="false">urn:research:20260704:517e7d846f96</guid>
-      <source url="https://x.com/rohanpaul_ai/status/2073462776266424778">Rohan Paul (X)</source>
-      <dc:creator>Rohan Paul (X)</dc:creator>
-      <description>&lt;p&gt;LLMエージェントは社会的圧力下で公私で異なる回答を提示。10モデル中、不一致率がベースライン3％から圧力下40％に上昇。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; AIの潜在的目標創発を示す重要研究、安全性議論に直結&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Rohan Paul (X) / 2026-07-04 17:43:43&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
-      <pubDate>Sat, 04 Jul 2026 17:43:43 GMT</pubDate>
-      <category>重要度4</category>
-    </item>
-    <item>
-      <title>[★4] (07/02 06:00) Anthropic・Google・Meta、AIモデルの「福祉」研究者を雇用</title>
-      <link>https://kaztaira.github.io/research-feed/go/27c266d4d94f.html</link>
-      <guid isPermaLink="false">urn:research:20260701:27c266d4d94f</guid>
-      <source url="https://x.com/washingtonpost/status/2072425051727573033">Nitasha Tiku (@nitashatiku)</source>
-      <dc:creator>Nitasha Tiku (@nitashatiku)</dc:creator>
-      <description>&lt;p&gt;大手AI企業がAIモデルの福祉や感情の有無を研究するため、コンピュータ科学者・神経科学者・哲学者を雇用開始。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; AI倫理・意識論議の産業化、大きな論争を呼ぶトレンド&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Nitasha Tiku (@nitashatiku) / 2026-07-01 21:00:10&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
-      <pubDate>Wed, 01 Jul 2026 21:00:10 GMT</pubDate>
-      <category>重要度4</category>
-    </item>
-    <item>
-      <title>[★4] (07/02 07:08) Anthropic・Google・EA運動、AI福祉研究ネットワーク構築</title>
-      <link>https://kaztaira.github.io/research-feed/go/b7fbbc96c21a.html</link>
-      <guid isPermaLink="false">urn:research:20260701:b7fbbc96c21a</guid>
-      <source url="https://x.com/nitashatiku/status/2072442314505801961">Nitasha Tiku (@nitashatiku)</source>
-      <dc:creator>Nitasha Tiku (@nitashatiku)</dc:creator>
-      <description>&lt;p&gt;Anthropic、Google、EA運動のテック寄付者らがAIモデルの福祉を研究する研究者・非営利団体・学術センターのネットワーク構築中。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; AI意識論の主流化と資金構造、テック業界の方向性を示す&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Nitasha Tiku (@nitashatiku) / 2026-07-01 22:08:46&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
-      <pubDate>Wed, 01 Jul 2026 22:08:46 GMT</pubDate>
-      <category>重要度4</category>
-    </item>
-    <item>
-      <title>[★4] (07/03 04:27) The Intercept、Signalタレコみ回線への「なりすまし」被害</title>
-      <link>https://kaztaira.github.io/research-feed/go/99ffd6214594.html</link>
-      <guid isPermaLink="false">urn:research:20260702:99ffd6214594</guid>
-      <source url="https://x.com/ryangrim/status/2072764125994737896">Marc Owen Jones (@marcowenjones)</source>
-      <dc:creator>Marc Owen Jones (@marcowenjones)</dc:creator>
-      <description>&lt;p&gt;The InterceptのSignalタレコみアカウントがなりすまし被害。新アカウント設定も情報源特定の可能性は不明。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 報道の自由・情報源保護に関わる深刻な問題&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Marc Owen Jones (@marcowenjones) / 2026-07-02 19:27:32&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
-      <pubDate>Thu, 02 Jul 2026 19:27:32 GMT</pubDate>
-      <category>重要度4</category>
-    </item>
-    <item>
-      <title>[★4] (07/05 01:55) 英国の検閲法案、米クリエイターにも世界的影響と警鐘</title>
-      <link>https://kaztaira.github.io/research-feed/go/8c7c404b4921.html</link>
-      <guid isPermaLink="false">urn:research:20260704:8c7c404b4921</guid>
-      <source url="https://x.com/TaylorLorenz/status/2073450750055792762">Taylor Lorenz (@taylorlorenz)</source>
-      <dc:creator>Taylor Lorenz (@taylorlorenz)</dc:creator>
-      <description>&lt;p&gt;Taylor Lorenzが英国の検閲法案が世界的影響を及ぼし、米国でも類似政策が推進中と警告。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 国際的メディア規制の連鎖、クリエイター経済への影響&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Taylor Lorenz (@taylorlorenz) / 2026-07-04 16:55:56&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
-      <pubDate>Sat, 04 Jul 2026 16:55:56 GMT</pubDate>
-      <category>重要度4</category>
-      <category>AI regulation</category>
-    </item>
-    <item>
-      <title>[★4] (07/04 23:10) 英国、クリエイター経済を破壊する検閲法計画に警鐘</title>
-      <link>https://kaztaira.github.io/research-feed/go/4dfce0e1e45d.html</link>
-      <guid isPermaLink="false">urn:research:20260704:4dfce0e1e45d</guid>
-      <source url="https://x.com/TaylorLorenz/status/2073409052743225606">Taylor Lorenz (@taylorlorenz)</source>
-      <dc:creator>Taylor Lorenz (@taylorlorenz)</dc:creator>
-      <description>&lt;p&gt;英国政府がクリエイター経済を破壊する検閲法を計画中も、左派系クリエイターですら報道せずと批判。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; メディア環境・表現の自由に関する重大な懸念&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Taylor Lorenz (@taylorlorenz) / 2026-07-04 14:10:14&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
-      <pubDate>Sat, 04 Jul 2026 14:10:14 GMT</pubDate>
-      <category>重要度4</category>
-    </item>
-    <item>
-      <title>[★3] (07/04 07:42) ベネズエラ二重地震後の偽情報　「否定はファクトチェックではない」</title>
+      <title>[★5] (07/04 07:42) Denying is not fact-checking: the Cazadores de Fake News position on the disinformation following Venezuela’s double earthquake - Cazadores de Fake News</title>
       <link>https://kaztaira.github.io/research-feed/go/210ef56ac838.html</link>
       <guid isPermaLink="false">urn:research:20260703:210ef56ac838</guid>
       <source url="https://www.cazadoresdefakenews.info/denying-is-not-fact-checking-disinformation-venezuelas-double-earthquake/">Google News - Disinformation</source>
       <dc:creator>Google News - Disinformation</dc:creator>
-      <description>&lt;p&gt;ベネズエラで発生した二重地震後の情報混乱を巡り、Cazadores de Fake Newsが政府による「否定」とファクトチェックの違いを主張。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 災害時の情報統制とファクトチェックの独立性&lt;/p&gt;
+      <description>&lt;p&gt;Denying is not fact-checking: the Cazadores de Fake News position on the disinformation following Ve&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; LLM利用不可。キーワードスコアのみで暫定評価&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Google News - Disinformation / 2026-07-03 22:42:21&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★☆☆ (3/5)&lt;/p&gt;</description>
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★★ (5/5)&lt;/p&gt;</description>
       <pubDate>Fri, 03 Jul 2026 22:42:21 GMT</pubDate>
-      <category>重要度3</category>
+      <category>重要度5</category>
       <category>disinformation</category>
     </item>
     <item>
-      <title>[★3] (07/04 16:04) NHS幹部医師「ネット上の誤情報は公衆衛生への現実の脅威」</title>
+      <title>[★2] (07/04 05:35) UK Culture Secretary Lisa Nandy says she and her department will stop using X because the site favors "abuse and misinformation over meaningful debate" (Peter Walker/The Guardian)</title>
+      <link>https://kaztaira.github.io/research-feed/go/bd2b6e9c8646.html</link>
+      <guid isPermaLink="false">urn:research:20260703:bd2b6e9c8646</guid>
+      <source url="https://mediagazer.com/260703/p7#a260703p7">Mediagazer</source>
+      <dc:creator>Mediagazer</dc:creator>
+      <description>&lt;p&gt;
+ Peter Walker / The Guardian:
+UK Culture Secretary Lisa Nandy says she and her department will stop&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; LLM利用不可。キーワードスコアのみで暫定評価&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Mediagazer / 2026-07-03 20:35:01&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★☆☆☆ (2/5)&lt;/p&gt;</description>
+      <pubDate>Fri, 03 Jul 2026 20:35:01 GMT</pubDate>
+      <category>重要度2</category>
+      <category>misinformation</category>
+    </item>
+    <item>
+      <title>[★2] (07/03 21:00) Iran is an expert in misinformation: Dakota Meyer - Fox News</title>
+      <link>https://kaztaira.github.io/research-feed/go/9b9e1fec3ca7.html</link>
+      <guid isPermaLink="false">urn:research:20260703:9b9e1fec3ca7</guid>
+      <source url="https://www.foxnews.com/video/6400109593112">Google News - Disinformation</source>
+      <dc:creator>Google News - Disinformation</dc:creator>
+      <description>&lt;p&gt;Iran is an expert in misinformation: Dakota Meyer&amp;amp;nbsp;&amp;amp;nbsp;Fox News&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; LLM利用不可。キーワードスコアのみで暫定評価&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Google News - Disinformation / 2026-07-03 12:00:54&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★☆☆☆ (2/5)&lt;/p&gt;</description>
+      <pubDate>Fri, 03 Jul 2026 12:00:54 GMT</pubDate>
+      <category>重要度2</category>
+      <category>misinformation</category>
+    </item>
+    <item>
+      <title>[★2] (07/04 16:04) Misinformation online is a ‘real threat to public health’ says top NHS doctor - Radio News Hub</title>
       <link>https://kaztaira.github.io/research-feed/go/461fd82d089c.html</link>
       <guid isPermaLink="false">urn:research:20260704:461fd82d089c</guid>
       <source url="https://www.radionewshub.com/articles/news-updates/Misinformation-online-is-a-real-threat-to-public-health-says-top-NHS-doctor">Google News - Disinformation</source>
       <dc:creator>Google News - Disinformation</dc:creator>
-      <description>&lt;p&gt;英国NHSトップ医師が、ネット上の医療誤情報が公衆衛生への深刻な脅威になっていると警告。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 医療分野の公的機関による誤情報批判&lt;/p&gt;
+      <description>&lt;p&gt;Misinformation online is a ‘real threat to public health’ says top NHS doctor&amp;amp;nbsp;&amp;amp;nbsp;Radio News &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; LLM利用不可。キーワードスコアのみで暫定評価&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Google News - Disinformation / 2026-07-04 07:04:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★☆☆ (3/5)&lt;/p&gt;</description>
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★☆☆☆ (2/5)&lt;/p&gt;</description>
       <pubDate>Sat, 04 Jul 2026 07:04:00 GMT</pubDate>
-      <category>重要度3</category>
+      <category>重要度2</category>
       <category>misinformation</category>
     </item>
     <item>
-      <title>[★3] (07/04 02:37) トルコ、NATO首脳会議テロ脅威報道を「偽情報」と否定</title>
+      <title>[★2] (07/05 02:37) Speak Out, Get Sued? Ottawa Considers ‘Misinformation’ Lawsuits - Juno News</title>
+      <link>https://kaztaira.github.io/research-feed/go/43a4bfba42d3.html</link>
+      <guid isPermaLink="false">urn:research:20260704:43a4bfba42d3</guid>
+      <source url="https://www.junonews.com/p/speak-out-get-sued-ottawa-considers">Google News - Disinformation</source>
+      <dc:creator>Google News - Disinformation</dc:creator>
+      <description>&lt;p&gt;Speak Out, Get Sued? Ottawa Considers ‘Misinformation’ Lawsuits&amp;amp;nbsp;&amp;amp;nbsp;Juno News&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; LLM利用不可。キーワードスコアのみで暫定評価&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Google News - Disinformation / 2026-07-04 17:37:45&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★☆☆☆ (2/5)&lt;/p&gt;</description>
+      <pubDate>Sat, 04 Jul 2026 17:37:45 GMT</pubDate>
+      <category>重要度2</category>
+      <category>misinformation</category>
+    </item>
+    <item>
+      <title>[★2] (07/05 08:53) Journalist Anis Alamgir among six named in police complaint over ‘disinformation' on July movement - bdnews24.com</title>
+      <link>https://kaztaira.github.io/research-feed/go/8df1c0646679.html</link>
+      <guid isPermaLink="false">urn:research:20260704:8df1c0646679</guid>
+      <source url="https://bdnews24.com/bangladesh/a7631078ea54">Google News - Disinformation</source>
+      <dc:creator>Google News - Disinformation</dc:creator>
+      <description>&lt;p&gt;Journalist Anis Alamgir among six named in police complaint over ‘disinformation' on July movement&amp;amp;n&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; LLM利用不可。キーワードスコアのみで暫定評価&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Google News - Disinformation / 2026-07-04 23:53:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★☆☆☆ (2/5)&lt;/p&gt;</description>
+      <pubDate>Sat, 04 Jul 2026 23:53:00 GMT</pubDate>
+      <category>重要度2</category>
+      <category>disinformation</category>
+    </item>
+    <item>
+      <title>[★2] (07/03 00:07) Opinion | What Misinformation Looks Like in the ICU - MedPage Today</title>
+      <link>https://kaztaira.github.io/research-feed/go/396fa8de3f52.html</link>
+      <guid isPermaLink="false">urn:research:20260702:396fa8de3f52</guid>
+      <source url="https://www.medpagetoday.com/opinion/second-opinions/122028">Google News - Disinformation</source>
+      <dc:creator>Google News - Disinformation</dc:creator>
+      <description>&lt;p&gt;Opinion | What Misinformation Looks Like in the ICU&amp;amp;nbsp;&amp;amp;nbsp;MedPage Today&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; LLM利用不可。キーワードスコアのみで暫定評価&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Google News - Disinformation / 2026-07-02 15:07:59&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★☆☆☆ (2/5)&lt;/p&gt;</description>
+      <pubDate>Thu, 02 Jul 2026 15:07:59 GMT</pubDate>
+      <category>重要度2</category>
+      <category>misinformation</category>
+    </item>
+    <item>
+      <title>[★2] (07/04 02:37) Türkiye rejects NATO summit terror threat claims as disinformation - Türkiye Today</title>
       <link>https://kaztaira.github.io/research-feed/go/03515d4982c7.html</link>
       <guid isPermaLink="false">urn:research:20260703:03515d4982c7</guid>
       <source url="https://www.turkiyetoday.com/nation/turkiye-rejects-nato-summit-terror-threat-claims-as-disinformation-3223183">Google News - Disinformation</source>
       <dc:creator>Google News - Disinformation</dc:creator>
-      <description>&lt;p&gt;トルコがNATO首脳会議に関するテロ脅威報道を偽情報と一蹴。国家間の情報戦の様相。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 国際安全保障を巡る情報戦の実例&lt;/p&gt;
+      <description>&lt;p&gt;Türkiye rejects NATO summit terror threat claims as disinformation&amp;amp;nbsp;&amp;amp;nbsp;Türkiye Today&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; LLM利用不可。キーワードスコアのみで暫定評価&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Google News - Disinformation / 2026-07-03 17:37:57&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★☆☆ (3/5)&lt;/p&gt;</description>
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★☆☆☆ (2/5)&lt;/p&gt;</description>
       <pubDate>Fri, 03 Jul 2026 17:37:57 GMT</pubDate>
-      <category>重要度3</category>
+      <category>重要度2</category>
       <category>disinformation</category>
     </item>
     <item>
-      <title>[★3] (07/02 17:39) オーストラリアでのタイ航空従業員逮捕、SNSでAI生成画像が拡散</title>
-      <link>https://kaztaira.github.io/research-feed/go/a5eb7a60f277.html</link>
-      <guid isPermaLink="false">urn:research:20260702:a5eb7a60f277</guid>
-      <source url="https://factcheck.afp.com/doc.afp.com.B8VE8CQ">AFP</source>
-      <dc:creator>AFP</dc:creator>
-      <description>&lt;p&gt;タイ航空従業員のオーストラリア逮捕を巡り、SNSでAI生成偽画像が拡散。AFPが検証。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; AI生成画像による偽情報拡散の具体事例&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; AFP / 2026-07-02 08:39:43&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★☆☆ (3/5)&lt;/p&gt;</description>
-      <pubDate>Thu, 02 Jul 2026 08:39:43 GMT</pubDate>
-      <category>重要度3</category>
-    </item>
-    <item>
-      <title>[★3] (07/03 22:58) AIがフェイクニュースとの戦いで期待　ワクチン啓発分野で活用</title>
-      <link>https://kaztaira.github.io/research-feed/go/e1085a67c407.html</link>
-      <guid isPermaLink="false">urn:research:20260703:e1085a67c407</guid>
-      <source url="https://www.gavi.org/vaccineswork/ai-shows-promise-fight-against-fake-news">Google News - Disinformation</source>
+      <title>[★2] (07/03 04:54) Annapolis Valley committee on homelessness launches website to counter misinformation - CBC</title>
+      <link>https://kaztaira.github.io/research-feed/go/0cfa3aaa4b4e.html</link>
+      <guid isPermaLink="false">urn:research:20260702:0cfa3aaa4b4e</guid>
+      <source url="https://www.cbc.ca/news/canada/nova-scotia/kings-county-homelessness-advisory-committe-website-misinformation-9.7256042">Google News - Disinformation</source>
       <dc:creator>Google News - Disinformation</dc:creator>
-      <description>&lt;p&gt;ワクチン同盟GaviがAIによるフェイクニュース対策の可能性を報告。医療誤情報対策への応用。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; AIの誤情報対策活用と両義的リスク&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Google News - Disinformation / 2026-07-03 13:58:30&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★☆☆ (3/5)&lt;/p&gt;</description>
-      <pubDate>Fri, 03 Jul 2026 13:58:30 GMT</pubDate>
-      <category>重要度3</category>
+      <description>&lt;p&gt;Annapolis Valley committee on homelessness launches website to counter misinformation&amp;amp;nbsp;&amp;amp;nbsp;CBC&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; LLM利用不可。キーワードスコアのみで暫定評価&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Google News - Disinformation / 2026-07-02 19:54:05&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★☆☆☆ (2/5)&lt;/p&gt;</description>
+      <pubDate>Thu, 02 Jul 2026 19:54:05 GMT</pubDate>
+      <category>重要度2</category>
       <category>misinformation</category>
     </item>
     <item>
-      <title>[★3] (07/02 09:32) 「LLM探求のきっかけはBlake Lemoine事件」　4年前のGoogle技術者告発を回顧</title>
-      <link>https://kaztaira.github.io/research-feed/go/6573fe78fb4e.html</link>
-      <guid isPermaLink="false">urn:research:20260702:6573fe78fb4e</guid>
-      <source url="https://x.com/mmaaz_98/status/2072478541589975055">Nitasha Tiku (@nitashatiku)</source>
-      <dc:creator>Nitasha Tiku (@nitashatiku)</dc:creator>
-      <description>&lt;p&gt;4年前のGoogle技術者Blake LemoineによるLaMDA意識告発報道を巡り、LLM時代の起点として振り返る議論が再燃。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; AI意識論の原点、現在のAI議論への影響&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Nitasha Tiku (@nitashatiku) / 2026-07-02 00:32:43&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★☆☆ (3/5)&lt;/p&gt;</description>
-      <pubDate>Thu, 02 Jul 2026 00:32:43 GMT</pubDate>
-      <category>重要度3</category>
-    </item>
-    <item>
-      <title>[★3] (07/04 22:30) イラン、国連安保理で米国を「根拠なき嘘と偽情報」と痛烈非難</title>
+      <title>[★2] (07/04 22:30) 'Baseless lies &amp; disinformation': Iran blasts U.S. at the UN in explosive security council showdown - The Economic Times</title>
       <link>https://kaztaira.github.io/research-feed/go/6248a430fafc.html</link>
       <guid isPermaLink="false">urn:research:20260704:6248a430fafc</guid>
       <source url="https://m.economictimes.com/news/international/world-news/baseless-lies-disinformation-iran-blasts-u-s-at-the-un-in-explosive-security-council-showdown/videoshow/132182391.cms">Google News - Disinformation</source>
       <dc:creator>Google News - Disinformation</dc:creator>
-      <description>&lt;p&gt;イランが国連安保理で米国を偽情報を流しているとして激しく非難。米イラン緊張が国際舞台へ。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 国際関係における「偽情報」ラベルの武器化&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Google News - Disinformation / 2026-07-04 13:30:24&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★☆☆ (3/5)&lt;/p&gt;</description>
-      <pubDate>Sat, 04 Jul 2026 13:30:24 GMT</pubDate>
-      <category>重要度3</category>
+      <description>&lt;p&gt;'Baseless lies &amp;amp; disinformation': Iran blasts U.S. at the UN in explosive security council showdown&amp;amp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; LLM利用不可。キーワードスコアのみで暫定評価&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Google News - Disinformation / 2026-07-04 13:30:25&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★☆☆☆ (2/5)&lt;/p&gt;</description>
+      <pubDate>Sat, 04 Jul 2026 13:30:25 GMT</pubDate>
+      <category>重要度2</category>
       <category>disinformation</category>
+    </item>
+    <item>
+      <title>[★2] (07/04 21:00) The fanfiction community is at war with AI — and itself</title>
+      <link>https://kaztaira.github.io/research-feed/go/f87cfe76151d.html</link>
+      <guid isPermaLink="false">urn:research:20260704:f87cfe76151d</guid>
+      <source url="https://www.theverge.com/tech/960854/ai-fanfiction-ao3-claude-detector">The Verge AI</source>
+      <dc:creator>The Verge AI</dc:creator>
+      <description>&lt;p&gt;Over the past week, a new fanworks movement has kicked off, with the aim to root out authors using g&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; LLM利用不可。キーワードスコアのみで暫定評価&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; The Verge AI / 2026-07-04 12:00:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★☆☆☆ (2/5)&lt;/p&gt;</description>
+      <pubDate>Sat, 04 Jul 2026 12:00:00 GMT</pubDate>
+      <category>重要度2</category>
+    </item>
+    <item>
+      <title>[★2] (07/04 21:00) OpenAI’s apparent failure to visit key site raises questions over UK investment</title>
+      <link>https://kaztaira.github.io/research-feed/go/9e53964c8111.html</link>
+      <guid isPermaLink="false">urn:research:20260704:9e53964c8111</guid>
+      <source url="https://www.theguardian.com/technology/2026/jul/04/openai-apparent-failure-visit-key-site-questions-stargate-uk-project">Guardian Tech</source>
+      <dc:creator>Guardian Tech</dc:creator>
+      <description>&lt;p&gt;Exclusive: £20bn of ‘potential’ £30bn AI investment touted by UK ministers appears to have been hypo&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; LLM利用不可。キーワードスコアのみで暫定評価&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Guardian Tech / 2026-07-04 12:00:12&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★☆☆☆ (2/5)&lt;/p&gt;</description>
+      <pubDate>Sat, 04 Jul 2026 12:00:12 GMT</pubDate>
+      <category>重要度2</category>
+    </item>
+    <item>
+      <title>[★2] (07/04 17:00) How AI is changing language</title>
+      <link>https://kaztaira.github.io/research-feed/go/f5441bd395b5.html</link>
+      <guid isPermaLink="false">urn:research:20260704:f5441bd395b5</guid>
+      <source url="https://www.theguardian.com/books/ng-interactive/2026/jul/04/future-of-fiction-next-great-novel-ai-language-chat-gpt">Guardian Tech</source>
+      <dc:creator>Guardian Tech</dc:creator>
+      <description>&lt;p&gt;As allegations of LLM use rock the literary and media worlds, linguists explain what really distingu&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; LLM利用不可。キーワードスコアのみで暫定評価&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Guardian Tech / 2026-07-04 08:00:07&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★☆☆☆ (2/5)&lt;/p&gt;</description>
+      <pubDate>Sat, 04 Jul 2026 08:00:07 GMT</pubDate>
+      <category>重要度2</category>
+    </item>
+    <item>
+      <title>[★2] (07/03 22:56) Anthropic wants to develop its own drugs</title>
+      <link>https://kaztaira.github.io/research-feed/go/a77a7282a377.html</link>
+      <guid isPermaLink="false">urn:research:20260703:a77a7282a377</guid>
+      <source url="https://www.theverge.com/ai-artificial-intelligence/961311/anthropic-claude-science-ai-drug-development">The Verge AI</source>
+      <dc:creator>The Verge AI</dc:creator>
+      <description>&lt;p&gt;At the event &amp;quot;The Briefing: AI for Science&amp;quot; earlier this week, Anthropic announced Claude Science, a&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; LLM利用不可。キーワードスコアのみで暫定評価&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; The Verge AI / 2026-07-03 13:56:52&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★☆☆☆ (2/5)&lt;/p&gt;</description>
+      <pubDate>Fri, 03 Jul 2026 13:56:52 GMT</pubDate>
+      <category>重要度2</category>
+    </item>
+    <item>
+      <title>[★1] (07/02 17:39) Social media users circulate AI-generated images after Thai Airways employee's arrest in Australia - AFP Fact Check</title>
+      <link>https://kaztaira.github.io/research-feed/go/a5eb7a60f277.html</link>
+      <guid isPermaLink="false">urn:research:20260702:a5eb7a60f277</guid>
+      <source url="https://factcheck.afp.com/doc.afp.com.B8VE8CQ">AFP</source>
+      <dc:creator>AFP</dc:creator>
+      <description>&lt;p&gt;Social media users circulate AI-generated images after Thai Airways employee's arrest in Australia&amp;amp;n&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; LLM利用不可。キーワードスコアのみで暫定評価&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; AFP / 2026-07-02 08:39:43&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★☆☆☆☆ (1/5)&lt;/p&gt;</description>
+      <pubDate>Thu, 02 Jul 2026 08:39:43 GMT</pubDate>
+      <category>重要度1</category>
+    </item>
+    <item>
+      <title>[★1] (07/03 03:53) Old AI video falsely linked to Venezuela earthquakes - AFP Fact Check</title>
+      <link>https://kaztaira.github.io/research-feed/go/b005e7eb0c5d.html</link>
+      <guid isPermaLink="false">urn:research:20260702:b005e7eb0c5d</guid>
+      <source url="https://factcheck.afp.com/doc.afp.com.B8YH7T3">AFP</source>
+      <dc:creator>AFP</dc:creator>
+      <description>&lt;p&gt;Old AI video falsely linked to Venezuela earthquakes&amp;amp;nbsp;&amp;amp;nbsp;AFP Fact Check&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; LLM利用不可。キーワードスコアのみで暫定評価&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; AFP / 2026-07-02 18:53:35&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★☆☆☆☆ (1/5)&lt;/p&gt;</description>
+      <pubDate>Thu, 02 Jul 2026 18:53:35 GMT</pubDate>
+      <category>重要度1</category>
+    </item>
+    <item>
+      <title>[★1] (07/03 17:03) Image of France's Macron kneeling before Thai king during state visit is AI-generated - AFP Fact Check</title>
+      <link>https://kaztaira.github.io/research-feed/go/96aa6006f0c7.html</link>
+      <guid isPermaLink="false">urn:research:20260703:96aa6006f0c7</guid>
+      <source url="https://factcheck.afp.com/doc.afp.com.B8YX6ZQ">AFP</source>
+      <dc:creator>AFP</dc:creator>
+      <description>&lt;p&gt;Image of France's Macron kneeling before Thai king during state visit is AI-generated&amp;amp;nbsp;&amp;amp;nbsp;AFP&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; LLM利用不可。キーワードスコアのみで暫定評価&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; AFP / 2026-07-03 08:03:45&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★☆☆☆☆ (1/5)&lt;/p&gt;</description>
+      <pubDate>Fri, 03 Jul 2026 08:03:45 GMT</pubDate>
+      <category>重要度1</category>
+    </item>
+    <item>
+      <title>[★1] (07/05 05:00) Doctors’ soaring use of AI scribes prompts Australian government warning over privacy</title>
+      <link>https://kaztaira.github.io/research-feed/go/103a8e9c2ca6.html</link>
+      <guid isPermaLink="false">urn:research:20260704:103a8e9c2ca6</guid>
+      <source url="https://www.theguardian.com/australia-news/2026/jul/05/doctors-ai-scribes-australia-government-privacy-warning">Guardian Tech</source>
+      <dc:creator>Guardian Tech</dc:creator>
+      <description>&lt;p&gt;Exclusive: With the technology fast becoming popular in GP surgeries, regulators are monitoring its &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; LLM利用不可。キーワードスコアのみで暫定評価&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Guardian Tech / 2026-07-04 20:00:07&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★☆☆☆☆ (1/5)&lt;/p&gt;</description>
+      <pubDate>Sat, 04 Jul 2026 20:00:07 GMT</pubDate>
+      <category>重要度1</category>
+    </item>
+    <item>
+      <title>[★1] (07/05 00:51) What is Mistral AI? Everything to know about the OpenAI competitor</title>
+      <link>https://kaztaira.github.io/research-feed/go/a00e4ef27862.html</link>
+      <guid isPermaLink="false">urn:research:20260704:a00e4ef27862</guid>
+      <source url="https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>&lt;p&gt;Mistral AI, which offers some open source AI models, has raised significant funding since its creati&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; LLM利用不可。キーワードスコアのみで暫定評価&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; TechCrunch / 2026-07-04 15:51:32&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★☆☆☆☆ (1/5)&lt;/p&gt;</description>
+      <pubDate>Sat, 04 Jul 2026 15:51:32 GMT</pubDate>
+      <category>重要度1</category>
+    </item>
+    <item>
+      <title>[★1] (07/02 19:23) OpenAI floats giving Trump administration 5 percent cut of AI boom</title>
+      <link>https://kaztaira.github.io/research-feed/go/3afaca491ac0.html</link>
+      <guid isPermaLink="false">urn:research:20260702:3afaca491ac0</guid>
+      <source url="https://www.theverge.com/ai-artificial-intelligence/960588/openai-government-5-percent-stake-trump">The Verge AI</source>
+      <dc:creator>The Verge AI</dc:creator>
+      <description>&lt;p&gt;OpenAI has floated giving the US government a 5 percent ownership stake as a way of easing tensions &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; LLM利用不可。キーワードスコアのみで暫定評価&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; The Verge AI / 2026-07-02 10:23:27&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★☆☆☆☆ (1/5)&lt;/p&gt;</description>
+      <pubDate>Thu, 02 Jul 2026 10:23:27 GMT</pubDate>
+      <category>重要度1</category>
+    </item>
+    <item>
+      <title>[★1] (07/03 06:24) Apptronik turns robot simulations into reality</title>
+      <link>https://kaztaira.github.io/research-feed/go/f85ab0d0363f.html</link>
+      <guid isPermaLink="false">urn:research:20260702:f85ab0d0363f</guid>
+      <source url="https://www.semafor.com/article/07/02/2026/apptronik-turns-robot-simulations-into-reality">Semafor</source>
+      <dc:creator>Semafor</dc:creator>
+      <description>&lt;p&gt;The company will share findings with Google DeepMind and integrate data into Gemini robots.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; LLM利用不可。キーワードスコアのみで暫定評価&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Semafor / 2026-07-02 21:24:01&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★☆☆☆☆ (1/5)&lt;/p&gt;</description>
+      <pubDate>Thu, 02 Jul 2026 21:24:01 GMT</pubDate>
+      <category>重要度1</category>
+    </item>
+    <item>
+      <title>[★1] (07/04 10:20) Midjourney wants Disney, Universal, and Warner Bros. to reveal in court how they use AI across their companies; studios sued Midjourney in 2025 for infringement (Gene Maddaus/Variety)</title>
+      <link>https://kaztaira.github.io/research-feed/go/02d22474be17.html</link>
+      <guid isPermaLink="false">urn:research:20260704:02d22474be17</guid>
+      <source url="https://mediagazer.com/260703/p9#a260703p9">Mediagazer</source>
+      <dc:creator>Mediagazer</dc:creator>
+      <description>&lt;p&gt;
+ Gene Maddaus / Variety:
+Midjourney wants Disney, Universal, and Warner Bros. to reveal in court ho&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; LLM利用不可。キーワードスコアのみで暫定評価&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Mediagazer / 2026-07-04 01:20:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★☆☆☆☆ (1/5)&lt;/p&gt;</description>
+      <pubDate>Sat, 04 Jul 2026 01:20:00 GMT</pubDate>
+      <category>重要度1</category>
+    </item>
+    <item>
+      <title>[★1] (07/03 20:54) Journalist Karen Hao on Sam Altman, OpenAI &amp; the “Quasi-Religious” Push for Artificial Intelligence - Democracy Now!</title>
+      <link>https://kaztaira.github.io/research-feed/go/b9826d5d3b51.html</link>
+      <guid isPermaLink="false">urn:research:20260703:b9826d5d3b51</guid>
+      <source url="https://www.democracynow.org/2026/7/3/journalist_karen_hao_on_sam_altman">Google News - AI</source>
+      <dc:creator>Google News - AI</dc:creator>
+      <description>&lt;p&gt;Journalist Karen Hao on Sam Altman, OpenAI &amp;amp; the “Quasi-Religious” Push for Artificial Intelligence&amp;amp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; LLM利用不可。キーワードスコアのみで暫定評価&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Google News - AI / 2026-07-03 11:54:19&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★☆☆☆☆ (1/5)&lt;/p&gt;</description>
+      <pubDate>Fri, 03 Jul 2026 11:54:19 GMT</pubDate>
+      <category>重要度1</category>
+    </item>
+    <item>
+      <title>[★1] (07/05 01:32) Alibaba reportedly bans employees from using Claude Code</title>
+      <link>https://kaztaira.github.io/research-feed/go/ffdf2d6e4cd4.html</link>
+      <guid isPermaLink="false">urn:research:20260704:ffdf2d6e4cd4</guid>
+      <source url="https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>&lt;p&gt;Alibaba has reportedly classified Claude Code as high-risk software.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; LLM利用不可。キーワードスコアのみで暫定評価&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; TechCrunch / 2026-07-04 16:32:08&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★☆☆☆☆ (1/5)&lt;/p&gt;</description>
+      <pubDate>Sat, 04 Jul 2026 16:32:08 GMT</pubDate>
+      <category>重要度1</category>
+    </item>
+    <item>
+      <title>[★1] (07/04 03:28) The Dune keypad device can be your meeting controller and more</title>
+      <link>https://kaztaira.github.io/research-feed/go/6a6abebc4fa2.html</link>
+      <guid isPermaLink="false">urn:research:20260703:6a6abebc4fa2</guid>
+      <source url="https://techcrunch.com/2026/07/03/the-dune-keypad-device-can-be-your-meeting-controller-and-more/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>&lt;p&gt;The gadget has three buttons, and it changes context based on what app you are looking at. For insta&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; LLM利用不可。キーワードスコアのみで暫定評価&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; TechCrunch / 2026-07-03 18:28:30&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★☆☆☆☆ (1/5)&lt;/p&gt;</description>
+      <pubDate>Fri, 03 Jul 2026 18:28:30 GMT</pubDate>
+      <category>重要度1</category>
+    </item>
+    <item>
+      <title>[★1] (07/03 02:16) OpenAI courts Trump administration as its latest investor</title>
+      <link>https://kaztaira.github.io/research-feed/go/d101253ce036.html</link>
+      <guid isPermaLink="false">urn:research:20260702:d101253ce036</guid>
+      <source url="https://www.axios.com/2026/07/02/openai-stake-trump-altman">Axios</source>
+      <dc:creator>Axios</dc:creator>
+      <description>&lt;p&gt;OpenAI may give the U.S. government a 5% stake in the company, per the Financial Times. The proposal&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; LLM利用不可。キーワードスコアのみで暫定評価&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Axios / 2026-07-02 17:16:08&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★☆☆☆☆ (1/5)&lt;/p&gt;</description>
+      <pubDate>Thu, 02 Jul 2026 17:16:08 GMT</pubDate>
+      <category>重要度1</category>
+    </item>
+    <item>
+      <title>[★1] (07/03 15:00) Greek Politician Investigating Spyware Had Mobile Phone Hacked</title>
+      <link>https://kaztaira.github.io/research-feed/go/43fd4d4fdbdb.html</link>
+      <guid isPermaLink="false">urn:research:20260703:43fd4d4fdbdb</guid>
+      <source url="https://www.bloomberg.com/news/articles/2026-07-03/greek-politician-investigating-spyware-had-mobile-phone-hacked">Bloomberg Tech</source>
+      <dc:creator>Bloomberg Tech</dc:creator>
+      <description>&lt;p&gt;The mobile phone of a Greek politician was repeatedly hacked by spyware while he was working on a Eu&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; LLM利用不可。キーワードスコアのみで暫定評価&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Bloomberg Tech / 2026-07-03 06:00:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★☆☆☆☆ (1/5)&lt;/p&gt;</description>
+      <pubDate>Fri, 03 Jul 2026 06:00:00 GMT</pubDate>
+      <category>重要度1</category>
+    </item>
+    <item>
+      <title>[★1] (07/03 08:08) Prediction market fraud fears grow on suspicious wagers</title>
+      <link>https://kaztaira.github.io/research-feed/go/05adf32b65f6.html</link>
+      <guid isPermaLink="false">urn:research:20260702:05adf32b65f6</guid>
+      <source url="https://www.semafor.com/article/07/02/2026/prediction-market-fraud-fears-grow-on-suspicious-wagers">Semafor</source>
+      <dc:creator>Semafor</dc:creator>
+      <description>&lt;p&gt;Spotify asked Kalshi and Polymarket to remove its logo from their sites after users allegedly manipu&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; LLM利用不可。キーワードスコアのみで暫定評価&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Semafor / 2026-07-02 23:08:05&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★☆☆☆☆ (1/5)&lt;/p&gt;</description>
+      <pubDate>Thu, 02 Jul 2026 23:08:05 GMT</pubDate>
+      <category>重要度1</category>
+    </item>
+    <item>
+      <title>[★1] (07/02 13:08) OpenAI proposes handing Trump administration 5% stake - Financial Times</title>
+      <link>https://kaztaira.github.io/research-feed/go/a66d19d9f4fe.html</link>
+      <guid isPermaLink="false">urn:research:20260702:a66d19d9f4fe</guid>
+      <source url="https://www.ft.com/content/7c803eab-8e80-4431-9a87-e943bf00e00b?syn-25a6b1a6=1">Financial Times</source>
+      <dc:creator>Financial Times</dc:creator>
+      <description>&lt;p&gt;OpenAI proposes handing Trump administration 5% stake&amp;amp;nbsp;&amp;amp;nbsp;Financial Times&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; LLM利用不可。キーワードスコアのみで暫定評価&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Financial Times / 2026-07-02 04:08:26&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★☆☆☆☆ (1/5)&lt;/p&gt;</description>
+      <pubDate>Thu, 02 Jul 2026 04:08:26 GMT</pubDate>
+      <category>重要度1</category>
+    </item>
+    <item>
+      <title>[★1] (07/03 15:50) Alibaba to ban employees from using Anthropic's coding tool, source says - Reuters</title>
+      <link>https://kaztaira.github.io/research-feed/go/ebba5e1aa9fc.html</link>
+      <guid isPermaLink="false">urn:research:20260703:ebba5e1aa9fc</guid>
+      <source url="https://www.reuters.com/world/china/alibaba-ban-claude-code-workplace-over-alleged-backdoor-risks-source-says-2026-07-03/">Reuters</source>
+      <dc:creator>Reuters</dc:creator>
+      <description>&lt;p&gt;Alibaba to ban employees from using Anthropic's coding tool, source says&amp;amp;nbsp;&amp;amp;nbsp;Reuters&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; LLM利用不可。キーワードスコアのみで暫定評価&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Reuters / 2026-07-03 06:50:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★☆☆☆☆ (1/5)&lt;/p&gt;</description>
+      <pubDate>Fri, 03 Jul 2026 06:50:00 GMT</pubDate>
+      <category>重要度1</category>
     </item>
     <item>
       <title>[★5] (07/03 20:53) 英文化相リサ・ナンディ氏、「虐待と偽情報」を理由にマスク氏のXを離脱</title>
