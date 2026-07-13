@@ -1,18 +1,424 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
-  <!-- Generated: 2026-07-13T05:06:51+0900 -->
+  <!-- Generated: 2026-07-14T05:07:25+0900 -->
   <channel>
     <title>AI/Disinformation Daily Report（新聞紙学的）</title>
     <description>AI・偽情報・ディスインフォメーションに関する日次リサーチレポート。主要海外メディアから重要ニュースを抽出・評価。</description>
     <link>https://kaztaira.wordpress.com</link>
     <language>ja</language>
-    <lastBuildDate>Mon, 13 Jul 2026 05:06:51 +0900</lastBuildDate>
-    <pubDate>Mon, 13 Jul 2026 05:06:51 +0900</pubDate>
+    <lastBuildDate>Tue, 14 Jul 2026 05:07:25 +0900</lastBuildDate>
+    <pubDate>Tue, 14 Jul 2026 05:07:25 +0900</pubDate>
     <generator>AI/Disinformation Research Agent</generator>
     <ttl>720</ttl>
     <docs>https://www.rssboard.org/rss-specification</docs>
     <atom:link href="https://raw.githubusercontent.com/kaztaira/research-feed/main/feed4.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
+    <item>
+      <title>[★5] (07/13 23:50) EU・英国、サイバー犯罪と偽情報キャンペーンでロシアに制裁</title>
+      <link>https://kaztaira.github.io/research-feed/go/76f7de622f6d.html</link>
+      <guid isPermaLink="false">urn:research:20260713:76f7de622f6d</guid>
+      <source url="https://www.upi.com/Top_News/World-News/2026/07/13/eu-britain-sanction-russia-cyber-attacks/1841783953590/">UPI</source>
+      <dc:creator>UPI</dc:creator>
+      <description>&lt;p&gt;EUと英国がサイバー攻撃と偽情報キャンペーンを理由にロシアへの制裁を発動。国際的な情報戦への対抗策として注目される。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 国際関係と安全保障、偽情報対策が交差する重要事案&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; UPI / 2026-07-13 14:50:32&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★★ (5/5)&lt;/p&gt;</description>
+      <pubDate>Mon, 13 Jul 2026 14:50:32 GMT</pubDate>
+      <category>重要度5</category>
+      <category>disinformation</category>
+    </item>
+    <item>
+      <title>[★5] (07/13 19:22) 日本、選挙偽情報対策法案を成立</title>
+      <link>https://kaztaira.github.io/research-feed/go/2d6a7b56c60e.html</link>
+      <guid isPermaLink="false">urn:research:20260713:2d6a7b56c60e</guid>
+      <source url="https://www.nippon.com/en/news/yjj2026071300559/">nippon.com</source>
+      <dc:creator>nippon.com</dc:creator>
+      <description>&lt;p&gt;日本が選挙時の偽情報に対抗する法案を可決。民主主義とメディア環境を守るための立法として国内外で注目される。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 日本の民主主義と選挙制度に直接影響する立法措置&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; nippon.com / 2026-07-13 10:22:19&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★★ (5/5)&lt;/p&gt;</description>
+      <pubDate>Mon, 13 Jul 2026 10:22:19 GMT</pubDate>
+      <category>重要度5</category>
+      <category>disinformation</category>
+      <category>AI regulation</category>
+    </item>
+    <item>
+      <title>[★5] (07/13 19:00) AI生成女性がTikTokでシンガポールに関する偽情報を拡散</title>
+      <link>https://kaztaira.github.io/research-feed/go/d1cda285a420.html</link>
+      <guid isPermaLink="false">urn:research:20260713:d1cda285a420</guid>
+      <source url="https://www.channelnewsasia.com/singapore/tiktok-ai-women-disinformation-deepfake-presenters-6250271">CNA</source>
+      <dc:creator>CNA</dc:creator>
+      <description>&lt;p&gt;AIで生成された女性キャスターがTikTok上でシンガポールに関する偽情報を拡散。ディープフェイクによる新たな情報操作手法。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; AI・SNS・偽情報が結びつく新たな脅威で市民社会に影響&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; CNA / 2026-07-13 10:00:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★★ (5/5)&lt;/p&gt;</description>
+      <pubDate>Mon, 13 Jul 2026 10:00:00 GMT</pubDate>
+      <category>重要度5</category>
+      <category>disinformation</category>
+      <category>deepfake</category>
+    </item>
+    <item>
+      <title>[★5] (07/13 20:00) 米政府、中国が米AIモデルで学習することを阻止へ　「敵対的蒸留」巡る論争</title>
+      <link>https://kaztaira.github.io/research-feed/go/15411bedf28e.html</link>
+      <guid isPermaLink="false">urn:research:20260713:15411bedf28e</guid>
+      <source url="https://www.bloomberg.com/news/articles/2026-07-13/anthropic-openai-warnings-prompt-distillation-debate-in-dc">Bloomberg Tech</source>
+      <dc:creator>Bloomberg Tech</dc:creator>
+      <description>&lt;p&gt;AnthropicとOpenAIが警告する「敵対的蒸留」を巡り、シリコンバレーで長年の論争が再燃。米政府は中国の学習利用阻止を検討。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 国際関係・AI安全保障・技術覇権に直結する重要議論&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Bloomberg Tech / 2026-07-13 11:00:21&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★★ (5/5)&lt;/p&gt;</description>
+      <pubDate>Mon, 13 Jul 2026 11:00:21 GMT</pubDate>
+      <category>重要度5</category>
+    </item>
+    <item>
+      <title>[★5] (07/13 23:56) EU、全市民に本人認証アプリの使用義務化をフォン・デア・ライエン氏が確認</title>
+      <link>https://kaztaira.github.io/research-feed/go/2c32d63ef5e4.html</link>
+      <guid isPermaLink="false">urn:research:20260713:2c32d63ef5e4</guid>
+      <source url="https://x.com/TaylorLorenz/status/2076682258124272011">Taylor Lorenz (@taylorlorenz)</source>
+      <dc:creator>Taylor Lorenz (@taylorlorenz)</dc:creator>
+      <description>&lt;p&gt;EUのフォン・デア・ライエン委員長が、サービス利用にEU公式アプリでの本人認証を義務化することを確認。デジタル主権論争を呼ぶ。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 市民社会・プライバシー・監視社会論争に直結&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Taylor Lorenz (@taylorlorenz) / 2026-07-13 14:56:47&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★★ (5/5)&lt;/p&gt;</description>
+      <pubDate>Mon, 13 Jul 2026 14:56:47 GMT</pubDate>
+      <category>重要度5</category>
+    </item>
+    <item>
+      <title>[★5] (07/13 23:13) LAPD、市民権・プライバシー懸念で監視大手Flockとの契約打ち切り</title>
+      <link>https://kaztaira.github.io/research-feed/go/4b510c0ce267.html</link>
+      <guid isPermaLink="false">urn:research:20260713:4b510c0ce267</guid>
+      <source url="https://techcrunch.com/2026/07/13/lapd-lets-contract-with-surveillance-giant-flock-expire-citing-serious-concerns-over-civil-liberties-and-privacy/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>&lt;p&gt;Flockの最大顧客の一つであるロサンゼルス市警が、市民権への「深刻な懸念」を理由に契約を終了。監視技術批判の象徴的事例。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 警察AI監視と市民自由の衝突、政策転換の可能性&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; TechCrunch / 2026-07-13 14:13:38&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★★ (5/5)&lt;/p&gt;</description>
+      <pubDate>Mon, 13 Jul 2026 14:13:38 GMT</pubDate>
+      <category>重要度5</category>
+    </item>
+    <item>
+      <title>[★5] (07/14 03:22) アップル、OpenAIを企業秘密窃盗で提訴　最も過激な主張の数々</title>
+      <link>https://kaztaira.github.io/research-feed/go/25a33f9e5281.html</link>
+      <guid isPermaLink="false">urn:research:20260713:25a33f9e5281</guid>
+      <source url="https://techcrunch.com/2026/07/13/the-wildest-allegations-in-apples-trade-secrets-lawsuit-against-openai/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>&lt;p&gt;アップルの企業秘密訴訟には、従業員がアップルへの不正アクセスを冗談にした事例や、求職者にアップル資料の持参を求めた等の主張が含まれる。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 巨大テック企業同士のAIハードウェア覇権争いを象徴する重大訴訟&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; TechCrunch / 2026-07-13 18:22:10&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★★ (5/5)&lt;/p&gt;</description>
+      <pubDate>Mon, 13 Jul 2026 18:22:10 GMT</pubDate>
+      <category>重要度5</category>
+    </item>
+    <item>
+      <title>[★5] (07/14 00:57) AIを社会の利益に導く行動を　200人超の専門家が提言</title>
+      <link>https://kaztaira.github.io/research-feed/go/8e0f9ea988d9.html</link>
+      <guid isPermaLink="false">urn:research:20260713:8e0f9ea988d9</guid>
+      <source url="https://www.bloomberg.com/news/articles/2026-07-13/more-than-200-experts-urge-action-to-steer-ai-for-society-s-good">Bloomberg Tech</source>
+      <dc:creator>Bloomberg Tech</dc:creator>
+      <description>&lt;p&gt;経済学者やAI研究者ら200人超が、今後10年でAIが「劇的に強力化」する可能性を指摘し、影響の研究強化を訴えた。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; AI規制・ガバナンスへの世界的専門家の警鐘、ブログの中核テーマに合致&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Bloomberg Tech / 2026-07-13 15:57:55&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★★ (5/5)&lt;/p&gt;</description>
+      <pubDate>Mon, 13 Jul 2026 15:57:55 GMT</pubDate>
+      <category>重要度5</category>
+    </item>
+    <item>
+      <title>[★5] (07/13 21:45) SFPD警察ドローン運用の映像が漏洩、市民監視の実態が露呈</title>
+      <link>https://kaztaira.github.io/research-feed/go/a1fce936bbe5.html</link>
+      <guid isPermaLink="false">urn:research:20260713:a1fce936bbe5</guid>
+      <source url="https://x.com/dmehro/status/2076649214965125478">Taylor Lorenz (@taylorlorenz)</source>
+      <dc:creator>Taylor Lorenz (@taylorlorenz)</dc:creator>
+      <description>&lt;p&gt;公開リンクによりSFPDの警察ドローン運用映像が誰でも閲覧可能に。追跡・拘束・アパート覗き見・熱映像等の実態が明らかに。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 警察のAI監視技術の重大な情報漏洩、市民社会への影響大&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Taylor Lorenz (@taylorlorenz) / 2026-07-13 12:45:29&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★★ (5/5)&lt;/p&gt;</description>
+      <pubDate>Mon, 13 Jul 2026 12:45:29 GMT</pubDate>
+      <category>重要度5</category>
+    </item>
+    <item>
+      <title>[★4] (07/13 14:19) 米韓、戦時外国偽情報対策で初の机上演習</title>
+      <link>https://kaztaira.github.io/research-feed/go/e795fc3df8a7.html</link>
+      <guid isPermaLink="false">urn:research:20260713:e795fc3df8a7</guid>
+      <source url="https://www.koreaherald.com/article/10807071">The Korea Herald</source>
+      <dc:creator>The Korea Herald</dc:creator>
+      <description>&lt;p&gt;米韓同盟が戦時の外国偽情報に対抗する初の机上演習を実施。安全保障における情報戦対策の重要性が浮き彫りに。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 同盟国による初の情報戦机上演習で安全保障に影響&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; The Korea Herald / 2026-07-13 05:19:02&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
+      <pubDate>Mon, 13 Jul 2026 05:19:02 GMT</pubDate>
+      <category>重要度4</category>
+      <category>disinformation</category>
+    </item>
+    <item>
+      <title>[★4] (07/14 01:48) EUがアルメニアで新ミッション、サイバー脅威・偽情報対策を支援</title>
+      <link>https://kaztaira.github.io/research-feed/go/5bf7aec85095.html</link>
+      <guid isPermaLink="false">urn:research:20260713:5bf7aec85095</guid>
+      <source url="https://armenpress.am/en/article/1255465">Armenpress</source>
+      <dc:creator>Armenpress</dc:creator>
+      <description>&lt;p&gt;EUがアルメニアでサイバー脅威、偽情報、不正資金対策の新ミッションを展開。地域安定化への取り組みとして注目。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; EUの偽情報対策外交と地域安定への影響&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Armenpress / 2026-07-13 16:48:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
+      <pubDate>Mon, 13 Jul 2026 16:48:00 GMT</pubDate>
+      <category>重要度4</category>
+      <category>disinformation</category>
+    </item>
+    <item>
+      <title>[★4] (07/13 13:06) X、偽情報に関与したユーザーへのダイレクトメッセージ機能を展開</title>
+      <link>https://kaztaira.github.io/research-feed/go/d35147a92d4c.html</link>
+      <guid isPermaLink="false">urn:research:20260713:d35147a92d4c</guid>
+      <source url="https://geneticliteracyproject.org/2026/07/13/x-rolls-out-direct-messages-to-users-who-interact-with-misinformation/">Genetic Literacy Project</source>
+      <dc:creator>Genetic Literacy Project</dc:creator>
+      <description>&lt;p&gt;XがSNS上で偽情報に接触したユーザーに直接メッセージを送る機能を導入。プラットフォームの対応策として注目。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; SNSプラットフォームの偽情報対策で議論を呼ぶ手法&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Genetic Literacy Project / 2026-07-13 04:06:50&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
+      <pubDate>Mon, 13 Jul 2026 04:06:50 GMT</pubDate>
+      <category>重要度4</category>
+      <category>disinformation</category>
+      <category>platform accountability</category>
+    </item>
+    <item>
+      <title>[★4] (07/13 17:00) 米韓、戦時外国偽情報対策の初の机上演習を実施</title>
+      <link>https://kaztaira.github.io/research-feed/go/2bd3e65e9be9.html</link>
+      <guid isPermaLink="false">urn:research:20260713:2bd3e65e9be9</guid>
+      <source url="https://www.islamtimes.com/en/news/1291876/us-south-korea-hold-1st-tabletop-exercise-to-counter-wartime-foreign-disinformation">Islam Times</source>
+      <dc:creator>Islam Times</dc:creator>
+      <description>&lt;p&gt;米韓が戦時の外国からの偽情報に対抗する初の机上演習を実施。同盟間の情報戦協力が本格化。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 国際的な安全保障演習として重要&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Islam Times / 2026-07-13 08:00:07&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
+      <pubDate>Mon, 13 Jul 2026 08:00:07 GMT</pubDate>
+      <category>重要度4</category>
+      <category>disinformation</category>
+    </item>
+    <item>
+      <title>[★4] (07/13 20:50) ロシアの偽情報は既存の分断を利用して効果を発揮</title>
+      <link>https://kaztaira.github.io/research-feed/go/a4708739f957.html</link>
+      <guid isPermaLink="false">urn:research:20260713:a4708739f957</guid>
+      <source url="https://neweasterneurope.eu/2026/07/13/russian-disinformation-is-effective-primarily-because-it-exploits-pre-existing-divisions-rather-than-creating-them-from-scratch/">New Eastern Europe</source>
+      <dc:creator>New Eastern Europe</dc:creator>
+      <description>&lt;p&gt;ロシアの偽情報は新たな分断を作るのではなく既存の分断を利用することで効果を発揮するとの分析記事。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 偽情報の作用メカニズム分析で情報戦研究に貢献&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; New Eastern Europe / 2026-07-13 11:50:28&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
+      <pubDate>Mon, 13 Jul 2026 11:50:28 GMT</pubDate>
+      <category>重要度4</category>
+      <category>disinformation</category>
+    </item>
+    <item>
+      <title>[★4] (07/13 21:32) Apple訴訟がOpenAIのiPhone対抗デバイス構想を阻害する恐れ</title>
+      <link>https://kaztaira.github.io/research-feed/go/7f377148ce52.html</link>
+      <guid isPermaLink="false">urn:research:20260713:7f377148ce52</guid>
+      <source url="https://www.bloomberg.com/news/articles/2026-07-13/how-apple-s-lawsuit-threatens-to-disrupt-openai-s-bid-to-rival-the-iphone">Bloomberg Tech</source>
+      <dc:creator>Bloomberg Tech</dc:creator>
+      <description>&lt;p&gt;AppleがOpenAIをIP窃取で提訴。AIデバイス市場への参入計画に影響を与える可能性が判決前から浮上。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 巨大テック企業間の知財訴訟、業界地形に影響&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Bloomberg Tech / 2026-07-13 12:32:47&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
+      <pubDate>Mon, 13 Jul 2026 12:32:47 GMT</pubDate>
+      <category>重要度4</category>
+    </item>
+    <item>
+      <title>[★4] (07/13 11:00) 中国のAI大量展開――医療アバターから食品配達ドローン、国家監視まで</title>
+      <link>https://kaztaira.github.io/research-feed/go/d01c023c8b44.html</link>
+      <guid isPermaLink="false">urn:research:20260713:d01c023c8b44</guid>
+      <source url="https://www.theguardian.com/news/audio/2026/jul/13/chinas-massive-ai-rollout-podcast">Guardian Tech</source>
+      <dc:creator>Guardian Tech</dc:creator>
+      <description>&lt;p&gt;医療アバター、配達ドローン、国家監視まで幅広く展開される中国のAI活用の実態をGuardian特派員が解説。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 中国AI戦略と監視社会化、国際関係に影響&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Guardian Tech / 2026-07-13 02:00:34&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
+      <pubDate>Mon, 13 Jul 2026 02:00:34 GMT</pubDate>
+      <category>重要度4</category>
+    </item>
+    <item>
+      <title>[★4] (07/14 03:32) 8VC創業者ロンズデール氏「中国のIP窃取避けるため特許放棄も」</title>
+      <link>https://kaztaira.github.io/research-feed/go/6b6a2ae0e6c6.html</link>
+      <guid isPermaLink="false">urn:research:20260713:6b6a2ae0e6c6</guid>
+      <source url="https://www.bloomberg.com/news/articles/2026-07-13/lonsdale-suggests-forgoing-patents-to-avoid-china-taking-ip">Bloomberg Tech</source>
+      <dc:creator>Bloomberg Tech</dc:creator>
+      <description>&lt;p&gt;8VC創業者ジョー・ロンズデール氏が、中国が米AI・生命科学スタートアップの知財を積極的に流用していると警告。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; AI・知財・米中対立の交差点、業界戦略に影響&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Bloomberg Tech / 2026-07-13 18:32:18&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
+      <pubDate>Mon, 13 Jul 2026 18:32:18 GMT</pubDate>
+      <category>重要度4</category>
+    </item>
+    <item>
+      <title>[★4] (07/13 23:48) サーベイランス技術がプライバシー・民主主義を蝕む――TED講演公開</title>
+      <link>https://kaztaira.github.io/research-feed/go/9556ca85f515.html</link>
+      <guid isPermaLink="false">urn:research:20260713:9556ca85f515</guid>
+      <source url="https://x.com/jengolbeck/status/2076680248410722609">Taylor Lorenz (@taylorlorenz)</source>
+      <dc:creator>Taylor Lorenz (@taylorlorenz)</dc:creator>
+      <description>&lt;p&gt;Jen Golbeck氏が監視技術・プライバシー・データ植民地主義・民主主義について語ったTED Democracy講演が公開。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 監視社会・データ主権・民主主義の論点提示&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Taylor Lorenz (@taylorlorenz) / 2026-07-13 14:48:48&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
+      <pubDate>Mon, 13 Jul 2026 14:48:48 GMT</pubDate>
+      <category>重要度4</category>
+    </item>
+    <item>
+      <title>[★4] (07/13 14:21) ドバイ王子なりすまし、AI恋愛詐欺の被害拡大</title>
+      <link>https://kaztaira.github.io/research-feed/go/fa4b37047204.html</link>
+      <guid isPermaLink="false">urn:research:20260713:fa4b37047204</guid>
+      <source url="https://factcheck.afp.com/doc.afp.com.B9WG8CT">AFP</source>
+      <dc:creator>AFP</dc:creator>
+      <description>&lt;p&gt;AI生成コンテンツを使いドバイ王子を装った恋愛詐欺が被害者を巻き込む。ディープフェイク詐欺の新たな事例。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; AIなりすまし・市民被害・メディア環境に関連&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; AFP / 2026-07-13 05:21:50&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
+      <pubDate>Mon, 13 Jul 2026 05:21:50 GMT</pubDate>
+      <category>重要度4</category>
+      <category>deepfake</category>
+    </item>
+    <item>
+      <title>[★4] (07/13 18:30) メタのルイジアナ・データセンター、投資額2500億ドル超に</title>
+      <link>https://kaztaira.github.io/research-feed/go/2dec3cc5cb71.html</link>
+      <guid isPermaLink="false">urn:research:20260713:2dec3cc5cb71</guid>
+      <source url="https://www.bloomberg.com/news/articles/2026-07-13/meta-s-louisiana-data-center-to-surpass-250-billion-price-tag">Bloomberg Tech</source>
+      <dc:creator>Bloomberg Tech</dc:creator>
+      <description>&lt;p&gt;メタはルイジアナのデータセンター拠点に追加400億ドルの投資を決定、投資総額は2500億ドルを超える見込み。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; AIインフラ投資の異常な巨大化、業界全体のバブル懸念に関連&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Bloomberg Tech / 2026-07-13 09:30:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
+      <pubDate>Mon, 13 Jul 2026 09:30:00 GMT</pubDate>
+      <category>重要度4</category>
+    </item>
+    <item>
+      <title>[★4] (07/13 19:13) アップル株6500億ドル反発、AI売り逃れの投資家が流入</title>
+      <link>https://kaztaira.github.io/research-feed/go/8a54fdaf6f8f.html</link>
+      <guid isPermaLink="false">urn:research:20260713:8a54fdaf6f8f</guid>
+      <source url="https://www.bloomberg.com/news/articles/2026-07-13/apple-s-600-billion-rally-fueled-by-traders-fleeing-ai-selloff">Bloomberg Tech</source>
+      <dc:creator>Bloomberg Tech</dc:creator>
+      <description>&lt;p&gt;AI関連支出への懸念でチップメーカーやクラウド大手株が下落する中、投資家がアップルに回帰している。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; AI投資バブルの転換点を示唆、市場の潮流変化&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Bloomberg Tech / 2026-07-13 10:13:17&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
+      <pubDate>Mon, 13 Jul 2026 10:13:17 GMT</pubDate>
+      <category>重要度4</category>
+    </item>
+    <item>
+      <title>[★4] (07/14 02:48) 「AIエージェントも継続学習できない」新ベンチマーク「Morpheus」で判明</title>
+      <link>https://kaztaira.github.io/research-feed/go/3b7469ef3841.html</link>
+      <guid isPermaLink="false">urn:research:20260713:3b7469ef3841</guid>
+      <source url="https://x.com/rohanpaul_ai/status/2076725492011655424">Rohan Paul (X)</source>
+      <dc:creator>Rohan Paul (X)</dc:creator>
+      <description>&lt;p&gt;新ベンチマーク「Morpheus」は、フロンティアAIが実は継続学習できず、環境変化への適応に失敗する事実を明らかにした。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; AIの本質的限界を暴く重要研究、AI能力評価の潮流に影響&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Rohan Paul (X) / 2026-07-13 17:48:35&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
+      <pubDate>Mon, 13 Jul 2026 17:48:35 GMT</pubDate>
+      <category>重要度4</category>
+    </item>
+    <item>
+      <title>[★4] (07/13 09:56) クリストファー・ノーラン「AI人間代替論はナンセンス」</title>
+      <link>https://kaztaira.github.io/research-feed/go/f447688c7a09.html</link>
+      <guid isPermaLink="false">urn:research:20260713:f447688c7a09</guid>
+      <source url="https://www.theguardian.com/film/2026/jul/13/christopher-nolan-odyssey-director-comments-ai-artificial-intelligence">Guardian Tech</source>
+      <dc:creator>Guardian Tech</dc:creator>
+      <description>&lt;p&gt;オスカー受賞監督ノーランは、業界のAI恐怖に対し「人間を置き換えるという考えはナンセンス」と発言。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 著名クリエイターのAI論、メディア環境の議論に直結&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Guardian Tech / 2026-07-13 00:56:38&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
+      <pubDate>Mon, 13 Jul 2026 00:56:38 GMT</pubDate>
+      <category>重要度4</category>
+    </item>
+    <item>
+      <title>[★4] (07/13 21:00) 若年男性の「性的脅迫」被害、全年齢層で最多　豪オンライン安全監視機関</title>
+      <link>https://kaztaira.github.io/research-feed/go/97a04939127a.html</link>
+      <guid isPermaLink="false">urn:research:20260713:97a04939127a</guid>
+      <source url="https://www.theguardian.com/technology/2026/jul/13/young-men-report-more-sextortion-than-any-other-age-group-australias-online-safety-watchdog-says-ntwnfb">Guardian Tech</source>
+      <dc:creator>Guardian Tech</dc:creator>
+      <description>&lt;p&gt;豪州のオンライン安全規制機関が、昨年半年間で2000件超の「性的脅迫（sextortion）」被害を若年男性が最多で報告と発表。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; AI画像生成技術と結びつく深刻な社会問題、市民社会への影響大&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Guardian Tech / 2026-07-13 12:00:46&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
+      <pubDate>Mon, 13 Jul 2026 12:00:46 GMT</pubDate>
+      <category>重要度4</category>
+      <category>AI regulation</category>
+    </item>
+    <item>
+      <title>[★3] (07/13 13:06) AIが動員される、ワクチン偽情報対策に――AIに関するAI活用</title>
+      <link>https://kaztaira.github.io/research-feed/go/a2ef9d67aa1a.html</link>
+      <guid isPermaLink="false">urn:research:20260713:a2ef9d67aa1a</guid>
+      <source url="https://geneticliteracyproject.org/2026/07/13/ai-being-mobilized-to-target-misinformation-about-vaccines-on-ai/">Genetic Literacy Project</source>
+      <dc:creator>Genetic Literacy Project</dc:creator>
+      <description>&lt;p&gt;ワクチン関連の偽情報対策にAIが動員される。AIが生む偽情報にAIで対抗する構図が現れる。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; AI対AIの偽情報対策構造で技術トレンドに関連&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Genetic Literacy Project / 2026-07-13 04:06:50&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★☆☆ (3/5)&lt;/p&gt;</description>
+      <pubDate>Mon, 13 Jul 2026 04:06:50 GMT</pubDate>
+      <category>重要度3</category>
+      <category>disinformation</category>
+    </item>
+    <item>
+      <title>[★3] (07/13 16:00) Qorvis、偽情報エコシステムと公共信頼への影響を検証するイニシアチブを発足</title>
+      <link>https://kaztaira.github.io/research-feed/go/400439eaf434.html</link>
+      <guid isPermaLink="false">urn:research:20260713:400439eaf434</guid>
+      <source url="https://www.prnewswire.com/news-releases/qorvis-launches-initiative-examining-the-misinformation-ecosystem-and-its-impact-on-public-trust-302823577.html">PR Newswire</source>
+      <dc:creator>PR Newswire</dc:creator>
+      <description>&lt;p&gt;PR会社Qorvisが偽情報エコシステムと市民の信頼への影響を検証する新イニシアチブを立ち上げた。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; メディア環境と公共信頼に関する取り組み&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; PR Newswire / 2026-07-13 07:00:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★☆☆ (3/5)&lt;/p&gt;</description>
+      <pubDate>Mon, 13 Jul 2026 07:00:00 GMT</pubDate>
+      <category>重要度3</category>
+      <category>disinformation</category>
+    </item>
+    <item>
+      <title>[★3] (07/12 01:00) 『偽情報決議』に欠けているもの――意見記事</title>
+      <link>https://kaztaira.github.io/research-feed/go/0c014e3581b3.html</link>
+      <guid isPermaLink="false">urn:research:20260711:0c014e3581b3</guid>
+      <source url="https://www.medpagetoday.com/opinion/second-opinions/122132">MedPage Today</source>
+      <dc:creator>MedPage Today</dc:creator>
+      <description>&lt;p&gt;医療現場の偽情報対策決議に何が欠けているかを論じる意見記事。医学界の偽情報対応を問う。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 医療分野の偽情報対策議論として参考&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; MedPage Today / 2026-07-11 16:00:13&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★☆☆ (3/5)&lt;/p&gt;</description>
+      <pubDate>Sat, 11 Jul 2026 16:00:13 GMT</pubDate>
+      <category>重要度3</category>
+      <category>disinformation</category>
+    </item>
+    <item>
+      <title>[★3] (07/13 20:02) ChatGPT音声モード刷新、実際の会話の「間」「言い淀み」を再現</title>
+      <link>https://kaztaira.github.io/research-feed/go/12d275e8e97b.html</link>
+      <guid isPermaLink="false">urn:research:20260713:12d275e8e97b</guid>
+      <source url="https://www.bloomberg.com/news/newsletters/2026-07-13/chatgpt-s-voice-mode-can-handle-the-um-and-oh-of-real-conversations">Bloomberg Tech</source>
+      <dc:creator>Bloomberg Tech</dc:creator>
+      <description>&lt;p&gt;OpenAIのChatGPTが「うー」「あー」など、より人間らしい会話を実現。人間との境界がさらに曖昧に。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; AIと人間の区別困難化、社会的影響の可能性&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Bloomberg Tech / 2026-07-13 11:02:01&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★☆☆ (3/5)&lt;/p&gt;</description>
+      <pubDate>Mon, 13 Jul 2026 11:02:01 GMT</pubDate>
+      <category>重要度3</category>
+    </item>
+    <item>
+      <title>[★3] (07/14 00:34) Anthropic、インド市場向けにClaude料金の現地通貨化開始</title>
+      <link>https://kaztaira.github.io/research-feed/go/cda1dfeab597.html</link>
+      <guid isPermaLink="false">urn:research:20260713:cda1dfeab597</guid>
+      <source url="https://techcrunch.com/2026/07/13/anthropic-starts-localizing-claude-pricing-for-india-its-biggest-market-after-the-us/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>&lt;p&gt;米国に次ぐ最大市場のインドで、Claudeのルピー建てサブスクリプション提供を開始。グローバル戦略加速。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; AI大手のグローバル展開、業界の地域化戦略&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; TechCrunch / 2026-07-13 15:34:59&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★☆☆ (3/5)&lt;/p&gt;</description>
+      <pubDate>Mon, 13 Jul 2026 15:34:59 GMT</pubDate>
+      <category>重要度3</category>
+    </item>
+    <item>
+      <title>[★3] (07/14 03:58) OpenAI Codex再度リセット、Anthropic Fable 5延長への競争激化</title>
+      <link>https://kaztaira.github.io/research-feed/go/989cb862fe08.html</link>
+      <guid isPermaLink="false">urn:research:20260713:989cb862fe08</guid>
+      <source url="https://x.com/rohanpaul_ai/status/2076743101046210770">Rohan Paul (X)</source>
+      <dc:creator>Rohan Paul (X)</dc:creator>
+      <description>&lt;p&gt;OpenAI Codexが再びフルリセット。7月19日以降のAnthropic Fable 5延長の可能性にも注目。競争激化の兆し。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; AIモデル競争激化、ブログで扱うFable 5関連&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Rohan Paul (X) / 2026-07-13 18:58:33&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★☆☆ (3/5)&lt;/p&gt;</description>
+      <pubDate>Mon, 13 Jul 2026 18:58:33 GMT</pubDate>
+      <category>重要度3</category>
+    </item>
     <item>
       <title>[★5] (07/12 23:00) OpenAI、Meta、SpaceXAIがより低コストなAIモデルで競争</title>
       <link>https://kaztaira.github.io/research-feed/go/3d6a5f455512.html</link>
@@ -2768,414 +3174,6 @@
       <pubDate>Mon, 06 Jul 2026 19:49:09 GMT</pubDate>
       <category>重要度3</category>
       <category>disinformation</category>
-    </item>
-    <item>
-      <title>[★5] (07/06 04:12) I’m not sure if this an entirely accurate read of the ruling (I’m not a legal expert), but if it is, my question is: What happens to the dozens of counter-disinformation websites in the EU whose business model centers on refuting Russian propaganda, while sharing it in the process?</title>
-      <link>https://kaztaira.github.io/research-feed/go/16095af29063.html</link>
-      <guid isPermaLink="false">urn:research:20260705:16095af29063</guid>
-      <source url="https://x.com/RVAwonk/status/2073847626454245407">Caroline Orr Bueno (@RVAwonk)</source>
-      <dc:creator>Caroline Orr Bueno (@RVAwonk)</dc:creator>
-      <description>&lt;p&gt;I’m not sure if this an entirely accurate read of the ruling (I’m not a legal expert), but if it is,&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; LLM利用不可。キーワードスコアのみで暫定評価&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Caroline Orr Bueno (@RVAwonk) / 2026-07-05 19:12:59&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★★ (5/5)&lt;/p&gt;</description>
-      <pubDate>Sun, 05 Jul 2026 19:12:59 GMT</pubDate>
-      <category>重要度5</category>
-      <category>disinformation</category>
-    </item>
-    <item>
-      <title>[★3] (07/05 15:30) Can social media misinformation about cancer cost lives? Doctor explains the hidden dangers - The Times of India</title>
-      <link>https://kaztaira.github.io/research-feed/go/1a9fc3d5b641.html</link>
-      <guid isPermaLink="false">urn:research:20260705:1a9fc3d5b641</guid>
-      <source url="https://timesofindia.indiatimes.com/health/can-social-media-misinformation-about-cancer-cost-lives-doctor-explains-the-hidden-dangers/articleshow/132187414.cms">Google News - Disinformation</source>
-      <dc:creator>Google News - Disinformation</dc:creator>
-      <description>&lt;p&gt;Can social media misinformation about cancer cost lives? Doctor explains the hidden dangers&amp;amp;nbsp;&amp;amp;nb&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; LLM利用不可。キーワードスコアのみで暫定評価&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Google News - Disinformation / 2026-07-05 06:30:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★☆☆ (3/5)&lt;/p&gt;</description>
-      <pubDate>Sun, 05 Jul 2026 06:30:00 GMT</pubDate>
-      <category>重要度3</category>
-      <category>misinformation</category>
-    </item>
-    <item>
-      <title>[★3] (07/05 23:50) Israel's election panel floats live-streaming vote count amid concerns of fraud, AI misinformation - The Jerusalem Post</title>
-      <link>https://kaztaira.github.io/research-feed/go/c7ac9e0cf9ed.html</link>
-      <guid isPermaLink="false">urn:research:20260705:c7ac9e0cf9ed</guid>
-      <source url="https://www.jpost.com/israel-news/politics-and-diplomacy/article-901497">Google News - Disinformation</source>
-      <dc:creator>Google News - Disinformation</dc:creator>
-      <description>&lt;p&gt;Israel's election panel floats live-streaming vote count amid concerns of fraud, AI misinformation&amp;amp;n&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; LLM利用不可。キーワードスコアのみで暫定評価&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Google News - Disinformation / 2026-07-05 14:50:09&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★☆☆ (3/5)&lt;/p&gt;</description>
-      <pubDate>Sun, 05 Jul 2026 14:50:09 GMT</pubDate>
-      <category>重要度3</category>
-      <category>misinformation</category>
-    </item>
-    <item>
-      <title>[★3] (07/06 01:09) Disinformation is winning. Where do we look for news in a crisis? - xyz.pl</title>
-      <link>https://kaztaira.github.io/research-feed/go/feaf9377534d.html</link>
-      <guid isPermaLink="false">urn:research:20260705:feaf9377534d</guid>
-      <source url="https://xyz.pl/poland-unpacked/disinformation-is-winning-where-do-we-look-for-news-in-a-crisis-1732/">Google News - Disinformation</source>
-      <dc:creator>Google News - Disinformation</dc:creator>
-      <description>&lt;p&gt;Disinformation is winning. Where do we look for news in a crisis?&amp;amp;nbsp;&amp;amp;nbsp;xyz.pl&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; LLM利用不可。キーワードスコアのみで暫定評価&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Google News - Disinformation / 2026-07-05 16:09:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★☆☆ (3/5)&lt;/p&gt;</description>
-      <pubDate>Sun, 05 Jul 2026 16:09:00 GMT</pubDate>
-      <category>重要度3</category>
-      <category>disinformation</category>
-    </item>
-    <item>
-      <title>[★3] (07/05 11:58) Russia's FSB launches disinformation campaign using fake Volyn tragedy documents - Українська правда</title>
-      <link>https://kaztaira.github.io/research-feed/go/d299be903b63.html</link>
-      <guid isPermaLink="false">urn:research:20260705:d299be903b63</guid>
-      <source url="https://www.pravda.com.ua/eng/news/2026/07/05/8042440/">Google News - Disinformation</source>
-      <dc:creator>Google News - Disinformation</dc:creator>
-      <description>&lt;p&gt;Russia's FSB launches disinformation campaign using fake Volyn tragedy documents&amp;amp;nbsp;&amp;amp;nbsp;Українсь&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; LLM利用不可。キーワードスコアのみで暫定評価&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Google News - Disinformation / 2026-07-05 02:58:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★☆☆ (3/5)&lt;/p&gt;</description>
-      <pubDate>Sun, 05 Jul 2026 02:58:00 GMT</pubDate>
-      <category>重要度3</category>
-      <category>disinformation</category>
-    </item>
-    <item>
-      <title>[★3] (07/06 05:00) Abortion Misinformation: A Risk to Women’s Health Today - Daily Signal</title>
-      <link>https://kaztaira.github.io/research-feed/go/c097f6d9a8b2.html</link>
-      <guid isPermaLink="false">urn:research:20260705:c097f6d9a8b2</guid>
-      <source url="https://www.dailysignal.com/2026/07/05/misinformation-debate-could-put-women-risk/">Google News - Disinformation</source>
-      <dc:creator>Google News - Disinformation</dc:creator>
-      <description>&lt;p&gt;Abortion Misinformation: A Risk to Women’s Health Today&amp;amp;nbsp;&amp;amp;nbsp;Daily Signal&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; LLM利用不可。キーワードスコアのみで暫定評価&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Google News - Disinformation / 2026-07-05 20:00:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★☆☆ (3/5)&lt;/p&gt;</description>
-      <pubDate>Sun, 05 Jul 2026 20:00:00 GMT</pubDate>
-      <category>重要度3</category>
-      <category>misinformation</category>
-    </item>
-    <item>
-      <title>[★3] (07/05 16:35) Argentina Faces Disinformation Campaign Ahead of 2026 World Cup - 조선일보</title>
-      <link>https://kaztaira.github.io/research-feed/go/b9936a3acbfb.html</link>
-      <guid isPermaLink="false">urn:research:20260705:b9936a3acbfb</guid>
-      <source url="https://www.chosun.com/english/sports-en/2026/07/05/FXK4DIZMI5EB3IYX5NVATY5BBA/">Google News - Disinformation</source>
-      <dc:creator>Google News - Disinformation</dc:creator>
-      <description>&lt;p&gt;Argentina Faces Disinformation Campaign Ahead of 2026 World Cup&amp;amp;nbsp;&amp;amp;nbsp;조선일보&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; LLM利用不可。キーワードスコアのみで暫定評価&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Google News - Disinformation / 2026-07-05 07:35:40&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★☆☆ (3/5)&lt;/p&gt;</description>
-      <pubDate>Sun, 05 Jul 2026 07:35:40 GMT</pubDate>
-      <category>重要度3</category>
-      <category>disinformation</category>
-    </item>
-    <item>
-      <title>[★2] (07/05 05:23) RT by @rohanpaul_ai: This Yale + University of Chicago paper shows that real gap between LLM generated research ideas vs humans is not idea quality, but idea range: LLMs think narrower than human researchers. The researchers built a controlled test from 11,683 real papers, using each paper’s nearby prior work as the shared starting point. They asked models to propose a new motivation and method from those same prior papers, then compared those ideas with the real human paper ideas. Instead of asking whether 1 idea looked novel, they labeled each idea by what gap it noticed and what kind of contribution it made. Human ideas spread across many patterns, such as explaining mechanisms, testing failures, measuring evidence, building systems, and improving efficiency. Only 12.1% of human ideas were mainly about connecting separate work, but 47.1% to 64.2% of LLM ideas did that, meaning models used this move about 4 to 5 times more often. Even extra reasoning made this pattern stronger, suggesting models often polish a familiar recipe instead of finding more varied research moves. --- – arxiv. org/abs/2607.01233 Title: "Measuring the Gap Between Human and LLM Research Ideas"</title>
-      <link>https://kaztaira.github.io/research-feed/go/673b96410a8e.html</link>
-      <guid isPermaLink="false">urn:research:20260704:673b96410a8e</guid>
-      <source url="https://x.com/rohanpaul_ai/status/2073502907920703553">Rohan Paul (X)</source>
-      <dc:creator>Rohan Paul (X)</dc:creator>
-      <description>&lt;p&gt;This Yale + University of Chicago paper shows that real gap between LLM generated research ideas vs &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; LLM利用不可。キーワードスコアのみで暫定評価&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Rohan Paul (X) / 2026-07-04 20:23:11&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★☆☆☆ (2/5)&lt;/p&gt;</description>
-      <pubDate>Sat, 04 Jul 2026 20:23:11 GMT</pubDate>
-      <category>重要度2</category>
-    </item>
-    <item>
-      <title>[★2] (07/06 05:22) It’s the end of online commerce as we know it… and I feel fine.</title>
-      <link>https://kaztaira.github.io/research-feed/go/df2c26118152.html</link>
-      <guid isPermaLink="false">urn:research:20260705:df2c26118152</guid>
-      <source url="https://x.com/BostonJoan/status/2073865003933864032">Joan Donovan (@bostonjoan)</source>
-      <dc:creator>Joan Donovan (@bostonjoan)</dc:creator>
-      <description>&lt;p&gt;It’s the end of online commerce as we know it… and I feel fine.
-
-
-WIRED (@WIRED)
-
-A researcher found&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; LLM利用不可。キーワードスコアのみで暫定評価&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Joan Donovan (@bostonjoan) / 2026-07-05 20:22:02&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★☆☆☆ (2/5)&lt;/p&gt;</description>
-      <pubDate>Sun, 05 Jul 2026 20:22:02 GMT</pubDate>
-      <category>重要度2</category>
-    </item>
-    <item>
-      <title>[★2] (07/05 17:29) AI Shows Promise in the Fight Against Fake News - TheWire.in</title>
-      <link>https://kaztaira.github.io/research-feed/go/cfc76a51f6ca.html</link>
-      <guid isPermaLink="false">urn:research:20260705:cfc76a51f6ca</guid>
-      <source url="https://m.thewire.in/article/tech-tech/ai-shows-promise-in-the-fight-against-fake-news">Google News - Disinformation</source>
-      <dc:creator>Google News - Disinformation</dc:creator>
-      <description>&lt;p&gt;AI Shows Promise in the Fight Against Fake News&amp;amp;nbsp;&amp;amp;nbsp;TheWire.in&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; LLM利用不可。キーワードスコアのみで暫定評価&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Google News - Disinformation / 2026-07-05 08:29:11&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★☆☆☆ (2/5)&lt;/p&gt;</description>
-      <pubDate>Sun, 05 Jul 2026 08:29:11 GMT</pubDate>
-      <category>重要度2</category>
-    </item>
-    <item>
-      <title>[★2] (07/06 05:51) </title>
-      <link>https://kaztaira.github.io/research-feed/go/1136fb6725c7.html</link>
-      <guid isPermaLink="false">urn:research:20260705:1136fb6725c7</guid>
-      <source url="https://x.com/rohanpaul_ai/status/2073872368511115292">Rohan Paul (X)</source>
-      <dc:creator>Rohan Paul (X)</dc:creator>
-      <description>&lt;p&gt;
-
-Rohan Paul (@rohanpaul_ai)
-
-CAIS and Scale (AI safety research group) say Fable 5 now automates 16&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; LLM利用不可。キーワードスコアのみで暫定評価&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Rohan Paul (X) / 2026-07-05 20:51:17&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★☆☆☆ (2/5)&lt;/p&gt;</description>
-      <pubDate>Sun, 05 Jul 2026 20:51:17 GMT</pubDate>
-      <category>重要度2</category>
-      <category>AI safety</category>
-    </item>
-    <item>
-      <title>[★1] (07/06 07:50) Today’s edition of my newsletter just went out. 🔗 https://www.rohan-paul.com/p/bytedance-published-edgebench-a-benchmark 🗞️ ByteDance published EdgeBench, a benchmark that checks whether AI agents get better with experience 🗞️ Mark Cuban’s advice for graduates walking into their first job. Learning AI is no longer optional. 🗞️ “Measuring the Gap Between Human and LLM Research Ideas” 🗞️ Harvard Business Reviews’s new piece: The rush to use AI can make companies faster at the wrong work. 🗞️ Current AI is in a messy middle phase where usage looks productive, but output remains unclear. 🗞️ “Gym-Anything: Turn any Software into an Agent Environment” 🗞️ “What LLM Agents Say When No One Is Watching: Social Structure and Latent Objective Emergence in Multi-Agent Debates”</title>
-      <link>https://kaztaira.github.io/research-feed/go/0f0b9b4a2acb.html</link>
-      <guid isPermaLink="false">urn:research:20260705:0f0b9b4a2acb</guid>
-      <source url="https://x.com/rohanpaul_ai/status/2073902415561281802">Rohan Paul (X)</source>
-      <dc:creator>Rohan Paul (X)</dc:creator>
-      <description>&lt;p&gt;Today’s edition of my newsletter just went out.
-
-🔗 rohan-paul.com/p/bytedance-p…
-
-🗞️ ByteDance publi&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; LLM利用不可。キーワードスコアのみで暫定評価&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Rohan Paul (X) / 2026-07-05 22:50:41&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★☆☆☆☆ (1/5)&lt;/p&gt;</description>
-      <pubDate>Sun, 05 Jul 2026 22:50:41 GMT</pubDate>
-      <category>重要度1</category>
-    </item>
-    <item>
-      <title>[★1] (07/05 23:23) Infuriating Google commercial imagines the founding fathers embracing AI</title>
-      <link>https://kaztaira.github.io/research-feed/go/c597736af88d.html</link>
-      <guid isPermaLink="false">urn:research:20260705:c597736af88d</guid>
-      <source url="https://www.theverge.com/ai-artificial-intelligence/961468/google-ai-commercial-founding-fathers-declaration-of-independence">The Verge AI</source>
-      <dc:creator>The Verge AI</dc:creator>
-      <description>&lt;p&gt;&amp;quot;Group project, but make it 1776.&amp;quot; That's how a new commercial for Google Workspace opens. And thing&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; LLM利用不可。キーワードスコアのみで暫定評価&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; The Verge AI / 2026-07-05 14:23:11&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★☆☆☆☆ (1/5)&lt;/p&gt;</description>
-      <pubDate>Sun, 05 Jul 2026 14:23:11 GMT</pubDate>
-      <category>重要度1</category>
-    </item>
-    <item>
-      <title>[★1] (07/05 13:40) India issues a notice to Telegram, asking it to curb the spread of pirated films and other copyrighted content, and seeks an action-taken report within 15 days (Sejal Sharma/Hindustan Times)</title>
-      <link>https://kaztaira.github.io/research-feed/go/7dcd84293c6c.html</link>
-      <guid isPermaLink="false">urn:research:20260705:7dcd84293c6c</guid>
-      <source url="https://mediagazer.com/260705/p1#a260705p1">Mediagazer</source>
-      <dc:creator>Mediagazer</dc:creator>
-      <description>&lt;p&gt;
- Sejal Sharma / Hindustan Times:
-India issues a notice to Telegram, asking it to curb the spread of&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; LLM利用不可。キーワードスコアのみで暫定評価&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Mediagazer / 2026-07-05 04:40:01&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★☆☆☆☆ (1/5)&lt;/p&gt;</description>
-      <pubDate>Sun, 05 Jul 2026 04:40:01 GMT</pubDate>
-      <category>重要度1</category>
-    </item>
-    <item>
-      <title>[★1] (07/06 09:55) Companies are moving from tokenmaxxing to modelmaxxing. Because AI bills is making unlimited model use harder to defend. So model routing is becoming massively important now to control AI spending. Cheaper models handle drafts, sorting, summaries, tests, and first-pass reasoning. Frontier models stay reserved for tasks where failure costs more than the request. Reports show router use rose from about 1% of firms to 5%. --- Modelmaxxing is simply treating every AI request like a cost-quality decision, not a blank check. - Some requests can be routed by rules, using user tier, latency, privacy, or budget limits. - Other requests need task routing, where coding, math, writing, support, or vision work gets matched to specialist models. - Harder prompts can trigger difficulty routing, sending easy work cheap and serious reasoning upward. - A cascade setup starts with a smaller model, then escalates only when the answer looks weak. - Confidence routing goes further by measuring uncertainty before deciding whether to rerun the request. - Preference routing learns from user ratings, so the system remembers which model usually satisfies people. - Budget-aware routing controls both model choice and answer length, because long answers also cost money. - Cache-first routing avoids fresh model calls when similar prompts already produced usable answers. - Fallback routing protects the product when one provider becomes slow, blocked, overloaded, or expensive. --- businessinsider. com/ai-model-routing-modelmaxxing-efficient-token-use-2026-7</title>
-      <link>https://kaztaira.github.io/research-feed/go/00f9671bbf74.html</link>
-      <guid isPermaLink="false">urn:research:20260706:00f9671bbf74</guid>
-      <source url="https://x.com/rohanpaul_ai/status/2073933749784629357">Rohan Paul (X)</source>
-      <dc:creator>Rohan Paul (X)</dc:creator>
-      <description>&lt;p&gt;Companies are moving from tokenmaxxing to modelmaxxing. 
-
-Because AI bills is making unlimited model&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; LLM利用不可。キーワードスコアのみで暫定評価&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Rohan Paul (X) / 2026-07-06 00:55:12&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★☆☆☆☆ (1/5)&lt;/p&gt;</description>
-      <pubDate>Mon, 06 Jul 2026 00:55:12 GMT</pubDate>
-      <category>重要度1</category>
-    </item>
-    <item>
-      <title>[★1] (07/06 09:16) Smart move from NVIDIA, they rolled out a program where AI startups swap high-performance compute for a share of future product and cloud earnings. So NVIDIA gets paid twice: first when the infrastructure is purchased, then again through a recurring share of the cloud revenue generated by that supported capacity. NVIDIA is not mainly targeting AWS or Google Cloud here; it is backing specialized GPU cloud providers, i.e. neoclouds. The aim is to use the new revenue-sharing model to reach researchers and nascent companies that lack the money for large-scale AI resources. So the neocloud buys NVIDIA infrastructure with help from NVIDIA’s credit-support and revenue-sharing structure, then rents that GPU capacity to AI companies that need training, fine-tuning, and high-volume inference. NVIDIA gets the hardware sale upfront, but it also keeps earning a recurring share of the cloud revenue produced by those GPUs, which turns the chip from a one-time product into a long-term revenue meter. So, NVIDIA turns a rack of GPUs from a one-time hardware sale into an income-producing asset, while the neocloud gets easier financing and the startup gets faster compute without building a data center. Nvidia has already committed more than $40 billion to AI investments in early 2026, led by a $30 billion stake in OpenAI, alongside multi-billion-dollar investments in Corning Inc. and IREN Ltd..</title>
-      <link>https://kaztaira.github.io/research-feed/go/a52cd25d1a9e.html</link>
-      <guid isPermaLink="false">urn:research:20260706:a52cd25d1a9e</guid>
-      <source url="https://x.com/rohanpaul_ai/status/2073924044420988932">Rohan Paul (X)</source>
-      <dc:creator>Rohan Paul (X)</dc:creator>
-      <description>&lt;p&gt;Smart move from NVIDIA, they rolled out a program where AI startups swap high-performance compute fo&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; LLM利用不可。キーワードスコアのみで暫定評価&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Rohan Paul (X) / 2026-07-06 00:16:38&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★☆☆☆☆ (1/5)&lt;/p&gt;</description>
-      <pubDate>Mon, 06 Jul 2026 00:16:38 GMT</pubDate>
-      <category>重要度1</category>
-    </item>
-    <item>
-      <title>[★1] (07/05 06:00) RT by @rohanpaul_ai: Mark Cuban’s advice for graduates walking into their first job. Learning AI is no longer optional. "If you’re not the person who knows how to do vibe coding or how to do all these different things with agents and Claude, somebody who does is going to take your place. If your boss enables you to use that extra knowledge, great. If they don’t enable you to use that extra knowledge, they’re not going to be your boss very long. And if the CEO doesn’t understand that, he or she is not going to be the CEO very long. And if they still keep that CEO who’s not using AI to get ahead, you tell me, so I can start a company to kick their ass." ---- From "Alex Kantrowitz" YouTube channel, (link in comment)</title>
-      <link>https://kaztaira.github.io/research-feed/go/c731ce3a21a0.html</link>
-      <guid isPermaLink="false">urn:research:20260704:c731ce3a21a0</guid>
-      <source url="https://x.com/rohanpaul_ai/status/2073512253744390564">Rohan Paul (X)</source>
-      <dc:creator>Rohan Paul (X)</dc:creator>
-      <description>&lt;p&gt;Mark Cuban’s advice for graduates walking into their first job. Learning AI is no longer optional.
-
-&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; LLM利用不可。キーワードスコアのみで暫定評価&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Rohan Paul (X) / 2026-07-04 21:00:19&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★☆☆☆☆ (1/5)&lt;/p&gt;</description>
-      <pubDate>Sat, 04 Jul 2026 21:00:19 GMT</pubDate>
-      <category>重要度1</category>
-    </item>
-    <item>
-      <title>[★1] (07/06 09:34) Anthropic, White House Have Not Discussed Government Stake in Firm - PYMNTS.com</title>
-      <link>https://kaztaira.github.io/research-feed/go/404d6e3a7ded.html</link>
-      <guid isPermaLink="false">urn:research:20260706:404d6e3a7ded</guid>
-      <source url="https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-white-house-have-not-discussed-government-stake-in-firm/">Google News - AI</source>
-      <dc:creator>Google News - AI</dc:creator>
-      <description>&lt;p&gt;Anthropic, White House Have Not Discussed Government Stake in Firm&amp;amp;nbsp;&amp;amp;nbsp;PYMNTS.com&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; LLM利用不可。キーワードスコアのみで暫定評価&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Google News - AI / 2026-07-06 00:34:45&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★☆☆☆☆ (1/5)&lt;/p&gt;</description>
-      <pubDate>Mon, 06 Jul 2026 00:34:45 GMT</pubDate>
-      <category>重要度1</category>
-    </item>
-    <item>
-      <title>[★1] (07/05 19:13) Texas program targets future of farming with training in AI and robotics - San Antonio Express-News</title>
-      <link>https://kaztaira.github.io/research-feed/go/57b8614c4520.html</link>
-      <guid isPermaLink="false">urn:research:20260705:57b8614c4520</guid>
-      <source url="https://www.expressnews.com/business/article/texas-utsa-swri-tech-agriculture-program-22309757.php">Google News - AI</source>
-      <dc:creator>Google News - AI</dc:creator>
-      <description>&lt;p&gt;Texas program targets future of farming with training in AI and robotics&amp;amp;nbsp;&amp;amp;nbsp;San Antonio Expr&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; LLM利用不可。キーワードスコアのみで暫定評価&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Google News - AI / 2026-07-05 10:13:30&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★☆☆☆☆ (1/5)&lt;/p&gt;</description>
-      <pubDate>Sun, 05 Jul 2026 10:13:30 GMT</pubDate>
-      <category>重要度1</category>
-    </item>
-    <item>
-      <title>[★1] (07/06 04:00) AI poses ‘Hiroshima’-style threat to humanity without global rules, says Cooper</title>
-      <link>https://kaztaira.github.io/research-feed/go/f619d28e092e.html</link>
-      <guid isPermaLink="false">urn:research:20260705:f619d28e092e</guid>
-      <source url="https://www.theguardian.com/politics/2026/jul/05/ai-hiroshima-style-threat-humanity-global-rules-yvette-cooper">Guardian Tech</source>
-      <dc:creator>Guardian Tech</dc:creator>
-      <description>&lt;p&gt;Exclusive: Foreign secretary warns of combined risks of AI, climate crisis, irregular migration and &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; LLM利用不可。キーワードスコアのみで暫定評価&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Guardian Tech / 2026-07-05 19:00:34&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★☆☆☆☆ (1/5)&lt;/p&gt;</description>
-      <pubDate>Sun, 05 Jul 2026 19:00:34 GMT</pubDate>
-      <category>重要度1</category>
-    </item>
-    <item>
-      <title>[★1] (07/06 06:30) AI Poses Biggest Security Challenge of Decade, UK’s Cooper Warns</title>
-      <link>https://kaztaira.github.io/research-feed/go/a19bb5a8ded4.html</link>
-      <guid isPermaLink="false">urn:research:20260705:a19bb5a8ded4</guid>
-      <source url="https://www.bloomberg.com/news/articles/2026-07-05/ai-poses-biggest-security-challenge-of-decade-uk-s-cooper-warns">Bloomberg Tech</source>
-      <dc:creator>Bloomberg Tech</dc:creator>
-      <description>&lt;p&gt;The world must urgently develop guardrails to contain the threat posed by artificial intelligence, B&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; LLM利用不可。キーワードスコアのみで暫定評価&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Bloomberg Tech / 2026-07-05 21:30:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★☆☆☆☆ (1/5)&lt;/p&gt;</description>
-      <pubDate>Sun, 05 Jul 2026 21:30:00 GMT</pubDate>
-      <category>重要度1</category>
-    </item>
-    <item>
-      <title>[★1] (07/04 04:15) Honest feedback from journalism graduates: Five ways newsrooms can offer better work experience</title>
-      <link>https://kaztaira.github.io/research-feed/go/3f4bc6dc3792.html</link>
-      <guid isPermaLink="false">urn:research:20260703:3f4bc6dc3792</guid>
-      <source url="https://www.journalism.co.uk/honest-advice-from-journalism-graduates-five-ways-newsrooms-can-offer-better-work-experience/">journalism.co.uk</source>
-      <dc:creator>journalism.co.uk</dc:creator>
-      <description>&lt;p&gt;Don't let students feel like a burden on busy editors, say recent work experience students&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; LLM利用不可。キーワードスコアのみで暫定評価&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; journalism.co.uk / 2026-07-03 19:15:21&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★☆☆☆☆ (1/5)&lt;/p&gt;</description>
-      <pubDate>Fri, 03 Jul 2026 19:15:21 GMT</pubDate>
-      <category>重要度1</category>
-    </item>
-    <item>
-      <title>[★1] (07/04 00:53) Digital editorial assistant</title>
-      <link>https://kaztaira.github.io/research-feed/go/73ba2b8b98a3.html</link>
-      <guid isPermaLink="false">urn:research:20260703:73ba2b8b98a3</guid>
-      <source url="https://www.journalism.co.uk/digital-editorial-assistant-jl-41/">journalism.co.uk</source>
-      <dc:creator>journalism.co.uk</dc:creator>
-      <description>&lt;p&gt;Join our purpose-driven team and help bring our solutions journalism to lifeEmployer: Positive NewsS&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; LLM利用不可。キーワードスコアのみで暫定評価&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; journalism.co.uk / 2026-07-03 15:53:49&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★☆☆☆☆ (1/5)&lt;/p&gt;</description>
-      <pubDate>Fri, 03 Jul 2026 15:53:49 GMT</pubDate>
-      <category>重要度1</category>
-    </item>
-    <item>
-      <title>[★1] (07/04 00:53) News Editor - Bucks Free Press</title>
-      <link>https://kaztaira.github.io/research-feed/go/db36d04ef844.html</link>
-      <guid isPermaLink="false">urn:research:20260703:db36d04ef844</guid>
-      <source url="https://www.journalism.co.uk/news-editor-bucks-free-press-jl-39/">journalism.co.uk</source>
-      <dc:creator>journalism.co.uk</dc:creator>
-      <description>&lt;p&gt;An exciting opportunity has arisen for a talented journalist to step into a key news desk role at th&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; LLM利用不可。キーワードスコアのみで暫定評価&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; journalism.co.uk / 2026-07-03 15:53:28&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★☆☆☆☆ (1/5)&lt;/p&gt;</description>
-      <pubDate>Fri, 03 Jul 2026 15:53:28 GMT</pubDate>
-      <category>重要度1</category>
-    </item>
-    <item>
-      <title>[★1] (07/04 00:53) News Reporter - Swindon</title>
-      <link>https://kaztaira.github.io/research-feed/go/e9b7af115029.html</link>
-      <guid isPermaLink="false">urn:research:20260703:e9b7af115029</guid>
-      <source url="https://www.journalism.co.uk/news-reporter-swindon-jl-38/">journalism.co.uk</source>
-      <dc:creator>journalism.co.uk</dc:creator>
-      <description>&lt;p&gt;An exciting opportunity has arisen for an ambitious News Reporter to join our high-performing newsro&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; LLM利用不可。キーワードスコアのみで暫定評価&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; journalism.co.uk / 2026-07-03 15:53:24&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★☆☆☆☆ (1/5)&lt;/p&gt;</description>
-      <pubDate>Fri, 03 Jul 2026 15:53:24 GMT</pubDate>
-      <category>重要度1</category>
-    </item>
-    <item>
-      <title>[★1] (07/04 00:53) Reporter - The Watford Observer</title>
-      <link>https://kaztaira.github.io/research-feed/go/d29f065c9600.html</link>
-      <guid isPermaLink="false">urn:research:20260703:d29f065c9600</guid>
-      <source url="https://www.journalism.co.uk/reporter-the-watford-observer-jl-37/">journalism.co.uk</source>
-      <dc:creator>journalism.co.uk</dc:creator>
-      <description>&lt;p&gt;The Watford Observer is seeking an ambitious, digitally-focused reporter to join our newsroom.Employ&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; LLM利用不可。キーワードスコアのみで暫定評価&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; journalism.co.uk / 2026-07-03 15:53:17&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★☆☆☆☆ (1/5)&lt;/p&gt;</description>
-      <pubDate>Fri, 03 Jul 2026 15:53:17 GMT</pubDate>
-      <category>重要度1</category>
-    </item>
-    <item>
-      <title>[★1] (07/04 00:53) Senior Editor - North &amp; Mid Essex</title>
-      <link>https://kaztaira.github.io/research-feed/go/70f6a7dd9b20.html</link>
-      <guid isPermaLink="false">urn:research:20260703:70f6a7dd9b20</guid>
-      <source url="https://www.journalism.co.uk/senior-editor-north-mid-essex-jl-36/">journalism.co.uk</source>
-      <dc:creator>journalism.co.uk</dc:creator>
-      <description>&lt;p&gt;Are you ready to lead and inspire the talented editorial team of the Colchester Gazette?Employer: Ne&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; LLM利用不可。キーワードスコアのみで暫定評価&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; journalism.co.uk / 2026-07-03 15:53:12&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★☆☆☆☆ (1/5)&lt;/p&gt;</description>
-      <pubDate>Fri, 03 Jul 2026 15:53:12 GMT</pubDate>
-      <category>重要度1</category>
-    </item>
-    <item>
-      <title>[★1] (07/06 01:40) A profile of Kaley Glenn-Mills, the plaintiff in K.G.M. v. Meta et al., who was awarded $6M in damages in a landmark LA jury trial over social media addiction (Olivia Carville/Bloomberg)</title>
-      <link>https://kaztaira.github.io/research-feed/go/b821937f5688.html</link>
-      <guid isPermaLink="false">urn:research:20260705:b821937f5688</guid>
-      <source url="https://mediagazer.com/260705/p2#a260705p2">Mediagazer</source>
-      <dc:creator>Mediagazer</dc:creator>
-      <description>&lt;p&gt;
- Olivia Carville / Bloomberg:
-A profile of Kaley Glenn-Mills, the plaintiff in K.G.M. v. Meta et al&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; LLM利用不可。キーワードスコアのみで暫定評価&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Mediagazer / 2026-07-05 16:40:03&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★☆☆☆☆ (1/5)&lt;/p&gt;</description>
-      <pubDate>Sun, 05 Jul 2026 16:40:03 GMT</pubDate>
-      <category>重要度1</category>
-    </item>
-    <item>
-      <title>[★1] (07/04 19:20) A look at Outside Tonight, a YouTube-based late-night talk show from Julian Shapiro-Barnum, who hosted the successful web series Recess Therapy (John Koblin/New York Times)</title>
-      <link>https://kaztaira.github.io/research-feed/go/474fa986571a.html</link>
-      <guid isPermaLink="false">urn:research:20260704:474fa986571a</guid>
-      <source url="https://mediagazer.com/260704/p1#a260704p1">Mediagazer</source>
-      <dc:creator>Mediagazer</dc:creator>
-      <description>&lt;p&gt;
- John Koblin / New York Times:
-A look at Outside Tonight, a YouTube-based late-night talk show from&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; LLM利用不可。キーワードスコアのみで暫定評価&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Mediagazer / 2026-07-04 10:20:01&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★☆☆☆☆ (1/5)&lt;/p&gt;</description>
-      <pubDate>Sat, 04 Jul 2026 10:20:01 GMT</pubDate>
-      <category>重要度1</category>
     </item>
   </channel>
 </rss>
