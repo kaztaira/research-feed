@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
-  <!-- Generated: 2026-08-29T05:07:47+0900 -->
+  <!-- Generated: 2026-08-29T09:42:03+0900 -->
   <channel>
     <title>AI/Disinformation Daily Report（新聞紙学的）</title>
     <description>AI・偽情報・ディスインフォメーションに関する日次リサーチレポート。主要海外メディアから重要ニュースを抽出・評価。</description>
     <link>https://kaztaira.wordpress.com</link>
     <language>ja</language>
-    <lastBuildDate>Sat, 29 Aug 2026 05:07:47 +0900</lastBuildDate>
-    <pubDate>Sat, 29 Aug 2026 05:07:47 +0900</pubDate>
+    <lastBuildDate>Sat, 29 Aug 2026 09:42:03 +0900</lastBuildDate>
+    <pubDate>Sat, 29 Aug 2026 09:42:03 +0900</pubDate>
     <generator>AI/Disinformation Research Agent</generator>
     <ttl>720</ttl>
     <docs>https://www.rssboard.org/rss-specification</docs>
     <atom:link href="https://raw.githubusercontent.com/kaztaira/research-feed/main/feed4.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
     <item>
-      <title>[★5] (08/28 18:00) マスク氏のAI企業、Grokディープフェイク被害者訴訟が急増するなかユーザーを提訴</title>
+      <title>[★5] (08/28 18:00) マスク氏のAI企業がユーザーを提訴、Grokのディープフェイク被害訴訟が増加</title>
       <link>https://kaztaira.github.io/research-feed/go/ae891a51e849.html</link>
       <guid isPermaLink="false">urn:research:20260828:ae891a51e849</guid>
       <source url="https://www.politico.com/news/2026/08/28/elon-musk-xai-lawsuits-grok-deepfakes-01053817">Politico</source>
       <dc:creator>Politico</dc:creator>
-      <description>&lt;p&gt;イーロン・マスク氏のxAIが、Grokによるディープフェイク被害を巡る訴訟が相次ぐなか、逆にユーザーを提訴するという異例の展開。AI企業の責任問題が焦点に。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; AI巨大企業の法的責任と被害者救済を巡る重要判例となりうる&lt;/p&gt;
+      <description>&lt;p&gt;イーロン・マスク氏のAI企業がユーザーを訴え、同社のAI「Grok」によるディープフェイク被害訴訟が相次いでいる。AIの責任問題が浮上。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; AIディープフェイク、法的責任、テクノロジー企業の姿勢が市民社会に与える影響は大きい。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Politico / 2026-08-28 09:00:00&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★★ (5/5)&lt;/p&gt;</description>
       <pubDate>Fri, 28 Aug 2026 09:00:00 GMT</pubDate>
@@ -28,13 +28,27 @@
       <category>deepfake</category>
     </item>
     <item>
-      <title>[★5] (08/29 00:25) ロシア、ポーランドの対チェコ「領土主張」に関する大規模偽情報工作の疑い</title>
+      <title>[★5] (08/29 03:09) EU、TikTok、Metaがセウタ移民危機における誤情報対策で合意</title>
+      <link>https://kaztaira.github.io/research-feed/go/10e89cb0929b.html</link>
+      <guid isPermaLink="false">urn:research:20260828:10e89cb0929b</guid>
+      <source url="https://theowp.org/eu-tiktok-and-meta-agree-to-combat-misinformation-amid-ceuta-migration-crisis/">The Organization for World Peace</source>
+      <dc:creator>The Organization for World Peace</dc:creator>
+      <description>&lt;p&gt;EUと大手テック企業TikTok、Metaがセウタでの移民危機を巡る誤情報対策で連携に合意した。国際的なデマ拡散に対応。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 大手テック企業とEUが移民危機下の誤情報対策で協力。市民社会とメディア環境に大きな影響。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; The Organization for World Peace / 2026-08-28 18:09:53&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★★ (5/5)&lt;/p&gt;</description>
+      <pubDate>Fri, 28 Aug 2026 18:09:53 GMT</pubDate>
+      <category>重要度5</category>
+      <category>misinformation</category>
+    </item>
+    <item>
+      <title>[★5] (08/29 00:25) ロシアがポーランドのチェコに対する「領土主張」に関する大規模偽情報を流布か — メディア</title>
       <link>https://kaztaira.github.io/research-feed/go/e907ca111db4.html</link>
       <guid isPermaLink="false">urn:research:20260828:e907ca111db4</guid>
       <source url="https://unn.ua/en/news/russia-suspected-of-large-scale-disinformation-about-polands-territorial-claims-against-the-czech-republic-media">Українські Національні Новини (УНН)</source>
       <dc:creator>Українські Національні Новини (УНН)</dc:creator>
-      <description>&lt;p&gt;ロシアがポーランドのチェコに対する「領土主張」に関する大規模な偽情報工作を展開している疑いが浮上。EU諸国間の分断を狙う情報戦。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 国家主導の情報戦争であり国際安全保障に直結&lt;/p&gt;
+      <description>&lt;p&gt;ロシアがポーランドのチェコに対する「領土主張」という大規模な偽情報を流布している疑いがあると報じられた。国際関係を混乱させる狙いか。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 国家レベルの国際的な偽情報戦であり、国際関係と安全保障に重大な影響を及ぼす。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Українські Національні Новини (УНН) / 2026-08-28 15:25:28&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★★ (5/5)&lt;/p&gt;</description>
       <pubDate>Fri, 28 Aug 2026 15:25:28 GMT</pubDate>
@@ -42,83 +56,81 @@
       <category>disinformation</category>
     </item>
     <item>
-      <title>[★5] (08/29 03:09) EU、TikTok、Metaがセウタ移民危機を巡る偽情報対策で合意</title>
-      <link>https://kaztaira.github.io/research-feed/go/10e89cb0929b.html</link>
-      <guid isPermaLink="false">urn:research:20260828:10e89cb0929b</guid>
-      <source url="https://theowp.org/eu-tiktok-and-meta-agree-to-combat-misinformation-amid-ceuta-migration-crisis/">The Organization for World Peace</source>
-      <dc:creator>The Organization for World Peace</dc:creator>
-      <description>&lt;p&gt;セウタ移民危機を巡り、EUと大手プラットフォーム3社が偽情報対策で合意。プラットフォーム規制と移民問題が交差する重要事案。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; ブログ既報のセウタ危機とプラットフォーム規制が交差&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; The Organization for World Peace / 2026-08-28 18:09:57&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★★ (5/5)&lt;/p&gt;</description>
-      <pubDate>Fri, 28 Aug 2026 18:09:57 GMT</pubDate>
-      <category>重要度5</category>
-      <category>disinformation</category>
-      <category>AI regulation</category>
-      <category>platform accountability</category>
-    </item>
-    <item>
-      <title>[★5] (08/29 01:13) Full Fact分析：AIチャットボットがAI生成画像・戦争・王室不和で偽情報を拡散</title>
-      <link>https://kaztaira.github.io/research-feed/go/2c97946012c1.html</link>
-      <guid isPermaLink="false">urn:research:20260828:2c97946012c1</guid>
-      <source url="https://fullfact.org/technology/full-fact-analysis--ai-chatbots-misinformation/">Full Fact</source>
-      <dc:creator>Full Fact</dc:creator>
-      <description>&lt;p&gt;英ファクトチェック団体Full FactがAIチャットボットの偽情報拡散実態を分析。AI生成画像や戦争、王室関連で虚偽情報を発信していると指摘。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; AIチャットボットの信頼性という中核的問題を実証分析&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Full Fact / 2026-08-28 16:13:49&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★★ (5/5)&lt;/p&gt;</description>
-      <pubDate>Fri, 28 Aug 2026 16:13:49 GMT</pubDate>
-      <category>重要度5</category>
-      <category>disinformation</category>
-    </item>
-    <item>
-      <title>[★5] (08/28 22:49) ワクチン偽情報拡散、RFKジュニア氏が麻疹死亡2件を「捏造」と示唆</title>
+      <title>[★5] (08/28 22:49) ワクチン誤情報が拡散、RFK Jr.が麻疹死を「捏造」と示唆</title>
       <link>https://kaztaira.github.io/research-feed/go/a1133167aa5c.html</link>
       <guid isPermaLink="false">urn:research:20260828:a1133167aa5c</guid>
       <source url="https://www.theguardian.com/us-news/2026/aug/28/vaccine-misinformation-rfk-jr-measles-deaths-pennsylvania">The Guardian</source>
       <dc:creator>The Guardian</dc:creator>
-      <description>&lt;p&gt;米厚生長官RFKジュニア氏がペンシルベニアでの麻疹死亡2件を「捏造」と示唆し、ワクチン偽情報が拡散。公衆衛生と政治の危険な交差。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 政府高官による偽情報拡散という深刻な公衆衛生危機&lt;/p&gt;
+      <description>&lt;p&gt;ロバート・F・ケネディ・ジュニア氏が麻疹による2人の死を「捏造」と示唆し、ワクチンに関する誤情報が拡散している。健康と政治を巡る論争。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 著名人によるワクチン誤情報が市民の健康を脅かし、政治的な論争を巻き起こし論争を呼ぶ。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; The Guardian / 2026-08-28 13:49:00&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★★ (5/5)&lt;/p&gt;</description>
       <pubDate>Fri, 28 Aug 2026 13:49:00 GMT</pubDate>
       <category>重要度5</category>
-      <category>disinformation</category>
+      <category>misinformation</category>
     </item>
     <item>
-      <title>[★5] (08/29 03:20) 中国のボットファーム、米データセンター反対世論を密かに扇動　X社が発表</title>
+      <title>[★5] (08/29 04:04) 科学者は誤情報防止のため政府に登録すべき、と学術誌Natureが提言</title>
+      <link>https://kaztaira.github.io/research-feed/go/d62f7e0df803.html</link>
+      <guid isPermaLink="false">urn:research:20260828:d62f7e0df803</guid>
+      <source url="https://www.nationalreview.com/corner/nature-scientists-should-have-to-register-with-governments-to-prevent-misinformation/">National Review</source>
+      <dc:creator>National Review</dc:creator>
+      <description>&lt;p&gt;学術誌Natureが科学者の政府登録を提案。誤情報対策だが、言論の自由を巡る論争に発展する可能性。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 科学者登録で政府が誤情報を防ぐ提案は、表現の自由と情報統制の論争を呼ぶ。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; National Review / 2026-08-28 19:04:46&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★★ (5/5)&lt;/p&gt;</description>
+      <pubDate>Fri, 28 Aug 2026 19:04:46 GMT</pubDate>
+      <category>重要度5</category>
+      <category>misinformation</category>
+    </item>
+    <item>
+      <title>[★5] (08/29 03:20) 中国が密かに米国のデータセンター反発を煽っている</title>
       <link>https://kaztaira.github.io/research-feed/go/5e62138d3739.html</link>
       <guid isPermaLink="false">urn:research:20260828:5e62138d3739</guid>
       <source url="https://www.axios.com/2026/08/28/china-ai-data-center-backlash-bots">Axios</source>
       <dc:creator>Axios</dc:creator>
-      <description>&lt;p&gt;中国発とみられる約200のボットアカウントがSNS上で米国のAIデータセンター反対を煽っていたとXが公表。国家安全保障の懸念が高まる。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 国家間の情報工作、AIインフラを巡る安全保障問題として極めて重要&lt;/p&gt;
+      <description>&lt;p&gt;中国のボット農場がAIデータセンターへの反対世論をSNSで密かに操作。国際安全保障上の懸念。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 中国がAIボットで米国内の世論操作を試み、国際安全保障とメディア環境に影響。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Axios / 2026-08-28 18:20:59&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★★ (5/5)&lt;/p&gt;</description>
       <pubDate>Fri, 28 Aug 2026 18:20:59 GMT</pubDate>
       <category>重要度5</category>
     </item>
     <item>
-      <title>[★5] (08/28 11:42) 米連邦裁判官、ペンタゴンによるAnthropicの「サプライチェーンリスク」認定を違憲と判断</title>
-      <link>https://kaztaira.github.io/research-feed/go/9d15d740e813.html</link>
-      <guid isPermaLink="false">urn:research:20260828:9d15d740e813</guid>
-      <source url="https://www.axios.com/2026/08/28/judge-blocks-pentagon-anthropic-blacklist">Axios</source>
-      <dc:creator>Axios</dc:creator>
-      <description>&lt;p&gt;連邦裁判官が国防総省のAnthropicブラックリスト指定を違憲と判断。政府とAI企業の関係に大きな影響を与える判決。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; AI業界と政府の関係を規定する画期的判決で業界全体に影響&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Axios / 2026-08-28 02:42:42&lt;/p&gt;
+      <title>[★5] (08/29 00:11) オンラインの嘘が現実の危害に：南部アフリカで反LGBTQI+デマが敵意を煽る</title>
+      <link>https://kaztaira.github.io/research-feed/go/45846ccf5d5a.html</link>
+      <guid isPermaLink="false">urn:research:20260828:45846ccf5d5a</guid>
+      <source url="https://www.mambaonline.com/2026/08/28/from-online-lies-to-offline-harm-how-anti-lgbtqi-disinformation-is-fuelling-hostility-in-southern-africa/">MambaOnline</source>
+      <dc:creator>MambaOnline</dc:creator>
+      <description>&lt;p&gt;南部アフリカで反LGBTQI+偽情報がオンラインから現実社会の敵意を助長。人権侵害に繋がる。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; オンラインの偽情報が現実世界で差別と憎悪を助長、市民社会への深刻な影響。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; MambaOnline / 2026-08-28 15:11:53&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★★ (5/5)&lt;/p&gt;</description>
-      <pubDate>Fri, 28 Aug 2026 02:42:42 GMT</pubDate>
+      <pubDate>Fri, 28 Aug 2026 15:11:53 GMT</pubDate>
+      <category>重要度5</category>
+      <category>disinformation</category>
+    </item>
+    <item>
+      <title>[★5] (08/28 20:55) 上院議員がPolymarket、Kalshiに選挙デマ拡散インフルエンサーとの関係断絶を要求</title>
+      <link>https://kaztaira.github.io/research-feed/go/422ebc7986aa.html</link>
+      <guid isPermaLink="false">urn:research:20260828:422ebc7986aa</guid>
+      <source url="https://www.netinfluencer.com/senators-press-polymarket-kalshi-to-cut-ties-with-influencers-who-spread-election-misinformation/">Net Influencer</source>
+      <dc:creator>Net Influencer</dc:creator>
+      <description>&lt;p&gt;米上院議員が選挙デマを拡散するインフルエンサーとの関係をPolymarketとKalshiに断つよう圧力をかける。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 選挙デマ拡散インフルエンサーとプラットフォームの連携停止要求、民主主義に影響。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Net Influencer / 2026-08-28 11:55:36&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★★ (5/5)&lt;/p&gt;</description>
+      <pubDate>Fri, 28 Aug 2026 11:55:36 GMT</pubDate>
       <category>重要度5</category>
     </item>
     <item>
-      <title>[★5] (08/28 18:15) EUのAI法が本格運用フェーズへ　規制の実効性が試される</title>
+      <title>[★5] (08/28 18:15) EU AI法が現実のものとなる</title>
       <link>https://kaztaira.github.io/research-feed/go/9cffd96cb0ac.html</link>
       <guid isPermaLink="false">urn:research:20260828:9cffd96cb0ac</guid>
       <source url="https://www.axios.com/2026/08/28/eu-ai-act-gets-real">Axios</source>
       <dc:creator>Axios</dc:creator>
-      <description>&lt;p&gt;欧州の画期的AI法が構想段階から施行段階へ移行。ブリュッセルの規制枠組みが企業に実行可能な形で運用できるかが問われる。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 世界初の包括的AI規制の実効性は国際的な規制潮流を左右する&lt;/p&gt;
+      <description>&lt;p&gt;欧州連合の画期的なAI法が施行段階へ。AI業界と社会に広範な影響を与える、世界初の包括的規制。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; EUの画期的なAI法が本格運用へ、世界中のAI業界とガバナンスに多大な影響。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Axios / 2026-08-28 09:15:05&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★★ (5/5)&lt;/p&gt;</description>
       <pubDate>Fri, 28 Aug 2026 09:15:05 GMT</pubDate>
@@ -126,93 +138,121 @@
       <category>AI regulation</category>
     </item>
     <item>
-      <title>[★5] (08/28 12:34) 国防総省のAnthropicブラックリスト指定は違法、米連邦裁が判決</title>
-      <link>https://kaztaira.github.io/research-feed/go/5d96e30d5d2b.html</link>
-      <guid isPermaLink="false">urn:research:20260828:5d96e30d5d2b</guid>
-      <source url="https://www.theguardian.com/technology/2026/aug/28/us-court-rules-pentagon-anthropic-ban-illegal-trump-claude-ai">Guardian Tech</source>
-      <dc:creator>Guardian Tech</dc:creator>
-      <description>&lt;p&gt;トランプ政権がAnthropicを「サプライチェーンリスク」に指定したのは違法と裁判所が判断。政府とAI企業の関係に影響。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 政府と大手AI企業の対立に司法が介入、業界規制の先例となる重要判決&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Guardian Tech / 2026-08-28 03:34:35&lt;/p&gt;
+      <title>[★5] (08/29 03:06) Anthropic、AIエージェントによるハードウェア制御の新フレームワークを発表</title>
+      <link>https://kaztaira.github.io/research-feed/go/06d247f53282.html</link>
+      <guid isPermaLink="false">urn:research:20260828:06d247f53282</guid>
+      <source url="https://www.computerworld.com/article/4215388/anthropics-new-framework-lets-ai-agents-control-hardware.html">Computerworld</source>
+      <dc:creator>Computerworld</dc:creator>
+      <description>&lt;p&gt;AnthropicがAIエージェントがハードウェアを制御する新フレームワークを発表。自律AI進化に大きく貢献。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; AIが物理世界と直接インタラクトする能力は、社会、産業、安全保障に甚大な影響を与える。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Computerworld / 2026-08-28 18:06:11&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★★ (5/5)&lt;/p&gt;</description>
-      <pubDate>Fri, 28 Aug 2026 03:34:35 GMT</pubDate>
+      <pubDate>Fri, 28 Aug 2026 18:06:11 GMT</pubDate>
       <category>重要度5</category>
     </item>
     <item>
-      <title>[★5] (08/28 05:04) Meta 180億ドル和解、子どものデータ利用に法的免罪符</title>
+      <title>[★5] (08/28 04:20) Anthropic、科学実験を自律的に実施できるAIツールを発表</title>
+      <link>https://kaztaira.github.io/research-feed/go/31b08ea500d3.html</link>
+      <guid isPermaLink="false">urn:research:20260827:31b08ea500d3</guid>
+      <source url="https://www.ft.com/content/dd069af7-a2a2-4984-8d9a-5edeaf54f2f8?syn-25a6b1a6=1">Financial Times</source>
+      <dc:creator>Financial Times</dc:creator>
+      <description>&lt;p&gt;Anthropicが科学実験を自律的に行うAIツールを発表。AIの発見・研究能力を飛躍的に向上させる。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; AIが自律的に科学的探求を進める能力は、人類の知識発見と技術革新に革命をもたらす。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Financial Times / 2026-08-27 19:20:48&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★★ (5/5)&lt;/p&gt;</description>
+      <pubDate>Thu, 27 Aug 2026 19:20:48 GMT</pubDate>
+      <category>重要度5</category>
+    </item>
+    <item>
+      <title>[★5] (08/28 05:04) Metaの180億ドル和解金、児童データの扱いに関する法的抜け穴が判明</title>
       <link>https://kaztaira.github.io/research-feed/go/1a7570677128.html</link>
       <guid isPermaLink="false">urn:research:20260827:1a7570677128</guid>
       <source url="https://techcrunch.com/2026/08/27/buried-in-metas-18b-settlement-is-a-legal-pass-on-kids-data/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
-      <description>&lt;p&gt;Meta和解には13歳未満の児童データを年齢判定AIの訓練に利用可能とする条項が含まれ、プライバシー論争を招く。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 児童プライバシーとAI訓練データを巡る根本的な倫理問題&lt;/p&gt;
+      <description>&lt;p&gt;Metaの和解で、13歳未満の児童データの一部保持が許可。AIモデル学習とプライバシーの倫理問題。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 大手IT企業の児童データ利用とプライバシー保護は市民社会に直結する倫理的・法的論争。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; TechCrunch / 2026-08-27 20:04:26&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★★ (5/5)&lt;/p&gt;</description>
       <pubDate>Thu, 27 Aug 2026 20:04:26 GMT</pubDate>
       <category>重要度5</category>
     </item>
     <item>
-      <title>[★5] (08/27 20:30) Meta 180億ドル和解、若者のソーシャルメディア環境を変える可能性</title>
+      <title>[★5] (08/27 20:30) Metaの180億ドル和解、若年層のSNS利用環境を再構築か</title>
       <link>https://kaztaira.github.io/research-feed/go/526b947465be.html</link>
       <guid isPermaLink="false">urn:research:20260827:526b947465be</guid>
       <source url="https://www.poynter.org/commentary/2026/meta-settlement-social-media-addiction-children-teens/">Poynter</source>
       <dc:creator>Poynter</dc:creator>
-      <description>&lt;p&gt;Metaが47州と180億ドルで和解、若者のSNS利用に関する規制の転換点となる可能性。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; SNS依存問題に対する史上最大規模の和解、メディア環境全体に影響&lt;/p&gt;
+      <description>&lt;p&gt;Metaが州との180億ドル和解に合意。若年層のソーシャルメディア利用の未来を大きく変える可能性。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 若年層のデジタルウェルビーイングとSNSのあり方は、メディア環境と市民社会に多大な影響。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Poynter / 2026-08-27 11:30:18&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★★ (5/5)&lt;/p&gt;</description>
       <pubDate>Thu, 27 Aug 2026 11:30:18 GMT</pubDate>
       <category>重要度5</category>
-      <category>AI regulation</category>
     </item>
     <item>
-      <title>[★5] (08/28 04:31) 国連、Meta改革と共に全SNSの改革を要求</title>
-      <link>https://kaztaira.github.io/research-feed/go/7ab14a89b5cf.html</link>
-      <guid isPermaLink="false">urn:research:20260827:7ab14a89b5cf</guid>
-      <source url="https://www.bbc.co.uk/news/articles/c17j00lnn41o?at_medium=RSS&amp;at_campaign=rss">BBC News Tech</source>
-      <dc:creator>BBC News Tech</dc:creator>
-      <description>&lt;p&gt;国連はMetaだけでなくTikTokやYouTubeを含む全SNSの改革が必要と主張。カリフォルニア州も調査開始。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 国連による国際的なSNS規制要求、メディア環境の根本的変革を示唆&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; BBC News Tech / 2026-08-27 19:31:10&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★★ (5/5)&lt;/p&gt;</description>
-      <pubDate>Thu, 27 Aug 2026 19:31:10 GMT</pubDate>
-      <category>重要度5</category>
-    </item>
-    <item>
-      <title>[★5] (08/28 04:44) AI活用サイバー攻撃、数ヶ月で高度化 大手テック各社が警鐘</title>
-      <link>https://kaztaira.github.io/research-feed/go/0afea58ef32c.html</link>
-      <guid isPermaLink="false">urn:research:20260827:0afea58ef32c</guid>
-      <source url="https://www.bbc.co.uk/news/articles/cwyz11475l1o?at_medium=RSS&amp;at_campaign=rss">BBC News Tech</source>
-      <dc:creator>BBC News Tech</dc:creator>
-      <description>&lt;p&gt;大手テック企業がサイバーセキュリティの時間切れを警告、AI利用の攻撃が急速に高度化すると指摘。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; AIによるサイバー攻撃の脅威、社会全体の安全保障問題&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; BBC News Tech / 2026-08-27 19:44:27&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★★ (5/5)&lt;/p&gt;</description>
-      <pubDate>Thu, 27 Aug 2026 19:44:27 GMT</pubDate>
-      <category>重要度5</category>
-    </item>
-    <item>
-      <title>[★4] (08/28 08:14) ペンシルベニアで麻疹2人死亡、偽情報と政治が噴出</title>
-      <link>https://kaztaira.github.io/research-feed/go/e81346fa900b.html</link>
-      <guid isPermaLink="false">urn:research:20260827:e81346fa900b</guid>
-      <source url="https://www.nbcnews.com/health/health-news/measles-pennsylvania-deaths-infant-misinformation-politics-rcna594578">NBC News</source>
-      <dc:creator>NBC News</dc:creator>
-      <description>&lt;p&gt;ペンシルベニアでの麻疹による2人の死亡を巡り、偽情報と政治的対立が激化。ワクチン懐疑論の政治化が公衆衛生を脅かす。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 公衆衛生と政治的偽情報が絡む論争的事案&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; NBC News / 2026-08-27 23:14:47&lt;/p&gt;
+      <title>[★4] (08/29 05:36) 災害時の誤情報が日本のSNSユーザーのリスクを高める</title>
+      <link>https://kaztaira.github.io/research-feed/go/af50791626d6.html</link>
+      <guid isPermaLink="false">urn:research:20260828:af50791626d6</guid>
+      <source url="https://japantoday.com/category/features/opinions/opinion-disaster-misinformation-raises-stakes-for-japan's-social-media-users">Japan Today</source>
+      <dc:creator>Japan Today</dc:creator>
+      <description>&lt;p&gt;日本において災害発生時の誤情報がソーシャルメディア上で拡散し、ユーザーの安全を脅かすリスクが高まっていると指摘。対策の重要性を強調。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 災害時の誤情報は市民社会に深刻な影響を与え、メディア環境や安全保障にも関わる。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Japan Today / 2026-08-28 20:36:59&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
-      <pubDate>Thu, 27 Aug 2026 23:14:47 GMT</pubDate>
+      <pubDate>Fri, 28 Aug 2026 20:36:59 GMT</pubDate>
       <category>重要度4</category>
-      <category>disinformation</category>
+      <category>misinformation</category>
     </item>
     <item>
-      <title>[★4] (08/28 18:14) モロッコ諜報機関、偽情報との闘い</title>
+      <title>[★4] (08/29 06:00) がんワクチンが治療を変革する可能性も、mRNAワクチンに関する誤情報がその潜在能力を脅かす</title>
+      <link>https://kaztaira.github.io/research-feed/go/832e14826181.html</link>
+      <guid isPermaLink="false">urn:research:20260828:832e14826181</guid>
+      <source url="https://sdvoice.info/cancer-vaccines-could-transform-treatment-and-prevention/">The San Diego Voice &amp; Viewpoint</source>
+      <dc:creator>The San Diego Voice &amp; Viewpoint</dc:creator>
+      <description>&lt;p&gt;がんワクチンは治療と予防を大きく変える可能性を秘めるが、mRNAワクチンに関する誤情報がその発展を阻害していると懸念。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 先端医療技術と結びついた健康誤情報が、市民の健康とテクノロジーの進歩に深刻な影響。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; The San Diego Voice &amp;amp; Viewpoint / 2026-08-28 21:00:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
+      <pubDate>Fri, 28 Aug 2026 21:00:00 GMT</pubDate>
+      <category>重要度4</category>
+      <category>misinformation</category>
+    </item>
+    <item>
+      <title>[★4] (08/29 01:13) Full Factの分析でAIチャットボットがAI生成画像、戦争、王室スキャンダルに関する誤情報を発信と判明</title>
+      <link>https://kaztaira.github.io/research-feed/go/2c97946012c1.html</link>
+      <guid isPermaLink="false">urn:research:20260828:2c97946012c1</guid>
+      <source url="https://fullfact.org/technology/full-fact-analysis--ai-chatbots-misinformation/">Full Fact</source>
+      <dc:creator>Full Fact</dc:creator>
+      <description>&lt;p&gt;ファクトチェック団体Full Factの分析で、AIチャットボットがAI生成画像や戦争などに関する誤情報を生成・拡散していることが判明。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; AIチャットボットが生成する誤情報の問題を具体的に示し、テクノロジーの潮流とメディア環境に影響。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Full Fact / 2026-08-28 16:13:49&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
+      <pubDate>Fri, 28 Aug 2026 16:13:49 GMT</pubDate>
+      <category>重要度4</category>
+      <category>misinformation</category>
+    </item>
+    <item>
+      <title>[★4] (08/28 20:58) ネパール洪水が反中国の誤情報の波を引き起こした経緯</title>
+      <link>https://kaztaira.github.io/research-feed/go/44058a951af0.html</link>
+      <guid isPermaLink="false">urn:research:20260828:44058a951af0</guid>
+      <source url="https://www.scmp.com/news/china/science/article/3365633/how-nepal-flash-flood-unleashed-wave-anti-china-misinformation">South China Morning Post</source>
+      <dc:creator>South China Morning Post</dc:creator>
+      <description>&lt;p&gt;ネパールでの洪水災害が、ソーシャルメディア上で反中国の誤情報の波を引き起こした経緯が分析されている。地政学的な対立が背景に。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 災害を背景とした国際的な誤情報であり、地政学的な対立と市民社会に影響を与える。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; South China Morning Post / 2026-08-28 11:58:16&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
+      <pubDate>Fri, 28 Aug 2026 11:58:16 GMT</pubDate>
+      <category>重要度4</category>
+      <category>misinformation</category>
+    </item>
+    <item>
+      <title>[★4] (08/28 18:14) モロッコの情報機関と偽情報との戦い</title>
       <link>https://kaztaira.github.io/research-feed/go/f174127828d3.html</link>
       <guid isPermaLink="false">urn:research:20260828:f174127828d3</guid>
       <source url="https://thearabweekly.com/moroccan-intelligence-and-battle-against-disinformation">The Arab Weekly</source>
       <dc:creator>The Arab Weekly</dc:creator>
-      <description>&lt;p&gt;モロッコ諜報機関の偽情報対策の取り組みを分析。セウタ移民危機の背景にあるデマ拡散への国家的対応を報じる。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; ブログ既報のセウタ「国境開放デマ」事案と直接関連&lt;/p&gt;
+      <description>&lt;p&gt;モロッコの情報機関が、国家安全保障と市民社会を守るために、偽情報対策に取り組んでいる現状を解説。特に国境問題に注力。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 国家の情報機関が偽情報対策に取り組む事例で、国際関係と安全保障、メディア環境に関連。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; The Arab Weekly / 2026-08-28 09:14:28&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
       <pubDate>Fri, 28 Aug 2026 09:14:28 GMT</pubDate>
@@ -220,202 +260,169 @@
       <category>disinformation</category>
     </item>
     <item>
-      <title>[★4] (08/28 20:58) ネパール鉄砲水が反中国偽情報の波を引き起こした経緯</title>
-      <link>https://kaztaira.github.io/research-feed/go/44058a951af0.html</link>
-      <guid isPermaLink="false">urn:research:20260828:44058a951af0</guid>
-      <source url="https://www.scmp.com/news/china/science/article/3365633/how-nepal-flash-flood-unleashed-wave-anti-china-misinformation">South China Morning Post</source>
-      <dc:creator>South China Morning Post</dc:creator>
-      <description>&lt;p&gt;ネパールの鉄砲水を巡り反中国偽情報がSNSで拡散。自然災害を利用した地政学的偽情報キャンペーンの実態。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 災害を利用した国際的偽情報工作の事例&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; South China Morning Post / 2026-08-28 11:58:16&lt;/p&gt;
+      <title>[★4] (08/28 11:35) 銃乱射のデマが警察によるオンライン誤情報への警告を引き起こす</title>
+      <link>https://kaztaira.github.io/research-feed/go/a1ccd24c8ea4.html</link>
+      <guid isPermaLink="false">urn:research:20260828:a1ccd24c8ea4</guid>
+      <source url="https://cbs12.com/news/local/rumor-of-active-shooting-sparks-police-warning-about-online-misinformation">WPEC</source>
+      <dc:creator>WPEC</dc:creator>
+      <description>&lt;p&gt;オンラインで銃乱射事件のデマが拡散したため、警察が市民に対し誤情報に注意するよう警告を発した。緊急時の情報リテラシーが課題。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 緊急事態における誤情報が市民社会にパニックや混乱を引き起こす深刻な事例。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; WPEC / 2026-08-28 02:35:08&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
-      <pubDate>Fri, 28 Aug 2026 11:58:16 GMT</pubDate>
+      <pubDate>Fri, 28 Aug 2026 02:35:08 GMT</pubDate>
       <category>重要度4</category>
-      <category>disinformation</category>
+      <category>misinformation</category>
     </item>
     <item>
-      <title>[★4] (08/29 00:11) オンラインの嘘からオフラインの被害へ：反LGBTQI+偽情報が南部アフリカで敵意を煽る</title>
-      <link>https://kaztaira.github.io/research-feed/go/45846ccf5d5a.html</link>
-      <guid isPermaLink="false">urn:research:20260828:45846ccf5d5a</guid>
-      <source url="https://www.mambaonline.com/2026/08/28/from-online-lies-to-offline-harm-how-anti-lgbtqi-disinformation-is-fuelling-hostility-in-southern-africa/">MambaOnline</source>
-      <dc:creator>MambaOnline</dc:creator>
-      <description>&lt;p&gt;南部アフリカで反LGBTQI+偽情報がオンラインからオフラインの暴力へと転化。偽情報が実際の人権侵害を引き起こす構造を分析。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 偽情報がオフライン暴力を誘発する深刻な人権問題&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; MambaOnline / 2026-08-28 15:11:15&lt;/p&gt;
+      <title>[★4] (08/28 08:14) ペンシルベニアで麻疹で2人死亡、その後誤情報と政治論争が勃発</title>
+      <link>https://kaztaira.github.io/research-feed/go/e81346fa900b.html</link>
+      <guid isPermaLink="false">urn:research:20260827:e81346fa900b</guid>
+      <source url="https://www.nbcnews.com/health/health-news/measles-pennsylvania-deaths-infant-misinformation-politics-rcna594578">NBC News</source>
+      <dc:creator>NBC News</dc:creator>
+      <description>&lt;p&gt;ペンシルベニア州で麻疹による死亡事例が発生後、誤情報が広がり、それが政治的な論争へと発展した。公衆衛生とメディアの課題。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 健康と政治に関わる誤情報が市民社会に深刻な影響を与え、論争を呼ぶ。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; NBC News / 2026-08-27 23:14:47&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
-      <pubDate>Fri, 28 Aug 2026 15:11:15 GMT</pubDate>
+      <pubDate>Thu, 27 Aug 2026 23:14:47 GMT</pubDate>
       <category>重要度4</category>
-      <category>disinformation</category>
+      <category>misinformation</category>
     </item>
     <item>
-      <title>[★4] (08/29 04:30) Anthropic研究者が「自己改善AI」の実態を公開　整合性ベンチマークで全項目改善</title>
+      <title>[★4] (08/29 04:30) Anthropicの研究者が自己改善型AIの可能性を垣間見せる</title>
       <link>https://kaztaira.github.io/research-feed/go/24c26e96ef00.html</link>
       <guid isPermaLink="false">urn:research:20260828:24c26e96ef00</guid>
       <source url="https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
-      <description>&lt;p&gt;Anthropicの研究者が、AIが自身の誤整合行動を自動的に改善するシステムを公開。10のベンチマーク全てで性能向上を実現。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 自己改善AIはAIアライメント議論の中心テーマで技術潮流に大きく影響&lt;/p&gt;
+      <description>&lt;p&gt;Anthropicの研究が自己改善型AIの実現可能性を示唆。AI技術の進化の最前線を垣間見せた。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; Anthropic研究者が自己改善型AIの可能性を提示、AI技術の飛躍的進化を示す。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; TechCrunch / 2026-08-28 19:30:38&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
       <pubDate>Fri, 28 Aug 2026 19:30:38 GMT</pubDate>
       <category>重要度4</category>
     </item>
     <item>
-      <title>[★4] (08/28 21:46) ペンタゴンのサプライチェーンリスク認定にAnthropicが初の司法勝利</title>
+      <title>[★4] (08/28 21:46) Anthropicが国防総省のサプライチェーンリスク指定に対し初の法廷勝利</title>
       <link>https://kaztaira.github.io/research-feed/go/0a012eb5128e.html</link>
       <guid isPermaLink="false">urn:research:20260828:0a012eb5128e</guid>
       <source url="https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
-      <description>&lt;p&gt;連邦判事がトランプ政権によるAnthropicの「サプライチェーンリスク」認定を違法と判断。同社が政府相手の訴訟で勝利。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 政府によるAI企業の恣意的排除を制限する重要判例&lt;/p&gt;
+      <description>&lt;p&gt;AI企業Anthropicが国防総省のサプライチェーンリスク指定を巡る訴訟で勝訴。業界の法的地位に影響。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; AI企業Anthropicが国防総省との訴訟で勝訴、AI業界の法的枠組みに影響。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; TechCrunch / 2026-08-28 12:46:12&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
       <pubDate>Fri, 28 Aug 2026 12:46:12 GMT</pubDate>
       <category>重要度4</category>
     </item>
     <item>
-      <title>[★4] (08/28 12:14) Anthropicはトランプ政権に違法にブラックリスト入りさせられた、と裁判所判断</title>
-      <link>https://kaztaira.github.io/research-feed/go/3a080f6682cd.html</link>
-      <guid isPermaLink="false">urn:research:20260828:3a080f6682cd</guid>
-      <source url="https://www.theverge.com/ai-artificial-intelligence/985947/anthropic-supply-chain-risk-lawsuit-judge-ruling">The Verge AI</source>
-      <dc:creator>The Verge AI</dc:creator>
-      <description>&lt;p&gt;ペンタゴンによるAnthropicのブラックリスト指定を裁判官が違憲と判断。数ヶ月続く政府とのバトルでAI研究所が勝利。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; AI企業の憲法上の権利を明確化する重要な司法判断&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; The Verge AI / 2026-08-28 03:14:06&lt;/p&gt;
+      <title>[★4] (08/28 21:20) CoComelon親会社MoonbugがAIを実験、「人間が作ったものだけ著作権を持つ」と明記</title>
+      <link>https://kaztaira.github.io/research-feed/go/5b66bf1d0ce5.html</link>
+      <guid isPermaLink="false">urn:research:20260828:5b66bf1d0ce5</guid>
+      <source url="https://mediagazer.com/260828/p2#a260828p2">Mediagazer</source>
+      <dc:creator>Mediagazer</dc:creator>
+      <description>&lt;p&gt;MoonbugがAI実験で「人間作成物のみ著作権」と規定。AIコンテンツの著作権問題と制作方針に影響。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; AIコンテンツの著作権問題が明確化、クリエイティブ業界とAI共存の課題を示す。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Mediagazer / 2026-08-28 12:20:01&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
-      <pubDate>Fri, 28 Aug 2026 03:14:06 GMT</pubDate>
+      <pubDate>Fri, 28 Aug 2026 12:20:01 GMT</pubDate>
       <category>重要度4</category>
     </item>
     <item>
-      <title>[★4] (08/28 19:48) ペンタゴンはAnthropicを排除できない　米裁判官が判決</title>
-      <link>https://kaztaira.github.io/research-feed/go/a6ce7bfe1a2a.html</link>
-      <guid isPermaLink="false">urn:research:20260828:a6ce7bfe1a2a</guid>
-      <source url="https://www.semafor.com/article/08/28/2026/pentagon-cant-blacklist-anthropic-us-judge-rules">Semafor</source>
-      <dc:creator>Semafor</dc:creator>
-      <description>&lt;p&gt;ペンタゴンによるAnthropic排除措置に対する判決はAI企業の大きな勝利。ワシントンとの法的争いで重要な進展。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; AIと国防産業の関係を規定する重要判例として業界に影響&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Semafor / 2026-08-28 10:48:20&lt;/p&gt;
+      <title>[★4] (08/28 20:53) 政府がメタとTikTokに洪水被害の生々しいコンテンツと誤情報の削除を要請</title>
+      <link>https://kaztaira.github.io/research-feed/go/aa14836b8432.html</link>
+      <guid isPermaLink="false">urn:research:20260828:aa14836b8432</guid>
+      <source url="https://kathmandupost.com/national/2026/08/28/government-asks-meta-tiktok-to-remove-graphic-flood-content-misinformation">The Kathmandu Post</source>
+      <dc:creator>The Kathmandu Post</dc:creator>
+      <description>&lt;p&gt;政府がMetaとTikTokに洪水被害の不適切コンテンツと誤情報削除を要請。情報規制とプラットフォーム責任が課題。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 政府がSNSに不適切コンテンツ削除を要請、情報統制とプラットフォーム責任に影響。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; The Kathmandu Post / 2026-08-28 11:53:47&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
-      <pubDate>Fri, 28 Aug 2026 10:48:20 GMT</pubDate>
+      <pubDate>Fri, 28 Aug 2026 11:53:47 GMT</pubDate>
+      <category>重要度4</category>
+      <category>misinformation</category>
+      <category>AI regulation</category>
+      <category>platform accountability</category>
+    </item>
+    <item>
+      <title>[★4] (08/28 19:10) AI生成動画がネパール・チベット洪水の実際の映像として誤って共有される</title>
+      <link>https://kaztaira.github.io/research-feed/go/97d2018cf7ce.html</link>
+      <guid isPermaLink="false">urn:research:20260828:97d2018cf7ce</guid>
+      <source url="https://factcheck.afp.com/doc.afp.com.C6PE9G4">AFP Fact Check</source>
+      <dc:creator>AFP Fact Check</dc:creator>
+      <description>&lt;p&gt;AI生成動画がネパール・チベット洪水の現実の映像として拡散。AI悪用の深刻な影響を示す。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; AI生成動画が洪水被害の偽情報として拡散、AI悪用の深刻な影響を示す。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; AFP Fact Check / 2026-08-28 10:10:53&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
+      <pubDate>Fri, 28 Aug 2026 10:10:53 GMT</pubDate>
       <category>重要度4</category>
     </item>
     <item>
-      <title>[★4] (08/27 23:00) OpenAIの経営幹部大量流出、最大の勝者は誰か</title>
-      <link>https://kaztaira.github.io/research-feed/go/94057effd7fa.html</link>
-      <guid isPermaLink="false">urn:research:20260827:94057effd7fa</guid>
-      <source url="https://www.theverge.com/podcast/985332/openai-greg-brockman-sam-altman-leader-executive-exodus">The Verge AI</source>
-      <dc:creator>The Verge AI</dc:creator>
-      <description>&lt;p&gt;OpenAIの幹部人事が続き、権力の集中が進む中でDecoderポッドキャストが組織変化を分析。アルトマン氏の影響力の変化に注目。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 業界最有力AI企業のガバナンス変化はテック業界全体に影響&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; The Verge AI / 2026-08-27 14:00:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
-      <pubDate>Thu, 27 Aug 2026 14:00:00 GMT</pubDate>
-      <category>重要度4</category>
-    </item>
-    <item>
-      <title>[★4] (08/28 02:54) 米ATFがランサムウェア被害で「重大事件」宣言</title>
-      <link>https://kaztaira.github.io/research-feed/go/bc3455c0edb4.html</link>
-      <guid isPermaLink="false">urn:research:20260827:bc3455c0edb4</guid>
-      <source url="https://techcrunch.com/2026/08/27/atf-declares-major-incident-as-ransomware-gang-claims-hack/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>&lt;p&gt;米アルコール・タバコ・火器・爆発物取締局がランサムウェア攻撃を受け「重大事件」を議会に報告。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 連邦政府機関へのサイバー攻撃、国家安全保障に関わる事案&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; TechCrunch / 2026-08-27 17:54:23&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
-      <pubDate>Thu, 27 Aug 2026 17:54:23 GMT</pubDate>
-      <category>重要度4</category>
-    </item>
-    <item>
-      <title>[★4] (08/27 22:24) Meta和解、英国への影響と今後の展開</title>
-      <link>https://kaztaira.github.io/research-feed/go/196f85c01243.html</link>
-      <guid isPermaLink="false">urn:research:20260827:196f85c01243</guid>
-      <source url="https://www.bbc.co.uk/news/articles/cg49q4xydq0o?at_medium=RSS&amp;at_campaign=rss">BBC News Tech</source>
-      <dc:creator>BBC News Tech</dc:creator>
-      <description>&lt;p&gt;Meta和解の英国への影響を分析、他SNS企業の反応は未定で議論継続中。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; SNS規制の国際波及効果、メディア環境への影響&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; BBC News Tech / 2026-08-27 13:24:03&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
-      <pubDate>Thu, 27 Aug 2026 13:24:03 GMT</pubDate>
-      <category>重要度4</category>
-    </item>
-    <item>
-      <title>[★4] (08/28 14:30) AnthropicがPentagonブラックリスト訴訟に勝訴</title>
-      <link>https://kaztaira.github.io/research-feed/go/2c2654363140.html</link>
-      <guid isPermaLink="false">urn:research:20260828:2c2654363140</guid>
-      <source url="https://www.washingtonpost.com/technology/2026/08/27/federal-judge-overturns-pentagon-ban-claude-chatbot-maker-anthropic/">Washington Post</source>
-      <dc:creator>Washington Post</dc:creator>
-      <description>&lt;p&gt;連邦裁判官がPentagonのAnthropicへの措置を覆す判決、AI企業の政府調達への道を確保。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; AI大手企業と政府の対立、業界全体への影響&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Washington Post / 2026-08-28 05:30:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
-      <pubDate>Fri, 28 Aug 2026 05:30:00 GMT</pubDate>
-      <category>重要度4</category>
-    </item>
-    <item>
-      <title>[★4] (08/29 00:57) 米国民の過半数が警察のナンバープレート監視カメラに反対</title>
-      <link>https://kaztaira.github.io/research-feed/go/ca0446dffeaf.html</link>
-      <guid isPermaLink="false">urn:research:20260828:ca0446dffeaf</guid>
-      <source url="https://techcrunch.com/2026/08/28/more-americans-oppose-police-license-plate-cameras-than-support-them-survey/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>&lt;p&gt;調査で警察による監視カメラ悪用への反発が拡大、市民の監視社会への懸念が顕在化。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 監視社会と市民の権利、プライバシーを巡る重要な世論動向&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; TechCrunch / 2026-08-28 15:57:58&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
-      <pubDate>Fri, 28 Aug 2026 15:57:58 GMT</pubDate>
-      <category>重要度4</category>
-    </item>
-    <item>
-      <title>[★4] (08/28 04:20) Anthropic、科学実験を実施できるAIツールを発表</title>
-      <link>https://kaztaira.github.io/research-feed/go/31b08ea500d3.html</link>
-      <guid isPermaLink="false">urn:research:20260827:31b08ea500d3</guid>
-      <source url="https://www.ft.com/content/dd069af7-a2a2-4984-8d9a-5edeaf54f2f8?syn-25a6b1a6=1">Financial Times</source>
-      <dc:creator>Financial Times</dc:creator>
-      <description>&lt;p&gt;Anthropicが科学的実験を自律的に行うAIツールを発表、研究のあり方を変える可能性。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; AIの科学研究への応用、テクノロジー潮流に重大な影響&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Financial Times / 2026-08-27 19:20:48&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
-      <pubDate>Thu, 27 Aug 2026 19:20:48 GMT</pubDate>
-      <category>重要度4</category>
-    </item>
-    <item>
-      <title>[★4] (08/28 16:15) AI音声クローン反対キャンペーンに俳優ら支持</title>
+      <title>[★4] (08/28 16:15) ニコラ・カフラン、マット・ルーカスらがAI音声クローン反対キャンペーンを支援</title>
       <link>https://kaztaira.github.io/research-feed/go/7d0cb86c0eb6.html</link>
       <guid isPermaLink="false">urn:research:20260828:7d0cb86c0eb6</guid>
       <source url="https://www.theguardian.com/technology/2026/aug/28/stars-back-campaign-against-ai-voice-cloning-nicola-coughlan-matt-lucas">Guardian Tech</source>
       <dc:creator>Guardian Tech</dc:creator>
-      <description>&lt;p&gt;Nicola CoughlanやMatt Lucasら約80人の俳優が音声所有権保護の法律制定を求める公開書簡に署名。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; AI生成音声と著作権・肖像権、クリエイター保護の論争&lt;/p&gt;
+      <description>&lt;p&gt;著名人がAI音声クローン反対運動を支持。技術の倫理的問題と法規制の必要性を訴える。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 著名人がAI音声クローン反対キャンペーンを支持、倫理問題と法規制の必要性を訴える。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Guardian Tech / 2026-08-28 07:15:00&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
       <pubDate>Fri, 28 Aug 2026 07:15:00 GMT</pubDate>
       <category>重要度4</category>
+      <category>AI regulation</category>
     </item>
     <item>
-      <title>[★4] (08/29 03:06) Anthropicの新フレームワーク、AIエージェントがハードウェア制御可能に</title>
-      <link>https://kaztaira.github.io/research-feed/go/06d247f53282.html</link>
-      <guid isPermaLink="false">urn:research:20260828:06d247f53282</guid>
-      <source url="https://www.computerworld.com/article/4215388/anthropics-new-framework-lets-ai-agents-control-hardware.html">Computerworld</source>
-      <dc:creator>Computerworld</dc:creator>
-      <description>&lt;p&gt;Anthropicが物理的なハードウェア制御可能なAIエージェントフレームワークを発表。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; AIの物理世界への直接介入、エージェント時代への転換点&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Computerworld / 2026-08-28 18:06:11&lt;/p&gt;
+      <title>[★4] (08/28 15:01) 中国の対ドローンシステムに関するAI動画がオンラインで誤解を招く</title>
+      <link>https://kaztaira.github.io/research-feed/go/f8cc49b3b6d6.html</link>
+      <guid isPermaLink="false">urn:research:20260828:f8cc49b3b6d6</guid>
+      <source url="https://factcheck.afp.com/doc.afp.com.C6CX49E">AFP</source>
+      <dc:creator>AFP</dc:creator>
+      <description>&lt;p&gt;中国の対ドローンシステムに関するAI生成動画が誤情報として拡散。AIの悪用リスクを示す。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; AI生成動画が軍事関連で誤情報として拡散、AIの悪用リスクとメディアの課題。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; AFP / 2026-08-28 06:01:06&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
-      <pubDate>Fri, 28 Aug 2026 18:06:11 GMT</pubDate>
+      <pubDate>Fri, 28 Aug 2026 06:01:06 GMT</pubDate>
+      <category>重要度4</category>
+      <category>misinformation</category>
+    </item>
+    <item>
+      <title>[★4] (08/28 12:34) 国防総省のAnthropicブラックリスト指定は違法、と米裁判官が判断</title>
+      <link>https://kaztaira.github.io/research-feed/go/5d96e30d5d2b.html</link>
+      <guid isPermaLink="false">urn:research:20260828:5d96e30d5d2b</guid>
+      <source url="https://www.theguardian.com/technology/2026/aug/28/us-court-rules-pentagon-anthropic-ban-illegal-trump-claude-ai">Guardian Tech</source>
+      <dc:creator>Guardian Tech</dc:creator>
+      <description>&lt;p&gt;米裁判官が国防総省によるAI企業Anthropicの違法なブラックリスト指定を認定。AI業界に法的影響。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 国防総省のAnthropicブラックリスト化は違法との判決、AI業界に法的影響。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Guardian Tech / 2026-08-28 03:34:35&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
+      <pubDate>Fri, 28 Aug 2026 03:34:35 GMT</pubDate>
       <category>重要度4</category>
     </item>
     <item>
-      <title>[★3] (08/28 21:47) スロバキア医療分野の偽情報：利用者の認識と行動分析</title>
-      <link>https://kaztaira.github.io/research-feed/go/2f63b632ba49.html</link>
-      <guid isPermaLink="false">urn:research:20260828:2f63b632ba49</guid>
-      <source url="https://cedmohub.eu/misinformation-in-the-healthcare-sector-in-slovakia-an-analysis-of-users-perceptions-and-behaviour/">CEDMO</source>
-      <dc:creator>CEDMO</dc:creator>
-      <description>&lt;p&gt;スロバキアの医療分野における偽情報の影響を、利用者の認識と行動から実証分析。中東欧の医療偽情報の実態。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 医療偽情報の学術的実証研究&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; CEDMO / 2026-08-28 12:47:29&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★☆☆ (3/5)&lt;/p&gt;</description>
-      <pubDate>Fri, 28 Aug 2026 12:47:29 GMT</pubDate>
-      <category>重要度3</category>
+      <title>[★4] (08/28 11:42) 裁判官が国防総省のAnthropicブラックリスト指定を阻止</title>
+      <link>https://kaztaira.github.io/research-feed/go/9d15d740e813.html</link>
+      <guid isPermaLink="false">urn:research:20260828:9d15d740e813</guid>
+      <source url="https://www.axios.com/2026/08/28/judge-blocks-pentagon-anthropic-blacklist">Axios</source>
+      <dc:creator>Axios</dc:creator>
+      <description>&lt;p&gt;連邦裁判官が国防総省によるAI企業Anthropicのブラックリスト指定を違憲として無効に。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 裁判所が国防総省のAI企業ブラックリスト化を阻止、技術業界への政府介入に一石。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Axios / 2026-08-28 02:42:42&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
+      <pubDate>Fri, 28 Aug 2026 02:42:42 GMT</pubDate>
+      <category>重要度4</category>
+    </item>
+    <item>
+      <title>[★4] (08/26 12:28) AI生成画像がパキスタン元首相の病院訪問と偽って関連付けられる</title>
+      <link>https://kaztaira.github.io/research-feed/go/1983e8f0f9ec.html</link>
+      <guid isPermaLink="false">urn:research:20260826:1983e8f0f9ec</guid>
+      <source url="https://factcheck.afp.com/doc.afp.com.C63T4G4">AFP Fact Check</source>
+      <dc:creator>AFP Fact Check</dc:creator>
+      <description>&lt;p&gt;AI生成画像がパキスタン元首相の病院訪問に関する偽情報に利用。政治的誤情報の新たな手法。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; AI画像が政治家の健康状態に関する偽情報に利用され、メディアの信頼性を脅かす。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; AFP Fact Check / 2026-08-26 03:28:49&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
+      <pubDate>Wed, 26 Aug 2026 03:28:49 GMT</pubDate>
+      <category>重要度4</category>
       <category>disinformation</category>
+      <category>misinformation</category>
     </item>
     <item>
       <title>[★5] (08/27 00:25) AIが中国の対日情報戦の障壁を下げている</title>
