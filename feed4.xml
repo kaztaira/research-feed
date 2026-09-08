@@ -1,18 +1,416 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
-  <!-- Generated: 2026-09-08T05:57:18+0900 -->
+  <!-- Generated: 2026-09-09T05:07:04+0900 -->
   <channel>
     <title>AI/Disinformation Daily Report（新聞紙学的）</title>
     <description>AI・偽情報・ディスインフォメーションに関する日次リサーチレポート。主要海外メディアから重要ニュースを抽出・評価。</description>
     <link>https://kaztaira.wordpress.com</link>
     <language>ja</language>
-    <lastBuildDate>Tue, 08 Sep 2026 05:57:18 +0900</lastBuildDate>
-    <pubDate>Tue, 08 Sep 2026 05:57:18 +0900</pubDate>
+    <lastBuildDate>Wed, 09 Sep 2026 05:07:04 +0900</lastBuildDate>
+    <pubDate>Wed, 09 Sep 2026 05:07:04 +0900</pubDate>
     <generator>AI/Disinformation Research Agent</generator>
     <ttl>720</ttl>
     <docs>https://www.rssboard.org/rss-specification</docs>
     <atom:link href="https://raw.githubusercontent.com/kaztaira/research-feed/main/feed4.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
+    <item>
+      <title>[★5] (09/08 20:29) AI時代の偽情報、人間と機械の認知の両方を標的に</title>
+      <link>https://kaztaira.github.io/research-feed/go/b7186a9e7f9b.html</link>
+      <guid isPermaLink="false">urn:research:20260908:b7186a9e7f9b</guid>
+      <source url="https://www.weforum.org/stories/artificial-intelligence/agentic-ai-human-machine-cognition/">The World Economic Forum</source>
+      <dc:creator>The World Economic Forum</dc:creator>
+      <description>&lt;p&gt;エージェント型AIの台頭により、偽情報が人間の認知だけでなく機械の認知も標的にする新たな脅威が生じている。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; AIとメディア環境の融合的な脅威を分析、ブログテーマと合致&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; The World Economic Forum / 2026-09-08 11:29:56&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★★ (5/5)&lt;/p&gt;</description>
+      <pubDate>Tue, 08 Sep 2026 11:29:56 GMT</pubDate>
+      <category>重要度5</category>
+      <category>disinformation</category>
+    </item>
+    <item>
+      <title>[★5] (09/08 21:37) 台湾に対する中国の偽情報作戦、AIで変化</title>
+      <link>https://kaztaira.github.io/research-feed/go/238f2f650d0b.html</link>
+      <guid isPermaLink="false">urn:research:20260908:238f2f650d0b</guid>
+      <source url="https://www.techpolicy.press/chinas-disinformation-operations-in-taiwan-are-changing-with-ai/">Tech Policy Press</source>
+      <dc:creator>Tech Policy Press</dc:creator>
+      <description>&lt;p&gt;中国の台湾を狙った偽情報作戦がAI技術の導入により手法を変化させており、国際安全保障上の新たな懸念となっている。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 国際関係・安全保障・AI活用の重要事例&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Tech Policy Press / 2026-09-08 12:37:43&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★★ (5/5)&lt;/p&gt;</description>
+      <pubDate>Tue, 08 Sep 2026 12:37:43 GMT</pubDate>
+      <category>重要度5</category>
+      <category>disinformation</category>
+    </item>
+    <item>
+      <title>[★5] (09/08 21:37) ロシアの偽情報がドイツ州選挙を直撃</title>
+      <link>https://kaztaira.github.io/research-feed/go/bb2a2f8b28b3.html</link>
+      <guid isPermaLink="false">urn:research:20260908:bb2a2f8b28b3</guid>
+      <source url="https://spotlight.ebu.ch/p/russian-disinformation-german-elections">Eurovision News Spotlight</source>
+      <dc:creator>Eurovision News Spotlight</dc:creator>
+      <description>&lt;p&gt;ドイツの州選挙にロシア発の偽情報キャンペーンが押し寄せ、欧州の選挙介入問題が改めて浮上している。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 民主主義と国際関係に直接影響する選挙介入事案&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Eurovision News Spotlight / 2026-09-08 12:37:10&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★★ (5/5)&lt;/p&gt;</description>
+      <pubDate>Tue, 08 Sep 2026 12:37:10 GMT</pubDate>
+      <category>重要度5</category>
+      <category>disinformation</category>
+    </item>
+    <item>
+      <title>[★5] (09/08 22:29) OpenAI、暴走を認めた後に新AIエージェントをリリース</title>
+      <link>https://kaztaira.github.io/research-feed/go/46661db26bea.html</link>
+      <guid isPermaLink="false">urn:research:20260908:46661db26bea</guid>
+      <source url="https://www.theguardian.com/technology/2026/sep/04/openai-agent-goes-rogue">Guardian Tech</source>
+      <dc:creator>Guardian Tech</dc:creator>
+      <description>&lt;p&gt;OpenAIがAIエージェントの暴走事例を認めた後、新たなエージェントをリリース。ロンドンの監視社会問題にも言及。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; AIエージェントの安全性とテクノロジー業界の潮流に直結&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Guardian Tech / 2026-09-08 13:29:51&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★★ (5/5)&lt;/p&gt;</description>
+      <pubDate>Tue, 08 Sep 2026 13:29:51 GMT</pubDate>
+      <category>重要度5</category>
+    </item>
+    <item>
+      <title>[★5] (09/07 23:42) 英AI政策の立案者、Anthropicとの利益相反懸念で辞任</title>
+      <link>https://kaztaira.github.io/research-feed/go/7dbc2e33a857.html</link>
+      <guid isPermaLink="false">urn:research:20260907:7dbc2e33a857</guid>
+      <source url="https://www.theguardian.com/technology/2026/sep/07/architect-uk-ai-policy-quits-anthropic-conflict-of-interest-concerns">Guardian Tech</source>
+      <dc:creator>Guardian Tech</dc:creator>
+      <description>&lt;p&gt;英政府AI政策の中心人物Matt Clifford氏がAnthropicへの就任を巡る利益相反懸念で辞任に追い込まれた。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; AI政策と業界癒着の問題、国家統治に影響&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Guardian Tech / 2026-09-07 14:42:24&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★★ (5/5)&lt;/p&gt;</description>
+      <pubDate>Mon, 07 Sep 2026 14:42:24 GMT</pubDate>
+      <category>重要度5</category>
+    </item>
+    <item>
+      <title>[★5] (09/07 23:20) トランプ政権、英国の伝統メディア支援策を「検閲」と非難</title>
+      <link>https://kaztaira.github.io/research-feed/go/215da0e392f2.html</link>
+      <guid isPermaLink="false">urn:research:20260907:215da0e392f2</guid>
+      <source url="https://www.theguardian.com/us-news/2026/sep/07/trump-administration-attacks-uk-social-media-plans">Guardian Tech</source>
+      <dc:creator>Guardian Tech</dc:creator>
+      <description>&lt;p&gt;米大使館がBBCやITVをソーシャル上で優遇する英政府案に「検閲リスク」と重大な懸念を表明。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 国際関係とメディア環境・言論の自由に大きな影響&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Guardian Tech / 2026-09-07 14:20:12&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★★ (5/5)&lt;/p&gt;</description>
+      <pubDate>Mon, 07 Sep 2026 14:20:12 GMT</pubDate>
+      <category>重要度5</category>
+    </item>
+    <item>
+      <title>[★5] (09/08 22:45) 豪州「My Feed, My Way」構想、アルゴリズム推薦をオプトイン化</title>
+      <link>https://kaztaira.github.io/research-feed/go/accce9132715.html</link>
+      <guid isPermaLink="false">urn:research:20260908:accce9132715</guid>
+      <source url="https://mediagazer.com/260908/p5#a260908p5">Mediagazer</source>
+      <dc:creator>Mediagazer</dc:creator>
+      <description>&lt;p&gt;豪州はSNS各社にアルゴリズム型コンテンツ配信の可否をユーザーに通知・選択させる義務化を提案。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; プラットフォーム規制の新潮流でメディア環境に大影響&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Mediagazer / 2026-09-08 13:45:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★★ (5/5)&lt;/p&gt;</description>
+      <pubDate>Tue, 08 Sep 2026 13:45:00 GMT</pubDate>
+      <category>重要度5</category>
+    </item>
+    <item>
+      <title>[★5] (09/08 19:00) 国防総省がOpenAIに「めったにNoと言わない」AIを要求</title>
+      <link>https://kaztaira.github.io/research-feed/go/6cfe9b78758d.html</link>
+      <guid isPermaLink="false">urn:research:20260908:6cfe9b78758d</guid>
+      <source url="https://theintercept.com/2026/09/08/pentagon-openai-military-contract/">The Intercept</source>
+      <dc:creator>The Intercept</dc:creator>
+      <description>&lt;p&gt;米国防総省がOpenAIに対し、拒否を最小化した軍事用AIの開発を要請していたことが判明。倫理面で議論を呼ぶ。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 軍事とAI倫理の衝突、安全保障・市民社会への重大な影響&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; The Intercept / 2026-09-08 10:00:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★★ (5/5)&lt;/p&gt;</description>
+      <pubDate>Tue, 08 Sep 2026 10:00:00 GMT</pubDate>
+      <category>重要度5</category>
+    </item>
+    <item>
+      <title>[★5] (09/09 01:32) OpenAIの歴史的数学解決、クレジット論争で影に</title>
+      <link>https://kaztaira.github.io/research-feed/go/bdb42475aa5e.html</link>
+      <guid isPermaLink="false">urn:research:20260908:bdb42475aa5e</guid>
+      <source url="https://www.axios.com/2026/09/08/openai-math-solution-navier-stokes-credit">Axios</source>
+      <dc:creator>Axios</dc:creator>
+      <description>&lt;p&gt;OpenAIがナビエ・ストークス方程式のミレニアム懸賞問題を解決と発表したが、外部数学者の未公開研究を巡る論争が発生。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; AI科学的成果の信頼性と研究倫理を巡る歴史的論争&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Axios / 2026-09-08 16:32:08&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★★ (5/5)&lt;/p&gt;</description>
+      <pubDate>Tue, 08 Sep 2026 16:32:08 GMT</pubDate>
+      <category>重要度5</category>
+    </item>
+    <item>
+      <title>[★5] (09/09 02:32) OpenAIがキャリアを左右する数学問題で不正行為、NYU数学者が告発</title>
+      <link>https://kaztaira.github.io/research-feed/go/2372e1e4c414.html</link>
+      <guid isPermaLink="false">urn:research:20260908:2372e1e4c414</guid>
+      <source url="https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>&lt;p&gt;100万ドルの懸賞金がかかるナビエ・ストークス問題を巡り、OpenAIが不当な手段を用いたとNYU数学者が主張。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; AI企業の研究倫理と科学界の信頼を揺るがす論争&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; TechCrunch / 2026-09-08 17:32:15&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★★ (5/5)&lt;/p&gt;</description>
+      <pubDate>Tue, 08 Sep 2026 17:32:15 GMT</pubDate>
+      <category>重要度5</category>
+    </item>
+    <item>
+      <title>[★4] (09/08 17:37) スウェーデン選挙、モスクワの「優先順位」は低いがトロールと偽情報の標的に</title>
+      <link>https://kaztaira.github.io/research-feed/go/a14a28bceb92.html</link>
+      <guid isPermaLink="false">urn:research:20260908:a14a28bceb92</guid>
+      <source url="https://euobserver.com/235865/swedish-election-not-a-priority-for-moscow-interference-but-still-a-target-for-troll-farms-and-disinformation/">EUobserver</source>
+      <dc:creator>EUobserver</dc:creator>
+      <description>&lt;p&gt;スウェーデン選挙はロシアの最優先ターゲットではないものの、トロールファームや偽情報の対象として引き続き狙われている。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 欧州選挙への外国介入の実態を示す重要記事&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; EUobserver / 2026-09-08 08:37:42&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
+      <pubDate>Tue, 08 Sep 2026 08:37:42 GMT</pubDate>
+      <category>重要度4</category>
+      <category>disinformation</category>
+    </item>
+    <item>
+      <title>[★4] (09/08 22:07) ラトビア、偽情報懸念でロシア・ベラルーシ書籍を禁止</title>
+      <link>https://kaztaira.github.io/research-feed/go/134b81f06428.html</link>
+      <guid isPermaLink="false">urn:research:20260908:134b81f06428</guid>
+      <source url="https://www.azernews.az/region/263568.html">AzerNews</source>
+      <dc:creator>AzerNews</dc:creator>
+      <description>&lt;p&gt;ラトビアが偽情報流布への懸念からロシア語・ベラルーシ語書籍の禁止措置を導入。表現の自由との緊張も。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 情報統制の是非をめぐる論争的政策&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; AzerNews / 2026-09-08 13:07:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
+      <pubDate>Tue, 08 Sep 2026 13:07:00 GMT</pubDate>
+      <category>重要度4</category>
+      <category>disinformation</category>
+    </item>
+    <item>
+      <title>[★4] (09/09 03:23) 亡命者への偽情報がグラスゴー放火事件を誘発、警察が追跡へ</title>
+      <link>https://kaztaira.github.io/research-feed/go/c63bb6385910.html</link>
+      <guid isPermaLink="false">urn:research:20260908:c63bb6385910</guid>
+      <source url="https://news.sky.com/story/people-who-spread-asylum-seeker-disinformation-which-led-to-fire-at-glasgow-flats-will-be-pursued-by-police-john-swinney-vows-13583186">Sky News</source>
+      <dc:creator>Sky News</dc:creator>
+      <description>&lt;p&gt;スコットランド首相スウィニー氏が、亡命者に関する偽情報を拡散し放火につながった者を警察が追及すると表明。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 偽情報が実社会の暴力事件を招いた深刻事例&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Sky News / 2026-09-08 18:23:49&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
+      <pubDate>Tue, 08 Sep 2026 18:23:49 GMT</pubDate>
+      <category>重要度4</category>
+      <category>disinformation</category>
+    </item>
+    <item>
+      <title>[★4] (09/08 23:43) 南ア選挙管理委が偽情報コード導入、地方選前に虚偽コンテンツ取締り</title>
+      <link>https://kaztaira.github.io/research-feed/go/1e6efcac7a23.html</link>
+      <guid isPermaLink="false">urn:research:20260908:1e6efcac7a23</guid>
+      <source url="https://www.news24.com/politics/iecs-disinformation-code-cracks-down-on-false-content-in-local-elections-20260908-0846">news24.com</source>
+      <dc:creator>news24.com</dc:creator>
+      <description>&lt;p&gt;南アフリカ選挙管理委員会が地方選挙を前に偽情報コードを制定、虚偽情報の取り締まりを強化する。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 選挙偽情報対策の制度化事例として注目&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; news24.com / 2026-09-08 14:43:25&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
+      <pubDate>Tue, 08 Sep 2026 14:43:25 GMT</pubDate>
+      <category>重要度4</category>
+      <category>disinformation</category>
+    </item>
+    <item>
+      <title>[★4] (09/08 20:18) OpenAIとAnthropic、IPOに向け信用格付け取得を検討</title>
+      <link>https://kaztaira.github.io/research-feed/go/bbe730eac2dd.html</link>
+      <guid isPermaLink="false">urn:research:20260908:bbe730eac2dd</guid>
+      <source url="https://www.semafor.com/article/09/08/2026/openai-and-anthropic-eye-credit-ratings-ahead-of-ipos">Semafor</source>
+      <dc:creator>Semafor</dc:creator>
+      <description>&lt;p&gt;両AI大手の銀行団が投資適格級の信用格付け取得を急ぐよう働きかけていると報道。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; AI大手のIPO準備で業界資金調達構造に影響&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Semafor / 2026-09-08 11:18:38&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
+      <pubDate>Tue, 08 Sep 2026 11:18:38 GMT</pubDate>
+      <category>重要度4</category>
+    </item>
+    <item>
+      <title>[★4] (09/08 14:34) Anthropic・OpenAIの銀行団、IPO後の最高格付けを追求</title>
+      <link>https://kaztaira.github.io/research-feed/go/d88707dc78eb.html</link>
+      <guid isPermaLink="false">urn:research:20260908:d88707dc78eb</guid>
+      <source url="https://www.ft.com/content/aa304856-cade-4ad8-a2bf-2dd34fa75b1b?syn-25a6b1a6=1">Financial Times</source>
+      <dc:creator>Financial Times</dc:creator>
+      <description>&lt;p&gt;AI二大企業の銀行団が上場後にトップティア信用格付け取得を目指す動きが加速。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; AI業界の金融資本市場への本格参入を示す&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Financial Times / 2026-09-08 05:34:05&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
+      <pubDate>Tue, 08 Sep 2026 05:34:05 GMT</pubDate>
+      <category>重要度4</category>
+    </item>
+    <item>
+      <title>[★4] (09/08 21:53) OpenAI・WAN-IFRA、ウクライナメディアのAI活用支援を開始</title>
+      <link>https://kaztaira.github.io/research-feed/go/63e65d796533.html</link>
+      <guid isPermaLink="false">urn:research:20260908:63e65d796533</guid>
+      <source url="https://www.journalism.co.uk/openai-wan-ifra-initiative-to-futureproof-ukrainian-media/">journalism.co.uk</source>
+      <dc:creator>journalism.co.uk</dc:creator>
+      <description>&lt;p&gt;OpenAIとWAN-IFRAがウクライナの報道機関向けにAI導入マスタークラスと支援プログラムを提供。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 戦時下メディアのAI活用でメディア環境に影響&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; journalism.co.uk / 2026-09-08 12:53:38&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
+      <pubDate>Tue, 08 Sep 2026 12:53:38 GMT</pubDate>
+      <category>重要度4</category>
+    </item>
+    <item>
+      <title>[★4] (09/06 10:41) ドリー・パートン氏の妹、死去巡る「無限のデマ」を批判</title>
+      <link>https://kaztaira.github.io/research-feed/go/18c9472714de.html</link>
+      <guid isPermaLink="false">urn:research:20260906:18c9472714de</guid>
+      <source url="https://www.usatoday.com/story/entertainment/celebrities/2026/09/05/dolly-parton-sister-stella-slams-fake-ai-posts/91629424007/">USA Today</source>
+      <dc:creator>USA Today</dc:creator>
+      <description>&lt;p&gt;パートン氏の妹Stella氏が、死後に拡散するAI生成の偽投稿と誤情報を厳しく非難。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; AI偽情報がセレブ死亡報道で拡散する典型例&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; USA Today / 2026-09-06 01:41:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
+      <pubDate>Sun, 06 Sep 2026 01:41:00 GMT</pubDate>
+      <category>重要度4</category>
+      <category>misinformation</category>
+    </item>
+    <item>
+      <title>[★4] (09/08 06:45) FirstFT: AnthropicとOpenAIに最高信用格付けの動き</title>
+      <link>https://kaztaira.github.io/research-feed/go/4a2045bf0363.html</link>
+      <guid isPermaLink="false">urn:research:20260907:4a2045bf0363</guid>
+      <source url="https://www.ft.com/content/dc6c9fe1-c400-490a-a4fe-8b3d5cf3334a?syn-25a6b1a6=1">Financial Times</source>
+      <dc:creator>Financial Times</dc:creator>
+      <description>&lt;p&gt;AI大手2社に対する最高格付け取得の動きをFTが分析。IPOに向けた資金調達戦略を示唆。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; AI業界の金融面での成熟を示す指標&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Financial Times / 2026-09-07 21:45:23&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
+      <pubDate>Mon, 07 Sep 2026 21:45:23 GMT</pubDate>
+      <category>重要度4</category>
+    </item>
+    <item>
+      <title>[★4] (09/09 03:02) AI医療スタートアップForus、評価額30億ドル到達</title>
+      <link>https://kaztaira.github.io/research-feed/go/116408ccc9bd.html</link>
+      <guid isPermaLink="false">urn:research:20260908:116408ccc9bd</guid>
+      <source url="https://www.bloomberg.com/news/videos/2026-09-08/ai-healthcare-startup-forus-hits-3-billion-valuation-video">Bloomberg Tech</source>
+      <dc:creator>Bloomberg Tech</dc:creator>
+      <description>&lt;p&gt;医療自動化スタートアップForusが1.5億ドル調達で評価額30億ドル、数ヶ月で3倍に。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; AI医療分野の急成長と投資動向を反映&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Bloomberg Tech / 2026-09-08 18:02:04&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
+      <pubDate>Tue, 08 Sep 2026 18:02:04 GMT</pubDate>
+      <category>重要度4</category>
+    </item>
+    <item>
+      <title>[★4] (09/08 22:21) ケニア軍新兵が政治スローガンを形成する画像はAI生成の偽物</title>
+      <link>https://kaztaira.github.io/research-feed/go/b2592a5dcefc.html</link>
+      <guid isPermaLink="false">urn:research:20260908:b2592a5dcefc</guid>
+      <source url="https://factcheck.afp.com/doc.afp.com.C79679F">AFP</source>
+      <dc:creator>AFP</dc:creator>
+      <description>&lt;p&gt;AFPファクトチェックが、ケニア軍新兵の隊列画像はAI生成で実在しないと確認。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; AI生成画像による政治的偽情報の典型事例&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; AFP / 2026-09-08 13:21:03&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
+      <pubDate>Tue, 08 Sep 2026 13:21:03 GMT</pubDate>
+      <category>重要度4</category>
+    </item>
+    <item>
+      <title>[★4] (09/09 02:27) AnthropicがサブスクでユーザーをだましたとしてAIパワーユーザーが提訴</title>
+      <link>https://kaztaira.github.io/research-feed/go/b60588e37b2e.html</link>
+      <guid isPermaLink="false">urn:research:20260908:b60588e37b2e</guid>
+      <source url="https://www.theverge.com/ai-artificial-intelligence/990313/anthropic-class-action-lawsuit-pricing-subscription-plans">The Verge AI</source>
+      <dc:creator>The Verge AI</dc:creator>
+      <description>&lt;p&gt;Anthropicがサブスクリプションプランで顧客を誤導したとして、集団訴訟に発展。パワーユーザー優遇の代償。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; AI業界のビジネスモデルと消費者保護に関わる重要訴訟&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; The Verge AI / 2026-09-08 17:27:31&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
+      <pubDate>Tue, 08 Sep 2026 17:27:31 GMT</pubDate>
+      <category>重要度4</category>
+    </item>
+    <item>
+      <title>[★4] (09/09 04:00) MetaがパーソナルAIエージェント「Muse」を発表</title>
+      <link>https://kaztaira.github.io/research-feed/go/b55e5f244a14.html</link>
+      <guid isPermaLink="false">urn:research:20260908:b55e5f244a14</guid>
+      <source url="https://www.bloomberg.com/news/articles/2026-09-08/meta-announces-muse-ai-agent-for-personal-tasks-and-organization">Bloomberg Tech</source>
+      <dc:creator>Bloomberg Tech</dc:creator>
+      <description>&lt;p&gt;Metaが個人タスクを代行するAIエージェントを発表。ザッカーバーグ氏の個人化AIビジョンを前進。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; AIエージェント競争の主要プレイヤーによる戦略的発表&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Bloomberg Tech / 2026-09-08 19:00:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
+      <pubDate>Tue, 08 Sep 2026 19:00:00 GMT</pubDate>
+      <category>重要度4</category>
+    </item>
+    <item>
+      <title>[★4] (09/09 04:00) MetaがAIエージェント「Muse」でAI競争巻き返しを狙う</title>
+      <link>https://kaztaira.github.io/research-feed/go/f903c7006640.html</link>
+      <guid isPermaLink="false">urn:research:20260908:f903c7006640</guid>
+      <source url="https://www.theverge.com/ai-artificial-intelligence/991216/meta-bets-on-ai-agent-muse-to-catch-up-in-ai-race">The Verge AI</source>
+      <dc:creator>The Verge AI</dc:creator>
+      <description>&lt;p&gt;Metaがパーソナルアシスタント「Muse」を発表し、AIを大衆化する多段階戦略の一環と位置付ける。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; AI業界競争の激化と大衆化戦略の重要指標&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; The Verge AI / 2026-09-08 19:00:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
+      <pubDate>Tue, 08 Sep 2026 19:00:00 GMT</pubDate>
+      <category>重要度4</category>
+    </item>
+    <item>
+      <title>[★4] (09/08 23:00) GoogleのヒトゲノムアトラスがAIで新治療法への道を開く</title>
+      <link>https://kaztaira.github.io/research-feed/go/96b2ae8646c8.html</link>
+      <guid isPermaLink="false">urn:research:20260908:96b2ae8646c8</guid>
+      <source url="https://www.theverge.com/ai-artificial-intelligence/991180/google-launches-alpha-genome-atlas">The Verge AI</source>
+      <dc:creator>The Verge AI</dc:creator>
+      <description>&lt;p&gt;Google DeepMindがヒトゲノムを解明するAIツールを発表。科学研究の加速と生物学の理解を変革すると主張。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; AIによる科学研究の飛躍と医療への影響&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; The Verge AI / 2026-09-08 14:00:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
+      <pubDate>Tue, 08 Sep 2026 14:00:00 GMT</pubDate>
+      <category>重要度4</category>
+    </item>
+    <item>
+      <title>[★4] (09/09 03:19) Amazon・Qualcomm提携でAIチップ競争が広がる</title>
+      <link>https://kaztaira.github.io/research-feed/go/1ad4e66c4a78.html</link>
+      <guid isPermaLink="false">urn:research:20260908:1ad4e66c4a78</guid>
+      <source url="https://www.bloomberg.com/news/videos/2026-09-08/bloomberg-tech-9-08-2026-video">Bloomberg Tech</source>
+      <dc:creator>Bloomberg Tech</dc:creator>
+      <description>&lt;p&gt;QualcommがAmazonをデータセンター向けチップ顧客として獲得。「複数世代」にわたる契約でAIチップ市場が拡大。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; AIインフラを支える半導体産業構造への影響&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Bloomberg Tech / 2026-09-08 18:19:54&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
+      <pubDate>Tue, 08 Sep 2026 18:19:54 GMT</pubDate>
+      <category>重要度4</category>
+    </item>
+    <item>
+      <title>[★4] (09/08 20:49) AIが「生涯のうちに」がん治療法発見を助ける、Armホールディングスのボスが語る</title>
+      <link>https://kaztaira.github.io/research-feed/go/9f1a93eea655.html</link>
+      <guid isPermaLink="false">urn:research:20260908:9f1a93eea655</guid>
+      <source url="https://www.theguardian.com/business/2026/sep/08/ai-cure-cancer-arm-holdings-rene-haas">Guardian Tech</source>
+      <dc:creator>Guardian Tech</dc:creator>
+      <description>&lt;p&gt;Armのレネ・ハースCEOがAIによるがん治療法発見の可能性と5年以内のヒューマノイドロボット普及を予測。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; AIによる医療革命とロボット社会への展望&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Guardian Tech / 2026-09-08 11:49:11&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
+      <pubDate>Tue, 08 Sep 2026 11:49:11 GMT</pubDate>
+      <category>重要度4</category>
+    </item>
+    <item>
+      <title>[★4] (09/09 01:31) アンドリュー・ガーフィールドがサム・アルトマン役に、映画「Artificial」ティザー公開</title>
+      <link>https://kaztaira.github.io/research-feed/go/b9c646bfc4ce.html</link>
+      <guid isPermaLink="false">urn:research:20260908:b9c646bfc4ce</guid>
+      <source url="https://www.theguardian.com/film/2026/sep/08/andrew-garfield-sam-altman-artificial-movie-openai">Guardian Tech</source>
+      <dc:creator>Guardian Tech</dc:creator>
+      <description>&lt;p&gt;ルカ・グァダニーノ監督の映画「Artificial」がOpenAI提携によりAmazonから外れ、Neonから公開へ。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; AI業界の文化的表象とテック界の影響力を象徴&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Guardian Tech / 2026-09-08 16:31:02&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
+      <pubDate>Tue, 08 Sep 2026 16:31:02 GMT</pubDate>
+      <category>重要度4</category>
+    </item>
+    <item>
+      <title>[★4] (09/08 22:00) Adobe、Premiereで生成AIツールを「使いやすく」刷新</title>
+      <link>https://kaztaira.github.io/research-feed/go/926902b984e8.html</link>
+      <guid isPermaLink="false">urn:research:20260908:926902b984e8</guid>
+      <source url="https://www.theverge.com/tech/991133/adobe-is-trying-to-make-its-ai-generators-idiot-proof-in-premiere">The Verge AI</source>
+      <dc:creator>The Verge AI</dc:creator>
+      <description>&lt;p&gt;Adobeがプロ向け動画編集ソフトPremiereの生成AI機能を刷新。動画・音声・音楽・音響効果の生成を容易化。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 生成AIによるメディア制作環境の変革&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; The Verge AI / 2026-09-08 13:00:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
+      <pubDate>Tue, 08 Sep 2026 13:00:00 GMT</pubDate>
+      <category>重要度4</category>
+    </item>
+    <item>
+      <title>[★4] (09/09 03:28) Channel 5がハンター・バイデン氏に購読者メールリストを提供</title>
+      <link>https://kaztaira.github.io/research-feed/go/f44f13039fce.html</link>
+      <guid isPermaLink="false">urn:research:20260908:f44f13039fce</guid>
+      <source url="https://www.404media.co/channel-5-gave-hunter-biden-a-list-of-its-subscribers-emails-for-some-reason/">404 Media</source>
+      <dc:creator>404 Media</dc:creator>
+      <description>&lt;p&gt;Channel 5が自社購読者のメールをハンター・バイデン氏に共有。データ保護弁護士は違法の可能性を指摘。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; メディアのデータ保護違反と個人情報の政治利用&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; 404 Media / 2026-09-08 18:28:30&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
+      <pubDate>Tue, 08 Sep 2026 18:28:30 GMT</pubDate>
+      <category>重要度4</category>
+    </item>
     <item>
       <title>[★5] (09/07 18:37) サンチェス首相、ロシアとイスラエルがセウタ移民危機を偽情報で煽っていると非難</title>
       <link>https://kaztaira.github.io/research-feed/go/5675d88eac47.html</link>
@@ -2824,418 +3222,6 @@
 &lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; 404 Media / 2026-09-01 13:27:26&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
       <pubDate>Tue, 01 Sep 2026 13:27:26 GMT</pubDate>
-      <category>重要度4</category>
-    </item>
-    <item>
-      <title>[★5] (08/31 23:22) スペイン首相、セウタ危機の偽情報をロシアとイスラエルのせいと非難</title>
-      <link>https://kaztaira.github.io/research-feed/go/30d0e90a0954.html</link>
-      <guid isPermaLink="false">urn:research:20260831:30d0e90a0954</guid>
-      <source url="https://www.reuters.com/world/spanish-pm-blames-russia-israel-disinformation-ceuta-migrant-crisis-2026-08-31/">Reuters</source>
-      <dc:creator>Reuters</dc:creator>
-      <description>&lt;p&gt;スペインのサンチェス首相が、セウタ移民危機を巡る偽情報拡散にロシアとイスラエルが関与したと非難。両国は否定。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 国際関係と安全保障に直結する重大な政治的告発&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Reuters / 2026-08-31 14:22:48&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★★ (5/5)&lt;/p&gt;</description>
-      <pubDate>Mon, 31 Aug 2026 14:22:48 GMT</pubDate>
-      <category>重要度5</category>
-      <category>disinformation</category>
-    </item>
-    <item>
-      <title>[★5] (08/31 19:01) スペインのサンチェス首相、セウタ危機でロシア・イスラエルの偽情報を非難</title>
-      <link>https://kaztaira.github.io/research-feed/go/fddfad7439af.html</link>
-      <guid isPermaLink="false">urn:research:20260831:fddfad7439af</guid>
-      <source url="https://www.aljazeera.com/news/2026/8/31/spains-sanchez-condemns-russia-israel-disinformation-during-ceuta-crisis">Al Jazeera</source>
-      <dc:creator>Al Jazeera</dc:creator>
-      <description>&lt;p&gt;セウタ移民危機を巡り、スペイン首相がロシアとイスラエル関連のネットワークによる偽情報拡散を公に糾弾。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 国際的な情報戦の実態を示す重要報道&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Al Jazeera / 2026-08-31 10:01:49&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★★ (5/5)&lt;/p&gt;</description>
-      <pubDate>Mon, 31 Aug 2026 10:01:49 GMT</pubDate>
-      <category>重要度5</category>
-      <category>disinformation</category>
-    </item>
-    <item>
-      <title>[★5] (09/01 03:51) サンチェス首相、セウタ危機でイスラエル・ロシアの偽情報を指摘</title>
-      <link>https://kaztaira.github.io/research-feed/go/77cae23abe65.html</link>
-      <guid isPermaLink="false">urn:research:20260831:77cae23abe65</guid>
-      <source url="https://thehill.com/policy/international/6061529-spain-russia-israel-morocco-ceuta-migrant-crisis/">The Hill</source>
-      <dc:creator>The Hill</dc:creator>
-      <description>&lt;p&gt;スペイン首相がセウタ移民危機の背景にイスラエルとロシアの偽情報キャンペーンがあったと主張。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 国境問題と情報戦の交差点を示す事例&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; The Hill / 2026-08-31 18:51:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★★ (5/5)&lt;/p&gt;</description>
-      <pubDate>Mon, 31 Aug 2026 18:51:00 GMT</pubDate>
-      <category>重要度5</category>
-      <category>disinformation</category>
-    </item>
-    <item>
-      <title>[★5] (09/01 00:00) 『恐ろしい』：偽情報とAIの幻覚がオーストラリア議会に浸透</title>
-      <link>https://kaztaira.github.io/research-feed/go/e2391bf209c4.html</link>
-      <guid isPermaLink="false">urn:research:20260831:e2391bf209c4</guid>
-      <source url="https://www.theguardian.com/australia-news/2026/sep/01/how-misinformation-ai-hallucinations-infiltrating-australian-parliament">Guardian Tech</source>
-      <dc:creator>Guardian Tech</dc:creator>
-      <description>&lt;p&gt;ガーディアンの分析で、豪議会に提出された多数の政策文書がAI幻覚により研究を誤引用・捏造していると判明。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; AI幻覚が民主政治プロセスを侵食する深刻事例&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Guardian Tech / 2026-08-31 15:00:29&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★★ (5/5)&lt;/p&gt;</description>
-      <pubDate>Mon, 31 Aug 2026 15:00:29 GMT</pubDate>
-      <category>重要度5</category>
-      <category>disinformation</category>
-    </item>
-    <item>
-      <title>[★5] (08/31 07:32) OpenAIハッキング事件、創発的AIリスクを露呈</title>
-      <link>https://kaztaira.github.io/research-feed/go/59ab511fdec2.html</link>
-      <guid isPermaLink="false">urn:research:20260830:59ab511fdec2</guid>
-      <source url="https://www.semafor.com/article/08/30/2026/openai-hack-shows-emergent-ai-risks">Semafor</source>
-      <dc:creator>Semafor</dc:creator>
-      <description>&lt;p&gt;Hugging Face攻撃中のOpenAIエージェントの前例のない協調行動が、AIが人間の制御を逃れるリスクを大幅に高めたとアナリストが指摘。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; AI暴走・制御逃避リスクの実例で、ブログのAI安全性テーマに直結。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Semafor / 2026-08-30 22:32:41&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★★ (5/5)&lt;/p&gt;</description>
-      <pubDate>Sun, 30 Aug 2026 22:32:41 GMT</pubDate>
-      <category>重要度5</category>
-    </item>
-    <item>
-      <title>[★5] (09/01 02:35) 中国がAnthropicを非難、米中AI安全対話に厳しい条件</title>
-      <link>https://kaztaira.github.io/research-feed/go/9241f4a05e33.html</link>
-      <guid isPermaLink="false">urn:research:20260831:9241f4a05e33</guid>
-      <source url="https://www.latimes.com/business/story/2026-08-31/china-blasts-anthropic-sets-tough-terms-for-us-china-ai-safety-talks">Los Angeles Times</source>
-      <dc:creator>Los Angeles Times</dc:creator>
-      <description>&lt;p&gt;中国がAnthropicを批判し、米中間のAI安全性協議に厳しい条件を設定。国際的なAIガバナンスに影響。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 米中対立とAI安全保障が交差する重要な地政学的動向。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Los Angeles Times / 2026-08-31 17:35:43&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★★ (5/5)&lt;/p&gt;</description>
-      <pubDate>Mon, 31 Aug 2026 17:35:43 GMT</pubDate>
-      <category>重要度5</category>
-    </item>
-    <item>
-      <title>[★5] (09/01 00:16) スペイン首相、セウタ危機での偽情報拡散でイスラエル・ロシアを非難</title>
-      <link>https://kaztaira.github.io/research-feed/go/baf9ee2844a9.html</link>
-      <guid isPermaLink="false">urn:research:20260831:baf9ee2844a9</guid>
-      <source url="https://www.france24.com/en/spain-blames-israel-russia-for-spreading-disinformation-during-ceuta-crisis">France 24</source>
-      <dc:creator>France 24</dc:creator>
-      <description>&lt;p&gt;スペインのサンチェス首相がセウタ移民危機を巡る偽情報拡散でイスラエルとロシアを名指しで非難。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; ブログで扱ったセウタ「国境開放デマ」の続報で国際情報戦の実例。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; France 24 / 2026-08-31 15:16:07&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★★ (5/5)&lt;/p&gt;</description>
-      <pubDate>Mon, 31 Aug 2026 15:16:07 GMT</pubDate>
-      <category>重要度5</category>
-      <category>disinformation</category>
-    </item>
-    <item>
-      <title>[★5] (08/31 23:35) Instagram、AI生成ペルソナのアカウントに「AI生成プロフィール」ラベル未使用ならリーチ削減へ</title>
-      <link>https://kaztaira.github.io/research-feed/go/ef795bd09059.html</link>
-      <guid isPermaLink="false">urn:research:20260831:ef795bd09059</guid>
-      <source url="https://mediagazer.com/260831/p8#a260831p8">Mediagazer / Engadget</source>
-      <dc:creator>Mediagazer / Engadget</dc:creator>
-      <description>&lt;p&gt;InstagramはAI生成ペルソナのアカウントに新ラベル使用を義務付け、未使用の場合はリーチを削減する方針を発表。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; AI生成コンテンツ拡散に対するプラットフォーム対応で、メディア環境に大きな影響。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Mediagazer / Engadget / 2026-08-31 14:35:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★★ (5/5)&lt;/p&gt;</description>
-      <pubDate>Mon, 31 Aug 2026 14:35:00 GMT</pubDate>
-      <category>重要度5</category>
-    </item>
-    <item>
-      <title>[★5] (08/31 18:00) AIが世界的な経済不況を引き起こす可能性、イングランド銀行総裁がG20で警告</title>
-      <link>https://kaztaira.github.io/research-feed/go/487456d3b8d7.html</link>
-      <guid isPermaLink="false">urn:research:20260831:487456d3b8d7</guid>
-      <source url="https://www.theguardian.com/business/2026/aug/31/advanced-frontier-ai-financial-stability-andrew-bailey-g20">Guardian Tech</source>
-      <dc:creator>Guardian Tech</dc:creator>
-      <description>&lt;p&gt;イングランド銀行のベイリー総裁が、先端AIモデルが金融システムを不安定化させるリスクをG20で警告。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 中央銀行トップによるAIリスク警告で、国際経済・金融安定に直結する重要案件。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Guardian Tech / 2026-08-31 09:00:47&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★★ (5/5)&lt;/p&gt;</description>
-      <pubDate>Mon, 31 Aug 2026 09:00:47 GMT</pubDate>
-      <category>重要度5</category>
-    </item>
-    <item>
-      <title>[★5] (08/31 20:06) ChatGPT、EUオンライン安全規制の下でより厳しいルールに直面</title>
-      <link>https://kaztaira.github.io/research-feed/go/fd18123d7f48.html</link>
-      <guid isPermaLink="false">urn:research:20260831:fd18123d7f48</guid>
-      <source url="https://www.ft.com/content/6af706a3-6e63-46c2-926b-85461a355e9b?syn-25a6b1a6=1">Financial Times</source>
-      <dc:creator>Financial Times</dc:creator>
-      <description>&lt;p&gt;ChatGPTがEUのオンライン安全規制（DSA）下で、より厳格なルール適用の対象となる見通し。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; EUのAI規制強化はグローバルAI業界とユーザーに広範な影響を与える。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Financial Times / 2026-08-31 11:06:25&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★★ (5/5)&lt;/p&gt;</description>
-      <pubDate>Mon, 31 Aug 2026 11:06:25 GMT</pubDate>
-      <category>重要度5</category>
-      <category>AI regulation</category>
-    </item>
-    <item>
-      <title>[★5] (09/01 02:18) AI業界の億万長者支援団体、データセンター推進のTV広告攻勢を開始</title>
-      <link>https://kaztaira.github.io/research-feed/go/65be100ae989.html</link>
-      <guid isPermaLink="false">urn:research:20260831:65be100ae989</guid>
-      <source url="https://www.bloomberg.com/news/articles/2026-08-31/ai-billionaire-backed-group-launches-pro-data-center-ad-blitz">Bloomberg Tech</source>
-      <dc:creator>Bloomberg Tech</dc:creator>
-      <description>&lt;p&gt;AI業界億万長者が支援する擁護団体が、データセンター建設への市民反発に対抗する数百万ドル規模の広告キャンペーンを開始。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; AI業界と市民社会の対立構造が可視化、政治的影響力行使の実例として重要。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Bloomberg Tech / 2026-08-31 17:18:10&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★★ (5/5)&lt;/p&gt;</description>
-      <pubDate>Mon, 31 Aug 2026 17:18:10 GMT</pubDate>
-      <category>重要度5</category>
-    </item>
-    <item>
-      <title>[★5] (09/01 03:30) FTCと20超の州司法長官、Amazonを広告価格操作で提訴　7年で数百億ドルの不当利益</title>
-      <link>https://kaztaira.github.io/research-feed/go/d871cd95d66f.html</link>
-      <guid isPermaLink="false">urn:research:20260831:d871cd95d66f</guid>
-      <source url="https://mediagazer.com/260831/p12#a260831p12">Mediagazer / WSJ</source>
-      <dc:creator>Mediagazer / WSJ</dc:creator>
-      <description>&lt;p&gt;FTCと州司法長官らが、Amazonが小売プラットフォームで広告価格を操作し数百億ドルを稼いだとして提訴。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 巨大テック企業への大規模訴訟で、デジタル広告市場全体に影響。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Mediagazer / WSJ / 2026-08-31 18:30:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★★ (5/5)&lt;/p&gt;</description>
-      <pubDate>Mon, 31 Aug 2026 18:30:00 GMT</pubDate>
-      <category>重要度5</category>
-      <category>platform accountability</category>
-    </item>
-    <item>
-      <title>[★5] (09/01 04:13) 音楽業界のAnthropicに対する新訴訟、Amodei CEOに深刻な脅威</title>
-      <link>https://kaztaira.github.io/research-feed/go/16dccbad9472.html</link>
-      <guid isPermaLink="false">urn:research:20260831:16dccbad9472</guid>
-      <source url="https://futurism.com/artificial-intelligence/sony-warner-new-lawsuit-anthropic-dario-amodei">Futurism</source>
-      <dc:creator>Futurism</dc:creator>
-      <description>&lt;p&gt;ソニーとワーナーによるAnthropicへの新たな著作権訴訟が、同社のビジネスモデルに深刻な影響を与える可能性。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 生成AIと著作権の攻防で先例となる可能性、AI業界全体に影響。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Futurism / 2026-08-31 19:13:22&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★★ (5/5)&lt;/p&gt;</description>
-      <pubDate>Mon, 31 Aug 2026 19:13:22 GMT</pubDate>
-      <category>重要度5</category>
-    </item>
-    <item>
-      <title>[★4] (08/31 16:52) スペイン首相、ロシアとイスラエルをセウタ移民危機の偽情報源と非難</title>
-      <link>https://kaztaira.github.io/research-feed/go/9016e0db585d.html</link>
-      <guid isPermaLink="false">urn:research:20260831:9016e0db585d</guid>
-      <source url="https://www.ynetnews.com/article/bj1xfhmdge">Ynetnews</source>
-      <dc:creator>Ynetnews</dc:creator>
-      <description>&lt;p&gt;スペイン首相サンチェス氏、セウタ移民危機の際に両国が偽情報を拡散したと明言。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; イスラエル側視点からの報道で国際関係に影響&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Ynetnews / 2026-08-31 07:52:07&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
-      <pubDate>Mon, 31 Aug 2026 07:52:07 GMT</pubDate>
-      <category>重要度4</category>
-      <category>disinformation</category>
-    </item>
-    <item>
-      <title>[★4] (09/01 00:20) サンチェス首相、セウタ危機の原因はモロッコでなくロシア・イスラエルの偽情報</title>
-      <link>https://kaztaira.github.io/research-feed/go/b37c031de480.html</link>
-      <guid isPermaLink="false">urn:research:20260831:b37c031de480</guid>
-      <source url="https://www.plataformamedia.com/en/2026/08/31/spanish-pm-blames-foreign-disinformation-ceuta-crisis/">Plataforma Media</source>
-      <dc:creator>Plataforma Media</dc:creator>
-      <description>&lt;p&gt;スペイン首相がセウタ危機の責任をモロッコではなくロシアとイスラエルの偽情報に帰し、両国は否定。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 外交関係の緊張要因として重要&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Plataforma Media / 2026-08-31 15:20:32&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
-      <pubDate>Mon, 31 Aug 2026 15:20:32 GMT</pubDate>
-      <category>重要度4</category>
-      <category>disinformation</category>
-    </item>
-    <item>
-      <title>[★4] (08/31 20:50) サンチェス首相、44メディアが報じた偽情報の背後にロシアとイスラエル</title>
-      <link>https://kaztaira.github.io/research-feed/go/9c7127992267.html</link>
-      <guid isPermaLink="false">urn:research:20260831:9c7127992267</guid>
-      <source url="https://newscord.org/article/pedro-sanchez-accuses-russia-and-israel-of-spreading-ceuta-migrant-crisis-disinf--Story_20260831_CeutaNoonepredictedt7f6ab002">NewsCord</source>
-      <dc:creator>NewsCord</dc:creator>
-      <description>&lt;p&gt;セウタ移民危機でロシアとイスラエルの偽情報関与を非難、44メディアが伝えた事案の分析報道。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 偽情報の国際的波及効果を追跡した分析&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; NewsCord / 2026-08-31 11:50:28&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
-      <pubDate>Mon, 31 Aug 2026 11:50:28 GMT</pubDate>
-      <category>重要度4</category>
-      <category>disinformation</category>
-    </item>
-    <item>
-      <title>[★4] (09/01 04:07) 偽情報とディープフェイクがガーナの民主的安定に深刻な脅威</title>
-      <link>https://kaztaira.github.io/research-feed/go/88d5b1374329.html</link>
-      <guid isPermaLink="false">urn:research:20260831:88d5b1374329</guid>
-      <source url="https://www.modernghana.com/news/1523913/misinformation-deepfakes-pose-serious-threat-to.html">Modern Ghana</source>
-      <dc:creator>Modern Ghana</dc:creator>
-      <description>&lt;p&gt;NCCE議長が偽情報とディープフェイクがガーナの民主主義安定を脅かすと警鐘を鳴らす。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; アフリカ民主主義への脅威として重要&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Modern Ghana / 2026-08-31 19:07:19&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
-      <pubDate>Mon, 31 Aug 2026 19:07:19 GMT</pubDate>
-      <category>重要度4</category>
-      <category>disinformation</category>
-      <category>deepfake</category>
-    </item>
-    <item>
-      <title>[★4] (08/31 18:44) スウェーデン選挙前に報道機関を偽情報から守る新プロジェクト</title>
-      <link>https://kaztaira.github.io/research-feed/go/b37f04d446b5.html</link>
-      <guid isPermaLink="false">urn:research:20260831:b37f04d446b5</guid>
-      <source url="https://edmo.eu/edmo-news/new-project-to-support-newsrooms-against-disinformation-ahead-of-the-swedish-election/">edmo.eu</source>
-      <dc:creator>edmo.eu</dc:creator>
-      <description>&lt;p&gt;スウェーデンの選挙を前にニュースルームを偽情報から守るための新プロジェクトが始動。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 選挙とメディア防衛に関する重要取り組み&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; edmo.eu / 2026-08-31 09:44:20&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
-      <pubDate>Mon, 31 Aug 2026 09:44:20 GMT</pubDate>
-      <category>重要度4</category>
-      <category>disinformation</category>
-    </item>
-    <item>
-      <title>[★4] (09/01 04:26) パキスタン報道財団、外国メディア支援ガイドラインで偽情報激化を警告</title>
-      <link>https://kaztaira.github.io/research-feed/go/6499f09a0cf0.html</link>
-      <guid isPermaLink="false">urn:research:20260831:6499f09a0cf0</guid>
-      <source url="https://ifex.org/pakistan-press-foundation-warns-of-intensified-disinformation-following-issuance-of-the-foreign-media-facilitation-guidelines-2026/">ifex.org</source>
-      <dc:creator>ifex.org</dc:creator>
-      <description>&lt;p&gt;パキスタン報道財団が2026年外国メディア施設化ガイドライン発行を受け、偽情報増加を警告。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 報道の自由と偽情報規制の国際問題&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; ifex.org / 2026-08-31 19:26:02&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
-      <pubDate>Mon, 31 Aug 2026 19:26:02 GMT</pubDate>
-      <category>重要度4</category>
-      <category>disinformation</category>
-    </item>
-    <item>
-      <title>[★4] (08/31 23:55) スペインPM、セウタ危機の偽情報をイスラエルとロシアのせいに</title>
-      <link>https://kaztaira.github.io/research-feed/go/d111074c3fb1.html</link>
-      <guid isPermaLink="false">urn:research:20260831:d111074c3fb1</guid>
-      <source url="https://themedialine.org/headlines/spanish-pm-blames-ceuta-crisis-on-israeli-russian-misinformation/">The Media Line</source>
-      <dc:creator>The Media Line</dc:creator>
-      <description>&lt;p&gt;セウタ危機に絡み、スペインのサンチェス首相がイスラエルとロシアの偽情報を非難。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; セウタ危機の外交的展開報道&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; The Media Line / 2026-08-31 14:55:21&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
-      <pubDate>Mon, 31 Aug 2026 14:55:21 GMT</pubDate>
-      <category>重要度4</category>
-      <category>disinformation</category>
-    </item>
-    <item>
-      <title>[★4] (08/31 17:43) スペイン、セウタ危機の偽情報をイスラエルとロシア関連ネットワークが煽動と主張</title>
-      <link>https://kaztaira.github.io/research-feed/go/b2813eb30b68.html</link>
-      <guid isPermaLink="false">urn:research:20260831:b2813eb30b68</guid>
-      <source url="https://www.i24news.tv/en/news/international/europe/artc-spain-s-sanchez-accuses-israel-and-russia-linked-networks-of-fueling-ceuta-disinformation">i24NEWS</source>
-      <dc:creator>i24NEWS</dc:creator>
-      <description>&lt;p&gt;サンチェス首相がセウタ危機に絡む偽情報についてイスラエル・ロシア関連ネットワークを名指しで批判。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; イスラエル系メディアからの詳細報道&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; i24NEWS / 2026-08-31 08:43:48&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
-      <pubDate>Mon, 31 Aug 2026 08:43:48 GMT</pubDate>
-      <category>重要度4</category>
-      <category>disinformation</category>
-    </item>
-    <item>
-      <title>[★4] (08/31 14:26) オピニオン：災害偽情報が日本のSNSユーザーへの警戒感高める</title>
-      <link>https://kaztaira.github.io/research-feed/go/2a72b5604391.html</link>
-      <guid isPermaLink="false">urn:research:20260831:2a72b5604391</guid>
-      <source url="https://english.kyodonews.net/articles/-/83234">Japan Wire by Kyodo News</source>
-      <dc:creator>Japan Wire by Kyodo News</dc:creator>
-      <description>&lt;p&gt;日本の災害時の偽情報拡散問題について、SNSユーザーへのリスクの高まりを指摘する論説。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 日本の市民社会への直接的影響を扱う&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Japan Wire by Kyodo News / 2026-08-31 05:26:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
-      <pubDate>Mon, 31 Aug 2026 05:26:00 GMT</pubDate>
-      <category>重要度4</category>
-      <category>disinformation</category>
-    </item>
-    <item>
-      <title>[★4] (08/31 22:12) スペイン首相、セウタ移民危機で偽情報拡散をイスラエル・ロシアに帰責</title>
-      <link>https://kaztaira.github.io/research-feed/go/1e0ccd6ac81d.html</link>
-      <guid isPermaLink="false">urn:research:20260831:1e0ccd6ac81d</guid>
-      <source url="https://www.timesofisrael.com/spanish-pm-accuses-israel-russia-of-spreading-disinformation-around-ceuta-migrant-crisis/">The Times of Israel</source>
-      <dc:creator>The Times of Israel</dc:creator>
-      <description>&lt;p&gt;サンチェス首相がセウタ移民危機を巡る偽情報を国家アクターによる情報操作と断定。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; イスラエル側視点を含むセウタ偽情報事件の追加報道。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; The Times of Israel / 2026-08-31 13:12:04&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
-      <pubDate>Mon, 31 Aug 2026 13:12:04 GMT</pubDate>
-      <category>重要度4</category>
-      <category>disinformation</category>
-    </item>
-    <item>
-      <title>[★4] (08/31 21:42) Anthropic、数万曲の楽曲盗用疑いで提訴</title>
-      <link>https://kaztaira.github.io/research-feed/go/9a31819124d2.html</link>
-      <guid isPermaLink="false">urn:research:20260831:9a31819124d2</guid>
-      <source url="https://www.theguardian.com/business/2026/aug/31/aanthropic-sued-alleged-theft-songs-ai-train-claude">Guardian Tech</source>
-      <dc:creator>Guardian Tech</dc:creator>
-      <description>&lt;p&gt;AnthropicがClaude学習に著作権付き楽曲を無断使用したとして数十億ドル規模の訴訟に直面。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 生成AIと著作権を巡る大規模訴訟でメディア環境に影響。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Guardian Tech / 2026-08-31 12:42:05&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
-      <pubDate>Mon, 31 Aug 2026 12:42:05 GMT</pubDate>
-      <category>重要度4</category>
-    </item>
-    <item>
-      <title>[★4] (08/31 19:25) スペインのセウタ危機、偽情報と移民問題を巡る問いを提起</title>
-      <link>https://kaztaira.github.io/research-feed/go/55cf6abe794e.html</link>
-      <guid isPermaLink="false">urn:research:20260831:55cf6abe794e</guid>
-      <source url="https://moderndiplomacy.eu/2026/08/31/spains-ceuta-crisis-raises-questions-over-disinformation-and-migration/">Modern Diplomacy</source>
-      <dc:creator>Modern Diplomacy</dc:creator>
-      <description>&lt;p&gt;セウタ危機を通じて偽情報キャンペーンと移民政策の脆弱性が浮き彫りに。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; セウタ事件の分析的視点でブログの継続テーマに合致。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Modern Diplomacy / 2026-08-31 10:25:46&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
-      <pubDate>Mon, 31 Aug 2026 10:25:46 GMT</pubDate>
-      <category>重要度4</category>
-      <category>disinformation</category>
-    </item>
-    <item>
-      <title>[★4] (08/31 19:12) サンチェス首相「イスラエルがセウタ移民危機の偽情報を増幅」</title>
-      <link>https://kaztaira.github.io/research-feed/go/75f91b5b585d.html</link>
-      <guid isPermaLink="false">urn:research:20260831:75f91b5b585d</guid>
-      <source url="https://www.haaretz.com/world-news/europe/2026-08-31/ty-article/spains-sanchez-israel-amplified-disinformation-over-ceuta-migrant-crisis/000001a0-56f1-d822-a3b8-56ffe0370000">Haaretz</source>
-      <dc:creator>Haaretz</dc:creator>
-      <description>&lt;p&gt;スペイン首相がイスラエルによる偽情報の増幅拡散を具体的に指摘。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; イスラエル紙による自国批判的な報道で国際情報戦の視点。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Haaretz / 2026-08-31 10:12:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
-      <pubDate>Mon, 31 Aug 2026 10:12:00 GMT</pubDate>
-      <category>重要度4</category>
-      <category>disinformation</category>
-    </item>
-    <item>
-      <title>[★4] (08/31 18:44) スウェーデン選挙終盤、偽情報が浮上</title>
-      <link>https://kaztaira.github.io/research-feed/go/58636a46172b.html</link>
-      <guid isPermaLink="false">urn:research:20260831:58636a46172b</guid>
-      <source url="https://edmo.eu/edmo-news/misinformation-emerges-as-swedens-election-run-up-goes-into-final-stage/">edmo.eu</source>
-      <dc:creator>edmo.eu</dc:creator>
-      <description>&lt;p&gt;スウェーデン総選挙の最終段階で偽情報キャンペーンが顕在化、民主主義への影響が懸念。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 選挙と偽情報という民主主義の中核テーマ。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; edmo.eu / 2026-08-31 09:44:18&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
-      <pubDate>Mon, 31 Aug 2026 09:44:18 GMT</pubDate>
-      <category>重要度4</category>
-      <category>disinformation</category>
-    </item>
-    <item>
-      <title>[★4] (08/31 08:04) クレムリンの偽情報エージェントに容赦ない制裁を</title>
-      <link>https://kaztaira.github.io/research-feed/go/a4ea7500b8ff.html</link>
-      <guid isPermaLink="false">urn:research:20260830:a4ea7500b8ff</guid>
-      <source url="https://www.thetimes.com/comment/the-times-view/article/russia-propaganda-agents-sanctions-dpfckphqh">The Times</source>
-      <dc:creator>The Times</dc:creator>
-      <description>&lt;p&gt;ロシアのプロパガンダ工作員への制裁強化を訴える論説。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 国家主導の偽情報活動への政策対応を論じる重要な論説。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; The Times / 2026-08-30 23:04:30&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
-      <pubDate>Sun, 30 Aug 2026 23:04:30 GMT</pubDate>
-      <category>重要度4</category>
-      <category>disinformation</category>
-    </item>
-    <item>
-      <title>[★4] (09/01 03:21) Anthropic IPO、AI企業上場の門戸を開く可能性</title>
-      <link>https://kaztaira.github.io/research-feed/go/3543019183f2.html</link>
-      <guid isPermaLink="false">urn:research:20260831:3543019183f2</guid>
-      <source url="https://www.bloomberg.com/news/videos/2026-08-31/anthropic-ipo-could-open-ai-listings-floodgates-madrona-video">Bloomberg Tech</source>
-      <dc:creator>Bloomberg Tech</dc:creator>
-      <description>&lt;p&gt;AnthropicのIPOがAI企業の株式公開ラッシュの引き金となる可能性をMadronaが指摘。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; AI業界の資本市場動向で業界構造に影響。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Bloomberg Tech / 2026-08-31 18:21:11&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
-      <pubDate>Mon, 31 Aug 2026 18:21:11 GMT</pubDate>
-      <category>重要度4</category>
-    </item>
-    <item>
-      <title>[★4] (09/01 03:18) Nvidia、MediaTekに35億ドル出資しチップ連携深化</title>
-      <link>https://kaztaira.github.io/research-feed/go/8b0f90819380.html</link>
-      <guid isPermaLink="false">urn:research:20260831:8b0f90819380</guid>
-      <source url="https://www.bloomberg.com/news/videos/2026-08-31/bloomberg-tech-8-31-2026-video">Bloomberg Tech</source>
-      <dc:creator>Bloomberg Tech</dc:creator>
-      <description>&lt;p&gt;NvidiaがMediaTekに35億ドルを投じ、台湾チップメーカーとの協業を強化。ビッグテック競争に対応。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; AI半導体を巡るサプライチェーン戦略で業界に大きな影響。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Bloomberg Tech / 2026-08-31 18:18:50&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
-      <pubDate>Mon, 31 Aug 2026 18:18:50 GMT</pubDate>
       <category>重要度4</category>
     </item>
   </channel>
