@@ -1,419 +1,422 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
-  <!-- Generated: 2026-09-23T05:44:43+0900 -->
+  <!-- Generated: 2026-09-23T15:13:23+0900 -->
   <channel>
     <title>AI/Disinformation Daily Report（新聞紙学的）</title>
     <description>AI・偽情報・ディスインフォメーションに関する日次リサーチレポート。主要海外メディアから重要ニュースを抽出・評価。</description>
     <link>https://kaztaira.wordpress.com</link>
     <language>ja</language>
-    <lastBuildDate>Wed, 23 Sep 2026 05:44:43 +0900</lastBuildDate>
-    <pubDate>Wed, 23 Sep 2026 05:44:43 +0900</pubDate>
+    <lastBuildDate>Wed, 23 Sep 2026 15:13:23 +0900</lastBuildDate>
+    <pubDate>Wed, 23 Sep 2026 15:13:23 +0900</pubDate>
     <generator>AI/Disinformation Research Agent</generator>
     <ttl>720</ttl>
     <docs>https://www.rssboard.org/rss-specification</docs>
     <atom:link href="https://raw.githubusercontent.com/kaztaira/research-feed/main/feed4.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
     <item>
-      <title>[★5] (09/23 04:09) トランプ大統領、AIリスク管理の国際協定を拒否</title>
-      <link>https://kaztaira.github.io/research-feed/go/d13523bfb80c.html</link>
-      <guid isPermaLink="false">urn:research:20260922:d13523bfb80c</guid>
-      <source url="https://www.bloomberg.com/news/videos/2026-09-22/trump-rejects-push-for-global-pact-to-manage-ai-risks-video">Bloomberg Tech</source>
-      <dc:creator>Bloomberg Tech</dc:creator>
-      <description>&lt;p&gt;トランプ大統領がAIリスク管理の国際協定推進を拒否。民主党議員は「米国民と足並みが揃っていない」と批判。国連総会を前にAI規制の国際協調に打撃。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 国際関係とAI安全規制の根幹に関わる重大な政治判断&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Bloomberg Tech / 2026-09-22 19:09:54&lt;/p&gt;
+      <title>[★5] (09/23 11:41) 英国、ロシアの偽情報対策へ</title>
+      <link>https://kaztaira.github.io/research-feed/go/75552faa7b12.html</link>
+      <guid isPermaLink="false">urn:research:20260923:75552faa7b12</guid>
+      <source url="https://www.bbc.co.uk/news/videos/cmwyz0w3zjy5o">BBC</source>
+      <dc:creator>BBC</dc:creator>
+      <description>&lt;p&gt;英国がロシア発の偽情報に対して対抗策を講じる方針を表明。国家間の情報戦が激化。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 国家間のディスインフォメーション戦であり、国際関係、安全保障、メディア環境に極めて大きな影響。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; BBC / 2026-09-23 02:41:03&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★★ (5/5)&lt;/p&gt;</description>
-      <pubDate>Tue, 22 Sep 2026 19:09:54 GMT</pubDate>
+      <pubDate>Wed, 23 Sep 2026 02:41:03 GMT</pubDate>
       <category>重要度5</category>
-      <category>AI regulation</category>
+      <category>disinformation</category>
     </item>
     <item>
-      <title>[★5] (09/22 07:26) OpenAI、AI安全性で米国主導のグローバル連合を呼びかけ</title>
+      <title>[★5] (09/22 18:29) AI生成動画がフーシ派によるリヤド空港攻撃として拡散、AFPがファクトチェック</title>
+      <link>https://kaztaira.github.io/research-feed/go/d7083efc3ae8.html</link>
+      <guid isPermaLink="false">urn:research:20260922:d7083efc3ae8</guid>
+      <source url="https://factcheck.afp.com/doc.afp.com.C8Y27ZU">AFP</source>
+      <dc:creator>AFP</dc:creator>
+      <description>&lt;p&gt;AI生成された動画が国際紛争のデマとして拡散。誤情報の危険性を示す事例。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; AIによるフェイクニュースが国際紛争の文脈で拡散され、国際関係、安全保障、市民社会に影響。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; AFP / 2026-09-22 09:29:27&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★★ (5/5)&lt;/p&gt;</description>
+      <pubDate>Tue, 22 Sep 2026 09:29:27 GMT</pubDate>
+      <category>重要度5</category>
+      <category>misinformation</category>
+    </item>
+    <item>
+      <title>[★5] (09/22 07:26) OpenAI、AI安全に関する米国主導の国際協力体制を呼びかけ</title>
       <link>https://kaztaira.github.io/research-feed/go/8083d2d4ddf3.html</link>
       <guid isPermaLink="false">urn:research:20260921:8083d2d4ddf3</guid>
       <source url="https://www.semafor.com/article/09/21/2026/openai-calls-for-global-us-led-coalition-on-ai-safety">Semafor</source>
       <dc:creator>Semafor</dc:creator>
-      <description>&lt;p&gt;国連総会を控え、OpenAIがAI安全性に関する米国主導の国際連合を提案。技術のリスクと恩恵をめぐる議論が国際外交の場に浮上。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 国際的なAIガバナンス枠組みの提案で安全保障に影響&lt;/p&gt;
+      <description>&lt;p&gt;OpenAIが国連総会でAI安全に関する国際的な枠組みの構築を提唱。AIリスクへの対応が急務。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; OpenAIが主導するAI安全の国際枠組み提唱。国際関係、テクノロジーの潮流に極めて大きな影響。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Semafor / 2026-09-21 22:26:01&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★★ (5/5)&lt;/p&gt;</description>
       <pubDate>Mon, 21 Sep 2026 22:26:01 GMT</pubDate>
       <category>重要度5</category>
     </item>
     <item>
-      <title>[★5] (09/23 03:23) Anthropic・OpenAI、開発減速要求後初の廉価モデル投入</title>
-      <link>https://kaztaira.github.io/research-feed/go/caa3a07be02d.html</link>
-      <guid isPermaLink="false">urn:research:20260922:caa3a07be02d</guid>
-      <source url="https://www.cnbc.com/2026/09/22/anthropic-openai-cheaper-ai-models.html">Google News - AI (CNBC)</source>
-      <dc:creator>Google News - AI (CNBC)</dc:creator>
-      <description>&lt;p&gt;AI開発減速要求の議論の最中、AnthropicとOpenAIが相次いで廉価モデルを投入。ブログの「開発減速」テーマと直結する重要な業界動向。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; ブログ既報の「開発減速」議論の直後の業界の実際の動き&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Google News - AI (CNBC) / 2026-09-22 18:23:57&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★★ (5/5)&lt;/p&gt;</description>
-      <pubDate>Tue, 22 Sep 2026 18:23:57 GMT</pubDate>
-      <category>重要度5</category>
-    </item>
-    <item>
-      <title>[★5] (09/23 02:22) Anthropic、Claude Opus 5.5を発表</title>
-      <link>https://kaztaira.github.io/research-feed/go/135189b9c0ed.html</link>
-      <guid isPermaLink="false">urn:research:20260922:135189b9c0ed</guid>
-      <source url="https://www.reuters.com/business/anthropic-unveils-claude-opus-55-2026-09-22/">Reuters</source>
-      <dc:creator>Reuters</dc:creator>
-      <description>&lt;p&gt;Anthropicが新モデルClaude Opus 5.5を発表。開発減速を訴えたアモデイ氏の姿勢と対照的な新モデル公開で、業界の論争を呼びそう。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; ブログ既報の「新モデル公開検討」報道が現実化した重大発表&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Reuters / 2026-09-22 17:22:35&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★★ (5/5)&lt;/p&gt;</description>
-      <pubDate>Tue, 22 Sep 2026 17:22:35 GMT</pubDate>
-      <category>重要度5</category>
-    </item>
-    <item>
-      <title>[★5] (09/22 18:00) AI安全性は7兆ドルの覇権争いの前に常に二の次か</title>
+      <title>[★5] (09/22 18:00) 7兆ドルをかけたAI競争、安全性は常に市場支配に後回しに？</title>
       <link>https://kaztaira.github.io/research-feed/go/4abfc566456f.html</link>
       <guid isPermaLink="false">urn:research:20260922:4abfc566456f</guid>
       <source url="https://www.axios.com/2026/09/22/ai-safety-vs-ai-speed">Axios</source>
       <dc:creator>Axios</dc:creator>
-      <description>&lt;p&gt;AI覇権をめぐる企業・国家間の競争が、安全性推進とは両立不可能との業界内部の証言。トップAI企業が提案する解決策と現実の乖離を報道。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; AI安全性論争の根幹に関わる産業構造的分析&lt;/p&gt;
+      <description>&lt;p&gt;AI市場の急成長が、安全性確保よりも開発速度を優先させる傾向にあると指摘。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; AI市場競争と安全性確保のジレンマ。テクノロジーの潮流、業界、市民社会に極めて大きな影響。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Axios / 2026-09-22 09:00:06&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★★ (5/5)&lt;/p&gt;</description>
       <pubDate>Tue, 22 Sep 2026 09:00:06 GMT</pubDate>
       <category>重要度5</category>
     </item>
     <item>
-      <title>[★5] (09/23 02:05) OpenAI、AIモデル評価を第三者に早期段階から開放へ</title>
-      <link>https://kaztaira.github.io/research-feed/go/de93124c54d5.html</link>
-      <guid isPermaLink="false">urn:research:20260922:de93124c54d5</guid>
-      <source url="https://www.bloomberg.com/news/articles/2026-09-22/openai-to-let-outside-groups-evaluate-ai-models-at-earlier-phase">Bloomberg Tech</source>
+      <title>[★5] (09/23 10:35) 米国、豪州のアルゴリズムオプトアウト法案を「検閲」と批判</title>
+      <link>https://kaztaira.github.io/research-feed/go/f947f6c9b69a.html</link>
+      <guid isPermaLink="false">urn:research:20260923:f947f6c9b69a</guid>
+      <source url="https://www.bbc.co.uk/news/articles/cqj3dgy8x3vro?at_medium=RSS&amp;at_campaign=rss">BBC News Tech</source>
+      <dc:creator>BBC News Tech</dc:creator>
+      <description>&lt;p&gt;豪州が提案する、ソーシャルメディアのアルゴリズムをオフにする選択肢をユーザーに与える法案を、米国が「検閲」と批判している。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; メディア規制、市民の自由、国際関係に影響し、強い論争を呼ぶ。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; BBC News Tech / 2026-09-23 01:35:56&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★★ (5/5)&lt;/p&gt;</description>
+      <pubDate>Wed, 23 Sep 2026 01:35:56 GMT</pubDate>
+      <category>重要度5</category>
+      <category>AI regulation</category>
+    </item>
+    <item>
+      <title>[★5] (09/23 09:48) 米国、ソーシャルメディアのアルゴリズムを標的とする豪州の計画を非難</title>
+      <link>https://kaztaira.github.io/research-feed/go/fb8d5cb65a8a.html</link>
+      <guid isPermaLink="false">urn:research:20260923:fb8d5cb65a8a</guid>
+      <source url="https://www.bloomberg.com/news/articles/2026-09-23/us-rebukes-australia-for-plan-to-target-social-media-algorithms">Bloomberg Tech</source>
       <dc:creator>Bloomberg Tech</dc:creator>
-      <description>&lt;p&gt;OpenAIが開発初期段階から外部団体に安全性リスクを検証させる方針を発表。AI暴走事案が相次ぐ中で、安全性懸念への対応策として位置付け。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; AI安全評価の透明性に関する重要な業界動向&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Bloomberg Tech / 2026-09-22 17:05:52&lt;/p&gt;
+      <description>&lt;p&gt;米政府は、ソーシャルメディアのアルゴリズムと有害コンテンツを取り締まる豪州の計画を批判し、新たな政治的対立を生んでいる。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; メディア規制と国際間の対立、市民社会への影響が大きく、論争を呼ぶ。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Bloomberg Tech / 2026-09-23 00:48:11&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★★ (5/5)&lt;/p&gt;</description>
-      <pubDate>Tue, 22 Sep 2026 17:05:52 GMT</pubDate>
+      <pubDate>Wed, 23 Sep 2026 00:48:11 GMT</pubDate>
       <category>重要度5</category>
     </item>
     <item>
-      <title>[★5] (09/22 21:32) セウタへの越境扇動デマ再燃、9月23日開放と拡散</title>
-      <link>https://kaztaira.github.io/research-feed/go/7162fb0187af.html</link>
-      <guid isPermaLink="false">urn:research:20260922:7162fb0187af</guid>
-      <source url="https://northafricapost.com/100430-disinformation-fuels-new-calls-for-irregular-entry-into-ceuta-on-september-23.html">The North Africa Post</source>
-      <dc:creator>The North Africa Post</dc:creator>
-      <description>&lt;p&gt;スペイン領セウタへの不正入境を煽るデマがSNSで再拡散。ブログが既報したセウタ「8月15日デマ」に続く新たな偽情報キャンペーンで市民社会に影響。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; ブログ既報のセウタ・デマ事案の続報で人命に直結&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; The North Africa Post / 2026-09-22 12:32:16&lt;/p&gt;
+      <title>[★5] (09/22 18:03) Google, Anthropic, OpenAI, Metaにおける最近のAIハッキングについて知るべきこと</title>
+      <link>https://kaztaira.github.io/research-feed/go/0e5a7cf8e646.html</link>
+      <guid isPermaLink="false">urn:research:20260922:0e5a7cf8e646</guid>
+      <source url="https://www.nytimes.com/2026/09/22/technology/ai-hacks-list.html">New York Times</source>
+      <dc:creator>New York Times</dc:creator>
+      <description>&lt;p&gt;Google, Anthropic, OpenAI, Metaといった主要AI企業で発生した一連のハッキング事件について詳細に解説。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 主要AIモデルへのハッキングは、AIの安全性、社会への信頼、安全保障に直接的な脅威。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; New York Times / 2026-09-22 09:03:32&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★★ (5/5)&lt;/p&gt;</description>
-      <pubDate>Tue, 22 Sep 2026 12:32:16 GMT</pubDate>
-      <category>重要度5</category>
-      <category>disinformation</category>
-    </item>
-    <item>
-      <title>[★5] (09/23 03:00) OpenAI、GPT-6「Sol」と「Luna」を発表　低コストと誤り減少を実現</title>
-      <link>https://kaztaira.github.io/research-feed/go/d5bcb149d513.html</link>
-      <guid isPermaLink="false">urn:research:20260922:d5bcb149d513</guid>
-      <source url="https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>&lt;p&gt;OpenAIがAstraと同系列の新モデルGPT-6 SolとLunaを発表、コスト削減と精度向上を強調。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; AI業界最大手の主力モデル刷新、業界トレンドを大きく左右&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; TechCrunch / 2026-09-22 18:00:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★★ (5/5)&lt;/p&gt;</description>
-      <pubDate>Tue, 22 Sep 2026 18:00:00 GMT</pubDate>
+      <pubDate>Tue, 22 Sep 2026 09:03:32 GMT</pubDate>
       <category>重要度5</category>
     </item>
     <item>
-      <title>[★5] (09/23 01:30) Anthropic、Opus 5.5をリリース　低価格でFableレベルの性能</title>
-      <link>https://kaztaira.github.io/research-feed/go/d52a24ca5068.html</link>
-      <guid isPermaLink="false">urn:research:20260922:d52a24ca5068</guid>
-      <source url="https://techcrunch.com/2026/09/22/anthropic-releases-opus-5-5-with-lower-prices-and-fable-level-performance/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>&lt;p&gt;Anthropicが「これまでテストした中で最強」と称するOpus 5.5を発表、価格も引き下げ。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; ブログで頻繁に扱うAnthropicの主力モデル刷新、IPO前の重要動向&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; TechCrunch / 2026-09-22 16:30:07&lt;/p&gt;
+      <title>[★5] (09/22 21:59) OpenAIのAI訓練担当者がAIを使ってAIを訓練し解雇される</title>
+      <link>https://kaztaira.github.io/research-feed/go/d058d3f1f995.html</link>
+      <guid isPermaLink="false">urn:research:20260922:d058d3f1f995</guid>
+      <source url="https://www.404media.co/people-training-openais-ai-fired-for-using-ai-to-train-the-ai/">404 Media</source>
+      <dc:creator>404 Media</dc:creator>
+      <description>&lt;p&gt;OpenAIのAI訓練を請け負う契約社員がAIを訓練するためにAIを使用し、解雇される事態が複数発生した。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; AI訓練の倫理問題とAIによるAI訓練の危険性を示し、AI業界と市民社会に影響。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; 404 Media / 2026-09-22 12:59:12&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★★ (5/5)&lt;/p&gt;</description>
-      <pubDate>Tue, 22 Sep 2026 16:30:07 GMT</pubDate>
+      <pubDate>Tue, 22 Sep 2026 12:59:12 GMT</pubDate>
       <category>重要度5</category>
     </item>
     <item>
-      <title>[★5] (09/23 02:56) 元Google安全責任者、AIは子どもにSNS以上の害を与える可能性と警告</title>
-      <link>https://kaztaira.github.io/research-feed/go/baa6331e3463.html</link>
-      <guid isPermaLink="false">urn:research:20260922:baa6331e3463</guid>
-      <source url="https://www.reuters.com/legal/litigation/ex-google-safety-chief-warns-ai-could-harm-children-more-than-social-media-did-2026-09-22/">Reuters</source>
-      <dc:creator>Reuters</dc:creator>
-      <description>&lt;p&gt;元Googleの安全担当責任者が、AIが子どもに与える悪影響はソーシャルメディア以上になり得ると警鐘。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; AIの社会的悪影響、子どもへのリスクという重大な市民社会問題&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Reuters / 2026-09-22 17:56:30&lt;/p&gt;
+      <title>[★5] (09/22 23:38) 軍事作戦における人工知能の倫理</title>
+      <link>https://kaztaira.github.io/research-feed/go/b5db1c11a4e0.html</link>
+      <guid isPermaLink="false">urn:research:20260922:b5db1c11a4e0</guid>
+      <source url="https://arxiv.org/abs/2609.26507v1">arXiv (cs.CY society/ethics)</source>
+      <dc:creator>arXiv (cs.CY society/ethics)</dc:creator>
+      <description>&lt;p&gt;深層学習システムが軍事的意思決定を仲介する中、その内部論理の不透明性、評価のゲーム化、説明責任の欠如が課題。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 軍事AIの倫理問題は、安全保障と市民社会に極めて深刻な影響を与える。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; arXiv (cs.CY society/ethics) / 2026-09-22 14:38:29&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★★ (5/5)&lt;/p&gt;</description>
-      <pubDate>Tue, 22 Sep 2026 17:56:30 GMT</pubDate>
+      <pubDate>Tue, 22 Sep 2026 14:38:29 GMT</pubDate>
       <category>重要度5</category>
     </item>
     <item>
-      <title>[★4] (09/23 00:14) 2027年選挙：メディア専門家がAI選挙誤情報対策で結集</title>
-      <link>https://kaztaira.github.io/research-feed/go/cc76e16a9f32.html</link>
-      <guid isPermaLink="false">urn:research:20260922:cc76e16a9f32</guid>
-      <source url="https://realnewsmagazine.net/2027-media-experts-rally-against-ai-election-misinformation/">Realnews Magazine</source>
-      <dc:creator>Realnews Magazine</dc:creator>
-      <description>&lt;p&gt;2027年の選挙を控え、メディア専門家がAIによる選挙誤情報の脅威に対抗するため結集している。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; AI・選挙・メディア環境が交差する重要テーマ&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Realnews Magazine / 2026-09-22 15:14:29&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
-      <pubDate>Tue, 22 Sep 2026 15:14:29 GMT</pubDate>
-      <category>重要度4</category>
-      <category>misinformation</category>
+      <title>[★5] (09/22 02:38) 間接的「ヒント」：AIエージェント集団におけるソーシャルアタック面</title>
+      <link>https://kaztaira.github.io/research-feed/go/4f7a5c2f0d17.html</link>
+      <guid isPermaLink="false">urn:research:20260921:4f7a5c2f0d17</guid>
+      <source url="https://arxiv.org/abs/2609.25194v1">arXiv (cs.CY society/ethics)</source>
+      <dc:creator>arXiv (cs.CY society/ethics)</dc:creator>
+      <description>&lt;p&gt;大規模展開される生成AIエージェントの安全性は、集団的均衡に依存し、間接的な「ヒント」がソーシャルアタック面となる可能性。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; AIエージェントの集団的行動における新たな脆弱性は、AIの安全性と市民社会に影響。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; arXiv (cs.CY society/ethics) / 2026-09-21 17:38:07&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★★ (5/5)&lt;/p&gt;</description>
+      <pubDate>Mon, 21 Sep 2026 17:38:07 GMT</pubDate>
+      <category>重要度5</category>
     </item>
     <item>
-      <title>[★4] (09/22 18:35) AI、誤情報、メディア信頼：ブランド評判を守る方法</title>
-      <link>https://kaztaira.github.io/research-feed/go/7834bb24b47c.html</link>
-      <guid isPermaLink="false">urn:research:20260922:7834bb24b47c</guid>
-      <source url="https://markets.businessinsider.com/news/stocks/ai-misinformation-and-media-trust-how-to-protect-brand-reputation-1036562848">markets.businessinsider.com</source>
-      <dc:creator>markets.businessinsider.com</dc:creator>
-      <description>&lt;p&gt;AIによる誤情報拡散がブランド評判に及ぼす影響と、メディア信頼を守るための対策を解説。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; AIと誤情報がメディア信頼に与える影響を分析&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; markets.businessinsider.com / 2026-09-22 09:35:33&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
-      <pubDate>Tue, 22 Sep 2026 09:35:33 GMT</pubDate>
-      <category>重要度4</category>
-      <category>misinformation</category>
+      <title>[★5] (09/23 14:25) 米国、ソーシャルメディアプラットフォームにアルゴリズムからのオプトアウトを義務付ける規定を含む豪州のデジタル注意義務法案を批判</title>
+      <link>https://kaztaira.github.io/research-feed/go/096de615c2c3.html</link>
+      <guid isPermaLink="false">urn:research:20260923:096de615c2c3</guid>
+      <source url="https://mediagazer.com/260923/p2#a260923p2">Mediagazer</source>
+      <dc:creator>Mediagazer</dc:creator>
+      <description>&lt;p&gt;米国は、ソーシャルメディアがユーザーにアルゴリズムからのオプトアウトを許可することを義務付ける豪州のデジタル注意義務法案を批判している。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; メディア規制と市民の自由、国際関係に影響し、論争を呼ぶ。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Mediagazer / 2026-09-23 05:25:01&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★★ (5/5)&lt;/p&gt;</description>
+      <pubDate>Wed, 23 Sep 2026 05:25:01 GMT</pubDate>
+      <category>重要度5</category>
+      <category>AI regulation</category>
+      <category>platform accountability</category>
     </item>
     <item>
-      <title>[★4] (09/22 21:16) PPI研修がAIと偽情報対策に取り組む</title>
-      <link>https://kaztaira.github.io/research-feed/go/8afd22bc85f5.html</link>
-      <guid isPermaLink="false">urn:research:20260922:8afd22bc85f5</guid>
-      <source url="https://manilastandard.net/news/314795987/ppi-training-tackles-ai-fighting-disinformation.html">Manila Standard</source>
-      <dc:creator>Manila Standard</dc:creator>
-      <description>&lt;p&gt;フィリピン報道協会がAIと偽情報対策のジャーナリスト向け研修を実施。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; AIと偽情報対策のメディア教育事例&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Manila Standard / 2026-09-22 12:16:12&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
-      <pubDate>Tue, 22 Sep 2026 12:16:12 GMT</pubDate>
-      <category>重要度4</category>
-      <category>disinformation</category>
-    </item>
-    <item>
-      <title>[★4] (09/22 16:24) 気候偽情報：否定から遅延戦術へ</title>
-      <link>https://kaztaira.github.io/research-feed/go/6f1f9dea6ffc.html</link>
-      <guid isPermaLink="false">urn:research:20260922:6f1f9dea6ffc</guid>
-      <source url="https://globalnation.inquirer.net/338964/climate-disinformation-from-denial-to-delay">Inquirer.net</source>
-      <dc:creator>Inquirer.net</dc:creator>
-      <description>&lt;p&gt;気候変動に関する偽情報が、否定論から対策遅延を促す戦術へと進化している実態を報告。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 気候政策と偽情報の交差する国際的課題&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Inquirer.net / 2026-09-22 07:24:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
-      <pubDate>Tue, 22 Sep 2026 07:24:00 GMT</pubDate>
-      <category>重要度4</category>
-      <category>disinformation</category>
-    </item>
-    <item>
-      <title>[★4] (09/23 02:07) おめでとう、あなたは偽情報の標的：6つの防衛策</title>
-      <link>https://kaztaira.github.io/research-feed/go/e5ce4919dbfc.html</link>
-      <guid isPermaLink="false">urn:research:20260922:e5ce4919dbfc</guid>
-      <source url="https://blog.ucs.org/kate-cell/congratulations-youre-a-disinformation-target-6-ways-to-head-off-the-deception/">The Equation - Union of Concerned Scientists</source>
-      <dc:creator>The Equation - Union of Concerned Scientists</dc:creator>
-      <description>&lt;p&gt;個人が偽情報の標的とならないための6つの防衛策を科学者連合が提示。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 市民社会への実践的な偽情報対策提言&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; The Equation - Union of Concerned Scientists / 2026-09-22 17:07:48&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
-      <pubDate>Tue, 22 Sep 2026 17:07:48 GMT</pubDate>
-      <category>重要度4</category>
-      <category>disinformation</category>
-    </item>
-    <item>
-      <title>[★4] (09/21 17:55) The Economist、AI安全性の論争を検証</title>
-      <link>https://kaztaira.github.io/research-feed/go/31516a12d63a.html</link>
-      <guid isPermaLink="false">urn:research:20260921:31516a12d63a</guid>
-      <source url="https://www.economist.com/podcasts/2026/09/21/the-ai-safety-debate">The Economist</source>
-      <dc:creator>The Economist</dc:creator>
-      <description>&lt;p&gt;AI安全性をめぐる論争をエコノミストがポッドキャストで多角的に検証。国際世論形成に影響力のあるメディアが取り上げた点で注目。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 有力国際メディアがAI安全論争を主要議題化&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; The Economist / 2026-09-21 08:55:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
-      <pubDate>Mon, 21 Sep 2026 08:55:00 GMT</pubDate>
-      <category>重要度4</category>
-    </item>
-    <item>
-      <title>[★4] (09/22 17:53) トランプ新AI顧問、業界の問題は解決できず</title>
-      <link>https://kaztaira.github.io/research-feed/go/3709ce42dc80.html</link>
-      <guid isPermaLink="false">urn:research:20260922:3709ce42dc80</guid>
-      <source url="https://www.semafor.com/article/09/22/2026/new-trump-ai-adviser-wont-fix-industrys-problems">Semafor</source>
-      <dc:creator>Semafor</dc:creator>
-      <description>&lt;p&gt;トランプ政権の新AI顧問が就任するも、AI安全性の議論の流れを変える見込みは薄いと分析。米国のAI政策の方向性に警鐘。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 米国AI政策の方向性を評価する重要な分析記事&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Semafor / 2026-09-22 08:53:08&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
-      <pubDate>Tue, 22 Sep 2026 08:53:08 GMT</pubDate>
-      <category>重要度4</category>
-    </item>
-    <item>
-      <title>[★4] (09/22 18:29) AI生成クリップがリヤド空港へのフーシ派攻撃として拡散</title>
-      <link>https://kaztaira.github.io/research-feed/go/d7083efc3ae8.html</link>
-      <guid isPermaLink="false">urn:research:20260922:d7083efc3ae8</guid>
-      <source url="https://factcheck.afp.com/doc.afp.com.C8Y27ZU">AFP Fact Check</source>
-      <dc:creator>AFP Fact Check</dc:creator>
-      <description>&lt;p&gt;AI生成の映像がイエメン・フーシ派によるサウジ・リヤド空港攻撃として拡散。中東紛争を舞台にした偽情報でメディア環境と地政学に影響。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; AI偽情報が紛争地域の情報環境を歪める深刻事例&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; AFP Fact Check / 2026-09-22 09:29:27&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
-      <pubDate>Tue, 22 Sep 2026 09:29:27 GMT</pubDate>
-      <category>重要度4</category>
-      <category>disinformation</category>
-    </item>
-    <item>
-      <title>[★4] (09/22 22:37) Palo Alto Networks、Claude・GPT活用のAIセキュリティ発表</title>
-      <link>https://kaztaira.github.io/research-feed/go/bfe3f7b0423c.html</link>
-      <guid isPermaLink="false">urn:research:20260922:bfe3f7b0423c</guid>
-      <source url="https://www.reuters.com/technology/palo-alto-networks-unveils-ai-powered-cybersecurity-service-using-claude-gpt-2026-09-22/">Reuters</source>
-      <dc:creator>Reuters</dc:creator>
-      <description>&lt;p&gt;サイバーセキュリティ大手がClaude・GPTを組み込んだAI駆動のセキュリティサービスを発表。AIモデルの防御分野への本格活用が進む。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 主要AIモデルの実業界統合が加速する重要動向&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Reuters / 2026-09-22 13:37:12&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
-      <pubDate>Tue, 22 Sep 2026 13:37:12 GMT</pubDate>
-      <category>重要度4</category>
-    </item>
-    <item>
-      <title>[★4] (09/22 22:00) 米移民向けにテキストとWhatsAppで報道する記者たち</title>
-      <link>https://kaztaira.github.io/research-feed/go/85450e31afae.html</link>
-      <guid isPermaLink="false">urn:research:20260922:85450e31afae</guid>
-      <source url="https://www.theguardian.com/us-news/2026/sep/22/immigrant-serving-journalists-social-media-text-whatsapp">Guardian Tech</source>
-      <dc:creator>Guardian Tech</dc:creator>
-      <description>&lt;p&gt;独立系メディアがSNS・チャット等の非伝統的手段で移民向け報道を展開し、偽情報と戦う実態。移民問題と情報環境の交差点を報じる。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 偽情報対策とメディア環境の変容に関する重要事例&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Guardian Tech / 2026-09-22 13:00:03&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
-      <pubDate>Tue, 22 Sep 2026 13:00:03 GMT</pubDate>
-      <category>重要度4</category>
-      <category>disinformation</category>
-    </item>
-    <item>
-      <title>[★4] (09/23 03:00) 廉価で強力なAIモデルが使用量を押し上げ、AIブームに追い風</title>
+      <title>[★4] (09/23 03:00) 安価で強力なAIモデルが利用を増加させ、AIブームの強気サインに</title>
       <link>https://kaztaira.github.io/research-feed/go/b5de790d4c99.html</link>
       <guid isPermaLink="false">urn:research:20260922:b5de790d4c99</guid>
       <source url="https://www.axios.com/2026/09/22/cheap-powerful-models-new-ai-frontier">Axios</source>
       <dc:creator>Axios</dc:creator>
-      <description>&lt;p&gt;AI各社が最強モデル競争からコスト競争へ軸足を移す。AI利用拡大でブーム持続の兆しが見える一方、需要リスクが最大の懸念に。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; AI業界のビジネスモデル転換を示す重要な業界分析&lt;/p&gt;
+      <description>&lt;p&gt;低コストで高性能なAIモデルの普及がAI利用を加速。業界の新たな焦点はコスト競争に。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 安価なAIモデルの普及は利用拡大とAIリスク増大に繋がり、テクノロジーの潮流と業界に影響。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Axios / 2026-09-22 18:00:07&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
       <pubDate>Tue, 22 Sep 2026 18:00:07 GMT</pubDate>
       <category>重要度4</category>
     </item>
     <item>
-      <title>[★4] (09/22 20:46) OpenAIオズボーン氏「データセンター反対派が英国を停滞させる」</title>
+      <title>[★4] (09/22 20:46) OpenAIのジョージ・オズボーン氏「データセンター反対派が英国の足かせに」</title>
       <link>https://kaztaira.github.io/research-feed/go/7528a64b0162.html</link>
       <guid isPermaLink="false">urn:research:20260922:7528a64b0162</guid>
       <source url="https://www.theguardian.com/politics/2026/sep/22/george-osborne-ai-datacentre-nimbys-holding-back-britain">Guardian Tech</source>
       <dc:creator>Guardian Tech</dc:creator>
-      <description>&lt;p&gt;OpenAI幹部となった元英財務相ジョージ・オズボーン氏が、英国のAI主権維持にはデータセンター建設が不可欠と主張。地域住民との対立が浮上。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; AIインフラをめぐる政治・市民社会の対立&lt;/p&gt;
+      <description>&lt;p&gt;OpenAI幹部が、データセンター建設反対がAI技術における英国の主権を阻害していると発言。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; AIインフラ建設に関する社会的な論争。テクノロジー業界、市民社会、国際関係に影響。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Guardian Tech / 2026-09-22 11:46:01&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
       <pubDate>Tue, 22 Sep 2026 11:46:01 GMT</pubDate>
       <category>重要度4</category>
     </item>
     <item>
-      <title>[★4] (09/22 21:59) OpenAIのAI訓練担当者、AIで訓練を代行して解雇される</title>
-      <link>https://kaztaira.github.io/research-feed/go/d058d3f1f995.html</link>
-      <guid isPermaLink="false">urn:research:20260922:d058d3f1f995</guid>
-      <source url="https://www.404media.co/people-training-openais-ai-fired-for-using-ai-to-train-the-ai/">404 Media</source>
-      <dc:creator>404 Media</dc:creator>
-      <description>&lt;p&gt;OpenAIの契約労働者数千人のうち複数が、AI訓練にAIを使用したため解雇された。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; AI開発の労働・倫理問題を象徴、ブログのAI暴走テーマと関連&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; 404 Media / 2026-09-22 12:59:12&lt;/p&gt;
+      <title>[★4] (09/23 00:00) TechCrunch Disrupt 2026でAI安全に関する5つのセッションを開催</title>
+      <link>https://kaztaira.github.io/research-feed/go/8fdc384c018e.html</link>
+      <guid isPermaLink="false">urn:research:20260922:8fdc384c018e</guid>
+      <source url="https://techcrunch.com/2026/09/22/five-ai-safety-sessions-every-founder-should-have-on-their-techcrunch-disrupt-2026-agenda/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>&lt;p&gt;TechCrunch Disrupt 2026で、Anthropicなど主要企業の専門家がAI安全について議論。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; AI安全が主要な議題となるイベント。テクノロジーの潮流と業界に影響し、ブログテーマに直結。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; TechCrunch / 2026-09-22 15:00:00&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
-      <pubDate>Tue, 22 Sep 2026 12:59:12 GMT</pubDate>
+      <pubDate>Tue, 22 Sep 2026 15:00:00 GMT</pubDate>
       <category>重要度4</category>
     </item>
     <item>
-      <title>[★4] (09/23 03:55) サンフランシスコ市、Trump Media提訴　Truth APIがインサイダー取引市場を作出と主張</title>
-      <link>https://kaztaira.github.io/research-feed/go/d87271b45ba1.html</link>
-      <guid isPermaLink="false">urn:research:20260922:d87271b45ba1</guid>
-      <source url="https://mediagazer.com/260922/p10#a260922p10">Mediagazer (New York Times)</source>
-      <dc:creator>Mediagazer (New York Times)</dc:creator>
-      <description>&lt;p&gt;SF市がTrump Media &amp;amp; Technologyを提訴、Truth APIがカリフォルニア不正競争防止法に違反と主張。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 政治・メディア・法律の交差、Trump関連の重要訴訟&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Mediagazer (New York Times) / 2026-09-22 18:55:00&lt;/p&gt;
+      <title>[★4] (09/22 22:00) 移民支援ジャーナリスト、米国移民数千人にテキストとWhatsAppで重要な情報を共有</title>
+      <link>https://kaztaira.github.io/research-feed/go/85450e31afae.html</link>
+      <guid isPermaLink="false">urn:research:20260922:85450e31afae</guid>
+      <source url="https://www.theguardian.com/us-news/2026/sep/22/immigrant-serving-journalists-social-media-text-whatsapp">Guardian Tech</source>
+      <dc:creator>Guardian Tech</dc:creator>
+      <description>&lt;p&gt;独立系メディアがソーシャルメディアを活用し、移民社会の誤情報対策と情報提供を強化。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 移民社会における誤情報対策の新たな試み。メディア環境と市民社会に影響。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Guardian Tech / 2026-09-22 13:00:03&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
-      <pubDate>Tue, 22 Sep 2026 18:55:00 GMT</pubDate>
+      <pubDate>Tue, 22 Sep 2026 13:00:03 GMT</pubDate>
+      <category>重要度4</category>
+      <category>misinformation</category>
+    </item>
+    <item>
+      <title>[★4] (09/22 16:24) 気候変動の偽情報：否定から遅延へ</title>
+      <link>https://kaztaira.github.io/research-feed/go/6f1f9dea6ffc.html</link>
+      <guid isPermaLink="false">urn:research:20260922:6f1f9dea6ffc</guid>
+      <source url="https://globalnation.inquirer.net/338964/climate-disinformation-from-denial-to-delay">Inquirer.net</source>
+      <dc:creator>Inquirer.net</dc:creator>
+      <description>&lt;p&gt;気候変動に関する誤情報が、否定から政策の遅延へと形を変えて拡散されている。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 気候変動という世界的課題における偽情報の動向。市民社会とメディア環境に影響。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Inquirer.net / 2026-09-22 07:24:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
+      <pubDate>Tue, 22 Sep 2026 07:24:00 GMT</pubDate>
+      <category>重要度4</category>
+      <category>disinformation</category>
+      <category>misinformation</category>
+    </item>
+    <item>
+      <title>[★4] (09/22 02:38) トルコ、児童保護活動を標的とした偽情報を拒否</title>
+      <link>https://kaztaira.github.io/research-feed/go/58f831f37746.html</link>
+      <guid isPermaLink="false">urn:research:20260921:58f831f37746</guid>
+      <source url="https://www.dailysabah.com/politics/turkiye-rejects-disinformation-targeting-child-protection-operations/news">Daily Sabah</source>
+      <dc:creator>Daily Sabah</dc:creator>
+      <description>&lt;p&gt;トルコ政府が、児童保護活動に対する偽情報に強く反論。国家レベルでの情報戦。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 児童保護という敏感なテーマへの偽情報。国家レベルの対応で市民社会、国際関係に影響。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Daily Sabah / 2026-09-21 17:38:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
+      <pubDate>Mon, 21 Sep 2026 17:38:00 GMT</pubDate>
+      <category>重要度4</category>
+      <category>disinformation</category>
+    </item>
+    <item>
+      <title>[★4] (09/21 23:00) 真実の探偵になろう：選挙期間中の誤情報を報告してください</title>
+      <link>https://kaztaira.github.io/research-feed/go/fdfab1d3dccb.html</link>
+      <guid isPermaLink="false">urn:research:20260921:fdfab1d3dccb</guid>
+      <source url="https://wisconsinwatch.org/2026/09/wisconsin-truth-sleuth-election-misinformation-fact-checking-falsehoods/">Wisconsin Watch</source>
+      <dc:creator>Wisconsin Watch</dc:creator>
+      <description>&lt;p&gt;ウィスコンシン州が選挙期間中の偽情報報告を市民に呼びかけ、ファクトチェックを強化。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 選挙における誤情報対策の市民参加を促す取り組み。メディア環境と市民社会に影響。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Wisconsin Watch / 2026-09-21 14:00:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
+      <pubDate>Mon, 21 Sep 2026 14:00:00 GMT</pubDate>
+      <category>重要度4</category>
+      <category>disinformation</category>
+      <category>misinformation</category>
+    </item>
+    <item>
+      <title>[★4] (09/21 17:55) AI安全性の議論</title>
+      <link>https://kaztaira.github.io/research-feed/go/31516a12d63a.html</link>
+      <guid isPermaLink="false">urn:research:20260921:31516a12d63a</guid>
+      <source url="https://www.economist.com/podcasts/2026/09/21/the-ai-safety-debate">The Economist</source>
+      <dc:creator>The Economist</dc:creator>
+      <description>&lt;p&gt;The EconomistがAIの安全性に関する議論をポッドキャストで特集。今後の技術開発の方向性を探る。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; AI安全に関する広範な議論。テクノロジーの潮流と市民社会への影響。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; The Economist / 2026-09-21 08:55:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
+      <pubDate>Mon, 21 Sep 2026 08:55:00 GMT</pubDate>
       <category>重要度4</category>
     </item>
     <item>
-      <title>[★4] (09/23 00:20) 銀行が警告、AIショッピングボットで詐欺・データプライバシー侵害のリスク増大</title>
-      <link>https://kaztaira.github.io/research-feed/go/ed21abafefe6.html</link>
-      <guid isPermaLink="false">urn:research:20260922:ed21abafefe6</guid>
-      <source url="https://www.reuters.com/legal/litigation/banks-warn-ai-shopping-bots-raise-scam-fraud-data-privacy-risks-2026-09-22/">Reuters</source>
-      <dc:creator>Reuters</dc:creator>
-      <description>&lt;p&gt;銀行業界がAIショッピングボットの普及に伴う詐欺・プライバシー問題への懸念を表明。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; AIエージェント普及に伴う消費者保護・金融犯罪の重要課題&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Reuters / 2026-09-22 15:20:52&lt;/p&gt;
+      <title>[★4] (09/23 06:46) OpenAI幹部、米中間のAI協力に「慎重ながら楽観的」</title>
+      <link>https://kaztaira.github.io/research-feed/go/c2ceec42e854.html</link>
+      <guid isPermaLink="false">urn:research:20260922:c2ceec42e854</guid>
+      <source url="https://www.semafor.com/article/09/22/2026/openai-exec-is-cautiously-optimistic-about-the-us-working-with-china-on-ai">Semafor</source>
+      <dc:creator>Semafor</dc:creator>
+      <description>&lt;p&gt;OpenAI幹部は、米国と中国のAI協力について「慎重ながら楽観的」であると述べ、両国間のコミュニケーションが「出発点」だと語った。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 米中間のAI協力の可能性は、国際関係、安全保障、テクノロジー業界に大きな影響。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Semafor / 2026-09-22 21:46:32&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
-      <pubDate>Tue, 22 Sep 2026 15:20:52 GMT</pubDate>
+      <pubDate>Tue, 22 Sep 2026 21:46:32 GMT</pubDate>
       <category>重要度4</category>
     </item>
     <item>
-      <title>[★4] (09/23 01:31) Anthropic、IPO前に安価なAIモデルを公開</title>
+      <title>[★4] (09/23 01:34) Andreessen Horowitzが「宿題なし」のアカデミーを立ち上げ、Palantir、Google、Metaと提携</title>
+      <link>https://kaztaira.github.io/research-feed/go/262004370c29.html</link>
+      <guid isPermaLink="false">urn:research:20260922:262004370c29</guid>
+      <source url="https://www.theverge.com/ai-artificial-intelligence/998813/andreessen-horowitz-ai-academy">The Verge AI</source>
+      <dc:creator>The Verge AI</dc:creator>
+      <description>&lt;p&gt;VCのAndreessen Horowitzが、若者がシリコンバレーのスタートアップを築くための「アカデミー」を設立する。Palantir、Google、Metaと提携。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; VC主導のAI人材育成は、テクノロジー業界のエコシステムとAI開発の将来に影響。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; The Verge AI / 2026-09-22 16:34:08&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
+      <pubDate>Tue, 22 Sep 2026 16:34:08 GMT</pubDate>
+      <category>重要度4</category>
+    </item>
+    <item>
+      <title>[★4] (09/23 01:31) AnthropicとOpenAIがより安価なモデルを発表、価格競争が激化</title>
       <link>https://kaztaira.github.io/research-feed/go/e626d4dc022c.html</link>
       <guid isPermaLink="false">urn:research:20260922:e626d4dc022c</guid>
       <source url="https://www.ft.com/content/0e50a3c6-9731-4b29-a21e-4e0ff89a595e?syn-25a6b1a6=1">Financial Times</source>
       <dc:creator>Financial Times</dc:creator>
-      <description>&lt;p&gt;AnthropicがIPOを控え、より安価な新AIモデルをリリースし競争を強化。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; AnthropicのIPO戦略、ブログで扱ってきた同社動向と直結&lt;/p&gt;
+      <description>&lt;p&gt;AnthropicとOpenAIが相次いで低価格なAIモデルを発表し、価格競争が激化している。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 主要AI企業の価格競争激化は、AIの普及とテクノロジー業界の構造に大きな影響。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Financial Times / 2026-09-22 16:31:37&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
       <pubDate>Tue, 22 Sep 2026 16:31:37 GMT</pubDate>
       <category>重要度4</category>
     </item>
     <item>
-      <title>[★4] (09/23 00:00) 巨大IT企業、AIががんの治療法を見つけると主張　実現はどこまで？</title>
-      <link>https://kaztaira.github.io/research-feed/go/b5532ea81d89.html</link>
-      <guid isPermaLink="false">urn:research:20260922:b5532ea81d89</guid>
-      <source url="https://www.theguardian.com/science/ng-interactive/2026/sep/23/big-tech-claims-ai-health-medical-advancement-cure-for-cancer">Guardian Tech</source>
-      <dc:creator>Guardian Tech</dc:creator>
-      <description>&lt;p&gt;巨大テック企業のAIによるがん治療革命の主張を検証する詳細ルポ。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; AI過剰宣伝への検証記事、市民社会の関心と論争性&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Guardian Tech / 2026-09-22 15:00:04&lt;/p&gt;
+      <title>[★4] (09/23 02:22) AnthropicがClaude Opus 5.5を発表</title>
+      <link>https://kaztaira.github.io/research-feed/go/135189b9c0ed.html</link>
+      <guid isPermaLink="false">urn:research:20260922:135189b9c0ed</guid>
+      <source url="https://www.reuters.com/business/anthropic-unveils-claude-opus-55-2026-09-22/">Reuters</source>
+      <dc:creator>Reuters</dc:creator>
+      <description>&lt;p&gt;Anthropicが新たなAIモデル「Claude Opus 5.5」を発表した。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 主要AIモデルの進化は、AIの性能向上とテクノロジーの潮流に直接影響。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Reuters / 2026-09-22 17:22:35&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
-      <pubDate>Tue, 22 Sep 2026 15:00:04 GMT</pubDate>
+      <pubDate>Tue, 22 Sep 2026 17:22:35 GMT</pubDate>
       <category>重要度4</category>
     </item>
     <item>
-      <title>[★3] (09/22 02:38) トルコ、児童保護作戦を狙う偽情報を否定</title>
-      <link>https://kaztaira.github.io/research-feed/go/58f831f37746.html</link>
-      <guid isPermaLink="false">urn:research:20260921:58f831f37746</guid>
-      <source url="https://www.dailysabah.com/politics/turkiye-rejects-disinformation-targeting-child-protection-operations/news">Daily Sabah</source>
-      <dc:creator>Daily Sabah</dc:creator>
-      <description>&lt;p&gt;トルコ政府が児童保護作戦を標的とした偽情報キャンペーンに対し正式に反論。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 国家レベルの偽情報対応事例&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Daily Sabah / 2026-09-21 17:38:00&lt;/p&gt;
+      <title>[★4] (09/22 17:53) トランプ氏の新しいAIアドバイザーは業界の問題を解決しないだろう</title>
+      <link>https://kaztaira.github.io/research-feed/go/3709ce42dc80.html</link>
+      <guid isPermaLink="false">urn:research:20260922:3709ce42dc80</guid>
+      <source url="https://www.semafor.com/article/09/22/2026/new-trump-ai-adviser-wont-fix-industrys-problems">Semafor</source>
+      <dc:creator>Semafor</dc:creator>
+      <description>&lt;p&gt;トランプ氏の新しいAIアドバイザーがAI安全性の議論を変えるとは考えにくいとの見方。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 政治とAI政策の動向は、AI規制の方向性とテクノロジー業界に影響。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Semafor / 2026-09-22 08:53:08&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
+      <pubDate>Tue, 22 Sep 2026 08:53:08 GMT</pubDate>
+      <category>重要度4</category>
+    </item>
+    <item>
+      <title>[★4] (09/23 04:50) トランプ氏、AIとイランを巡る緊張にも関わらずバーナム氏との関係を称賛</title>
+      <link>https://kaztaira.github.io/research-feed/go/6dd13468e25b.html</link>
+      <guid isPermaLink="false">urn:research:20260922:6dd13468e25b</guid>
+      <source url="https://www.theguardian.com/us-news/2026/sep/22/trump-says-relations-better-with-burnham-than-starmer-after-first-face-to-face-meeting">Guardian Tech</source>
+      <dc:creator>Guardian Tech</dc:creator>
+      <description>&lt;p&gt;トランプ米大統領は国連総会でバーナム氏と会談し、AIやイランを巡る緊張があるにもかかわらず、英国との関係が改善したと述べた。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 国際関係におけるAIの議論は、国際協力や安全保障の観点から重要。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Guardian Tech / 2026-09-22 19:50:36&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
+      <pubDate>Tue, 22 Sep 2026 19:50:36 GMT</pubDate>
+      <category>重要度4</category>
+    </item>
+    <item>
+      <title>[★3] (09/22 11:06) アリゾナ州の新団体、データセンターに関する誤情報と戦う</title>
+      <link>https://kaztaira.github.io/research-feed/go/8c5e7e0aaa7b.html</link>
+      <guid isPermaLink="false">urn:research:20260922:8c5e7e0aaa7b</guid>
+      <source url="https://pro.stateaffairs.com/az/yellow-sheet/ai-tech/project-48-data-centers">State Affairs Pro</source>
+      <dc:creator>State Affairs Pro</dc:creator>
+      <description>&lt;p&gt;アリゾナ州でデータセンター建設に関する偽情報に対抗する新たなグループが発足。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; AIの基盤となるデータセンターに関する誤情報対策。テクノロジー業界と市民社会に間接的に影響。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; State Affairs Pro / 2026-09-22 02:06:24&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★☆☆ (3/5)&lt;/p&gt;</description>
-      <pubDate>Mon, 21 Sep 2026 17:38:00 GMT</pubDate>
+      <pubDate>Tue, 22 Sep 2026 02:06:24 GMT</pubDate>
       <category>重要度3</category>
       <category>disinformation</category>
+      <category>misinformation</category>
     </item>
     <item>
-      <title>[★3] (09/22 09:15) クイズ：投票誤情報を見抜けるか？</title>
-      <link>https://kaztaira.github.io/research-feed/go/2138ae30d11b.html</link>
-      <guid isPermaLink="false">urn:research:20260922:2138ae30d11b</guid>
-      <source url="https://www.aclu.org/news/voting-rights/quiz-yourself-can-you-spot-voting-misinformation">American Civil Liberties Union</source>
-      <dc:creator>American Civil Liberties Union</dc:creator>
-      <description>&lt;p&gt;ACLUが有権者向けに投票誤情報を見抜くためのクイズ形式の教材を公開。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 有権者向け誤情報リテラシー教育&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; American Civil Liberties Union / 2026-09-22 00:15:18&lt;/p&gt;
+      <title>[★3] (09/22 18:12) ガルフポートのタウンホール会議、デング熱の懸念と誤情報に対処</title>
+      <link>https://kaztaira.github.io/research-feed/go/1d6fe0a3d985.html</link>
+      <guid isPermaLink="false">urn:research:20260922:1d6fe0a3d985</guid>
+      <source url="https://www.wtsp.com/article/news/health/gulfport-town-hall-tackles-dengue-concerns-and-misinformation/67-1a64e7a9-45e9-4801-8fce-1e96277558a0">wtsp.com</source>
+      <dc:creator>wtsp.com</dc:creator>
+      <description>&lt;p&gt;地域社会でデング熱に関する誤情報が広がり、タウンホール会議で対応が話し合われた。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 健康問題における誤情報の拡散。市民社会への影響は大きいが、AIとの直接関連は弱い。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; wtsp.com / 2026-09-22 09:12:00&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★☆☆ (3/5)&lt;/p&gt;</description>
-      <pubDate>Tue, 22 Sep 2026 00:15:18 GMT</pubDate>
+      <pubDate>Tue, 22 Sep 2026 09:12:00 GMT</pubDate>
       <category>重要度3</category>
       <category>misinformation</category>
     </item>
     <item>
-      <title>[★3] (09/21 14:52) 脅迫や誤情報から自由に投票する権利を知ろう</title>
-      <link>https://kaztaira.github.io/research-feed/go/ce75b87fe2a3.html</link>
-      <guid isPermaLink="false">urn:research:20260921:ce75b87fe2a3</guid>
-      <source url="https://www.redlakenationnews.com/story/2026/09/21/news/know-your-rights-to-vote-safely-and-free-from-intimidation-or-misinformation/142993.html">redlakenationnews.com</source>
-      <dc:creator>redlakenationnews.com</dc:creator>
-      <description>&lt;p&gt;有権者が脅迫や誤情報を受けずに投票する権利について解説した記事。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 投票権保護と誤情報の関係&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; redlakenationnews.com / 2026-09-21 05:52:32&lt;/p&gt;
+      <title>[★3] (09/22 01:32) AIリスク評価を支援するためのエージェントによるスモールワールドネットワークを用いたアイデア創出</title>
+      <link>https://kaztaira.github.io/research-feed/go/6b1bbee5add1.html</link>
+      <guid isPermaLink="false">urn:research:20260921:6b1bbee5add1</guid>
+      <source url="https://arxiv.org/abs/2609.24859v1">arXiv (AI safety/risk)</source>
+      <dc:creator>arXiv (AI safety/risk)</dc:creator>
+      <description>&lt;p&gt;AIエージェントがAIリスクのブレインストーミングを行い、リスク評価を向上させる研究。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; AIリスク評価手法に関する学術研究。テクノロジーの潮流に関連するが、即時的な影響は限定的。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; arXiv (AI safety/risk) / 2026-09-21 16:32:57&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★☆☆ (3/5)&lt;/p&gt;</description>
-      <pubDate>Mon, 21 Sep 2026 05:52:32 GMT</pubDate>
+      <pubDate>Mon, 21 Sep 2026 16:32:57 GMT</pubDate>
       <category>重要度3</category>
-      <category>misinformation</category>
+    </item>
+    <item>
+      <title>[★3] (09/22 01:58) パターン認識からパーソナライズされたコンパニオンへ：メンタルヘルスにおける大規模言語モデルの調査</title>
+      <link>https://kaztaira.github.io/research-feed/go/908af652e082.html</link>
+      <guid isPermaLink="false">urn:research:20260921:908af652e082</guid>
+      <source url="https://arxiv.org/abs/2609.25186v1">arXiv (cs.CY society/ethics)</source>
+      <dc:creator>arXiv (cs.CY society/ethics)</dc:creator>
+      <description>&lt;p&gt;メンタルヘルス分野での大規模言語モデルの応用に関する包括的な調査論文。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; LLMのメンタルヘルス分野への応用に関する学術調査。市民社会への影響は大きいが、即時的な影響は限定的。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; arXiv (cs.CY society/ethics) / 2026-09-21 16:58:17&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★☆☆ (3/5)&lt;/p&gt;</description>
+      <pubDate>Mon, 21 Sep 2026 16:58:17 GMT</pubDate>
+      <category>重要度3</category>
+    </item>
+    <item>
+      <title>[★3] (09/21 19:53) 「偽情報」という刺激語の認知影響を測定するアイトラッキング研究</title>
+      <link>https://kaztaira.github.io/research-feed/go/da45cef577c7.html</link>
+      <guid isPermaLink="false">urn:research:20260921:da45cef577c7</guid>
+      <source url="https://edmo.eu/edmo-news/experiment-design-of-a-balanced-eye-tracking-study-for-measuring-the-cognitive-impact-of-the-stimulus-word-disinformation/">edmo.eu</source>
+      <dc:creator>edmo.eu</dc:creator>
+      <description>&lt;p&gt;「偽情報」という言葉が人々の認知に与える影響をアイトラッキングで調査する研究デザイン。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 「ディスインフォメーション」という言葉の認知研究。メディア環境への影響を学術的に探る。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; edmo.eu / 2026-09-21 10:53:26&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★☆☆ (3/5)&lt;/p&gt;</description>
+      <pubDate>Mon, 21 Sep 2026 10:53:26 GMT</pubDate>
+      <category>重要度3</category>
+      <category>disinformation</category>
     </item>
     <item>
       <title>[★5] (09/22 02:00) サム・アルトマン氏の国連演説を前に、OpenAIがAI不整合リスクの追跡新手法を提案</title>
