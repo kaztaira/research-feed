@@ -1,18 +1,420 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
-  <!-- Generated: 2026-11-07T05:07:23+0900 -->
+  <!-- Generated: 2026-11-09T05:07:20+0900 -->
   <channel>
     <title>AI/Disinformation Daily Report（新聞紙学的）</title>
     <description>AI・偽情報・ディスインフォメーションに関する日次リサーチレポート。主要海外メディアから重要ニュースを抽出・評価。</description>
     <link>https://kaztaira.wordpress.com</link>
     <language>ja</language>
-    <lastBuildDate>Sat, 07 Nov 2026 05:07:23 +0900</lastBuildDate>
-    <pubDate>Sat, 07 Nov 2026 05:07:23 +0900</pubDate>
+    <lastBuildDate>Mon, 09 Nov 2026 05:07:20 +0900</lastBuildDate>
+    <pubDate>Mon, 09 Nov 2026 05:07:20 +0900</pubDate>
     <generator>AI/Disinformation Research Agent</generator>
     <ttl>720</ttl>
     <docs>https://www.rssboard.org/rss-specification</docs>
     <atom:link href="https://raw.githubusercontent.com/kaztaira/research-feed/main/feed4.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
+    <item>
+      <title>[★5] (11/09 03:01) DeepSeekのAIエージェント基盤、1日154万ユーザー到達　OpenAI・Anthropicに対抗</title>
+      <link>https://kaztaira.github.io/research-feed/go/4c6d1a511e87.html</link>
+      <guid isPermaLink="false">urn:research:20261108:4c6d1a511e87</guid>
+      <source url="https://www.bloomberg.com/news/articles/2026-11-08/deepseek-s-ai-agent-platform-hits-1-54-million-daily-users">Bloomberg Tech</source>
+      <dc:creator>Bloomberg Tech</dc:creator>
+      <description>&lt;p&gt;中国のAI新興DeepSeekのエージェント基盤が1日154万ユーザーに達し、OpenAIやAnthropicに挑戦する姿勢を鮮明に。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 米中AI覇権争いとエージェント普及の象徴的事例。業界・国際関係に大きな影響&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Bloomberg Tech / 2026-11-08 18:01:43&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★★ (5/5)&lt;/p&gt;</description>
+      <pubDate>Sun, 08 Nov 2026 18:01:43 GMT</pubDate>
+      <category>重要度5</category>
+    </item>
+    <item>
+      <title>[★5] (11/08 18:21) ロシアの偽情報キャンペーン、AI・なりすましメディアで米候補者を標的に</title>
+      <link>https://kaztaira.github.io/research-feed/go/f4f27fda6d3d.html</link>
+      <guid isPermaLink="false">urn:research:20261108:f4f27fda6d3d</guid>
+      <source url="https://www.israeldefense.co.il/en/node/72541">Israel Defense</source>
+      <dc:creator>Israel Defense</dc:creator>
+      <description>&lt;p&gt;ロシアが生成AIとなりすましメディアを駆使し、米選挙候補者を標的にした偽情報キャンペーンを展開していると報告。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; AI偽情報と選挙介入の交差点。米中間選挙関連で安全保障に直結&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Israel Defense / 2026-11-08 09:21:55&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★★ (5/5)&lt;/p&gt;</description>
+      <pubDate>Sun, 08 Nov 2026 09:21:55 GMT</pubDate>
+      <category>重要度5</category>
+      <category>disinformation</category>
+    </item>
+    <item>
+      <title>[★5] (11/09 03:05) 米AI安全センター職員がホワイトハウス直属に、独立性に懸念</title>
+      <link>https://kaztaira.github.io/research-feed/go/833c8dad8781.html</link>
+      <guid isPermaLink="false">urn:research:20261108:833c8dad8781</guid>
+      <source url="https://www.pbs.org/newshour/politics/staff-at-u-s-center-for-ai-safety-are-reporting-to-the-white-house-raising-independence-concerns">PBS</source>
+      <dc:creator>PBS</dc:creator>
+      <description>&lt;p&gt;米国のAI安全性センターの職員がホワイトハウスに報告する体制となり、独立性への懸念が高まっている。AI規制・ガバナンスの中立性に関わる重大問題。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; AI規制の独立性に関わる米政権の重大動向、市民社会への影響大&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; PBS / 2026-11-08 18:05:01&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★★ (5/5)&lt;/p&gt;</description>
+      <pubDate>Sun, 08 Nov 2026 18:05:01 GMT</pubDate>
+      <category>重要度5</category>
+      <category>AI regulation</category>
+    </item>
+    <item>
+      <title>[★5] (11/08 17:12) 米AI安全センター職員がホワイトハウス直属、独立性に疑念（AP報）</title>
+      <link>https://kaztaira.github.io/research-feed/go/e4687fcb859b.html</link>
+      <guid isPermaLink="false">urn:research:20261108:e4687fcb859b</guid>
+      <source url="https://www.wral.com/news/ap/d3318-staff-at-the-us-center-for-ai-safety-are-reporting-to-the-white-house-raising-independence-concerns/">WRAL</source>
+      <dc:creator>WRAL</dc:creator>
+      <description>&lt;p&gt;APによる続報。米国AI安全性組織の職員がホワイトハウスの指揮下に置かれ、政権によるAI安全評価の政治化が懸念される。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; AI規制の政治化を示す重要続報、国際的影響大&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; WRAL / 2026-11-08 08:12:35&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★★ (5/5)&lt;/p&gt;</description>
+      <pubDate>Sun, 08 Nov 2026 08:12:35 GMT</pubDate>
+      <category>重要度5</category>
+    </item>
+    <item>
+      <title>[★5] (11/08 00:00) AIがサイバーセキュリティを破壊した、次に何が起きるか</title>
+      <link>https://kaztaira.github.io/research-feed/go/c350b1638a53.html</link>
+      <guid isPermaLink="false">urn:research:20261107:c350b1638a53</guid>
+      <source url="https://www.theverge.com/podcast/1029038/ai-cybersecurity-hackers-data-breach-dark-age-alex-stamos">The Verge AI</source>
+      <dc:creator>The Verge AI</dc:creator>
+      <description>&lt;p&gt;Cognition社CSOアレックス・スタモス氏が、AIがサイバー攻撃を激化させ、業界を混乱に陥れている現状を解説。大規模データ侵害と暗黒時代の到来を警告。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; AIによるサイバー脅威の深刻化、ブログ既報テーマと直結&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; The Verge AI / 2026-11-07 15:00:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★★ (5/5)&lt;/p&gt;</description>
+      <pubDate>Sat, 07 Nov 2026 15:00:00 GMT</pubDate>
+      <category>重要度5</category>
+    </item>
+    <item>
+      <title>[★5] (11/08 15:00) ホットな冷蔵庫、偽核警報、60億ドル強奪―ハッキング流行の入口か</title>
+      <link>https://kaztaira.github.io/research-feed/go/269c342b9c37.html</link>
+      <guid isPermaLink="false">urn:research:20261108:269c342b9c37</guid>
+      <source url="https://www.theguardian.com/news/ng-interactive/2026/nov/08/hot-fridges-a-fake-nuclear-alert-and-a-6bn-heist-are-we-in-the-foothills-of-a-hacking-epidemic">Guardian Tech</source>
+      <dc:creator>Guardian Tech</dc:creator>
+      <description>&lt;p&gt;AIがITシステムの脆弱性を露呈し、地政学がサイバー戦線で展開される中、近年の事件群が日常化する前兆かを検証する長編記事。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; AI時代のサイバー脅威を俯瞰する深掘り記事、市民社会への影響大&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Guardian Tech / 2026-11-08 06:00:33&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★★ (5/5)&lt;/p&gt;</description>
+      <pubDate>Sun, 08 Nov 2026 06:00:33 GMT</pubDate>
+      <category>重要度5</category>
+    </item>
+    <item>
+      <title>[★5] (11/07 05:56) 中国系ハッカーがChainalysisを「多方面サイバー攻撃」、全顧客の認証情報・トークン窃取　AIエージェント活用</title>
+      <link>https://kaztaira.github.io/research-feed/go/9678fc2a3d37.html</link>
+      <guid isPermaLink="false">urn:research:20261106:9678fc2a3d37</guid>
+      <source url="https://arstechnica.com/security/2026/11/chainalysis-says-hackers-stole-credentials-and-tokens-for-all-of-its-customers/">Ars Technica</source>
+      <dc:creator>Ars Technica</dc:creator>
+      <description>&lt;p&gt;ブロックチェーン分析大手Chainalysisが全顧客の認証情報・トークンを盗まれたと発表。AIエージェントと経路上データ奪取を組み合わせた多方面攻撃。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; AIエージェントによる大規模サイバー攻撃、ブログ既報テーマと直結し市民社会・安全保障に重大影響&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Ars Technica / 2026-11-06 20:56:41&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★★ (5/5)&lt;/p&gt;</description>
+      <pubDate>Fri, 06 Nov 2026 20:56:41 GMT</pubDate>
+      <category>重要度5</category>
+    </item>
+    <item>
+      <title>[★5] (11/06 10:01) AIの反発に計画が必要　民主党は中間選挙の勝利でフロンティアAI研究所やデータセンターを規制できるか</title>
+      <link>https://kaztaira.github.io/research-feed/go/492261374a02.html</link>
+      <guid isPermaLink="false">urn:research:20261106:492261374a02</guid>
+      <source url="https://www.platformer.news/thursday-newsletter-7/">Platformer</source>
+      <dc:creator>Platformer</dc:creator>
+      <description>&lt;p&gt;中間選挙で民主党がフロンティアAI研究所やデータセンター規制の民意を得た。ソーシャルメディア時代の過ちを繰り返さず実現できるかを問う分析。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; AI規制と民主主義の重要論点、米政治とテクノロジー業界双方に広範な影響&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Platformer / 2026-11-06 01:01:17&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★★ (5/5)&lt;/p&gt;</description>
+      <pubDate>Fri, 06 Nov 2026 01:01:17 GMT</pubDate>
+      <category>重要度5</category>
+      <category>AI regulation</category>
+    </item>
+    <item>
+      <title>[★5] (11/07 06:00) Anthropic、1.5兆ドル評価額目指しIPO推進</title>
+      <link>https://kaztaira.github.io/research-feed/go/893bb1d94510.html</link>
+      <guid isPermaLink="false">urn:research:20261106:893bb1d94510</guid>
+      <source url="https://www.ft.com/content/314e17df-e7af-4814-b208-70a0557cb452">Financial Times</source>
+      <dc:creator>Financial Times</dc:creator>
+      <description>&lt;p&gt;Anthropicは1.5兆ドルの企業価値を目標とするIPOを推進。テック株急落とAI反発の中で巨額評価に挑む。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; AI業界最大級のIPO、巨額評価がテック市場と業界構造に決定的影響&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Financial Times / 2026-11-06 21:00:09&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★★ (5/5)&lt;/p&gt;</description>
+      <pubDate>Fri, 06 Nov 2026 21:00:09 GMT</pubDate>
+      <category>重要度5</category>
+    </item>
+    <item>
+      <title>[★5] (11/08 20:00) Anthropic、データセンター向けガス火力発電で34億ドル契約</title>
+      <link>https://kaztaira.github.io/research-feed/go/8122fc8191d6.html</link>
+      <guid isPermaLink="false">urn:research:20261108:8122fc8191d6</guid>
+      <source url="https://www.ft.com/content/41bf5c6a-9735-4f1a-a8e3-2bcccad58ba0">Financial Times</source>
+      <dc:creator>Financial Times</dc:creator>
+      <description>&lt;p&gt;Anthropicはデータセンター電力確保のためガス火力発電に34億ドル投資する契約を締結。環境・エネルギー論議再燃必至。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; AI電力需要と化石燃料回帰、環境・市民社会・業界潮流すべてに影響&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Financial Times / 2026-11-08 11:00:09&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★★ (5/5)&lt;/p&gt;</description>
+      <pubDate>Sun, 08 Nov 2026 11:00:09 GMT</pubDate>
+      <category>重要度5</category>
+    </item>
+    <item>
+      <title>[★4] (11/08 15:01) ロシアの偽情報戦、EU拡大阻止を標的に展開</title>
+      <link>https://kaztaira.github.io/research-feed/go/11084747d5e8.html</link>
+      <guid isPermaLink="false">urn:research:20261108:11084747d5e8</guid>
+      <source url="https://www.thejournal.ie/russian-disinformation-eu-enlargement-7208636-Nov2026/">The Journal</source>
+      <dc:creator>The Journal</dc:creator>
+      <description>&lt;p&gt;ロシアの偽情報作戦がEU拡大プロセスを妨害する手段として体系化されていると、欧州の分析が指摘。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 国際関係・安全保障に関わる組織的情報戦の分析&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; The Journal / 2026-11-08 06:01:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
+      <pubDate>Sun, 08 Nov 2026 06:01:00 GMT</pubDate>
+      <category>重要度4</category>
+      <category>disinformation</category>
+    </item>
+    <item>
+      <title>[★4] (11/08 17:47) インド軍、中国軍が50km制圧の主張を否定　組織的偽情報工作と指摘</title>
+      <link>https://kaztaira.github.io/research-feed/go/28b6ce9013fe.html</link>
+      <guid isPermaLink="false">urn:research:20261108:28b6ce9013fe</guid>
+      <source url="https://northeastlivetv.com/topnews/indian-army-debunks-claims-of-chinese-forces-capturing-50-km-of-arunachal-territory-flags-coordinated-disinformation-campaign/">Northeast Live</source>
+      <dc:creator>Northeast Live</dc:creator>
+      <description>&lt;p&gt;インド軍がアルナーチャル州での中国軍進出主張を全面否定し、背後に組織的な偽情報キャンペーンがあると警告。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 中印国境問題と偽情報工作の結合、安全保障上の重要案件&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Northeast Live / 2026-11-08 08:47:28&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
+      <pubDate>Sun, 08 Nov 2026 08:47:28 GMT</pubDate>
+      <category>重要度4</category>
+      <category>disinformation</category>
+    </item>
+    <item>
+      <title>[★4] (11/09 04:07) AI安全センター、ホワイトハウスの監督めぐり疑義</title>
+      <link>https://kaztaira.github.io/research-feed/go/a0c3cb8c985d.html</link>
+      <guid isPermaLink="false">urn:research:20261108:a0c3cb8c985d</guid>
+      <source url="https://www.foxnews.com/live-news/ai-news-safety-11-08-26">Fox News</source>
+      <dc:creator>Fox News</dc:creator>
+      <description>&lt;p&gt;米AI安全センターの統治構造とホワイトハウス関与をめぐる疑問が浮上し、AI規制体制の透明性が問われる。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; AI規制・ガバナンスの政治問題化。政策・業界の双方に影響&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Fox News / 2026-11-08 19:07:23&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
+      <pubDate>Sun, 08 Nov 2026 19:07:23 GMT</pubDate>
+      <category>重要度4</category>
+      <category>AI regulation</category>
+    </item>
+    <item>
+      <title>[★4] (11/08 21:20) ロシア系偽情報、フランス混乱を増幅の可能性　元CIA職員が指摘</title>
+      <link>https://kaztaira.github.io/research-feed/go/121e5386cf2e.html</link>
+      <guid isPermaLink="false">urn:research:20261108:121e5386cf2e</guid>
+      <source url="https://www.foxnews.com/video/6408099572112">Fox News</source>
+      <dc:creator>Fox News</dc:creator>
+      <description>&lt;p&gt;フランス国内の社会混乱に、ロシア系偽情報が増幅作用を及ぼしている可能性を元CIA職員が指摘。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 欧州の政情不安と情報操作の関係、国際安全保障に影響&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Fox News / 2026-11-08 12:20:33&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
+      <pubDate>Sun, 08 Nov 2026 12:20:33 GMT</pubDate>
+      <category>重要度4</category>
+      <category>disinformation</category>
+    </item>
+    <item>
+      <title>[★4] (11/09 00:04) 偽情報が勝った：分断政治がカナダの炭素税を葬った構図</title>
+      <link>https://kaztaira.github.io/research-feed/go/79335600691a.html</link>
+      <guid isPermaLink="false">urn:research:20261108:79335600691a</guid>
+      <source url="https://theconversation.com/misinformation-won-how-divisive-politics-doomed-canadas-carbon-tax-295644">The Conversation</source>
+      <dc:creator>The Conversation</dc:creator>
+      <description>&lt;p&gt;カナダの炭素税廃止に至る過程で、分断的な政治と偽情報が決定的役割を果たしたとする分析。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 偽情報が実際の政策決定に及ぼした影響の事例研究&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; The Conversation / 2026-11-08 15:04:58&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
+      <pubDate>Sun, 08 Nov 2026 15:04:58 GMT</pubDate>
+      <category>重要度4</category>
+      <category>disinformation</category>
+    </item>
+    <item>
+      <title>[★4] (11/07 07:53) OpenAIが追加110億ドル調達、評価額1.25兆ドルに</title>
+      <link>https://kaztaira.github.io/research-feed/go/41cd6da548e0.html</link>
+      <guid isPermaLink="false">urn:research:20261106:41cd6da548e0</guid>
+      <source url="https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>&lt;p&gt;OpenAIが評価額1.25兆ドルで追加110億ドルの資金調達ラウンドを進行中。数週間以内のクローズが見込まれるが、AI業界の過熱懸念も強い。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; AI業界最大手の巨額調達、バブル懸念と業界構造に影響&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; TechCrunch / 2026-11-06 22:53:46&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
+      <pubDate>Fri, 06 Nov 2026 22:53:46 GMT</pubDate>
+      <category>重要度4</category>
+    </item>
+    <item>
+      <title>[★4] (11/07 03:32) 中間選挙でAI株急落、規制強化への懸念</title>
+      <link>https://kaztaira.github.io/research-feed/go/d70263039183.html</link>
+      <guid isPermaLink="false">urn:research:20261106:d70263039183</guid>
+      <source url="https://www.bbc.co.uk/news/articles/crlykkzwwpydo?at_medium=RSS&amp;at_campaign=rss">BBC News Tech</source>
+      <dc:creator>BBC News Tech</dc:creator>
+      <description>&lt;p&gt;米中間選挙の結果を受け、AI規制強化への懸念から投資家の間でAI株売りが広がる。AI業界への懸念はかねてから高まっていた。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 選挙結果とAI業界動向の交点、ブログの選挙関連記事と連関&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; BBC News Tech / 2026-11-06 18:32:16&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
+      <pubDate>Fri, 06 Nov 2026 18:32:16 GMT</pubDate>
+      <category>重要度4</category>
+      <category>AI regulation</category>
+    </item>
+    <item>
+      <title>[★4] (11/06 08:41) AIバックラッシュがAnthropic IPOの時期を脅かす可能性</title>
+      <link>https://kaztaira.github.io/research-feed/go/1e8d49c89a41.html</link>
+      <guid isPermaLink="false">urn:research:20261105:1e8d49c89a41</guid>
+      <source url="https://www.reuters.com/world/ai-backlash-could-threaten-anthropic-ipo-timing-potential-investors-say-2026-11-05/">Reuters</source>
+      <dc:creator>Reuters</dc:creator>
+      <description>&lt;p&gt;ロイター独占報道。潜在投資家によると、社会的なAI反発感情の高まりがAnthropicのIPOタイミングに影響する恐れがある。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; AI業界への社会的反発の高まりを示唆、投資動向に影響&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Reuters / 2026-11-05 23:41:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
+      <pubDate>Thu, 05 Nov 2026 23:41:00 GMT</pubDate>
+      <category>重要度4</category>
+    </item>
+    <item>
+      <title>[★4] (11/08 17:27) ソーシャル追い越されるニュースサイト、メディアは信頼性で先導を</title>
+      <link>https://kaztaira.github.io/research-feed/go/1e5484f2fc33.html</link>
+      <guid isPermaLink="false">urn:research:20261108:1e5484f2fc33</guid>
+      <source url="https://www.bernama.com/en/world/news.php?id=2631661">Bernama</source>
+      <dc:creator>Bernama</dc:creator>
+      <description>&lt;p&gt;ソーシャルプラットフォームがニュースサイトを凌駕する中、報道機関は信頼性を武器にリードすべきとの提言。メディア環境の構造変化。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; メディア環境の構造変化、ブログの主要関心領域と合致&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Bernama / 2026-11-08 08:27:32&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
+      <pubDate>Sun, 08 Nov 2026 08:27:32 GMT</pubDate>
+      <category>重要度4</category>
+      <category>platform accountability</category>
+    </item>
+    <item>
+      <title>[★4] (11/06 07:05) USA Today社、業績不振の原因をAIに帰責、同時に解決策とも</title>
+      <link>https://kaztaira.github.io/research-feed/go/87f201e1b604.html</link>
+      <guid isPermaLink="false">urn:research:20261105:87f201e1b604</guid>
+      <source url="https://www.poynter.org/business-work/2026/usa-today-co-ai-use-advertising-video/">Poynter</source>
+      <dc:creator>Poynter</dc:creator>
+      <description>&lt;p&gt;米最大の新聞チェーンUSA Today社が第3四半期決算で純損失を計上。AIが広告収入減の原因であり同時に解決策でもあると指摘。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 新聞業界のAI影響と対応、メディア環境への直接的影響&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Poynter / 2026-11-05 22:05:26&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
+      <pubDate>Thu, 05 Nov 2026 22:05:26 GMT</pubDate>
+      <category>重要度4</category>
+    </item>
+    <item>
+      <title>[★4] (11/08 18:59) クラクフ銃撃事件を巡るフェイクニュース、ポーランド政府が警告</title>
+      <link>https://kaztaira.github.io/research-feed/go/b0f671b5424f.html</link>
+      <guid isPermaLink="false">urn:research:20261108:b0f671b5424f</guid>
+      <source url="https://tvpworld.com/96368967/krakow-shooting-krzysztof-gawkowski-warns-of-disinformation">TVP World</source>
+      <dc:creator>TVP World</dc:creator>
+      <description>&lt;p&gt;ポーランドのクラクフ銃撃事件を巡り、副首相が偽情報の拡散について警告。Gawkowski氏が偽情報対策を呼びかけ。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 事件を巡る偽情報拡散、ブログの偽情報テーマと直結&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; TVP World / 2026-11-08 09:59:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
+      <pubDate>Sun, 08 Nov 2026 09:59:00 GMT</pubDate>
+      <category>重要度4</category>
+      <category>disinformation</category>
+    </item>
+    <item>
+      <title>[★4] (11/08 20:48) Anthropicがデータセンター電力に34億ドル投資、史上最大の購入</title>
+      <link>https://kaztaira.github.io/research-feed/go/5ba968d63a8e.html</link>
+      <guid isPermaLink="false">urn:research:20261108:5ba968d63a8e</guid>
+      <source url="https://www.bloomberg.com/news/articles/2026-11-08/anthropic-buys-power-for-ai-data-centres-in-3-4b-deal-ft-says">Bloomberg Tech</source>
+      <dc:creator>Bloomberg Tech</dc:creator>
+      <description>&lt;p&gt;AnthropicがAI向けデータセンターのガス火力発電設備に34億ドルを投じる契約。AI企業による電力購入としては過去最大規模。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; AIと電力・環境問題の交点、業界構造とエネルギー問題に影響&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Bloomberg Tech / 2026-11-08 11:48:21&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
+      <pubDate>Sun, 08 Nov 2026 11:48:21 GMT</pubDate>
+      <category>重要度4</category>
+    </item>
+    <item>
+      <title>[★4] (11/06 20:55) 青い波がAnthropic IPOに波及　民主党躍進で規制警戒感</title>
+      <link>https://kaztaira.github.io/research-feed/go/54dfbbe2ab22.html</link>
+      <guid isPermaLink="false">urn:research:20261106:54dfbbe2ab22</guid>
+      <source url="https://www.politico.com/newsletters/decoded-by-politico/2026/11/06/the-blue-wave-hits-anthropics-ipo-01153232">Politico</source>
+      <dc:creator>Politico</dc:creator>
+      <description>&lt;p&gt;中間選挙の民主党勝利がAnthropicのIPOに影響。規制強化懸念の中、AI業界の政治リスクが浮き彫りに。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 政治動向とAI企業評価の交差点、米中間選挙後の規制動向を占う&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Politico / 2026-11-06 11:55:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
+      <pubDate>Fri, 06 Nov 2026 11:55:00 GMT</pubDate>
+      <category>重要度4</category>
+      <category>AI regulation</category>
+    </item>
+    <item>
+      <title>[★4] (11/06 17:00) AnthropicのCEOダリオ・アモデイの素顔</title>
+      <link>https://kaztaira.github.io/research-feed/go/e4f4f3e93ca8.html</link>
+      <guid isPermaLink="false">urn:research:20261106:e4f4f3e93ca8</guid>
+      <source url="https://www.nytimes.com/2026/11/05/technology/dario-amodei-anthropic-ai.html">New York Times</source>
+      <dc:creator>New York Times</dc:creator>
+      <description>&lt;p&gt;NYTがAnthropicのダリオ・アモデイCEOの来歴と経営姿勢を詳述。AI安全性を掲げる同社トップの思想を分析。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; AI業界の中心人物の深掘り、AI安全論議と経営方針の関係を知る重要資料&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; New York Times / 2026-11-06 08:00:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
+      <pubDate>Fri, 06 Nov 2026 08:00:00 GMT</pubDate>
+      <category>重要度4</category>
+    </item>
+    <item>
+      <title>[★4] (11/07 05:47) 元OpenAI従業員、スパイ容疑で無罪主張</title>
+      <link>https://kaztaira.github.io/research-feed/go/18e6f3012919.html</link>
+      <guid isPermaLink="false">urn:research:20261106:18e6f3012919</guid>
+      <source url="https://www.ft.com/content/daee9cd2-3477-4fcc-859f-46acb9fdfbd9">Financial Times</source>
+      <dc:creator>Financial Times</dc:creator>
+      <description>&lt;p&gt;スパイ容疑で起訴された元OpenAI従業員が無罪を主張。AI先端技術を巡る産業スパイ疑惑が法廷闘争に。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; AI技術の国際的セキュリティ問題、国際関係・業界双方に影響&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Financial Times / 2026-11-06 20:47:31&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
+      <pubDate>Fri, 06 Nov 2026 20:47:31 GMT</pubDate>
+      <category>重要度4</category>
+    </item>
+    <item>
+      <title>[★4] (11/06 07:28) OpenAI、データセンターを受け入れやすくする方策発表　NDA回避・電気料金負担なし</title>
+      <link>https://kaztaira.github.io/research-feed/go/addea02c84ac.html</link>
+      <guid isPermaLink="false">urn:research:20261105:addea02c84ac</guid>
+      <source url="https://www.semafor.com/article/11/05/2026/openai-looks-to-make-data-centers-more-palatable">Semafor</source>
+      <dc:creator>Semafor</dc:creator>
+      <description>&lt;p&gt;OpenAIはデータセンター契約でNDAを避け、住民の電気料金を上げない方針を表明。地域社会との摩擦緩和を狙う。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; AIインフラと地域社会の摩擦、市民社会への影響と業界慣行の転換点&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Semafor / 2026-11-05 22:28:34&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
+      <pubDate>Thu, 05 Nov 2026 22:28:34 GMT</pubDate>
+      <category>重要度4</category>
+    </item>
+    <item>
+      <title>[★4] (11/07 04:16) Microsoft、OracleからのAIクラウド容量レンタル契約を縮小　Bloomberg報道</title>
+      <link>https://kaztaira.github.io/research-feed/go/b0776579f05b.html</link>
+      <guid isPermaLink="false">urn:research:20261106:b0776579f05b</guid>
+      <source url="https://www.reuters.com/business/microsoft-is-winding-down-oracle-deal-rent-ai-cloud-capacity-bloomberg-news-2026-11-06/">Reuters</source>
+      <dc:creator>Reuters</dc:creator>
+      <description>&lt;p&gt;MicrosoftがOracleとのAIクラウド容量レンタル契約を縮小中と報道。巨大テック間のAIインフラ競争の転機。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; AIインフラ市場の構造変化、業界勢力図に直接影響&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Reuters / 2026-11-06 19:16:09&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
+      <pubDate>Fri, 06 Nov 2026 19:16:09 GMT</pubDate>
+      <category>重要度4</category>
+    </item>
+    <item>
+      <title>[★4] (11/07 03:06) OpenAI、中間選挙の民主党躍進にもかかわらずデータセンター拡張を継続　CFOがCNBCに表明</title>
+      <link>https://kaztaira.github.io/research-feed/go/9e00e8f51a9d.html</link>
+      <guid isPermaLink="false">urn:research:20261106:9e00e8f51a9d</guid>
+      <source url="https://www.reuters.com/business/retail-consumer/openai-press-ahead-with-data-center-expansion-despite-midterm-sweep-cfo-tells-2026-11-06/">Reuters</source>
+      <dc:creator>Reuters</dc:creator>
+      <description>&lt;p&gt;OpenAI CFOが中間選挙結果に関わらずデータセンター拡張を推進と明言。政治圧力と業界拡大意欲の対立。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; AI業界と政治動向の緊張、インフラ規制論議の焦点&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Reuters / 2026-11-06 18:06:47&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
+      <pubDate>Fri, 06 Nov 2026 18:06:47 GMT</pubDate>
+      <category>重要度4</category>
+    </item>
+    <item>
+      <title>[★4] (11/06 05:07) Anthropicのモデル、AI支援で改善速度ほぼ倍増　研究報告</title>
+      <link>https://kaztaira.github.io/research-feed/go/3d659625d39e.html</link>
+      <guid isPermaLink="false">urn:research:20261105:3d659625d39e</guid>
+      <source url="https://www.reuters.com/technology/anthropics-models-improving-nearly-twice-fast-with-help-ai-study-finds-2026-11-05/">Reuters</source>
+      <dc:creator>Reuters</dc:creator>
+      <description>&lt;p&gt;AnthropicのAIモデルがAI自身の支援により従来の約2倍の速度で改善していると研究が報告。再帰的自己改善の兆候。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; AI自己改善加速、技術潮流と安全性論議の中核&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Reuters / 2026-11-05 20:07:43&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
+      <pubDate>Thu, 05 Nov 2026 20:07:43 GMT</pubDate>
+      <category>重要度4</category>
+    </item>
+    <item>
+      <title>[★4] (11/08 21:52) アジア市場、AIボラティリティ再来に身構え</title>
+      <link>https://kaztaira.github.io/research-feed/go/d987a605f83f.html</link>
+      <guid isPermaLink="false">urn:research:20261108:d987a605f83f</guid>
+      <source url="https://www.bloomberg.com/news/videos/2026-11-08/asia-markets-brace-for-more-ai-volatility-video">Bloomberg Tech</source>
+      <dc:creator>Bloomberg Tech</dc:creator>
+      <description>&lt;p&gt;ヘッジファンドがAI関連株を手仕舞い、米国の不透明感も強まる中、アジア投資家がAI売りの余波を分析。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; AIバブル懸念の市場波及、グローバル金融への影響&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Bloomberg Tech / 2026-11-08 12:52:53&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
+      <pubDate>Sun, 08 Nov 2026 12:52:53 GMT</pubDate>
+      <category>重要度4</category>
+    </item>
     <item>
       <title>[★5] (11/07 02:01) 100超の慈善団体、AI生成の健康情報の誤情報対策を政府に要請</title>
       <link>https://kaztaira.github.io/research-feed/go/3a60385f3fa4.html</link>
@@ -2421,790 +2823,6 @@
       <pubDate>Sun, 01 Nov 2026 09:30:00 GMT</pubDate>
       <category>重要度3</category>
       <category>disinformation</category>
-    </item>
-    <item>
-      <title>[★5] (10/31 21:02) 誤情報の中間選挙前に知っておくべきこと</title>
-      <link>https://kaztaira.github.io/research-feed/go/d915d124899d.html</link>
-      <guid isPermaLink="false">urn:research:20261031:d915d124899d</guid>
-      <source url="https://www.newsguardrealitycheck.com/p/what-to-know-ahead-of-the-misinformation">NewsGuard's Reality Check</source>
-      <dc:creator>NewsGuard's Reality Check</dc:creator>
-      <description>&lt;p&gt;NewsGuardが2026年米中間選挙を前に、AI生成コンテンツやピンクスライムサイトなど誤情報の最新動向を分析・警告。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; ブログのAI選挙偽情報テーマと直結する専門機関の分析&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; NewsGuard's Reality Check / 2026-10-31 12:02:30&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★★ (5/5)&lt;/p&gt;</description>
-      <pubDate>Sat, 31 Oct 2026 12:02:30 GMT</pubDate>
-      <category>重要度5</category>
-      <category>misinformation</category>
-    </item>
-    <item>
-      <title>[★5] (10/31 04:57) Anthropicのリスク要因文書92ページを読み解く――IPO申請書類が明かすAIの危険性</title>
-      <link>https://kaztaira.github.io/research-feed/go/f0a3fdd10361.html</link>
-      <guid isPermaLink="false">urn:research:20261030:f0a3fdd10361</guid>
-      <source url="https://www.theguardian.com/global/video/2026/oct/30/anthropic-92-page-risk-factor-document-ipo-filing-video-explainer">Guardian Tech</source>
-      <dc:creator>Guardian Tech</dc:creator>
-      <description>&lt;p&gt;Claudeを開発するAnthropicが10月26日に米国株式市場への上場を申請。申請書類の92ページに及ぶリスク要因文書で、同社自らAI技術の危険性を認めた内容を解説。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; AI暴走リスクをAI企業自身が公式文書で認めた重大な動き&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Guardian Tech / 2026-10-30 19:57:13&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★★ (5/5)&lt;/p&gt;</description>
-      <pubDate>Fri, 30 Oct 2026 19:57:13 GMT</pubDate>
-      <category>重要度5</category>
-    </item>
-    <item>
-      <title>[★5] (10/31 05:26) OpenAI、Google、Microsoft、AnthropicがAIスクレイピング拒否の新標準を採用</title>
-      <link>https://kaztaira.github.io/research-feed/go/18ea57daed9d.html</link>
-      <guid isPermaLink="false">urn:research:20261030:18ea57daed9d</guid>
-      <source url="https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out">The Verge AI</source>
-      <dc:creator>The Verge AI</dc:creator>
-      <description>&lt;p&gt;大手AI企業4社が、出版社が複数クローラーからのAIスクレイピングを一括拒否できる新標準を採用すると表明。メディア業界との関係に大きな影響。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; メディア環境とAI学習データ巡る業界の重要転換点&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; The Verge AI / 2026-10-30 20:26:10&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★★ (5/5)&lt;/p&gt;</description>
-      <pubDate>Fri, 30 Oct 2026 20:26:10 GMT</pubDate>
-      <category>重要度5</category>
-    </item>
-    <item>
-      <title>[★5] (10/31 06:09) AnthropicのVS Code拡張機能、Cursorで約12時間バックドア化</title>
-      <link>https://kaztaira.github.io/research-feed/go/0697c0d6577e.html</link>
-      <guid isPermaLink="false">urn:research:20261030:0697c0d6577e</guid>
-      <source url="https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours/">Ars Technica</source>
-      <dc:creator>Ars Technica</dc:creator>
-      <description>&lt;p&gt;Anthropicの認証済みCursorアカウントが侵害され、VS Code拡張機能にバックドアが約12時間仕込まれた。侵入経路は不明。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; AI開発基盤のサプライチェーン攻撃で、開発者社会に深刻な影響&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Ars Technica / 2026-10-30 21:09:54&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★★ (5/5)&lt;/p&gt;</description>
-      <pubDate>Fri, 30 Oct 2026 21:09:54 GMT</pubDate>
-      <category>重要度5</category>
-    </item>
-    <item>
-      <title>[★5] (10/31 06:52) Anthropic、IPO後に信用格付けで高位「ジャンク」評価の見通し　FT報道</title>
-      <link>https://kaztaira.github.io/research-feed/go/d12607a6e474.html</link>
-      <guid isPermaLink="false">urn:research:20261030:d12607a6e474</guid>
-      <source url="https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>&lt;p&gt;BlackstoneはAnthropicがIPO後に高位ジャンク格付けを受けると予測。巨額支出を支える資金調達が困難・高コスト化する可能性。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; AI業界の財務的持続可能性に関わる重大ニュース&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; TechCrunch / 2026-10-30 21:52:03&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★★ (5/5)&lt;/p&gt;</description>
-      <pubDate>Fri, 30 Oct 2026 21:52:03 GMT</pubDate>
-      <category>重要度5</category>
-    </item>
-    <item>
-      <title>[★5] (11/01 01:12) OpenAI、新ラウンドの資金調達目標を引き下げと報道</title>
-      <link>https://kaztaira.github.io/research-feed/go/149be8f7454b.html</link>
-      <guid isPermaLink="false">urn:research:20261031:149be8f7454b</guid>
-      <source url="https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>&lt;p&gt;OpenAIの最新資金調達ラウンドが期待に届かず、目標額を引き下げたと報じられる。AI業界の資金調達環境に警鐘。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; AIバブル論と業界動向を占う重要な指標&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; TechCrunch / 2026-10-31 16:12:55&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★★ (5/5)&lt;/p&gt;</description>
-      <pubDate>Sat, 31 Oct 2026 16:12:55 GMT</pubDate>
-      <category>重要度5</category>
-    </item>
-    <item>
-      <title>[★4] (10/31 17:24) 市民空間が縮小：偽情報、AI、増大する圧力が地域に新たな課題</title>
-      <link>https://kaztaira.github.io/research-feed/go/d3a6cb87b8ad.html</link>
-      <guid isPermaLink="false">urn:research:20261031:d3a6cb87b8ad</guid>
-      <source url="https://truthmeter.mk/civic-space-is-shrinking-disinformation-ai-and-growing-pressures-pose-new-challenges-for-the-region/">Truthmeter</source>
-      <dc:creator>Truthmeter</dc:creator>
-      <description>&lt;p&gt;バルカン地域で偽情報とAIによる市民社会への脅威が拡大。民主主義の基盤である市民空間が縮小しているとの分析。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; AI偽情報と市民社会への影響という中心的テーマ&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Truthmeter / 2026-10-31 08:24:02&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
-      <pubDate>Sat, 31 Oct 2026 08:24:02 GMT</pubDate>
-      <category>重要度4</category>
-      <category>disinformation</category>
-    </item>
-    <item>
-      <title>[★4] (10/31 00:46) 米データセンター反対運動の分類：政治、誤情報、陰謀論</title>
-      <link>https://kaztaira.github.io/research-feed/go/1c944dd1556f.html</link>
-      <guid isPermaLink="false">urn:research:20261030:1c944dd1556f</guid>
-      <source url="https://www.datacenterdynamics.com/en/analysis/a-taxonomy-of-american-data-center-opposition-politics-misinformation-and-conspiracy-theories/">Data Center Dynamics</source>
-      <dc:creator>Data Center Dynamics</dc:creator>
-      <description>&lt;p&gt;AIブームで急増する米データセンター建設に対する地域住民の反対運動を分析。誤情報と陰謀論が運動を動かす構造を解明。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; AI業界インフラへの社会的反発と誤情報の交差点&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Data Center Dynamics / 2026-10-30 15:46:10&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
-      <pubDate>Fri, 30 Oct 2026 15:46:10 GMT</pubDate>
-      <category>重要度4</category>
-      <category>misinformation</category>
-    </item>
-    <item>
-      <title>[★4] (10/31 05:50) スペイン語でSNSの政治ニュース？誤情報に注意</title>
-      <link>https://kaztaira.github.io/research-feed/go/252feac5b9ff.html</link>
-      <guid isPermaLink="false">urn:research:20261030:252feac5b9ff</guid>
-      <source url="https://www.nbcsandiego.com/video/elections/spanish-political-news-social-media-misinformation/4094601/">NBC 7 San Diego</source>
-      <dc:creator>NBC 7 San Diego</dc:creator>
-      <description>&lt;p&gt;SNS上のスペイン語政治ニュースに誤情報が蔓延。少数言語話者を標的にした選挙前の情報操作リスクを指摘。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 少数言語コミュニティを狙う選挙偽情報の問題&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; NBC 7 San Diego / 2026-10-30 20:50:55&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
-      <pubDate>Fri, 30 Oct 2026 20:50:55 GMT</pubDate>
-      <category>重要度4</category>
-      <category>misinformation</category>
-    </item>
-    <item>
-      <title>[★4] (10/31 06:13) NAACPバージニア、中間選挙前に有権者へ誤情報警告</title>
-      <link>https://kaztaira.github.io/research-feed/go/889c73829b60.html</link>
-      <guid isPermaLink="false">urn:research:20261030:889c73829b60</guid>
-      <source url="https://www.13newsnow.com/article/news/politics/elections/naacp-virginia-warns-voters-about-misinformation-ahead-of-midterm-elections/291-9293fd7a-8c22-4308-9895-71049c982e7b">13newsnow.com</source>
-      <dc:creator>13newsnow.com</dc:creator>
-      <description>&lt;p&gt;NAACPバージニア支部が中間選挙を前に、黒人有権者を標的とした誤情報キャンペーンへの警戒を呼びかけ。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 中間選挙直前の有権者抑圧型偽情報への警告&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; 13newsnow.com / 2026-10-30 21:13:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
-      <pubDate>Fri, 30 Oct 2026 21:13:00 GMT</pubDate>
-      <category>重要度4</category>
-      <category>misinformation</category>
-    </item>
-    <item>
-      <title>[★4] (10/30 22:00) 『ダイアリー・オブ・ア・CEO』、批判受け健康誤情報対策強化</title>
-      <link>https://kaztaira.github.io/research-feed/go/edf77dd6ceef.html</link>
-      <guid isPermaLink="false">urn:research:20261030:edf77dd6ceef</guid>
-      <source url="https://www.businessinsider.com/diary-of-a-ceo-steven-bartlett-fact-checking-health-misinformation-2026-10">Business Insider</source>
-      <dc:creator>Business Insider</dc:creator>
-      <description>&lt;p&gt;人気ポッドキャストが健康誤情報の流布批判を受け、ファクトチェック体制を強化。インフルエンサー時代の責任を問う。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 大手ポッドキャストの健康誤情報対策はメディア責任論に関わる&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Business Insider / 2026-10-30 13:00:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
-      <pubDate>Fri, 30 Oct 2026 13:00:00 GMT</pubDate>
-      <category>重要度4</category>
-      <category>misinformation</category>
-    </item>
-    <item>
-      <title>[★4] (10/31 13:00) OpenAIの資金調達目標が100億ドル減額、AI株下落で――FT報道</title>
-      <link>https://kaztaira.github.io/research-feed/go/0b0e853b9837.html</link>
-      <guid isPermaLink="false">urn:research:20261031:0b0e853b9837</guid>
-      <source url="https://www.bloomberg.com/news/articles/2026-10-31/openai-funding-goal-cut-by-10-billion-as-ai-stocks-dip-ft-says">Bloomberg Tech</source>
-      <dc:creator>Bloomberg Tech</dc:creator>
-      <description>&lt;p&gt;AI株の売り浴びとAnthropicの上場迫る中、OpenAIが投資家からの資金確保に苦戦し、調達目標を100億ドル引き下げたとFTが報道。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; AIバブル懸念とOpenAIの戦略に影響する重要指標&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Bloomberg Tech / 2026-10-31 04:00:40&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
-      <pubDate>Sat, 31 Oct 2026 04:00:40 GMT</pubDate>
-      <category>重要度4</category>
-    </item>
-    <item>
-      <title>[★4] (10/31 20:15) 北朝鮮が完成させた暗号資産強奪――Binance史上最大級の盗難事件</title>
-      <link>https://kaztaira.github.io/research-feed/go/db5cd897fc3d.html</link>
-      <guid isPermaLink="false">urn:research:20261031:db5cd897fc3d</guid>
-      <source url="https://www.axios.com/2026/10/31/north-korea-hackers-binance-crypto">Axios</source>
-      <dc:creator>Axios</dc:creator>
-      <description>&lt;p&gt;世界最大級の暗号資産強奪事件は、金融窃盗、ソーシャルエンジニアリング、高度サイバー攻撃を長年磨き上げてきた北朝鮮ハッカーによる最新成果。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 国家主導のサイバー攻撃と国際安全保障の重要案件&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Axios / 2026-10-31 11:15:07&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
-      <pubDate>Sat, 31 Oct 2026 11:15:07 GMT</pubDate>
-      <category>重要度4</category>
-    </item>
-    <item>
-      <title>[★4] (10/31 06:56) Meta信用格付け見通し、S&amp;PがAI支出で「ネガティブ」に引下げ</title>
-      <link>https://kaztaira.github.io/research-feed/go/47421af63594.html</link>
-      <guid isPermaLink="false">urn:research:20261030:47421af63594</guid>
-      <source url="https://www.bloomberg.com/news/articles/2026-10-30/meta-s-credit-rating-outlook-downgraded-to-negative-by-s-p">Bloomberg Tech</source>
-      <dc:creator>Bloomberg Tech</dc:creator>
-      <description>&lt;p&gt;S&amp;amp;PがMeta Platformsの信用格付けを今後2年以内に引下げる可能性を示唆。AI投資による財務圧迫が理由。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 大手テック企業のAI投資の持続可能性への警告&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Bloomberg Tech / 2026-10-30 21:56:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
-      <pubDate>Fri, 30 Oct 2026 21:56:00 GMT</pubDate>
-      <category>重要度4</category>
-      <category>platform accountability</category>
-    </item>
-    <item>
-      <title>[★4] (10/31 15:40) OpenAIサム・アルトマンがサムスン幹部と会談、半導体不足深刻化で</title>
-      <link>https://kaztaira.github.io/research-feed/go/2804e5319d9a.html</link>
-      <guid isPermaLink="false">urn:research:20261031:2804e5319d9a</guid>
-      <source url="https://www.bloomberg.com/news/articles/2026-10-31/openai-sam-altman-samsung-executives-memory-crunch-deepens">Bloomberg Tech</source>
-      <dc:creator>Bloomberg Tech</dc:creator>
-      <description>&lt;p&gt;OpenAIのCEOサム・アルトマンが韓国でサムスングループ首脳と会談。世界的な半導体供給難を背景に、メモリ半導体とAIインフラでの協力を深化。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; AI産業の供給網と地政学的インフラ戦略を示す動き&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Bloomberg Tech / 2026-10-31 06:40:29&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
-      <pubDate>Sat, 31 Oct 2026 06:40:29 GMT</pubDate>
-      <category>重要度4</category>
-    </item>
-    <item>
-      <title>[★4] (10/31 19:45) AI取引の「トリック・オア・トリート」決算シーズン</title>
-      <link>https://kaztaira.github.io/research-feed/go/02a9f7d578d9.html</link>
-      <guid isPermaLink="false">urn:research:20261031:02a9f7d578d9</guid>
-      <source url="https://www.axios.com/2026/10/31/tech-earnings-ai-hyperscaler-risks-trick-or-treat">Axios</source>
-      <dc:creator>Axios</dc:creator>
-      <description>&lt;p&gt;ハイパースケーラーの決算がウォール街を怯えさせている。強気派も弱気派も自説を補強する材料を得ている状況。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; AI市場バブル懸念を示す重要指標、業界全体に影響&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Axios / 2026-10-31 10:45:06&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
-      <pubDate>Sat, 31 Oct 2026 10:45:06 GMT</pubDate>
-      <category>重要度4</category>
-    </item>
-    <item>
-      <title>[★4] (10/30 03:47) OpenAI、人間の意図を中心に据えたAIモデルガイドラインを更新</title>
-      <link>https://kaztaira.github.io/research-feed/go/552a390a4815.html</link>
-      <guid isPermaLink="false">urn:research:20261029:552a390a4815</guid>
-      <source url="https://www.reuters.com/business/openai-says-human-intent-center-updated-ai-model-guidelines-2026-10-29/">Reuters</source>
-      <dc:creator>Reuters</dc:creator>
-      <description>&lt;p&gt;OpenAIがAIモデルの新ガイドラインを公表。人間の意図を中核に位置づけた指針を示す。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; AI安全・暴走AI議論と直結する公式方針変更&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Reuters / 2026-10-29 18:47:43&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
-      <pubDate>Thu, 29 Oct 2026 18:47:43 GMT</pubDate>
-      <category>重要度4</category>
-    </item>
-    <item>
-      <title>[★4] (10/30 18:48) Foxconn、OpenAIとの新たな提携進行中「AIバブルはない」</title>
-      <link>https://kaztaira.github.io/research-feed/go/71643482b823.html</link>
-      <guid isPermaLink="false">urn:research:20261030:71643482b823</guid>
-      <source url="https://www.reuters.com/world/china/foxconn-working-new-tie-up-with-openai-says-there-is-no-ai-bubble-2026-10-30/">Reuters</source>
-      <dc:creator>Reuters</dc:creator>
-      <description>&lt;p&gt;鴻海（Foxconn）がOpenAIとの新たな提携を進めていると表明。AIバブル論を否定。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; AIハードウェア供給網と地政学に関わる大型提携&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Reuters / 2026-10-30 09:48:16&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
-      <pubDate>Fri, 30 Oct 2026 09:48:16 GMT</pubDate>
-      <category>重要度4</category>
-    </item>
-    <item>
-      <title>[★4] (10/31 08:21) Salesforce、M&amp;A攻勢続く　防衛テック新興Runeを約3.75億ドルで買収報道</title>
-      <link>https://kaztaira.github.io/research-feed/go/0f484a6d1367.html</link>
-      <guid isPermaLink="false">urn:research:20261030:0f484a6d1367</guid>
-      <source url="https://techcrunch.com/2026/10/30/salesforces-ma-spree-continues-with-a-reported-375m-deal-for-defense-tech-startup-rune/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>&lt;p&gt;AIロジスティクス新興のRuneをSalesforceが買収、防衛プラットフォーム「Missionforce」を強化。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; AIの防衛分野進出で安全保障に影響&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; TechCrunch / 2026-10-30 23:21:23&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
-      <pubDate>Fri, 30 Oct 2026 23:21:23 GMT</pubDate>
-      <category>重要度4</category>
-      <category>platform accountability</category>
-    </item>
-    <item>
-      <title>[★4] (10/29 23:30) MediaWise、報道機関と独立系クリエイターを結ぶグローバル取り組み発表</title>
-      <link>https://kaztaira.github.io/research-feed/go/cb95294ae6a8.html</link>
-      <guid isPermaLink="false">urn:research:20261029:cb95294ae6a8</guid>
-      <source url="https://www.poynter.org/news-release/2026/mediawise-launches-global-newsroom-creator-initiative/">Poynter</source>
-      <dc:creator>Poynter</dc:creator>
-      <description>&lt;p&gt;ポインター研究所のMediaWiseが、報道機関とインフルエンサー・クリエイターを結ぶ世界的な情報信頼性向上の取り組みを開始。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; クリエイター経由の情報接触増加に対応するメディア環境変革&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Poynter / 2026-10-29 14:30:28&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
-      <pubDate>Thu, 29 Oct 2026 14:30:28 GMT</pubDate>
-      <category>重要度4</category>
-    </item>
-    <item>
-      <title>[★4] (10/30 08:00) ビクトリア州弁護士の過半がAI利用、報酬値下げは4分の1のみ</title>
-      <link>https://kaztaira.github.io/research-feed/go/e518eca3cc37.html</link>
-      <guid isPermaLink="false">urn:research:20261029:e518eca3cc37</guid>
-      <source url="https://www.theguardian.com/law/2026/oct/30/victorian-lawyers-ai-clients-fees">Guardian Tech</source>
-      <dc:creator>Guardian Tech</dc:creator>
-      <description>&lt;p&gt;豪ビクトリア州の弁護士55%がAIを法務に活用（昨年37%から増加）。効率化が期待ほど報酬低減につながっていない。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 職業現場でのAI普及と労働・経済的影響を示す&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Guardian Tech / 2026-10-29 23:00:37&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
-      <pubDate>Thu, 29 Oct 2026 23:00:37 GMT</pubDate>
-      <category>重要度4</category>
-    </item>
-    <item>
-      <title>[★3] (10/31 07:02) 選挙シーズンのSNS誤情報、専門家が警鐘</title>
-      <link>https://kaztaira.github.io/research-feed/go/a9cbc5318e80.html</link>
-      <guid isPermaLink="false">urn:research:20261030:a9cbc5318e80</guid>
-      <source url="https://www.wbko.com/video/2026/10/30/during-election-season-experts-say-there-can-be-misinformation-social-media/">WBKO</source>
-      <dc:creator>WBKO</dc:creator>
-      <description>&lt;p&gt;中間選挙を控え、SNS上の政治誤情報の拡散を専門家が警告。有権者のメディアリテラシー向上の必要性を指摘。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 選挙前の誤情報問題の典型例&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; WBKO / 2026-10-30 22:02:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★☆☆ (3/5)&lt;/p&gt;</description>
-      <pubDate>Fri, 30 Oct 2026 22:02:00 GMT</pubDate>
-      <category>重要度3</category>
-      <category>misinformation</category>
-    </item>
-    <item>
-      <title>[★3] (10/31 07:38) 選挙日を前にSNSの政治誤情報と戦う</title>
-      <link>https://kaztaira.github.io/research-feed/go/980fb815142a.html</link>
-      <guid isPermaLink="false">urn:research:20261030:980fb815142a</guid>
-      <source url="https://www.12onyourside.com/2026/10/30/fighting-political-misinformation-social-media-ahead-election-day/">WWBT</source>
-      <dc:creator>WWBT</dc:creator>
-      <description>&lt;p&gt;選挙日直前のSNS政治誤情報対策の最前線を取材。地元ジャーナリズムの役割を再確認。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 選挙直前の誤情報対策の現場報道&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; WWBT / 2026-10-30 22:38:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★☆☆ (3/5)&lt;/p&gt;</description>
-      <pubDate>Fri, 30 Oct 2026 22:38:00 GMT</pubDate>
-      <category>重要度3</category>
-      <category>misinformation</category>
-    </item>
-    <item>
-      <title>[★3] (10/31 19:15) SNSは候補者と有権者をつなぐが、誤情報が懸念</title>
-      <link>https://kaztaira.github.io/research-feed/go/adf8503641f1.html</link>
-      <guid isPermaLink="false">urn:research:20261031:adf8503641f1</guid>
-      <source url="https://www.wvgazettemail.com/elections/social-media-helps-candidates-connect-with-voters-but-misinformation-is-concerning/article_7c01f419-8b4f-4141-8820-f85ad838ef89.html">Charleston Gazette-Mail</source>
-      <dc:creator>Charleston Gazette-Mail</dc:creator>
-      <description>&lt;p&gt;SNSが選挙戦の重要ツールとなる一方、拡散する誤情報が民主的選挙への脅威となっている現状を分析。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; SNS選挙運動の功罪を論じる&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Charleston Gazette-Mail / 2026-10-31 10:15:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★☆☆ (3/5)&lt;/p&gt;</description>
-      <pubDate>Sat, 31 Oct 2026 10:15:00 GMT</pubDate>
-      <category>重要度3</category>
-      <category>misinformation</category>
-    </item>
-    <item>
-      <title>[★3] (11/01 00:41) モディ首相、「ディマギ・ナクサル」の脅威を警告　SNS誤情報対策を強調</title>
-      <link>https://kaztaira.github.io/research-feed/go/df26a89b89a1.html</link>
-      <guid isPermaLink="false">urn:research:20261031:df26a89b89a1</guid>
-      <source url="https://www.ndtv.com/video/dimagi-naxals-still-a-threat-pm-modi-warns-against-rumours-misinformation-on-social-media-1183629">NDTV</source>
-      <dc:creator>NDTV</dc:creator>
-      <description>&lt;p&gt;インドのモディ首相がSNSの噂と誤情報を「ディマギ・ナクサル」（頭脳の反乱分子）と呼び、国民に警戒を呼びかけ。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 政府首脳の誤情報対策発言、言論統制の懸念も&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; NDTV / 2026-10-31 15:41:39&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★☆☆ (3/5)&lt;/p&gt;</description>
-      <pubDate>Sat, 31 Oct 2026 15:41:39 GMT</pubDate>
-      <category>重要度3</category>
-      <category>misinformation</category>
-    </item>
-    <item>
-      <title>[★3] (10/31 07:48) 2026年選挙：ボーフォート郡、オンラインの誤情報を有権者に警告</title>
-      <link>https://kaztaira.github.io/research-feed/go/28b1f5dc3200.html</link>
-      <guid isPermaLink="false">urn:research:20261030:28b1f5dc3200</guid>
-      <source url="https://yourislandnews.com/election-2026-beaufort-county-warns-voters-about-misinformation-circulating-online/">The Island News (Beaufort)</source>
-      <dc:creator>The Island News (Beaufort)</dc:creator>
-      <description>&lt;p&gt;サウスカロライナ州ボーフォート郡選管が、オンラインで流布する選挙誤情報について有権者への注意喚起を実施。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 地方選管による選挙誤情報対策&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; The Island News (Beaufort) / 2026-10-30 22:48:12&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★☆☆ (3/5)&lt;/p&gt;</description>
-      <pubDate>Fri, 30 Oct 2026 22:48:12 GMT</pubDate>
-      <category>重要度3</category>
-      <category>misinformation</category>
-    </item>
-    <item>
-      <title>[★3] (10/31 07:35) 質問2は玉石混交：多くのプロパガンダと誤情報</title>
-      <link>https://kaztaira.github.io/research-feed/go/1022f75afcc0.html</link>
-      <guid isPermaLink="false">urn:research:20261030:1022f75afcc0</guid>
-      <source url="https://indepthnh.org/2026/10/30/question-2-is-a-mixed-bag-with-lots-of-propaganda-and-misinformation/">InDepthNH.org</source>
-      <dc:creator>InDepthNH.org</dc:creator>
-      <description>&lt;p&gt;ニューハンプシャー州の住民投票議題2をめぐるプロパガンダと誤情報の実態を詳細分析。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 直接民主制における誤情報の問題&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; InDepthNH.org / 2026-10-30 22:35:42&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★☆☆ (3/5)&lt;/p&gt;</description>
-      <pubDate>Fri, 30 Oct 2026 22:35:42 GMT</pubDate>
-      <category>重要度3</category>
-      <category>misinformation</category>
-    </item>
-    <item>
-      <title>[★3] (10/31 23:28) AnthropicがClaudeによるビデオゲームのリバースエンジニアリング防止策</title>
-      <link>https://kaztaira.github.io/research-feed/go/f81ba86167bb.html</link>
-      <guid isPermaLink="false">urn:research:20261031:f81ba86167bb</guid>
-      <source url="https://mashable.com/tech/anthropic-takes-steps-to-block-video-game-cloning-and-reverse-engineering">Google News - AI</source>
-      <dc:creator>Google News - AI</dc:creator>
-      <description>&lt;p&gt;AnthropicがAIモデルClaudeを使ったビデオゲームのクローン作成やリバースエンジニアリングを防ぐための措置を発表。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; AI暴走防止策と知的財産保護の交差点&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Google News - AI / 2026-10-31 14:28:41&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★☆☆ (3/5)&lt;/p&gt;</description>
-      <pubDate>Sat, 31 Oct 2026 14:28:41 GMT</pubDate>
-      <category>重要度3</category>
-    </item>
-    <item>
-      <title>[★5] (10/31 03:13) AIモデル、改ざんで誤情報を拡散する恐れ　研究で判明</title>
-      <link>https://kaztaira.github.io/research-feed/go/5626f1d4647f.html</link>
-      <guid isPermaLink="false">urn:research:20261030:5626f1d4647f</guid>
-      <source url="https://tech.yahoo.com/cybersecurity/articles/ai-models-could-compromised-delivering-181339516.html">Yahoo Tech</source>
-      <dc:creator>Yahoo Tech</dc:creator>
-      <description>&lt;p&gt;AIモデルが悪意ある改ざんにより誤情報を拡散する脆弱性があることが研究で明らかに。生成AIの安全性に新たな懸念。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; AI安全性と誤情報拡散という2大テーマが交差、技術潮流に直接影響&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Yahoo Tech / 2026-10-30 18:13:39&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★★ (5/5)&lt;/p&gt;</description>
-      <pubDate>Fri, 30 Oct 2026 18:13:39 GMT</pubDate>
-      <category>重要度5</category>
-      <category>misinformation</category>
-    </item>
-    <item>
-      <title>[★5] (10/30 21:29) AIが選挙偽情報を悪化させる　専門家が警鐘</title>
-      <link>https://kaztaira.github.io/research-feed/go/738fc95aa73d.html</link>
-      <guid isPermaLink="false">urn:research:20261030:738fc95aa73d</guid>
-      <source url="https://www.itweb.co.za/article/ai-exacerbates-election-disinformation-say-experts/GxwQD71DL9WvlPVo">ITWeb</source>
-      <dc:creator>ITWeb</dc:creator>
-      <description>&lt;p&gt;専門家らは、AI技術が選挙関連の偽情報を増幅させており、民主主義プロセスへの脅威となっていると指摘。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 米中間選挙直前、AI偽情報と選挙への影響という中核テーマ&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; ITWeb / 2026-10-30 12:29:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★★ (5/5)&lt;/p&gt;</description>
-      <pubDate>Fri, 30 Oct 2026 12:29:00 GMT</pubDate>
-      <category>重要度5</category>
-      <category>disinformation</category>
-    </item>
-    <item>
-      <title>[★5] (10/30 16:43) ブラジル、セルビア、イスラエル：トランプとプーチンの手法を用いた選挙偽情報</title>
-      <link>https://kaztaira.github.io/research-feed/go/59c9849afe4b.html</link>
-      <guid isPermaLink="false">urn:research:20261030:59c9849afe4b</guid>
-      <source url="https://edmo.eu/publications/brazil-serbia-israel-election-related-disinformation-from-trump-and-putins-playbook/">EDMO</source>
-      <dc:creator>EDMO</dc:creator>
-      <description>&lt;p&gt;EDMOが、トランプ・プーチンの手法を踏襲した各国の選挙関連偽情報キャンペーンを分析。国際的な偽情報戦術の広がり。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 国際的な偽情報戦術の体系的分析、民主主義への脅威&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; EDMO / 2026-10-30 07:43:33&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★★ (5/5)&lt;/p&gt;</description>
-      <pubDate>Fri, 30 Oct 2026 07:43:33 GMT</pubDate>
-      <category>重要度5</category>
-      <category>disinformation</category>
-    </item>
-    <item>
-      <title>[★5] (10/30 02:38) ファクトフォーカス：投票に関する偽情報、選挙日1週間前に拡散</title>
-      <link>https://kaztaira.github.io/research-feed/go/99327deb9d4c.html</link>
-      <guid isPermaLink="false">urn:research:20261029:99327deb9d4c</guid>
-      <source url="https://apnews.com/article/fact-check-midterms-election-voting-ballot-5933df3747ceaf6091324959d8b9c59b">AP News</source>
-      <dc:creator>AP News</dc:creator>
-      <description>&lt;p&gt;APが米中間選挙直前の投票関連偽情報を詳細にファクトチェック。選挙の公正性への脅威を分析。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 選挙民主主義の根幹に関わる偽情報、AP信頼性の高い報道&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; AP News / 2026-10-29 17:38:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★★ (5/5)&lt;/p&gt;</description>
-      <pubDate>Thu, 29 Oct 2026 17:38:00 GMT</pubDate>
-      <category>重要度5</category>
-      <category>disinformation</category>
-    </item>
-    <item>
-      <title>[★5] (10/30 18:00) ウィキペディア運営団体「AI著作権の悪判決がオープンウェブを脅かす」</title>
-      <link>https://kaztaira.github.io/research-feed/go/27c634a12842.html</link>
-      <guid isPermaLink="false">urn:research:20261030:27c634a12842</guid>
-      <source url="https://www.theverge.com/policy/1022880/wikipedia-openai-new-york-times-copyright">The Verge AI</source>
-      <dc:creator>The Verge AI</dc:creator>
-      <description>&lt;p&gt;ウィキメディア財団がAI著作権訴訟で中道的立場を表明。LLMの学習を法的に保護しつつ制限を求める。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; オープンウェブとAI著作権の根本的対立に関わる重大問題&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; The Verge AI / 2026-10-30 09:00:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★★ (5/5)&lt;/p&gt;</description>
-      <pubDate>Fri, 30 Oct 2026 09:00:00 GMT</pubDate>
-      <category>重要度5</category>
-    </item>
-    <item>
-      <title>[★5] (10/30 23:00) AI著作権改正、豪州憲法違反の恐れ　巨額補償請求訴訟の可能性も</title>
-      <link>https://kaztaira.github.io/research-feed/go/75b70af4bd26.html</link>
-      <guid isPermaLink="false">urn:research:20261030:75b70af4bd26</guid>
-      <source url="https://www.theguardian.com/law/2026/oct/31/experts-warn-ai-copyright-changes-could-breach-australian-constitution-and-spark-huge-compensation-rights-case">Guardian Tech</source>
-      <dc:creator>Guardian Tech</dc:creator>
-      <description>&lt;p&gt;著作物のスクレイピングが「政府による財産取得」にあたる可能性があると専門家が警告。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; AI著作権政策が国家憲法に関わる国際的な波及効果を持つ&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Guardian Tech / 2026-10-30 14:00:18&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★★ (5/5)&lt;/p&gt;</description>
-      <pubDate>Fri, 30 Oct 2026 14:00:18 GMT</pubDate>
-      <category>重要度5</category>
-    </item>
-    <item>
-      <title>[★5] (10/29 23:38) デジタルニュースの所有者と引用者：77カ国7AIシステムのメディア集中度測定</title>
-      <link>https://kaztaira.github.io/research-feed/go/827eeb39b144.html</link>
-      <guid isPermaLink="false">urn:research:20261029:827eeb39b144</guid>
-      <source url="https://arxiv.org/abs/2610.40164v1">arXiv (cs.CY society/ethics)</source>
-      <dc:creator>arXiv (cs.CY society/ethics)</dc:creator>
-      <description>&lt;p&gt;生成AI検索がニュースのトラフィック配分を左右する実態を77カ国で分析した研究。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; AI検索時代のメディア環境・ジャーナリズム経済に関わる基礎研究&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; arXiv (cs.CY society/ethics) / 2026-10-29 14:38:06&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★★ (5/5)&lt;/p&gt;</description>
-      <pubDate>Thu, 29 Oct 2026 14:38:06 GMT</pubDate>
-      <category>重要度5</category>
-    </item>
-    <item>
-      <title>[★5] (10/30 21:32) 民主党、AI規制を2028年大統領選の勝利争点に　「AI嫌悪」の波に乗る戦略</title>
-      <link>https://kaztaira.github.io/research-feed/go/88c7664152f2.html</link>
-      <guid isPermaLink="false">urn:research:20261030:88c7664152f2</guid>
-      <source url="https://www.axios.com/2026/10/30/2028-democrats-ai-hate-regulation-messaging">Axios</source>
-      <dc:creator>Axios</dc:creator>
-      <description>&lt;p&gt;2028年大統領選を狙う民主党候補らが、AIへの不安を政治的メッセージに転換。規制強化を争点化する動きが加速している。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; AI規制が米大統領選の主要争点化、市民社会・政治への影響大&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Axios / 2026-10-30 12:32:46&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★★ (5/5)&lt;/p&gt;</description>
-      <pubDate>Fri, 30 Oct 2026 12:32:46 GMT</pubDate>
-      <category>重要度5</category>
-      <category>AI regulation</category>
-    </item>
-    <item>
-      <title>[★5] (10/29 20:05) AI幻滅で規制論が前面に、中間選挙前の世論調査　「競争力犠牲でも安全策を」</title>
-      <link>https://kaztaira.github.io/research-feed/go/933880ff0383.html</link>
-      <guid isPermaLink="false">urn:research:20261029:933880ff0383</guid>
-      <source url="https://www.semafor.com/article/10/29/2026/ai-disillusionment-puts-regulation-at-forefront-ahead-of-midterms">Semafor</source>
-      <dc:creator>Semafor</dc:creator>
-      <description>&lt;p&gt;最新世論調査で、米国の有権者は国際競争力を損なってでも「合理的な」AI安全策を望んでいることが判明。中間選挙の争点に。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 中間選挙直前の有権者意識調査、AI規制論争の核心&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Semafor / 2026-10-29 11:05:19&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★★ (5/5)&lt;/p&gt;</description>
-      <pubDate>Thu, 29 Oct 2026 11:05:19 GMT</pubDate>
-      <category>重要度5</category>
-      <category>AI regulation</category>
-    </item>
-    <item>
-      <title>[★5] (10/30 21:29) Anthropic AIがLinuxカーネルの重大バグ発見　リモートroot権限奪取につながる脆弱性</title>
-      <link>https://kaztaira.github.io/research-feed/go/64493ce14f51.html</link>
-      <guid isPermaLink="false">urn:research:20261030:64493ce14f51</guid>
-      <source url="https://www.csoonline.com/article/4242724/anthropic-ai-model-finds-linux-kernel-bug-that-leads-to-remote-root-access.html">CSO Online</source>
-      <dc:creator>CSO Online</dc:creator>
-      <description>&lt;p&gt;AnthropicのAIモデルがLinuxカーネルに潜むリモートroot権限取得可能な重大脆弱性を発見。AIによる脆弱性探索の実用段階到達を示す。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; AIによるサイバーセキュリティ革新と安全保障への影響&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; CSO Online / 2026-10-30 12:29:06&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★★ (5/5)&lt;/p&gt;</description>
-      <pubDate>Fri, 30 Oct 2026 12:29:06 GMT</pubDate>
-      <category>重要度5</category>
-    </item>
-    <item>
-      <title>[★5] (10/30 12:34) バイナンス、史上最大の仮想通貨ハッキングで取引停止　北朝鮮関与、60億ドル超盗難</title>
-      <link>https://kaztaira.github.io/research-feed/go/4e39fb6b9c2d.html</link>
-      <guid isPermaLink="false">urn:research:20261030:4e39fb6b9c2d</guid>
-      <source url="https://www.axios.com/2026/10/29/binance-cyberattack-crypto-heist">Axios</source>
-      <dc:creator>Axios</dc:creator>
-      <description>&lt;p&gt;北朝鮮関与とされるハッカーがバイナンスから60億ドル超を盗難、史上最大の仮想通貨ハック。取引所は取引を一時停止。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 史上最大規模の金融サイバー攻撃、国際安全保障に直結&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Axios / 2026-10-30 03:34:21&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★★ (5/5)&lt;/p&gt;</description>
-      <pubDate>Fri, 30 Oct 2026 03:34:21 GMT</pubDate>
-      <category>重要度5</category>
-    </item>
-    <item>
-      <title>[★5] (10/30 02:20) Meta、社会的批判者ハイト教授への「密告戦略」協議　内部文書が暴露</title>
-      <link>https://kaztaira.github.io/research-feed/go/61dbc4a20981.html</link>
-      <guid isPermaLink="false">urn:research:20261029:61dbc4a20981</guid>
-      <source url="https://www.theguardian.com/technology/2026/oct/29/meta-staff-us-social-media-critic-jonathan-haidt-court-documents">Guardian Tech</source>
-      <dc:creator>Guardian Tech</dc:creator>
-      <description>&lt;p&gt;法廷文書により、Metaスタッフがソーシャルメディア批判で著名な学者J・ハイト氏の影響力を削ぐ「密告戦略」を協議していたことが判明。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 巨大テック企業による学者攻撃工作、市民社会・言論への脅威&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Guardian Tech / 2026-10-29 17:20:57&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★★ (5/5)&lt;/p&gt;</description>
-      <pubDate>Thu, 29 Oct 2026 17:20:57 GMT</pubDate>
-      <category>重要度5</category>
-    </item>
-    <item>
-      <title>[★4] (10/30 05:28) 南アフリカ選挙、偽情報の急増に直面</title>
-      <link>https://kaztaira.github.io/research-feed/go/f65995e6314a.html</link>
-      <guid isPermaLink="false">urn:research:20261029:f65995e6314a</guid>
-      <source url="https://www.dw.com/en/south-africa-election-hit-by-disinformation-surge/video-79800371">DW.com</source>
-      <dc:creator>DW.com</dc:creator>
-      <description>&lt;p&gt;南アフリカ選挙において偽情報が急増。選挙プロセスの信頼性に懸念が広がる国際事例。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 新興民主主義国での偽情報問題、国際比較の重要事例&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; DW.com / 2026-10-29 20:28:04&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
-      <pubDate>Thu, 29 Oct 2026 20:28:04 GMT</pubDate>
-      <category>重要度4</category>
-      <category>disinformation</category>
-    </item>
-    <item>
-      <title>[★4] (10/31 01:18) CNNの女性ジャーナリストたち、トランプ・中間選挙・偽情報に立ち向かう</title>
-      <link>https://kaztaira.github.io/research-feed/go/bc5d1e445e65.html</link>
-      <guid isPermaLink="false">urn:research:20261030:bc5d1e445e65</guid>
-      <source url="https://www.usatoday.com/story/entertainment/tv-streaming/2026/10/29/cnn-kaitlan-collins-erin-burnett-donald-trump-attacks-midterms/92458937007/">USA Today</source>
-      <dc:creator>USA Today</dc:creator>
-      <description>&lt;p&gt;CNN女性キャスターらがトランプ陣営の攻撃や中間選挙報道、偽情報との闘いについて独占インタビューに応じた。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; メディアと政権の対立構造、ジャーナリズムの役割を問う&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; USA Today / 2026-10-30 16:18:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
-      <pubDate>Fri, 30 Oct 2026 16:18:00 GMT</pubDate>
-      <category>重要度4</category>
-      <category>disinformation</category>
-    </item>
-    <item>
-      <title>[★4] (10/31 01:30) ソーシャルメディアの偽情報、インディアナ州の有権者を惑わす</title>
-      <link>https://kaztaira.github.io/research-feed/go/a2f21de6ddb2.html</link>
-      <guid isPermaLink="false">urn:research:20261030:a2f21de6ddb2</guid>
-      <source url="https://www.inkfreenews.com/2026/10/30/social-media-misinformation-challenges-indiana-voters/">InkFreeNews.com</source>
-      <dc:creator>InkFreeNews.com</dc:creator>
-      <description>&lt;p&gt;インディアナ州の有権者がSNS上の偽情報に直面しており、選挙を前に判断材料の確保が困難に。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; SNSと選挙偽情報、地域事例としての重要性&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; InkFreeNews.com / 2026-10-30 16:30:58&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
-      <pubDate>Fri, 30 Oct 2026 16:30:58 GMT</pubDate>
-      <category>重要度4</category>
-      <category>disinformation</category>
-    </item>
-    <item>
-      <title>[★4] (10/29 15:49) 連合学習は説明可能性を低下させるか？ディープフェイク検出におけるGrad-CAM忠実度の比較分析</title>
-      <link>https://kaztaira.github.io/research-feed/go/bc4335d2c254.html</link>
-      <guid isPermaLink="false">urn:research:20261029:bc4335d2c254</guid>
-      <source url="https://arxiv.org/abs/2610.39483v1">arXiv</source>
-      <dc:creator>arXiv</dc:creator>
-      <description>&lt;p&gt;ディープフェイク検出における連合学習と集中型学習のGrad-CAM説明忠実度を比較する研究論文。プライバシーと検出精度のトレードオフを分析。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 合成メディア検出技術の最新研究、プライバシーと精度の課題&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; arXiv / 2026-10-29 06:49:14&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
-      <pubDate>Thu, 29 Oct 2026 06:49:14 GMT</pubDate>
-      <category>重要度4</category>
-      <category>deepfake</category>
-    </item>
-    <item>
-      <title>[★4] (10/31 03:23) SNSは政治候補者と有権者をつなぐが、偽情報の懸念は残る</title>
-      <link>https://kaztaira.github.io/research-feed/go/2dc5ccb6657b.html</link>
-      <guid isPermaLink="false">urn:research:20261030:2dc5ccb6657b</guid>
-      <source url="https://www.dominionpost.com/2026/10/30/social-media-is-helping-political-candidates-connect-with-voters-but-misinformation-remains-a-concern/">www.dominionpost.com</source>
-      <dc:creator>www.dominionpost.com</dc:creator>
-      <description>&lt;p&gt;SNSが選挙キャンペーンの中核ツールとなる一方、偽情報問題は未解決。候補者と有権者の関係性の変化を分析。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; SNSの政治利用と偽情報という中核テーマ&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; www.dominionpost.com / 2026-10-30 18:23:10&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
-      <pubDate>Fri, 30 Oct 2026 18:23:10 GMT</pubDate>
-      <category>重要度4</category>
-      <category>disinformation</category>
-    </item>
-    <item>
-      <title>[★4] (10/31 03:33) AIメディア企業、ディズニー契約でプライバシーオンブズマン必要と判事</title>
-      <link>https://kaztaira.github.io/research-feed/go/f7c050b23375.html</link>
-      <guid isPermaLink="false">urn:research:20261030:f7c050b23375</guid>
-      <source url="https://www.bloomberg.com/news/articles/2026-10-30/ai-media-firm-needs-privacy-ombudsman-in-disney-deal-judge-says">Bloomberg Tech</source>
-      <dc:creator>Bloomberg Tech</dc:creator>
-      <description>&lt;p&gt;Character Technologiesがディズニーへの技術ライセンス計画で子供への有害性評価を求められる。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; AI企業と大手メディアの契約における児童保護問題が注目&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Bloomberg Tech / 2026-10-30 18:33:44&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
-      <pubDate>Fri, 30 Oct 2026 18:33:44 GMT</pubDate>
-      <category>重要度4</category>
-    </item>
-    <item>
-      <title>[★4] (10/29 13:31) Google AIオーバービューの医療情報、引用の質と根拠を医師評価</title>
-      <link>https://kaztaira.github.io/research-feed/go/b46768458dc7.html</link>
-      <guid isPermaLink="false">urn:research:20261029:b46768458dc7</guid>
-      <source url="https://arxiv.org/abs/2610.39339v1">arXiv (cs.CY society/ethics)</source>
-      <dc:creator>arXiv (cs.CY society/ethics)</dc:creator>
-      <description>&lt;p&gt;Google AI検索結果の医療情報が信頼できるか、医師ルーブリックで精度を評価した研究。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 医療情報におけるAI信頼性は市民社会に直接影響&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; arXiv (cs.CY society/ethics) / 2026-10-29 04:31:44&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
-      <pubDate>Thu, 29 Oct 2026 04:31:44 GMT</pubDate>
-      <category>重要度4</category>
-    </item>
-    <item>
-      <title>[★4] (10/29 05:40) LLM多エージェントシステムの安全層「監査可能な信念更新」</title>
-      <link>https://kaztaira.github.io/research-feed/go/feaebfe7c966.html</link>
-      <guid isPermaLink="false">urn:research:20261028:feaebfe7c966</guid>
-      <source url="https://arxiv.org/abs/2610.38869v1">arXiv (mis/disinformation/deepfake)</source>
-      <dc:creator>arXiv (mis/disinformation/deepfake)</dc:creator>
-      <description>&lt;p&gt;マルチモーダルLLMシステムが誤情報を広める危険を抑止する安全層の提案。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; AIエージェントによる誤情報拡散リスクへの対策研究&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; arXiv (mis/disinformation/deepfake) / 2026-10-28 20:40:33&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
-      <pubDate>Wed, 28 Oct 2026 20:40:33 GMT</pubDate>
-      <category>重要度4</category>
-      <category>misinformation</category>
-    </item>
-    <item>
-      <title>[★4] (10/30 19:01) 極端気象が偽情報の「嵐」を生む</title>
-      <link>https://kaztaira.github.io/research-feed/go/8a6dd6023c11.html</link>
-      <guid isPermaLink="false">urn:research:20261030:8a6dd6023c11</guid>
-      <source url="https://www.civilbeat.org/2026/10/extreme-weather-is-creating-a-perfect-storm-of-misinformation/">Honolulu Civil Beat</source>
-      <dc:creator>Honolulu Civil Beat</dc:creator>
-      <description>&lt;p&gt;気候災害時の偽情報拡散が深刻化。市民の防災対応に影響。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 気候危機時代の偽情報問題は市民安全に直結&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Honolulu Civil Beat / 2026-10-30 10:01:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
-      <pubDate>Fri, 30 Oct 2026 10:01:00 GMT</pubDate>
-      <category>重要度4</category>
-      <category>disinformation</category>
-    </item>
-    <item>
-      <title>[★4] (10/31 02:30) 健康偽情報：最も打撃を受けるのは誰か、どこか</title>
-      <link>https://kaztaira.github.io/research-feed/go/f946489453f9.html</link>
-      <guid isPermaLink="false">urn:research:20261030:f946489453f9</guid>
-      <source url="https://www.survation.com/health-misinformation-who-is-hit-hardest-and-where/">Survation</source>
-      <dc:creator>Survation</dc:creator>
-      <description>&lt;p&gt;健康分野の偽情報の被害を最も受ける層と地域を調査報告。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 健康偽情報の社会的格差を明らかにする実証研究&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Survation / 2026-10-30 17:30:58&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
-      <pubDate>Fri, 30 Oct 2026 17:30:58 GMT</pubDate>
-      <category>重要度4</category>
-      <category>disinformation</category>
-    </item>
-    <item>
-      <title>[★4] (10/28 12:39) インドのLLM金融助言バイアス：社会経済・人口統計学的格差の監査</title>
-      <link>https://kaztaira.github.io/research-feed/go/67366b3b65ce.html</link>
-      <guid isPermaLink="false">urn:research:20261028:67366b3b65ce</guid>
-      <source url="https://arxiv.org/abs/2610.38239v1">arXiv (cs.CY society/ethics)</source>
-      <dc:creator>arXiv (cs.CY society/ethics)</dc:creator>
-      <description>&lt;p&gt;LLMがインドの社会的アイデンティティごとに金融助言を変える格差を実証。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; グローバルサウスにおけるAIバイアスの重要な論点&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; arXiv (cs.CY society/ethics) / 2026-10-28 03:39:59&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
-      <pubDate>Wed, 28 Oct 2026 03:39:59 GMT</pubDate>
-      <category>重要度4</category>
-    </item>
-    <item>
-      <title>[★4] (10/30 13:30) 化石燃料業界、タバコ産業の偽情報戦略を踏襲</title>
-      <link>https://kaztaira.github.io/research-feed/go/bea41216a55f.html</link>
-      <guid isPermaLink="false">urn:research:20261030:bea41216a55f</guid>
-      <source url="https://www.thesunchronicle.com/opinion/columns/two-views-the-fossil-fuel-industry-follows-big-tobacco-s-disinformation/article_60275cc7-9e7c-4fd9-bed0-d13afcd02509.html">The Sun Chronicle</source>
-      <dc:creator>The Sun Chronicle</dc:creator>
-      <description>&lt;p&gt;化石燃料業界がかつてのタバコ業界と同様の偽情報戦略で気候変動対策を妨害。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 産業界による組織的偽情報戦略の歴史的構造&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; The Sun Chronicle / 2026-10-30 04:30:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
-      <pubDate>Fri, 30 Oct 2026 04:30:00 GMT</pubDate>
-      <category>重要度4</category>
-      <category>disinformation</category>
-    </item>
-    <item>
-      <title>[★4] (10/31 00:00) 偽情報が、エボラ治療の医療従事者を危険にさらす</title>
-      <link>https://kaztaira.github.io/research-feed/go/726134434d47.html</link>
-      <guid isPermaLink="false">urn:research:20261030:726134434d47</guid>
-      <source url="https://allafrica.com/view/group/main/main/id/00098647.html">allAfrica.com</source>
-      <dc:creator>allAfrica.com</dc:creator>
-      <description>&lt;p&gt;アフリカのエボラ対応現場で偽情報が医療従事者への暴力につながる危機。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; 公衆衛生危機における偽情報の致命的影響&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; allAfrica.com / 2026-10-30 15:00:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
-      <pubDate>Fri, 30 Oct 2026 15:00:00 GMT</pubDate>
-      <category>重要度4</category>
-      <category>disinformation</category>
-    </item>
-    <item>
-      <title>[★4] (10/31 01:40) Proton CEO、AI「再面接」を撤回　社内の恐怖文化と安全懸念の報道受け</title>
-      <link>https://kaztaira.github.io/research-feed/go/b22ed3570ed0.html</link>
-      <guid isPermaLink="false">urn:research:20261030:b22ed3570ed0</guid>
-      <source url="https://www.404media.co/protons-ceo-cancels-ai-re-interviews/">404 Media</source>
-      <dc:creator>404 Media</dc:creator>
-      <description>&lt;p&gt;404 Mediaの調査報道により、ProtonのYen CEOがセキュリティ懸念を無視してAI導入を強行し恐怖文化を形成していたことが発覚、再面接を撤回。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; プライバシー重視企業の内部矛盾、テック業界AI導入の象徴的事例&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; 404 Media / 2026-10-30 16:40:39&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
-      <pubDate>Fri, 30 Oct 2026 16:40:39 GMT</pubDate>
-      <category>重要度4</category>
-    </item>
-    <item>
-      <title>[★4] (10/30 05:07) Reddit、ログイン必須化へ移行　AIが検索を飲み込む時代の対応</title>
-      <link>https://kaztaira.github.io/research-feed/go/2f1dadb4adfa.html</link>
-      <guid isPermaLink="false">urn:research:20261029:2f1dadb4adfa</guid>
-      <source url="https://www.axios.com/2026/10/29/reddit-logged-in-ai-search-incognito">Axios</source>
-      <dc:creator>Axios</dc:creator>
-      <description>&lt;p&gt;AI検索の台頭でトラフィック構造が激変する中、Redditは21年の歴史で最大の方針転換。ログイン必須サービスへの移行を宣言。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; オープンウェブ終焉の象徴、メディア環境への構造的影響&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Axios / 2026-10-29 20:07:04&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
-      <pubDate>Thu, 29 Oct 2026 20:07:04 GMT</pubDate>
-      <category>重要度4</category>
-    </item>
-    <item>
-      <title>[★4] (10/30 19:37) Anthropic、SpaceXの最大顧客に浮上　テック市場の寡占懸念強まる</title>
-      <link>https://kaztaira.github.io/research-feed/go/3627463f45eb.html</link>
-      <guid isPermaLink="false">urn:research:20261030:3627463f45eb</guid>
-      <source url="https://www.semafor.com/article/10/30/2026/anthropic-is-now-spacexs-biggest-customer">Semafor</source>
-      <dc:creator>Semafor</dc:creator>
-      <description>&lt;p&gt;SpaceX四半期決算で、AnthropicがSpaceXの最大顧客となったことが判明。AI・宇宙インフラ分野の集中度に警戒感。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; テック業界の寡占構造とAIインフラ依存の象徴&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Semafor / 2026-10-30 10:37:22&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
-      <pubDate>Fri, 30 Oct 2026 10:37:22 GMT</pubDate>
-      <category>重要度4</category>
-    </item>
-    <item>
-      <title>[★4] (10/29 18:31) Ofcom、英国16歳未満SNS禁止に向けた年齢確認手段を公表</title>
-      <link>https://kaztaira.github.io/research-feed/go/74f0fb9e4037.html</link>
-      <guid isPermaLink="false">urn:research:20261029:74f0fb9e4037</guid>
-      <source url="https://www.bbc.co.uk/news/articles/c6ly3027820lo?at_medium=RSS&amp;at_campaign=rss">BBC News Tech</source>
-      <dc:creator>BBC News Tech</dc:creator>
-      <description>&lt;p&gt;英Ofcomが16歳未満のSNS禁止実施に向け、写真・デジタルID、銀行照合、顔認識による年齢推定など確認手段を提示。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; SNS年齢規制の国際先行事例、市民社会・プライバシーに影響&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; BBC News Tech / 2026-10-29 09:31:44&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
-      <pubDate>Thu, 29 Oct 2026 09:31:44 GMT</pubDate>
-      <category>重要度4</category>
-    </item>
-    <item>
-      <title>[★4] (10/30 17:45) AIサイバー戦線で燃え尽きる人間　攻撃・脆弱性・誤報の嵐で疲弊</title>
-      <link>https://kaztaira.github.io/research-feed/go/b3bed3ea3eb5.html</link>
-      <guid isPermaLink="false">urn:research:20261030:b3bed3ea3eb5</guid>
-      <source url="https://www.axios.com/2026/10/30/cybersecurity-ai-burnout-human-workers">Axios</source>
-      <dc:creator>Axios</dc:creator>
-      <description>&lt;p&gt;AI活用サイバー攻撃の最前線で働くセキュリティ担当者が、絶え間ない攻撃と誤検知の嵐で深刻なバーンアウトに陥っている実態。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;評価理由:&lt;/strong&gt; AI時代のサイバーセキュリティ労働危機、業界構造問題&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;メディア:&lt;/strong&gt; Axios / 2026-10-30 08:45:06&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重要度:&lt;/strong&gt; ★★★★☆ (4/5)&lt;/p&gt;</description>
-      <pubDate>Fri, 30 Oct 2026 08:45:06 GMT</pubDate>
-      <category>重要度4</category>
     </item>
   </channel>
 </rss>
